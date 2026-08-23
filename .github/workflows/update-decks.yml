@@ -1,9 +1,7 @@
 name: Update Archidekt Decks
 
-on:
+'on':
   workflow_dispatch:
-  schedule:
-    - cron: "*/15 * * * *"
 
 permissions:
   contents: write
@@ -17,62 +15,35 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Create decks directory
+        run: mkdir -p decks
+
+      - name: Fetch Turtle Power test deck
         run: |
-          mkdir -p decks
+          curl --fail --silent --show-error --location \
+            -H "Accept: application/json" \
+            -o decks/22618311.json \
+            "https://archidekt.com/api/decks/22618311/"
 
-      - name: Fetch Archidekt decks
+          echo "Downloaded $(wc -c < decks/22618311.json) bytes"
+
+          echo "First 500 characters:"
+          head -c 500 decks/22618311.json
+
+      - name: Verify JSON
         run: |
-          set -e
+          jq empty decks/22618311.json
+          echo "JSON is valid."
 
-          decks=(
-            "25646654"
-            "25646635"
-            "25646611"
-            "25646583"
-            "25646532"
-            "25646499"
-            "25646467"
-            "25646416"
-            "25646394"
-            "25646098"
-            "25646062"
-            "25646033"
-            "25645985"
-            "25645947"
-            "25645835"
-            "25645732"
-            "25645631"
-            "25645591"
-            "25645511"
-          )
-
-          for deck_id in "${decks[@]}"; do
-            echo "Fetching Archidekt deck ${deck_id}..."
-
-            curl --fail --silent --show-error --location \
-              -H "Accept: application/json" \
-              -o "decks/${deck_id}.json" \
-              "https://archidekt.com/api/decks/${deck_id}/"
-
-            # Make sure Archidekt actually returned JSON.
-            if ! jq empty "decks/${deck_id}.json" >/dev/null 2>&1; then
-              echo "ERROR: Archidekt returned invalid JSON for deck ${deck_id}"
-              exit 1
-            fi
-
-            echo "Successfully fetched ${deck_id}"
-          done
-
-      - name: Commit updated decks
+      - name: Commit updated deck
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add decks/
+          git add decks/22618311.json
 
           if git diff --cached --quiet; then
-            echo "No deck changes detected."
+            echo "No changes detected."
           else
-            git commit -m "Update Archidekt decks"
+            git commit -m "Update Archidekt deck"
             git push
           fi
