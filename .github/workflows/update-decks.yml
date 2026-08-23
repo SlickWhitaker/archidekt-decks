@@ -16,24 +16,62 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch Turtle Power
+      - name: Create decks directory
         run: |
           mkdir -p decks
 
-          curl -L \
-            -H "Accept: application/json" \
-            -o decks/turtle-power.json \
-            "https://archidekt.com/api/decks/22618311/"
+      - name: Fetch Archidekt decks
+        run: |
+          set -e
 
-      - name: Commit updated deck
+          decks=(
+            "25646654"
+            "25646635"
+            "25646611"
+            "25646583"
+            "25646532"
+            "25646499"
+            "25646467"
+            "25646416"
+            "25646394"
+            "25646098"
+            "25646062"
+            "25646033"
+            "25645985"
+            "25645947"
+            "25645835"
+            "25645732"
+            "25645631"
+            "25645591"
+            "25645511"
+          )
+
+          for deck_id in "${decks[@]}"; do
+            echo "Fetching Archidekt deck ${deck_id}..."
+
+            curl --fail --silent --show-error --location \
+              -H "Accept: application/json" \
+              -o "decks/${deck_id}.json" \
+              "https://archidekt.com/api/decks/${deck_id}/"
+
+            # Make sure Archidekt actually returned JSON.
+            if ! jq empty "decks/${deck_id}.json" >/dev/null 2>&1; then
+              echo "ERROR: Archidekt returned invalid JSON for deck ${deck_id}"
+              exit 1
+            fi
+
+            echo "Successfully fetched ${deck_id}"
+          done
+
+      - name: Commit updated decks
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add decks/turtle-power.json
+          git add decks/
 
           if git diff --cached --quiet; then
-            echo "No deck changes."
+            echo "No deck changes detected."
           else
             git commit -m "Update Archidekt decks"
             git push
