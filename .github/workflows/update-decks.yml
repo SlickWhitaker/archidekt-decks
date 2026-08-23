@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-archidekt-decks
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -15,6 +19,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Create decks directory
         run: |
@@ -96,6 +102,11 @@ jobs:
 
           echo "ALL DECKS SUCCESSFULLY FETCHED."
 
+      - name: Synchronize with main branch
+        run: |
+          git fetch origin main
+          git rebase origin/main
+
       - name: Commit updated decks
         run: |
           git config user.name "github-actions[bot]"
@@ -107,5 +118,8 @@ jobs:
             echo "No deck changes detected."
           else
             git commit -m "Update Archidekt decks"
-            git push
           fi
+
+      - name: Push updated decks
+        run: |
+          git push origin HEAD:main
