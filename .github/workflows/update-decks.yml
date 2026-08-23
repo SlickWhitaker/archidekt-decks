@@ -17,12 +17,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Create decks directory
-        run: mkdir -p decks
+        run: |
+          mkdir -p decks
 
       - name: Fetch Archidekt decks
         run: |
-          set -e
-
           decks=(
             "25646654"
             "25646635"
@@ -45,22 +44,57 @@ jobs:
             "25645511"
           )
 
+          failed=0
+
           for deck_id in "${decks[@]}"; do
+            echo ""
             echo "========================================"
             echo "Fetching deck ${deck_id}"
             echo "========================================"
 
-            curl --fail --silent --show-error --location \
+            http_code=$(curl \
+              --silent \
+              --show-error \
+              --location \
+              --output "decks/${deck_id}.json" \
+              --write-out "%{http_code}" \
               -H "Accept: application/json" \
-              -o "decks/${deck_id}.json" \
-              "https://archidekt.com/api/decks/${deck_id}/"
+              "https://archidekt.com/api/decks/${deck_id}/")
 
-            # Verify that Archidekt returned valid JSON.
-            jq empty "decks/${deck_id}.json"
+            echo "HTTP status: ${http_code}"
+            echo "Response size: $(wc -c < "decks/${deck_id}.json") bytes"
 
-            echo "Successfully fetched ${deck_id}"
-            echo "Size: $(wc -c < "decks/${deck_id}.json") bytes"
+            if [ "${http_code}" != "200" ]; then
+              echo "ERROR: HTTP ${http_code} for deck ${deck_id}"
+              echo "Response:"
+              head -c 1000 "decks/${deck_id}.json"
+              echo ""
+              failed=1
+              continue
+            fi
+
+            if jq empty "decks/${deck_id}.json" >/dev/null 2>&1; then
+              echo "SUCCESS: Valid JSON for ${deck_id}"
+            else
+              echo "ERROR: Invalid JSON for deck ${deck_id}"
+              echo "Response:"
+              head -c 1000 "decks/${deck_id}.json"
+              echo ""
+              failed=1
+            fi
           done
+
+          echo ""
+          echo "========================================"
+          echo "FETCH SUMMARY"
+          echo "========================================"
+
+          if [ "$failed" -ne 0 ]; then
+            echo "One or more decks failed."
+            exit 1
+          fi
+
+          echo "ALL DECKS SUCCESSFULLY FETCHED."
 
       - name: Commit updated decks
         run: |
