@@ -26,7 +26,6 @@ Goblin Engineer
 Goblin Welder
 Goldspan Dragon
 Great Furnace
-Guardian Idol
 Hedron Detonator
 Hellkite Tyrant
 Ingenious Artillerist
@@ -71,3 +70,4 @@ War Room
 Wayfarer's Bauble
 Wheel of Misfortune
 Xorn
+Guardian Idol

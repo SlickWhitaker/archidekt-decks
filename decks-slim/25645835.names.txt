@@ -59,17 +59,18 @@ Rory Williams
 Rotating Fireplace
 Run for Your Life
 Sally Sparrow
-Sea of Clouds
-Sol Ring
 Sonic Screwdriver
 Spectator Seating
 Star Whale
+Sea of Clouds
 Storm-Kiln Artist
 Stormcarved Coast
+Sol Ring
 Strionic Resonator
 Sunbaked Canyon
 Sundown Pass
 Talisman of Conviction
+Time Beetle
 Talisman of Creativity
 Talisman of Progress
 TARDIS
@@ -88,10 +89,9 @@ The Parting of the Ways
 The War Doctor
 The Wedding of River Song
 Thespian's Stage
-Time Beetle
+The Tenth Doctor
 Training Center
 Trenzalore Clocktower
 War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
-The Tenth Doctor

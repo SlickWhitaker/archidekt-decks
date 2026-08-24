@@ -65,12 +65,18 @@ Red XIII, Proud Warrior
 Ring of the Lucii
 Rogue's Passage
 Rootbound Crag
-Sephiroth, Fallen Hero
-Sheltered Thicket
 Rugged Prairie
 Sacred Peaks
-Sigarda's Aid
 Scavenger Grounds
+Sephiroth, Fallen Hero
+Sheltered Thicket
+Sigarda's Aid
+Skullclamp
+Slayers' Stronghold
+Sol Ring
+SOLDIER Military Program
+Sphere Grid
+Spire of Industry
 Stoneforge Mystic
 Summon: Esper Ramuh
 Summon: Kujata
@@ -84,17 +90,11 @@ Sword of the Animist
 Swords to Plowshares
 Tifa, Martial Artist
 Tifa's Limit Break
-Ultimate Magic: Holy
 Unfinished Business
+Ultimate Magic: Holy
 Vandalblast
+Zack Fair
+Sword of Forge and Frontier
 Wood Elves
 World Map
 Yuffie, Materia Hunter
-Zack Fair
-Sword of Forge and Frontier
-Skullclamp
-Slayers' Stronghold
-Sol Ring
-SOLDIER Military Program
-Sphere Grid
-Spire of Industry

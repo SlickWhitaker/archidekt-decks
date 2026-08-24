@@ -29,7 +29,6 @@ Goblin Ringleader
 Goblin Sharpshooter
 Goblin Trashmaster
 Goblin Warchief
-Goblin-town Flunkies
 Goro-Goro, Disciple of Ryusei
 Great Train Heist
 Grenzo, Havoc Raiser
@@ -74,3 +73,4 @@ Torbran, Thane of Red Fell
 Urza's Incubator
 Valakut Exploration
 Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki

@@ -381,16 +381,6 @@
       "text": "{T}: Add {R}."
     },
     {
-      "name": "Guardian Idol",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "This artifact enters tapped.\n{T}: Add {C}.\n{2}: This artifact becomes a 2/2 Golem artifact creature until end of turn."
-    },
-    {
       "name": "Hedron Detonator",
       "quantity": 1,
       "board": "main",
@@ -931,6 +921,16 @@
       "manaValue": 3,
       "type": "Creature — Elemental",
       "text": "If you would create one or more Treasure tokens, instead create those tokens plus an additional Treasure token."
+    },
+    {
+      "name": "Guardian Idol",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "This artifact enters tapped.\n{T}: Add {C}.\n{2}: This artifact becomes a 2/2 Golem artifact creature until end of turn."
     }
   ]
 }
