@@ -101,8 +101,14 @@ def build(source_path: Path) -> tuple[dict, int]:
 
 def main() -> int:
     DEST.mkdir(parents=True, exist_ok=True)
+
+    # Remove old generated deck files so deleted/removed decks do not linger.
+    for old_file in DEST.glob("*.json"):
+        old_file.unlink()
+
     generated = 0
     errors = 0
+    manifest = []
 
     for source_path in sorted(SOURCE.glob("*.json")):
         if source_path.name.startswith("."):
@@ -113,9 +119,23 @@ def main() -> int:
             with output_path.open("w", encoding="utf-8") as fh:
                 json.dump(slim, fh, ensure_ascii=False, separators=(",", ":"))
                 fh.write("\n")
+
             full_size = source_path.stat().st_size
             slim_size = output_path.stat().st_size
             reduction = (1 - slim_size / full_size) * 100 if full_size else 0
+
+            manifest.append({
+                "id": slim["id"],
+                "name": slim["name"],
+                "file": output_path.name,
+                "commander": slim["commander"],
+                "colorIdentity": slim["colorIdentity"],
+                "counts": slim["counts"],
+                "fullBytes": full_size,
+                "slimBytes": slim_size,
+                "reductionPercent": round(reduction, 1),
+            })
+
             print(
                 f"{source_path.name}: {card_entries} entries, "
                 f"{full_size:,} -> {slim_size:,} bytes ({reduction:.1f}% smaller)"
@@ -125,7 +145,12 @@ def main() -> int:
             print(f"ERROR: {source_path}: {exc}", file=sys.stderr)
             errors += 1
 
+    with (DEST / "index.json").open("w", encoding="utf-8") as fh:
+        json.dump({"decks": manifest}, fh, ensure_ascii=False, separators=(",", ":"))
+        fh.write("\n")
+
     print(f"Generated {generated} slim deck files in {DEST}/")
+    print(f"Generated compact manifest: {DEST / 'index.json'}")
     return 1 if errors else 0
 
 
