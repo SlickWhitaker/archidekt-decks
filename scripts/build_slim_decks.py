@@ -2,8 +2,9 @@
 """Build compact, analysis-friendly copies of the Archidekt deck JSON files.
 
 The full Archidekt exports remain untouched in decks/. This script writes
-small normalized files to decks-slim/ containing only the information needed
-for Commander deck analysis.
+small normalized files to decks-slim/ containing the information needed for
+Commander deck analysis: names, quantities, board placement, colors,
+Commander color identity, mana value, card type, and Oracle text.
 """
 
 from __future__ import annotations
@@ -27,45 +28,47 @@ def board_for(categories: list[str], companion: bool = False) -> str:
     return "main"
 
 
-def slim_face(face: dict) -> dict:
-    return {
-        "name": face.get("name", ""),
-        "manaCost": face.get("manaCost", ""),
-        "colors": face.get("colors", []),
-        "subTypes": face.get("subTypes", []),
-        "superTypes": face.get("superTypes", []),
-        "types": face.get("types", []),
-        "text": face.get("text", ""),
-    }
+def compact_text(oracle: dict) -> str:
+    text = oracle.get("text", "") or ""
+    faces = oracle.get("faces") or []
+    if not faces or text:
+        return text
+
+    # Modal/transform cards often put their useful Oracle text on the faces.
+    # Flatten it into one string so the analysis file stays very small.
+    parts = []
+    for face in faces:
+        face_name = face.get("name", "")
+        face_text = face.get("text", "") or ""
+        if face_name and face_text:
+            parts.append(f"{face_name}: {face_text}")
+        elif face_text:
+            parts.append(face_text)
+    return " | ".join(parts)
 
 
 def slim_card(entry: dict) -> dict:
     card = entry.get("card") or {}
     oracle = card.get("oracleCard") or {}
     categories = entry.get("categories") or []
-    companion = bool(entry.get("companion", False))
 
-    result = {
+    return {
         "name": oracle.get("name") or card.get("name") or "",
         "quantity": entry.get("quantity", 1),
-        "board": board_for(categories, companion),
-        "categories": categories,
+        "board": board_for(categories, bool(entry.get("companion", False))),
         "colors": oracle.get("colors", []),
         "colorIdentity": oracle.get("colorIdentity", []),
-        "manaCost": oracle.get("manaCost", ""),
         "manaValue": oracle.get("cmc"),
-        "types": oracle.get("types", []),
-        "supertypes": oracle.get("superTypes", []),
-        "subtypes": oracle.get("subTypes", []),
-        "keywords": oracle.get("keywords", []),
-        "text": oracle.get("text", ""),
+        "type": " ".join(
+            [
+                *oracle.get("superTypes", []),
+                *oracle.get("types", []),
+                *(["—"] if oracle.get("subTypes") else []),
+                *oracle.get("subTypes", []),
+            ]
+        ),
+        "text": compact_text(oracle),
     }
-
-    faces = oracle.get("faces") or []
-    if faces:
-        result["faces"] = [slim_face(face) for face in faces]
-
-    return result
 
 
 def build(source_path: Path) -> tuple[dict, int]:
