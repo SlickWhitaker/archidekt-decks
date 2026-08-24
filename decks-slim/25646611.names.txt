@@ -24,11 +24,18 @@ Everlasting Torment
 Exquisite Blood
 Feed the Swarm
 Fellwar Stone
-Kaervek the Merciless
 Fiery Confluence
+Fire Covenant
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
+Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
-Fire Covenant
 Lightning Greaves
 Luxury Suite
 Mayhem Devil
@@ -78,10 +85,3 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion

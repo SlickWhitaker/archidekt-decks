@@ -58,33 +58,26 @@ Path to Exile
 Plains
 Plains
 Plains
+Rugged Prairie
 Professional Face-Breaker
 Puresteel Paladin
 Radiant Grove
 Red XIII, Proud Warrior
 Ring of the Lucii
+Sacred Peaks
 Rogue's Passage
 Rootbound Crag
-Rugged Prairie
-Sacred Peaks
 Scavenger Grounds
 Sephiroth, Fallen Hero
 Sheltered Thicket
 Sigarda's Aid
+Stoneforge Mystic
 Skullclamp
 Slayers' Stronghold
 Sol Ring
 SOLDIER Military Program
 Sphere Grid
 Spire of Industry
-Stoneforge Mystic
-Summon: Esper Ramuh
-Summon: Kujata
-Summoning Materia
-Sungrass Prairie
-Sunpetal Grove
-Sunscorched Divide
-Swiftfoot Boots
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
@@ -92,9 +85,16 @@ Tifa, Martial Artist
 Tifa's Limit Break
 Ultimate Magic: Holy
 Unfinished Business
-Zack Fair
-Sword of Forge and Frontier
 Vandalblast
 Wood Elves
 World Map
 Yuffie, Materia Hunter
+Zack Fair
+Sword of Forge and Frontier
+Summon: Esper Ramuh
+Summon: Kujata
+Summoning Materia
+Sungrass Prairie
+Sunpetal Grove
+Sunscorched Divide
+Swiftfoot Boots

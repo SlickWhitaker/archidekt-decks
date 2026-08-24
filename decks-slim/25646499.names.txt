@@ -46,15 +46,6 @@ Mountain
 Oath of Eorl
 Palace Jailer
 Path of Ancestry
-Path to Exile
-Plains
-Port Town
-Prairie Stream
-Prince Imrahil the Fair
-Riders of Rohan
-Rogue's Passage
-Sacred Foundry
-Secluded Courtyard
 Supreme Verdict
 Swords to Plowshares
 Talisman of Conviction
@@ -75,6 +66,15 @@ Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
+Path to Exile
+Plains
+Port Town
+Prairie Stream
+Prince Imrahil the Fair
+Riders of Rohan
+Rogue's Passage
+Sacred Foundry
+Secluded Courtyard
 Selfless Squire
 Shared Animosity
 Skullclamp
