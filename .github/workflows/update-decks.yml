@@ -36,7 +36,7 @@ jobs:
 
       - name: Create decks directory
         run: |
-          mkdir -p decks
+          mkdir -p decks decks-slim
 
       - name: Fetch Archidekt decks
         run: |
@@ -125,16 +125,20 @@ jobs:
             echo "ALL DECKS SUCCESSFULLY FETCHED."
           fi
 
+      - name: Build compact analysis decks
+        run: |
+          python3 scripts/build_slim_decks.py
+
       - name: Commit updated decks
         run: |
-          git add decks/
+          git add decks/ decks-slim/ scripts/build_slim_decks.py
 
           if git diff --cached --quiet; then
             echo "No deck changes detected."
             exit 0
           fi
 
-          git commit -m "Update Archidekt decks"
+          git commit -m "Update Archidekt decks and analysis copies"
 
       - name: Push changes
         run: |
@@ -157,9 +161,9 @@ jobs:
               echo "Rebase failed; resetting to origin/main and reapplying the deck update."
               git rebase --abort || true
               git reset --hard origin/main
-              git add decks/
+              git add decks/ decks-slim/ scripts/build_slim_decks.py
               if ! git diff --cached --quiet; then
-                git commit -m "Update Archidekt decks"
+                git commit -m "Update Archidekt decks and analysis copies"
               fi
             fi
           done
