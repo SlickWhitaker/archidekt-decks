@@ -62,16 +62,11 @@ Sacred Foundry
 Sanctum Seeker
 Sanguine Bond
 Savai Triome
-Secluded Courtyard
-Shared Animosity
-Skullclamp
-Sol Ring
-Sorin, Imperious Bloodlord
-Spectator Seating
-Edgar Markov
 Stromkirk Captain
+Secluded Courtyard
 Swamp
 Swords to Plowshares
+Shared Animosity
 Talisman of Hierarchy
 Talisman of Indulgence
 Teferi's Protection
@@ -89,3 +84,8 @@ Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
+Edgar Markov
+Skullclamp
+Sol Ring
+Sorin, Imperious Bloodlord
+Spectator Seating

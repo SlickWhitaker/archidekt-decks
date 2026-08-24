@@ -62,14 +62,6 @@ Shivan Gorge
 Smoldering Marsh
 Sol Ring
 Spellshock
-Spinerock Knoll
-Spiteful Visions
-Star of Extinction
-Sulfuric Vortex
-Sulfurous Springs
-Swamp
-Syr Konrad, the Grim
-Tainted Peak
 Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
@@ -85,3 +77,11 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
+Spinerock Knoll
+Spiteful Visions
+Star of Extinction
+Sulfuric Vortex
+Sulfurous Springs
+Swamp
+Syr Konrad, the Grim
+Tainted Peak
