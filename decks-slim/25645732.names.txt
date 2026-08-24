@@ -65,18 +65,12 @@ Red XIII, Proud Warrior
 Ring of the Lucii
 Rogue's Passage
 Rootbound Crag
-Rugged Prairie
-Sacred Peaks
-Scavenger Grounds
 Sephiroth, Fallen Hero
 Sheltered Thicket
+Rugged Prairie
+Sacred Peaks
 Sigarda's Aid
-Skullclamp
-Slayers' Stronghold
-Sol Ring
-SOLDIER Military Program
-Sphere Grid
-Spire of Industry
+Scavenger Grounds
 Stoneforge Mystic
 Summon: Esper Ramuh
 Summon: Kujata
@@ -98,3 +92,9 @@ World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
+Skullclamp
+Slayers' Stronghold
+Sol Ring
+SOLDIER Military Program
+Sphere Grid
+Spire of Industry
