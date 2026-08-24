@@ -70,34 +70,45 @@ jobs:
             echo "Fetching deck ${deck_id}"
             echo "========================================"
 
-            http_code=$(curl \
-              --silent \
-              --show-error \
-              --location \
-              --output "decks/${deck_id}.json" \
-              --write-out "%{http_code}" \
-              -H "Accept: application/json" \
-              "https://archidekt.com/api/decks/${deck_id}/")
+            tmp_file="decks/.${deck_id}.json.tmp"
+            rm -f "$tmp_file"
 
-            echo "HTTP status: ${http_code}"
-            echo "Response size: $(wc -c < "decks/${deck_id}.json") bytes"
+            success=0
 
-            if [ "${http_code}" != "200" ]; then
-              echo "ERROR: HTTP ${http_code} for deck ${deck_id}"
-              echo "Response:"
-              head -c 1000 "decks/${deck_id}.json"
-              echo ""
-              failed=1
-              continue
-            fi
+            for attempt in 1 2 3; do
+              echo "Attempt ${attempt} for deck ${deck_id}"
 
-            if jq empty "decks/${deck_id}.json" >/dev/null 2>&1; then
-              echo "SUCCESS: Valid JSON for ${deck_id}"
-            else
-              echo "ERROR: Invalid JSON for deck ${deck_id}"
-              echo "Response:"
-              head -c 1000 "decks/${deck_id}.json"
-              echo ""
+              http_code=$(curl \
+                --silent \
+                --show-error \
+                --location \
+                --connect-timeout 15 \
+                --max-time 60 \
+                --retry 2 \
+                --retry-delay 2 \
+                --output "$tmp_file" \
+                --write-out "%{http_code}" \
+                -H "Accept: application/json" \
+                "https://archidekt.com/api/decks/${deck_id}/" || true)
+
+              echo "HTTP status: ${http_code}"
+              echo "Response size: $(wc -c < "$tmp_file" 2>/dev/null || echo 0) bytes"
+
+              if [ "${http_code}" = "200" ] && jq empty "$tmp_file" >/dev/null 2>&1; then
+                mv "$tmp_file" "decks/${deck_id}.json"
+                echo "SUCCESS: Valid JSON for ${deck_id}"
+                success=1
+                break
+              fi
+
+              echo "WARNING: Deck ${deck_id} failed attempt ${attempt}; keeping the previous valid copy."
+              sleep 2
+            done
+
+            rm -f "$tmp_file"
+
+            if [ "$success" -ne 1 ]; then
+              echo "WARNING: Could not refresh deck ${deck_id} after 3 attempts."
               failed=1
             fi
           done
@@ -108,11 +119,11 @@ jobs:
           echo "========================================"
 
           if [ "$failed" -ne 0 ]; then
-            echo "One or more decks failed to download."
-            exit 1
+            echo "WARNING: One or more decks could not be refreshed."
+            echo "Existing valid deck files were preserved, so the repository remains usable."
+          else
+            echo "ALL DECKS SUCCESSFULLY FETCHED."
           fi
-
-          echo "ALL DECKS SUCCESSFULLY FETCHED."
 
       - name: Commit updated decks
         run: |
@@ -142,7 +153,15 @@ jobs:
 
             git fetch origin main
 
-            git rebase origin/main
+            if ! git rebase origin/main; then
+              echo "Rebase failed; resetting to origin/main and reapplying the deck update."
+              git rebase --abort || true
+              git reset --hard origin/main
+              git add decks/
+              if ! git diff --cached --quiet; then
+                git commit -m "Update Archidekt decks"
+              fi
+            fi
           done
 
           echo "ERROR: Could not push after 3 attempts."
