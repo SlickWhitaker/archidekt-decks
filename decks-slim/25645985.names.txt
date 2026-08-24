@@ -41,6 +41,9 @@ Path of Ancestry
 Peregrin Took
 Pippin, Warden of Isengard
 Plains
+Prosperous Innkeeper
+Rapacious Guest
+Revive the Shire
 Rosie Cotton of South Lane
 Samwise Gamgee
 Sandsteppe Citadel
@@ -57,15 +60,6 @@ Swamp
 Swords to Plowshares
 The Battle of Bywater
 The Gaffer
-The Shire
-Tireless Provisioner
-Toxic Deluge
-Trail of Crumbs
-Treebeard, Gracious Host
-Trouble in Pairs
-Well of Lost Dreams
-Windswept Heath
-Witch's Oven
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
@@ -86,6 +80,12 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Prosperous Innkeeper
-Rapacious Guest
-Revive the Shire
+The Shire
+Tireless Provisioner
+Toxic Deluge
+Trail of Crumbs
+Treebeard, Gracious Host
+Trouble in Pairs
+Well of Lost Dreams
+Windswept Heath
+Witch's Oven

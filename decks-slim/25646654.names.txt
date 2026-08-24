@@ -41,12 +41,6 @@ Martial Coup
 Migratory Route
 Mind Stone
 Mountain
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
 Murmuration
 Mystic Monastery
 Nesting Dovehawk
@@ -83,6 +77,12 @@ Temple of Enlightenment
 Temple of Triumph
 Terramorphic Expanse
 Tetsuko Umezawa, Fugitive
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
 Thriving Bluff
 Thriving Heath
 Thriving Isle

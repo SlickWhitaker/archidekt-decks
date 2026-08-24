@@ -818,22 +818,6 @@
       "text": "One or two target creatures each gain haste until end of turn. They can't be blocked this turn except by creatures with haste.\nEscape—{2}{U}{R}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
     },
     {
-      "name": "Sally Sparrow",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human Detective",
-      "text": "You may cast creature spells as though they had flash.\nWhenever one or more other creatures you control leave the battlefield, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
-    },
-    {
       "name": "Sonic Screwdriver",
       "quantity": 1,
       "board": "main",
@@ -855,6 +839,22 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {R} or {W}."
+    },
+    {
+      "name": "Sally Sparrow",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Detective",
+      "text": "You may cast creature spells as though they had flash.\nWhenever one or more other creatures you control leave the battlefield, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
     },
     {
       "name": "Star Whale",

@@ -431,6 +431,29 @@
       "text": "Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value."
     },
     {
+      "name": "Fellwar Stone",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+      "name": "Foreboding Ruins",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
+    },
+    {
       "name": "Grave Titan",
       "quantity": 1,
       "board": "main",
@@ -1136,29 +1159,6 @@
       "manaValue": 2,
       "type": "Creature — Vampire Spirit",
       "text": "This creature can't block.\nThis creature has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield."
-    },
-    {
-      "name": "Fellwar Stone",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
-    },
-    {
-      "name": "Foreboding Ruins",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
     }
   ]
 }
