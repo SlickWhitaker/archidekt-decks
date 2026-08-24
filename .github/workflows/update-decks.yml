@@ -2,6 +2,12 @@ name: Update Archidekt Decks
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-decks.yml"
+      - "scripts/build_slim_decks.py"
   schedule:
     - cron: "*/15 * * * *"
 
