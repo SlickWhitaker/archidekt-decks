@@ -65,8 +65,6 @@ Pond Prophet
 Rejuvenating Springs
 Riverchurn Monument
 Rogue's Passage
-Shifting Woodland
-Snapcaster Mage
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
@@ -94,3 +92,5 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Shifting Woodland
+Snapcaster Mage

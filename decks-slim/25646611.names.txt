@@ -32,18 +32,22 @@ Furnace of Rath
 Graven Cairns
 Haunted Ridge
 Havoc Festival
-Jet Medallion
 Kaervek the Merciless
+Jet Medallion
 Kardur, Doomscourge
 Kederekt Parasite
+Razorkin Needlehead
 Lightning Greaves
 Luxury Suite
+Repercussion
 Mayhem Devil
 Mogis, God of Slaughter
 Mountain
+Roiling Vortex
 Necropotence
 Ob Nixilis, Captive Kingpin
 Obosh, the Preypiercer
+Shadowblood Ridge
 Opposition Agent
 Orcish Bowmasters
 Painful Quandary
@@ -52,16 +56,6 @@ Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
-Razorkin Needlehead
-Repercussion
-Roiling Vortex
-Shadowblood Ridge
-Sheoldred, the Apocalypse
-Sheoldred's Edict
-Shivan Gorge
-Smoldering Marsh
-Sol Ring
-Spellshock
 Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
@@ -77,6 +71,12 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
+Sheoldred, the Apocalypse
+Sheoldred's Edict
+Shivan Gorge
+Smoldering Marsh
+Sol Ring
+Spellshock
 Spinerock Knoll
 Spiteful Visions
 Star of Extinction
