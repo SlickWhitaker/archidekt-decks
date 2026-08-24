@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
-"""Build compact, line-addressable copies of Archidekt deck JSON.
+"""Build compact, searchable Archidekt sources for Commander analysis.
 
-The full Archidekt exports remain untouched in decks/. This script writes
-small normalized files to decks-slim/ containing the information needed for
-Commander deck analysis.
+Full Archidekt exports remain untouched in decks/. For each deck this creates:
+  * <id>.meta.json   - commander, color identity, counts
+  * <id>.names.txt   - every card name, one per line
+  * <id>.cards.jsonl - one complete card object per line
+  * <id>.json        - legacy pretty JSON for compatibility
+
+The names and JSONL files are deliberately line-oriented so analysis never
+has to depend on a giant connector response containing an entire deck.
 """
 
 from __future__ import annotations
@@ -64,7 +69,7 @@ def slim_card(entry: dict) -> dict:
     }
 
 
-def build(source_path: Path) -> tuple[dict, int]:
+def build(source_path: Path) -> tuple[dict, list[dict]]:
     with source_path.open("r", encoding="utf-8") as fh:
         deck = json.load(fh)
     entries = deck.get("cards") or []
@@ -74,28 +79,30 @@ def build(source_path: Path) -> tuple[dict, int]:
     maybeboard = [c for c in cards if c["board"] == "maybeboard"]
     sideboard = [c for c in cards if c["board"] == "sideboard"]
     color_identity = sorted({color for c in commanders for color in c["colorIdentity"]})
-    slim = {
+    counts = {
+        "main": sum(c["quantity"] for c in main_cards),
+        "commander": sum(c["quantity"] for c in commanders),
+        "maybeboard": sum(c["quantity"] for c in maybeboard),
+        "sideboard": sum(c["quantity"] for c in sideboard),
+        "total": sum(c["quantity"] for c in cards),
+    }
+    meta = {
         "id": deck.get("id"),
         "name": deck.get("name", ""),
         "format": deck.get("deckFormat"),
         "commander": [c["name"] for c in commanders],
         "colorIdentity": color_identity,
-        "counts": {
-            "main": sum(c["quantity"] for c in main_cards),
-            "commander": sum(c["quantity"] for c in commanders),
-            "maybeboard": sum(c["quantity"] for c in maybeboard),
-            "sideboard": sum(c["quantity"] for c in sideboard),
-            "total": sum(c["quantity"] for c in cards),
-        },
-        "cards": cards,
+        "counts": counts,
     }
-    return slim, len(cards)
+    return meta, cards
 
 
 def main() -> int:
     DEST.mkdir(parents=True, exist_ok=True)
-    for old_file in DEST.glob("*.json"):
-        old_file.unlink()
+    # Remove generated files only; never touch the full decks/ exports.
+    for pattern in ("*.json", "*.jsonl", "*.txt"):
+        for old_file in DEST.glob(pattern):
+            old_file.unlink()
 
     generated = 0
     errors = 0
@@ -105,29 +112,35 @@ def main() -> int:
         if source_path.name.startswith("."):
             continue
         try:
-            slim, card_entries = build(source_path)
-            output_path = DEST / source_path.name
-            # Pretty-print so GitHub can return the file in line ranges without
-            # truncating an entire 100-card deck into one giant line.
-            with output_path.open("w", encoding="utf-8") as fh:
-                json.dump(slim, fh, ensure_ascii=False, indent=2)
+            meta, cards = build(source_path)
+            deck_id = meta["id"]
+            stem = str(deck_id)
+
+            # Human-readable compatibility JSON.
+            legacy = {**meta, "cards": cards}
+            with (DEST / f"{stem}.json").open("w", encoding="utf-8") as fh:
+                json.dump(legacy, fh, ensure_ascii=False, indent=2)
                 fh.write("\n")
 
+            # Complete name index: ideal for fast "is this already in the deck?" checks.
+            names = [c["name"] for c in cards if c["board"] in {"main", "commander"}]
+            with (DEST / f"{stem}.names.txt").open("w", encoding="utf-8") as fh:
+                fh.write("\n".join(names) + "\n")
+
+            # One complete card object per line: each card can be retrieved independently.
+            with (DEST / f"{stem}.cards.jsonl").open("w", encoding="utf-8") as fh:
+                for card in cards:
+                    fh.write(json.dumps(card, ensure_ascii=False, separators=(",", ":")) + "\n")
+
             full_size = source_path.stat().st_size
-            slim_size = output_path.stat().st_size
+            slim_size = (DEST / f"{stem}.cards.jsonl").stat().st_size + (DEST / f"{stem}.names.txt").stat().st_size + (DEST / f"{stem}.meta.json").stat().st_size if (DEST / f"{stem}.meta.json").exists() else 0
+            with (DEST / f"{stem}.meta.json").open("w", encoding="utf-8") as fh:
+                json.dump(meta, fh, ensure_ascii=False, indent=2)
+                fh.write("\n")
+            slim_size = sum((DEST / name).stat().st_size for name in (f"{stem}.cards.jsonl", f"{stem}.names.txt", f"{stem}.meta.json"))
             reduction = (1 - slim_size / full_size) * 100 if full_size else 0
-            manifest.append({
-                "id": slim["id"],
-                "name": slim["name"],
-                "file": output_path.name,
-                "commander": slim["commander"],
-                "colorIdentity": slim["colorIdentity"],
-                "counts": slim["counts"],
-                "fullBytes": full_size,
-                "slimBytes": slim_size,
-                "reductionPercent": round(reduction, 1),
-            })
-            print(f"{source_path.name}: {card_entries} entries, {full_size:,} -> {slim_size:,} bytes ({reduction:.1f}% smaller)")
+            manifest.append({**meta, "namesFile": f"{stem}.names.txt", "cardsFile": f"{stem}.cards.jsonl", "metaFile": f"{stem}.meta.json", "fullBytes": full_size, "analysisBytes": slim_size, "reductionPercent": round(reduction, 1)})
+            print(f"{source_path.name}: {len(cards)} entries, analysis source {slim_size:,} bytes ({reduction:.1f}% smaller)")
             generated += 1
         except Exception as exc:
             print(f"ERROR: {source_path}: {exc}", file=sys.stderr)
@@ -137,8 +150,7 @@ def main() -> int:
         json.dump({"decks": manifest}, fh, ensure_ascii=False, indent=2)
         fh.write("\n")
 
-    print(f"Generated {generated} slim deck files in {DEST}/")
-    print(f"Generated compact manifest: {DEST / 'index.json'}")
+    print(f"Generated {generated} deck analysis bundles in {DEST}/")
     return 1 if errors else 0
 
 
