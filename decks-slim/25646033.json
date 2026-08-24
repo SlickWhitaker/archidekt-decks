@@ -1,1 +1,1264 @@
-{"id":25646033,"name":"Grolnok: Hop 'til You Drop","format":3,"commander":["Grolnok, the Omnivore"],"colorIdentity":["Blue","Green"],"counts":{"main":99,"commander":1,"maybeboard":0,"sideboard":0,"total":100},"cards":[{"name":"Grolnok, the Omnivore","quantity":1,"board":"commander","colors":["Green","Blue"],"colorIdentity":["Blue","Green"],"manaValue":4,"type":"Legendary Creature — Frog","text":"Whenever a Frog you control attacks, mill three cards.\nWhenever a permanent card is put into your graveyard from your library, exile it with a croak counter on it.\nYou may play lands and cast spells from among cards you own in exile with croak counters on them."},{"name":"Academy Ruins","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue"],"manaValue":0,"type":"Legendary Land","text":"{T}: Add {C}.\n{1}{U}, {T}: Put target artifact card from your graveyard on top of your library."},{"name":"Aesi, Tyrant of Gyre Strait","quantity":1,"board":"main","colors":["Green","Blue"],"colorIdentity":["Blue","Green"],"manaValue":6,"type":"Legendary Creature — Serpent","text":"You may play an additional land on each of your turns.\nLandfall — Whenever a land you control enters, you may draw a card."},{"name":"An Offer You Can't Refuse","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":1,"type":"Instant","text":"Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"},{"name":"Ancient Greenwarden","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":6,"type":"Creature — Elemental","text":"Reach (This creature can block creatures with flying.)\nYou may play lands from your graveyard.\nIf a land entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."},{"name":"Arcane Denial","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":2,"type":"Instant","text":"Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.\nYou draw a card at the beginning of the next turn's upkeep."},{"name":"Arcane Signet","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Artifact","text":"{T}: Add one mana of any color in your commander's color identity."},{"name":"Azusa, Lost but Seeking","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":3,"type":"Legendary Creature — Human Monk","text":"You may play two additional lands on each of your turns."},{"name":"Birds of Paradise","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":1,"type":"Creature — Bird","text":"Flying\n{T}: Add one mana of any color."},{"name":"Botanical Sanctum","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue","Green"],"manaValue":0,"type":"Land","text":"This land enters tapped unless you control two or fewer other lands.\n{T}: Add {G} or {U}."},{"name":"Breeding Pool","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue","Green"],"manaValue":0,"type":"Land — Island Forest","text":"({T}: Add {G} or {U}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."},{"name":"Burgeoning","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":1,"type":"Enchantment","text":"Whenever an opponent plays a land, you may put a land card from your hand onto the battlefield."},{"name":"Coiling Oracle","quantity":1,"board":"main","colors":["Green","Blue"],"colorIdentity":["Blue","Green"],"manaValue":2,"type":"Creature — Elf Druid Snake","text":"When this creature enters, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand."},{"name":"Command Tower","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}: Add one mana of any color in your commander's color identity."},{"name":"Crop Rotation","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":1,"type":"Instant","text":"As an additional cost to cast this spell, sacrifice a land.\nSearch your library for a land card, put that card onto the battlefield, then shuffle."},{"name":"Crucible of Worlds","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":3,"type":"Artifact","text":"You may play lands from your graveyard."},{"name":"Cyclonic Rift","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":2,"type":"Instant","text":"Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"},{"name":"Dreamroot Cascade","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue","Green"],"manaValue":0,"type":"Land","text":"This land enters tapped unless you control two or more other lands.\n{T}: Add {G} or {U}."},{"name":"Dryad of the Ilysian Grove","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":3,"type":"Creature Enchantment — Dryad Nymph","text":"You may play an additional land on each of your turns.\nLands you control are every basic land type in addition to their other types."},{"name":"Eternal Witness","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":3,"type":"Creature — Human Shaman","text":"When this creature enters, you may return target card from your graveyard to your hand."},{"name":"Exotic Orchard","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}: Add one mana of any color that a land an opponent controls could produce."},{"name":"Exploration","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":1,"type":"Enchantment","text":"You may play an additional land on each of your turns."},{"name":"Fabled Passage","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."},{"name":"Faerie Mastermind","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":2,"type":"Creature — Rogue Faerie","text":"Flash\nFlying\nWhenever an opponent draws their second card each turn, you draw a card.\n{3}{U}: Each player draws a card."},{"name":"Fanatic of Rhonas","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":2,"type":"Creature — Druid Snake","text":"{T}: Add {G}.\nFerocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature with power 4 or greater.\nEternalize {2}{G}{G} ({2}{G}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Snake Druid with no mana cost. Eternalize only as a sorcery.)"},{"name":"Fauna Shaman","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":2,"type":"Creature — Elf Shaman","text":"{G}, {T}, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle."},{"name":"Field of the Dead","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token."},{"name":"Fierce Guardianship","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":3,"type":"Instant","text":"If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."},{"name":"Flooded Grove","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue","Green"],"manaValue":0,"type":"Land","text":"{T}: Add {C}.\n{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U}."},{"name":"Flooded Strand","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle."},{"name":"Forest","quantity":3,"board":"main","colors":[],"colorIdentity":["Green"],"manaValue":0,"type":"Basic Land — Forest","text":"({T}: Add {G}.)"},{"name":"Geier Reach Sanitarium","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Legendary Land","text":"{T}: Add {C}.\n{2}, {T}: Each player draws a card, then discards a card."},{"name":"Glen Elendra Archmage","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":4,"type":"Creature — Wizard Faerie","text":"Flying\n{U}, Sacrifice this creature: Counter target noncreature spell.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)"},{"name":"Gossip's Talent","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":2,"type":"Enchantment — Class","text":"(Gain the next level as a sorcery to add its ability.)\nWhenever a creature you control enters, surveil 1.\n{1}{U}: Level 2\nWhenever you attack, target attacking creature with power 3 or less can't be blocked this turn.\n{3}{U}: Level 3\nWhenever a creature you control deals combat damage to a player, you may exile it, then return it to the battlefield under its owner's control."},{"name":"Growth Spiral","quantity":1,"board":"main","colors":["Green","Blue"],"colorIdentity":["Blue","Green"],"manaValue":2,"type":"Instant","text":"Draw a card. You may put a land card from your hand onto the battlefield."},{"name":"Harrow","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":3,"type":"Instant","text":"As an additional cost to cast this spell, sacrifice a land.\nSearch your library for up to two basic land cards, put them onto the battlefield, then shuffle."},{"name":"Hedge Shredder","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":4,"type":"Artifact — Vehicle","text":"Whenever this Vehicle attacks, you may mill two cards.\nWhenever one or more land cards are put into your graveyard from your library, put them onto the battlefield tapped.\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"},{"name":"Hedron Crab","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":1,"type":"Creature — Crab","text":"Landfall — Whenever a land you control enters, target player mills three cards. (They put the top three cards of their library into their graveyard.)"},{"name":"High Market","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}: Add {C}.\n{T}, Sacrifice a creature: You gain 1 life."},{"name":"Hinterland Harbor","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue","Green"],"manaValue":0,"type":"Land","text":"This land enters tapped unless you control a Forest or an Island.\n{T}: Add {G} or {U}."},{"name":"Hydroid Krasis","quantity":1,"board":"main","colors":["Green","Blue"],"colorIdentity":["Blue","Green"],"manaValue":2,"type":"Creature — Beast Jellyfish Hydra","text":"When you cast this spell, you gain half X life and draw half X cards. Round down each time.\nFlying, trample\nThis creature enters with X +1/+1 counters on it."},{"name":"Icetill Explorer","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":4,"type":"Creature — Scout Insect","text":"You may play an additional land on each of your turns.\nYou may play lands from your graveyard.\nLandfall — Whenever a land you control enters, mill a card."},{"name":"Into the Flood Maw","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":1,"type":"Instant","text":"Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)\nReturn target creature an opponent controls to its owner's hand. If the gift was promised, instead return target nonland permanent an opponent controls to its owner's hand."},{"name":"Island","quantity":3,"board":"main","colors":[],"colorIdentity":["Blue"],"manaValue":0,"type":"Basic Land — Island","text":"({T}: Add {U}.)"},{"name":"Jace, Wielder of Mysteries","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":4,"type":"Legendary Planeswalker — Jace","text":"If you would draw a card while your library has no cards in it, you win the game instead.\n+1: Target player mills two cards. Draw a card.\n−8: Draw seven cards. Then if your library has no cards in it, you win the game."},{"name":"Kishla Village","quantity":1,"board":"main","colors":[],"colorIdentity":["Green"],"manaValue":0,"type":"Land","text":"This land enters tapped unless you control an Island or a Swamp.\n{T}: Add {G}.\n{3}{G}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"},{"name":"Laboratory Maniac","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":3,"type":"Creature — Human Wizard","text":"If you would draw a card while your library has no cards in it, you win the game instead."},{"name":"Life from the Loam","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":2,"type":"Sorcery","text":"Return up to three target land cards from your graveyard to your hand.\nDredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)"},{"name":"Lilypad Village","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue"],"manaValue":0,"type":"Land","text":"{T}: Add {C}.\n{T}: Add {U}. Spend this mana only to cast a creature spell.\n{U}, {T}: Surveil 2. Activate only if a Bird, Frog, Otter, or Rat entered the battlefield under your control this turn."},{"name":"Long River Lurker","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":3,"type":"Creature — Scout Frog","text":"Ward {1}\nOther Frogs you control have ward {1}.\nWhen this creature enters, target creature you control can't be blocked this turn. Whenever that creature deals combat damage this turn, you may exile it. If you do, return it to the battlefield under its owner's control."},{"name":"Lotus Cobra","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":2,"type":"Creature — Snake","text":"Landfall — Whenever a land you control enters, add one mana of any color."},{"name":"Mana Confluence","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Pay 1 life: Add one mana of any color."},{"name":"Mana Drain","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":2,"type":"Instant","text":"Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell's mana value."},{"name":"Mesmeric Orb","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Artifact","text":"Whenever a permanent becomes untapped, that permanent's controller mills a card."},{"name":"Millikin","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Creature Artifact — Construct","text":"{T}, Mill a card: Add {C}. (Activate only as an instant. To mill a card, put the top card of your library into your graveyard.)"},{"name":"Mistrise Village","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue"],"manaValue":0,"type":"Land","text":"This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {U}.\n{U}, {T}: The next spell you cast this turn can't be countered."},{"name":"Misty Rainforest","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."},{"name":"Mole Man, Moloid Master","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":3,"type":"Legendary Creature — Human Villain","text":"You may play lands from your graveyard.\nLandfall — Whenever a land you control enters, create a 1/1 green Minion creature token named Moloid with \"Whenever this token attacks, you may mill a card.\""},{"name":"Mystic Sanctuary","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue"],"manaValue":0,"type":"Land — Island","text":"({T}: Add {U}.)\nThis land enters tapped unless you control three or more other Islands.\nWhen this land enters untapped, you may put target instant or sorcery card from your graveyard on top of your library."},{"name":"Nezahal, Primal Tide","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":7,"type":"Legendary Creature — Elder Dinosaur","text":"This spell can't be countered.\nYou have no maximum hand size.\nWhenever an opponent casts a noncreature spell, draw a card.\nDiscard three cards: Exile Nezahal. Return it to the battlefield tapped under its owner's control at the beginning of the next end step."},{"name":"Noxious Revival","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":1,"type":"Instant","text":"({G/P} can be paid with either {G} or 2 life.)\nPut target card from a graveyard on top of its owner's library."},{"name":"Oakhollow Village","quantity":1,"board":"main","colors":[],"colorIdentity":["Green"],"manaValue":0,"type":"Land","text":"{T}: Add {C}.\n{T}: Add {G}. Spend this mana only to cast a creature spell.\n{G}, {T}: Put a +1/+1 counter on each Frog, Rabbit, Raccoon, or Squirrel you control that entered the battlefield this turn."},{"name":"Polluted Delta","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."},{"name":"Pond Prophet","quantity":1,"board":"main","colors":["Green","Blue"],"colorIdentity":["Blue","Green"],"manaValue":2,"type":"Creature — Advisor Frog","text":"When this creature enters, draw a card."},{"name":"Rejuvenating Springs","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue","Green"],"manaValue":0,"type":"Land","text":"This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {U}."},{"name":"Riverchurn Monument","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":2,"type":"Artifact","text":"{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)\nExhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)"},{"name":"Rogue's Passage","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."},{"name":"Shifting Woodland","quantity":1,"board":"main","colors":[],"colorIdentity":["Green"],"manaValue":0,"type":"Land","text":"This land enters tapped unless you control a Forest.\n{T}: Add {G}.\nDelirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard."},{"name":"Snapcaster Mage","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":2,"type":"Creature — Human Wizard","text":"Flash\nWhen this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"},{"name":"Sol Ring","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":1,"type":"Artifact","text":"{T}: Add {C}{C}."},{"name":"Splendid Reclamation","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":4,"type":"Sorcery","text":"Return all land cards from your graveyard to the battlefield tapped."},{"name":"Springheart Nantuko","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":2,"type":"Creature Enchantment — Monk Insect","text":"Bestow {1}{G}\nEnchanted creature gets +1/+1.\nLandfall — Whenever a land you control enters, you may pay {1}{G} if this permanent is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token."},{"name":"Summon: Titan","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":5,"type":"Creature Enchantment — Saga Giant","text":"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Mill five cards.\nII — Return all land cards from your graveyard to the battlefield tapped.\nIII — Until end of turn, another target creature you control gains trample and gets +X/+X, where X is the number of lands you control.\nReach, trample"},{"name":"Swan Song","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":1,"type":"Instant","text":"Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."},{"name":"Thassa's Oracle","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":2,"type":"Creature — Wizard Merfolk","text":"When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"},{"name":"The Great Henge","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":9,"type":"Legendary Artifact","text":"This spell costs {X} less to cast, where X is the greatest power among creatures you control.\n{T}: Add {G}{G}. You gain 2 life.\nWhenever a nontoken creature you control enters, put a +1/+1 counter on it and draw a card."},{"name":"The Mycosynth Gardens","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land — Sphere","text":"{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{X}, {T}: This land becomes a copy of target nontoken artifact you control with mana value X."},{"name":"The Unagi of Kyoshi Island","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":5,"type":"Legendary Creature — Serpent","text":"Flash\nWard—Waterbend {4}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}. They can tap their artifacts and creatures to help. Each one pays for {1}.)\nWhenever an opponent draws their second card each turn, you draw two cards."},{"name":"Thought Scour","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":1,"type":"Instant","text":"Target player mills two cards.\nDraw a card."},{"name":"Tishana's Tidebinder","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":3,"type":"Creature — Wizard Merfolk","text":"Flash\nWhen this creature enters, counter up to one target activated or triggered ability. If an ability of an artifact, creature, or planeswalker is countered this way, that permanent loses all abilities for as long as this creature remains on the battlefield. (Mana abilities can't be targeted.)"},{"name":"Turbulent Wilderness","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue","Green"],"manaValue":0,"type":"Land — Island Forest","text":"({T}: Add {G} or {U}.)\nThis land enters tapped unless your opponents control eight or more lands."},{"name":"Uro, Titan of Nature's Wrath","quantity":1,"board":"main","colors":["Green","Blue"],"colorIdentity":["Blue","Green"],"manaValue":3,"type":"Legendary Creature — Elder Giant","text":"When Uro enters, sacrifice it unless it escaped.\nWhenever Uro enters or attacks, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield.\nEscape—{G}{G}{U}{U}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"},{"name":"Valley Floodcaller","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":3,"type":"Creature — Wizard Otter","text":"Flash\nYou may cast noncreature spells as though they had flash.\nWhenever you cast a noncreature spell, Birds, Frogs, Otters, and Rats you control get +1/+1 until end of turn. Untap them."},{"name":"Veil of Summer","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":1,"type":"Instant","text":"Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"},{"name":"Venser, Shaper Savant","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":4,"type":"Legendary Creature — Human Wizard","text":"Flash (You may cast this spell any time you could cast an instant.)\nWhen Venser enters, return target spell or permanent to its owner's hand."},{"name":"Verdant Catacombs","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."},{"name":"Visions of Beyond","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":1,"type":"Instant","text":"Draw a card. If a graveyard has twenty or more cards in it, draw three cards instead."},{"name":"Wan Shi Tong, Librarian","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":2,"type":"Legendary Creature — Bird Spirit","text":"Flash\nFlying, vigilance\nWhen Wan Shi Tong enters, put X +1/+1 counters on him. Then draw half X cards, rounded down.\nWhenever an opponent searches their library, put a +1/+1 counter on Wan Shi Tong and draw a card."},{"name":"Waterlogged Grove","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue","Green"],"manaValue":0,"type":"Land","text":"{T}, Pay 1 life: Add {G} or {U}.\n{1}, {T}, Sacrifice this land: Draw a card."},{"name":"Wilderness Reclamation","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":4,"type":"Enchantment","text":"At the beginning of your end step, untap all lands you control."},{"name":"Willowrush Verge","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue","Green"],"manaValue":0,"type":"Land","text":"{T}: Add {U}.\n{T}: Add {G}. Activate only if you control a Forest or an Island."},{"name":"Windswept Heath","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."},{"name":"Wooded Foothills","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle."},{"name":"World Shaper","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":4,"type":"Creature — Merfolk Shaman","text":"Whenever this creature attacks, you may mill three cards.\nWhen this creature dies, return all land cards from your graveyard to the battlefield tapped."},{"name":"Yavimaya, Cradle of Growth","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Legendary Land","text":"Each land is a Forest in addition to its other land types."},{"name":"Zuran Orb","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Artifact","text":"Sacrifice a land: You gain 2 life."}]}
+{
+  "id": 25646033,
+  "name": "Grolnok: Hop 'til You Drop",
+  "format": 3,
+  "commander": [
+    "Grolnok, the Omnivore"
+  ],
+  "colorIdentity": [
+    "Blue",
+    "Green"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  },
+  "cards": [
+    {
+      "name": "Grolnok, the Omnivore",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Frog",
+      "text": "Whenever a Frog you control attacks, mill three cards.\nWhenever a permanent card is put into your graveyard from your library, exile it with a croak counter on it.\nYou may play lands and cast spells from among cards you own in exile with croak counters on them."
+    },
+    {
+      "name": "Academy Ruins",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {C}.\n{1}{U}, {T}: Put target artifact card from your graveyard on top of your library."
+    },
+    {
+      "name": "Aesi, Tyrant of Gyre Strait",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Serpent",
+      "text": "You may play an additional land on each of your turns.\nLandfall — Whenever a land you control enters, you may draw a card."
+    },
+    {
+      "name": "An Offer You Can't Refuse",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "Ancient Greenwarden",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Elemental",
+      "text": "Reach (This creature can block creatures with flying.)\nYou may play lands from your graveyard.\nIf a land entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
+    },
+    {
+      "name": "Arcane Denial",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.\nYou draw a card at the beginning of the next turn's upkeep."
+    },
+    {
+      "name": "Arcane Signet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Azusa, Lost but Seeking",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Monk",
+      "text": "You may play two additional lands on each of your turns."
+    },
+    {
+      "name": "Birds of Paradise",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Bird",
+      "text": "Flying\n{T}: Add one mana of any color."
+    },
+    {
+      "name": "Botanical Sanctum",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {G} or {U}."
+    },
+    {
+      "name": "Breeding Pool",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Forest",
+      "text": "({T}: Add {G} or {U}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Burgeoning",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment",
+      "text": "Whenever an opponent plays a land, you may put a land card from your hand onto the battlefield."
+    },
+    {
+      "name": "Coiling Oracle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Elf Druid Snake",
+      "text": "When this creature enters, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand."
+    },
+    {
+      "name": "Command Tower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Crop Rotation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for a land card, put that card onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Crucible of Worlds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "You may play lands from your graveyard."
+    },
+    {
+      "name": "Cyclonic Rift",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
+    },
+    {
+      "name": "Dreamroot Cascade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {G} or {U}."
+    },
+    {
+      "name": "Dryad of the Ilysian Grove",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature Enchantment — Dryad Nymph",
+      "text": "You may play an additional land on each of your turns.\nLands you control are every basic land type in addition to their other types."
+    },
+    {
+      "name": "Eternal Witness",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Shaman",
+      "text": "When this creature enters, you may return target card from your graveyard to your hand."
+    },
+    {
+      "name": "Exotic Orchard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+      "name": "Exploration",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment",
+      "text": "You may play an additional land on each of your turns."
+    },
+    {
+      "name": "Fabled Passage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
+    },
+    {
+      "name": "Faerie Mastermind",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Rogue Faerie",
+      "text": "Flash\nFlying\nWhenever an opponent draws their second card each turn, you draw a card.\n{3}{U}: Each player draws a card."
+    },
+    {
+      "name": "Fanatic of Rhonas",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Druid Snake",
+      "text": "{T}: Add {G}.\nFerocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature with power 4 or greater.\nEternalize {2}{G}{G} ({2}{G}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Snake Druid with no mana cost. Eternalize only as a sorcery.)"
+    },
+    {
+      "name": "Fauna Shaman",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Elf Shaman",
+      "text": "{G}, {T}, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle."
+    },
+    {
+      "name": "Field of the Dead",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token."
+    },
+    {
+      "name": "Fierce Guardianship",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
+    },
+    {
+      "name": "Flooded Grove",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U}."
+    },
+    {
+      "name": "Flooded Strand",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Forest",
+      "quantity": 3,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
+    },
+    {
+      "name": "Geier Reach Sanitarium",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {C}.\n{2}, {T}: Each player draws a card, then discards a card."
+    },
+    {
+      "name": "Glen Elendra Archmage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Wizard Faerie",
+      "text": "Flying\n{U}, Sacrifice this creature: Counter target noncreature spell.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)"
+    },
+    {
+      "name": "Gossip's Talent",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment — Class",
+      "text": "(Gain the next level as a sorcery to add its ability.)\nWhenever a creature you control enters, surveil 1.\n{1}{U}: Level 2\nWhenever you attack, target attacking creature with power 3 or less can't be blocked this turn.\n{3}{U}: Level 3\nWhenever a creature you control deals combat damage to a player, you may exile it, then return it to the battlefield under its owner's control."
+    },
+    {
+      "name": "Growth Spiral",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Draw a card. You may put a land card from your hand onto the battlefield."
+    },
+    {
+      "name": "Harrow",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for up to two basic land cards, put them onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Hedge Shredder",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Artifact — Vehicle",
+      "text": "Whenever this Vehicle attacks, you may mill two cards.\nWhenever one or more land cards are put into your graveyard from your library, put them onto the battlefield tapped.\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    },
+    {
+      "name": "Hedron Crab",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Crab",
+      "text": "Landfall — Whenever a land you control enters, target player mills three cards. (They put the top three cards of their library into their graveyard.)"
+    },
+    {
+      "name": "High Market",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice a creature: You gain 1 life."
+    },
+    {
+      "name": "Hinterland Harbor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Forest or an Island.\n{T}: Add {G} or {U}."
+    },
+    {
+      "name": "Hydroid Krasis",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Beast Jellyfish Hydra",
+      "text": "When you cast this spell, you gain half X life and draw half X cards. Round down each time.\nFlying, trample\nThis creature enters with X +1/+1 counters on it."
+    },
+    {
+      "name": "Icetill Explorer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Scout Insect",
+      "text": "You may play an additional land on each of your turns.\nYou may play lands from your graveyard.\nLandfall — Whenever a land you control enters, mill a card."
+    },
+    {
+      "name": "Into the Flood Maw",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)\nReturn target creature an opponent controls to its owner's hand. If the gift was promised, instead return target nonland permanent an opponent controls to its owner's hand."
+    },
+    {
+      "name": "Island",
+      "quantity": 3,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Island",
+      "text": "({T}: Add {U}.)"
+    },
+    {
+      "name": "Jace, Wielder of Mysteries",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Planeswalker — Jace",
+      "text": "If you would draw a card while your library has no cards in it, you win the game instead.\n+1: Target player mills two cards. Draw a card.\n−8: Draw seven cards. Then if your library has no cards in it, you win the game."
+    },
+    {
+      "name": "Kishla Village",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control an Island or a Swamp.\n{T}: Add {G}.\n{3}{G}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+    },
+    {
+      "name": "Laboratory Maniac",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Wizard",
+      "text": "If you would draw a card while your library has no cards in it, you win the game instead."
+    },
+    {
+      "name": "Life from the Loam",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Return up to three target land cards from your graveyard to your hand.\nDredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)"
+    },
+    {
+      "name": "Lilypad Village",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}: Add {U}. Spend this mana only to cast a creature spell.\n{U}, {T}: Surveil 2. Activate only if a Bird, Frog, Otter, or Rat entered the battlefield under your control this turn."
+    },
+    {
+      "name": "Long River Lurker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Scout Frog",
+      "text": "Ward {1}\nOther Frogs you control have ward {1}.\nWhen this creature enters, target creature you control can't be blocked this turn. Whenever that creature deals combat damage this turn, you may exile it. If you do, return it to the battlefield under its owner's control."
+    },
+    {
+      "name": "Lotus Cobra",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Snake",
+      "text": "Landfall — Whenever a land you control enters, add one mana of any color."
+    },
+    {
+      "name": "Mana Confluence",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life: Add one mana of any color."
+    },
+    {
+      "name": "Mana Drain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell's mana value."
+    },
+    {
+      "name": "Mesmeric Orb",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "Whenever a permanent becomes untapped, that permanent's controller mills a card."
+    },
+    {
+      "name": "Millikin",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Creature Artifact — Construct",
+      "text": "{T}, Mill a card: Add {C}. (Activate only as an instant. To mill a card, put the top card of your library into your graveyard.)"
+    },
+    {
+      "name": "Mistrise Village",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {U}.\n{U}, {T}: The next spell you cast this turn can't be countered."
+    },
+    {
+      "name": "Misty Rainforest",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Mole Man, Moloid Master",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Villain",
+      "text": "You may play lands from your graveyard.\nLandfall — Whenever a land you control enters, create a 1/1 green Minion creature token named Moloid with \"Whenever this token attacks, you may mill a card.\""
+    },
+    {
+      "name": "Mystic Sanctuary",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island",
+      "text": "({T}: Add {U}.)\nThis land enters tapped unless you control three or more other Islands.\nWhen this land enters untapped, you may put target instant or sorcery card from your graveyard on top of your library."
+    },
+    {
+      "name": "Nezahal, Primal Tide",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 7,
+      "type": "Legendary Creature — Elder Dinosaur",
+      "text": "This spell can't be countered.\nYou have no maximum hand size.\nWhenever an opponent casts a noncreature spell, draw a card.\nDiscard three cards: Exile Nezahal. Return it to the battlefield tapped under its owner's control at the beginning of the next end step."
+    },
+    {
+      "name": "Noxious Revival",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "({G/P} can be paid with either {G} or 2 life.)\nPut target card from a graveyard on top of its owner's library."
+    },
+    {
+      "name": "Oakhollow Village",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}: Add {G}. Spend this mana only to cast a creature spell.\n{G}, {T}: Put a +1/+1 counter on each Frog, Rabbit, Raccoon, or Squirrel you control that entered the battlefield this turn."
+    },
+    {
+      "name": "Polluted Delta",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Pond Prophet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Advisor Frog",
+      "text": "When this creature enters, draw a card."
+    },
+    {
+      "name": "Rejuvenating Springs",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {U}."
+    },
+    {
+      "name": "Riverchurn Monument",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)\nExhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)"
+    },
+    {
+      "name": "Rogue's Passage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."
+    },
+    {
+      "name": "Shifting Woodland",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Forest.\n{T}: Add {G}.\nDelirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard."
+    },
+    {
+      "name": "Snapcaster Mage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Human Wizard",
+      "text": "Flash\nWhen this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Splendid Reclamation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Return all land cards from your graveyard to the battlefield tapped."
+    },
+    {
+      "name": "Springheart Nantuko",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature Enchantment — Monk Insect",
+      "text": "Bestow {1}{G}\nEnchanted creature gets +1/+1.\nLandfall — Whenever a land you control enters, you may pay {1}{G} if this permanent is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token."
+    },
+    {
+      "name": "Summon: Titan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Creature Enchantment — Saga Giant",
+      "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Mill five cards.\nII — Return all land cards from your graveyard to the battlefield tapped.\nIII — Until end of turn, another target creature you control gains trample and gets +X/+X, where X is the number of lands you control.\nReach, trample"
+    },
+    {
+      "name": "Swan Song",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
+    },
+    {
+      "name": "Thassa's Oracle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Wizard Merfolk",
+      "text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
+    },
+    {
+      "name": "The Great Henge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 9,
+      "type": "Legendary Artifact",
+      "text": "This spell costs {X} less to cast, where X is the greatest power among creatures you control.\n{T}: Add {G}{G}. You gain 2 life.\nWhenever a nontoken creature you control enters, put a +1/+1 counter on it and draw a card."
+    },
+    {
+      "name": "The Mycosynth Gardens",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land — Sphere",
+      "text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{X}, {T}: This land becomes a copy of target nontoken artifact you control with mana value X."
+    },
+    {
+      "name": "The Unagi of Kyoshi Island",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Serpent",
+      "text": "Flash\nWard—Waterbend {4}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}. They can tap their artifacts and creatures to help. Each one pays for {1}.)\nWhenever an opponent draws their second card each turn, you draw two cards."
+    },
+    {
+      "name": "Thought Scour",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Target player mills two cards.\nDraw a card."
+    },
+    {
+      "name": "Tishana's Tidebinder",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Wizard Merfolk",
+      "text": "Flash\nWhen this creature enters, counter up to one target activated or triggered ability. If an ability of an artifact, creature, or planeswalker is countered this way, that permanent loses all abilities for as long as this creature remains on the battlefield. (Mana abilities can't be targeted.)"
+    },
+    {
+      "name": "Turbulent Wilderness",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Forest",
+      "text": "({T}: Add {G} or {U}.)\nThis land enters tapped unless your opponents control eight or more lands."
+    },
+    {
+      "name": "Uro, Titan of Nature's Wrath",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Elder Giant",
+      "text": "When Uro enters, sacrifice it unless it escaped.\nWhenever Uro enters or attacks, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield.\nEscape—{G}{G}{U}{U}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+    },
+    {
+      "name": "Valley Floodcaller",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Wizard Otter",
+      "text": "Flash\nYou may cast noncreature spells as though they had flash.\nWhenever you cast a noncreature spell, Birds, Frogs, Otters, and Rats you control get +1/+1 until end of turn. Untap them."
+    },
+    {
+      "name": "Veil of Summer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
+    },
+    {
+      "name": "Venser, Shaper Savant",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Wizard",
+      "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Venser enters, return target spell or permanent to its owner's hand."
+    },
+    {
+      "name": "Verdant Catacombs",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Visions of Beyond",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Draw a card. If a graveyard has twenty or more cards in it, draw three cards instead."
+    },
+    {
+      "name": "Wan Shi Tong, Librarian",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Bird Spirit",
+      "text": "Flash\nFlying, vigilance\nWhen Wan Shi Tong enters, put X +1/+1 counters on him. Then draw half X cards, rounded down.\nWhenever an opponent searches their library, put a +1/+1 counter on Wan Shi Tong and draw a card."
+    },
+    {
+      "name": "Waterlogged Grove",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life: Add {G} or {U}.\n{1}, {T}, Sacrifice this land: Draw a card."
+    },
+    {
+      "name": "Wilderness Reclamation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "At the beginning of your end step, untap all lands you control."
+    },
+    {
+      "name": "Willowrush Verge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {U}.\n{T}: Add {G}. Activate only if you control a Forest or an Island."
+    },
+    {
+      "name": "Windswept Heath",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Wooded Foothills",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "World Shaper",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Merfolk Shaman",
+      "text": "Whenever this creature attacks, you may mill three cards.\nWhen this creature dies, return all land cards from your graveyard to the battlefield tapped."
+    },
+    {
+      "name": "Yavimaya, Cradle of Growth",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "Each land is a Forest in addition to its other land types."
+    },
+    {
+      "name": "Zuran Orb",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Artifact",
+      "text": "Sacrifice a land: You gain 2 life."
+    }
+  ]
+}

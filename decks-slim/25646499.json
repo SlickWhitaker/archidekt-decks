@@ -1,1 +1,1133 @@
-{"id":25646499,"name":"Riders of Rohan UPGRADE","format":3,"commander":["Éowyn, Shieldmaiden"],"colorIdentity":["Blue","Red","White"],"counts":{"main":99,"commander":1,"maybeboard":0,"sideboard":0,"total":100},"cards":[{"name":"Éowyn, Shieldmaiden","quantity":1,"board":"commander","colors":["White","Red","Blue"],"colorIdentity":["White","Blue","Red"],"manaValue":5,"type":"Legendary Creature — Human Knight","text":"First strike\nAt the beginning of combat on your turn, if another Human entered the battlefield under your control this turn, create two 2/2 red Human Knight creature tokens with trample and haste. Then if you control six or more Humans, draw a card."},{"name":"Aragorn, King of Gondor","quantity":1,"board":"main","colors":["White","Red","Blue"],"colorIdentity":["White","Blue","Red"],"manaValue":4,"type":"Legendary Creature — Human Noble","text":"Vigilance, lifelink\nWhen Aragorn enters, you become the monarch.\nWhenever Aragorn attacks, up to one target creature can't block this turn. If you're the monarch, creatures can't block this turn."},{"name":"Arcane Signet","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Artifact","text":"{T}: Add one mana of any color in your commander's color identity."},{"name":"Arid Mesa","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."},{"name":"Bard the Bowman","quantity":1,"board":"main","colors":["White","Blue"],"colorIdentity":["White","Blue"],"manaValue":3,"type":"Legendary Creature — Human Archer","text":"Reach\nWhenever you draw your second card each turn, put a +1/+1 counter on target creature. It gains lifelink until end of turn."},{"name":"Bastion Protector","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":3,"type":"Creature — Human Soldier","text":"Commander creatures you control get +2/+2 and have indestructible."},{"name":"Battlefield Forge","quantity":1,"board":"main","colors":[],"colorIdentity":["White","Red"],"manaValue":0,"type":"Land","text":"{T}: Add {C}.\n{T}: Add {R} or {W}. This land deals 1 damage to you."},{"name":"Beregond of the Guard","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":4,"type":"Legendary Creature — Human Soldier","text":"Whenever Beregond or another Human you control enters, creatures you control get +1/+1 and gain vigilance until end of turn."},{"name":"Boromir, Gondor's Hope","quantity":1,"board":"main","colors":["White","Blue"],"colorIdentity":["White","Blue"],"manaValue":4,"type":"Legendary Creature — Human Warrior","text":"Whenever Boromir enters or attacks, look at the top six cards of your library. You may reveal a Human or artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."},{"name":"Call for Aid","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":5,"type":"Sorcery","text":"Gain control of all creatures target opponent controls until end of turn. Untap those creatures. They gain haste until end of turn. You can't attack that player this turn. You can't sacrifice those creatures this turn."},{"name":"Call the Coppercoats","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":3,"type":"Instant","text":"Strive — This spell costs {1}{W} more to cast for each target beyond the first.\nChoose any number of target opponents. Create X 1/1 white Human Soldier creature tokens, where X is the number of creatures those opponents control."},{"name":"Champions of Minas Tirith","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":6,"type":"Creature — Human Soldier","text":"When this creature enters, you become the monarch.\nAt the beginning of combat on each opponent's turn, if you're the monarch, that opponent may pay {X}, where X is the number of cards in their hand. If they don't, they can't attack you this combat."},{"name":"Clifftop Retreat","quantity":1,"board":"main","colors":[],"colorIdentity":["White","Red"],"manaValue":0,"type":"Land","text":"This land enters tapped unless you control a Mountain or a Plains.\n{T}: Add {R} or {W}."},{"name":"Combat Celebrant","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Creature — Human Warrior","text":"If this creature hasn't been exerted this turn, you may exert it as it attacks. When you do, untap all other creatures you control and after this phase, there is an additional combat phase. (An exerted creature won't untap during your next untap step.)"},{"name":"Command Tower","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}: Add one mana of any color in your commander's color identity."},{"name":"Coppercoat Vanguard","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":2,"type":"Creature — Human Soldier","text":"Each other Human you control gets +1/+0 and has ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)"},{"name":"Court of Ire","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":5,"type":"Enchantment","text":"When this enchantment enters, you become the monarch.\nAt the beginning of your upkeep, this enchantment deals 2 damage to any target. If you're the monarch, it deals 7 damage instead."},{"name":"Crown of Gondor","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":3,"type":"Legendary Artifact — Equipment","text":"Equipped creature gets +1/+1 for each creature you control.\nWhen a legendary creature you control enters, if there is no monarch, you become the monarch.\nEquip {4}. This ability costs {3} less to activate if you're the monarch."},{"name":"Denethor, Stone Seer","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue","Red"],"manaValue":2,"type":"Legendary Creature — Human Noble","text":"When Denethor enters, scry 2.\n{3}{R}, {T}, Sacrifice Denethor: Target player becomes the monarch. Denethor deals 3 damage to any target."},{"name":"Door of Destinies","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":4,"type":"Artifact","text":"As this artifact enters, choose a creature type.\nWhenever you cast a spell of the chosen type, put a charge counter on this artifact.\nCreatures you control of the chosen type get +1/+1 for each charge counter on this artifact."},{"name":"Earthquake","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":1,"type":"Sorcery","text":"Earthquake deals X damage to each creature without flying and each player."},{"name":"Éomer, King of Rohan","quantity":1,"board":"main","colors":["White","Red"],"colorIdentity":["White","Red"],"manaValue":5,"type":"Legendary Creature — Human Noble","text":"Double strike\nÉomer enters with a +1/+1 counter on it for each other Human you control.\nWhen Éomer enters, target player becomes the monarch. Éomer deals damage equal to its power to any target."},{"name":"Erkenbrand, Lord of Westfold","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":4,"type":"Legendary Creature — Human Soldier","text":"Whenever Erkenbrand or another Human you control enters, creatures you control get +1/+0 until end of turn."},{"name":"Exotic Orchard","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}: Add one mana of any color that a land an opponent controls could produce."},{"name":"Faramir, Steward of Gondor","quantity":1,"board":"main","colors":["White","Blue"],"colorIdentity":["White","Blue"],"manaValue":3,"type":"Legendary Creature — Human Noble","text":"Whenever a legendary creature you control with mana value 4 or greater enters, you become the monarch.\nAt the beginning of your end step, if you're the monarch, create two 1/1 white Human Soldier creature tokens."},{"name":"Fealty to the Realm","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":5,"type":"Enchantment — Aura","text":"Enchant creature\nWhen this Aura enters, you become the monarch.\nThe monarch controls enchanted creature.\nEnchanted creature attacks each combat if able and can't attack you."},{"name":"Field of Ruin","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles."},{"name":"Flamerush Rider","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":5,"type":"Creature — Human Warrior","text":"Whenever this creature attacks, create a token that's a copy of another target attacking creature and that's tapped and attacking. Exile the token at end of combat.\nDash {2}{R}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"},{"name":"Forth Eorlingas!","quantity":1,"board":"main","colors":["White","Red"],"colorIdentity":["White","Red"],"manaValue":2,"type":"Sorcery","text":"Create X 2/2 red Human Knight creature tokens with trample and haste.\nWhenever one or more creatures you control deal combat damage to one or more players this turn, you become the monarch."},{"name":"Frontier Warmonger","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":4,"type":"Creature — Human Warrior","text":"Whenever one or more creatures attack one of your opponents or a planeswalker they control, those creatures gain menace until end of turn."},{"name":"Frontline Medic","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":3,"type":"Creature — Human Cleric","text":"Battalion — Whenever this creature and at least two other creatures attack, creatures you control gain indestructible until end of turn.\nSacrifice this creature: Counter target spell with {X} in its mana cost unless its controller pays {3}."},{"name":"Furycalm Snarl","quantity":1,"board":"main","colors":[],"colorIdentity":["White","Red"],"manaValue":0,"type":"Land","text":"As this land enters, you may reveal a Mountain or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {R} or {W}."},{"name":"Ghostly Prison","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":3,"type":"Enchantment","text":"Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you."},{"name":"Gilraen, Dúnedain Protector","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":3,"type":"Legendary Creature — Human Noble","text":"{2}, {T}: Exile another target creature you control. You may return that card to the battlefield under its owner's control. If you don't, at the beginning of the next end step, return that card to the battlefield under its owner's control with a vigilance counter and a lifelink counter on it."},{"name":"Glacial Fortress","quantity":1,"board":"main","colors":[],"colorIdentity":["White","Blue"],"manaValue":0,"type":"Land","text":"This land enters tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}."},{"name":"Grasp of Fate","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":3,"type":"Enchantment","text":"When this enchantment enters, for each opponent, exile up to one target nonland permanent that player controls until this enchantment leaves the battlefield. (Those permanents return under their owners' control.)"},{"name":"Grey Host Reinforcements","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":4,"type":"Creature — Soldier Spirit","text":"Flying, ward {3}\nWhen this creature enters, exile target player's graveyard. Put a number of +1/+1 counters on this creature equal to the number of creature cards exiled this way."},{"name":"Herald's Horn","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":3,"type":"Artifact","text":"As this artifact enters, choose a creature type.\nCreature spells you cast of the chosen type cost {1} less to cast.\nAt the beginning of your upkeep, look at the top card of your library. If it's a creature card of the chosen type, you may reveal it and put it into your hand."},{"name":"Horn of Gondor","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":3,"type":"Legendary Artifact","text":"When Horn of Gondor enters, create a 1/1 white Human Soldier creature token.\n{3}, {T}: Create X 1/1 white Human Soldier creature tokens, where X is the number of Humans you control."},{"name":"Island","quantity":5,"board":"main","colors":[],"colorIdentity":["Blue"],"manaValue":0,"type":"Basic Land — Island","text":"({T}: Add {U}.)"},{"name":"Keeper of Keys","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":5,"type":"Creature — Human Rogue Mutant","text":"When this creature enters, you become the monarch.\nAt the beginning of your upkeep, if you're the monarch, creatures you control can't be blocked this turn."},{"name":"Lossarnach Captain","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":4,"type":"Creature — Human Soldier","text":"First strike\nWhenever this creature or another Human you control enters, tap target creature an opponent controls.\nAt the beginning of your upkeep, create a 1/1 white Human Soldier creature token."},{"name":"Lost to Legend","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":2,"type":"Instant","text":"Put target nonland historic permanent into its owner's library fourth from the top. (Artifacts, legendaries, and Sagas are historic.)"},{"name":"Mirror Entity","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":3,"type":"Creature — Shapeshifter","text":"Changeling (This card is every creature type.)\n{X}: Until end of turn, creatures you control have base power and toughness X/X and gain all creature types."},{"name":"Mountain","quantity":5,"board":"main","colors":[],"colorIdentity":["Red"],"manaValue":0,"type":"Basic Land — Mountain","text":"({T}: Add {R}.)"},{"name":"Oath of Eorl","quantity":1,"board":"main","colors":["White","Red"],"colorIdentity":["White","Red"],"manaValue":5,"type":"Enchantment — Saga","text":"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create two 1/1 white Human Soldier creature tokens.\nII — Create two 2/2 red Human Knight creature tokens with trample and haste.\nIII — Put an indestructible counter on up to one target Human. You become the monarch."},{"name":"Palace Jailer","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":4,"type":"Creature — Human Soldier","text":"When this creature enters, you become the monarch.\nWhen this creature enters, exile target creature an opponent controls until an opponent becomes the monarch."},{"name":"Path of Ancestry","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"},{"name":"Path to Exile","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":1,"type":"Instant","text":"Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."},{"name":"Plains","quantity":9,"board":"main","colors":[],"colorIdentity":["White"],"manaValue":0,"type":"Basic Land — Plains","text":"({T}: Add {W}.)"},{"name":"Port Town","quantity":1,"board":"main","colors":[],"colorIdentity":["White","Blue"],"manaValue":0,"type":"Land","text":"As this land enters, you may reveal a Plains or Island card from your hand. If you don't, this land enters tapped.\n{T}: Add {W} or {U}."},{"name":"Prairie Stream","quantity":1,"board":"main","colors":[],"colorIdentity":["White","Blue"],"manaValue":0,"type":"Land — Plains Island","text":"({T}: Add {W} or {U}.)\nThis land enters tapped unless you control two or more basic lands."},{"name":"Prince Imrahil the Fair","quantity":1,"board":"main","colors":["White","Blue"],"colorIdentity":["White","Blue"],"manaValue":2,"type":"Legendary Creature — Human Noble","text":"Whenever you draw your second card each turn, create a 1/1 white Human Soldier creature token."},{"name":"Riders of Rohan","quantity":1,"board":"main","colors":["White","Red"],"colorIdentity":["White","Red"],"manaValue":5,"type":"Creature — Human Knight","text":"When this creature enters, create two 2/2 red Human Knight creature tokens with trample and haste.\nDash {4}{R}{W} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"},{"name":"Rogue's Passage","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."},{"name":"Sacred Foundry","quantity":1,"board":"main","colors":[],"colorIdentity":["White","Red"],"manaValue":0,"type":"Land — Plains Mountain","text":"({T}: Add {R} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."},{"name":"Secluded Courtyard","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type."},{"name":"Selfless Squire","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":4,"type":"Creature — Human Soldier","text":"Flash\nWhen this creature enters, prevent all damage that would be dealt to you this turn.\nWhenever damage that would be dealt to you is prevented, put that many +1/+1 counters on this creature."},{"name":"Shared Animosity","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Enchantment","text":"Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it."},{"name":"Skullclamp","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":1,"type":"Artifact — Equipment","text":"Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"},{"name":"Sol Ring","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":1,"type":"Artifact","text":"{T}: Add {C}{C}."},{"name":"Steam Vents","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue","Red"],"manaValue":0,"type":"Land — Island Mountain","text":"({T}: Add {U} or {R}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."},{"name":"Sulfur Falls","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue","Red"],"manaValue":0,"type":"Land","text":"This land enters tapped unless you control an Island or a Mountain.\n{T}: Add {U} or {R}."},{"name":"Sunset Revelry","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":2,"type":"Sorcery","text":"If an opponent has more life than you, you gain 4 life.\nIf an opponent controls more creatures than you, create two 1/1 white Human creature tokens.\nIf an opponent has more cards in hand than you, draw a card."},{"name":"Supreme Verdict","quantity":1,"board":"main","colors":["White","Blue"],"colorIdentity":["White","Blue"],"manaValue":4,"type":"Sorcery","text":"This spell can't be countered.\nDestroy all creatures."},{"name":"Swords to Plowshares","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":1,"type":"Instant","text":"Exile target creature. Its controller gains life equal to its power."},{"name":"Talisman of Conviction","quantity":1,"board":"main","colors":[],"colorIdentity":["White","Red"],"manaValue":2,"type":"Artifact","text":"{T}: Add {C}.\n{T}: Add {R} or {W}. This artifact deals 1 damage to you."},{"name":"Talisman of Progress","quantity":1,"board":"main","colors":[],"colorIdentity":["White","Blue"],"manaValue":2,"type":"Artifact","text":"{T}: Add {C}.\n{T}: Add {W} or {U}. This artifact deals 1 damage to you."},{"name":"Taunt from the Rampart","quantity":1,"board":"main","colors":["White","Red"],"colorIdentity":["White","Red"],"manaValue":5,"type":"Sorcery","text":"Goad all creatures your opponents control. Until your next turn, those creatures can't block. (Until your next turn, those creatures attack each combat if able and attack a player other than you if able.)"},{"name":"Terramorphic Expanse","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."},{"name":"The Mountain-king's Return","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":3,"type":"Enchantment — Saga","text":"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Recruit. (Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Human Soldier creature token.)\nII — Return target creature card with mana value 3 or less from your graveyard to the battlefield.\nIII — Put a +1/+1 counter on up to one target creature."},{"name":"Théoden, King of Rohan","quantity":1,"board":"main","colors":["White","Red"],"colorIdentity":["White","Red"],"manaValue":3,"type":"Legendary Creature — Human Noble","text":"Whenever Théoden or another Human you control enters, target creature gains double strike until end of turn."},{"name":"Thought Vessel","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Artifact","text":"You have no maximum hand size.\n{T}: Add {C}."},{"name":"Throne of the High City","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}: Add {C}.\n{4}, {T}, Sacrifice this land: You become the monarch."},{"name":"Tranquil Cove","quantity":1,"board":"main","colors":[],"colorIdentity":["White","Blue"],"manaValue":0,"type":"Land","text":"This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {U}."},{"name":"Unbreakable Formation","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":3,"type":"Instant","text":"Creatures you control gain indestructible until end of turn.\nAddendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn."},{"name":"Vanquisher's Banner","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":5,"type":"Artifact","text":"As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\nWhenever you cast a creature spell of the chosen type, draw a card."},{"name":"Verge Rangers","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":3,"type":"Creature — Human Scout Ranger","text":"First strike\nYou may look at the top card of your library any time.\nAs long as an opponent controls more lands than you, you may play lands from the top of your library. (You can play a land this way only if you have an available land play remaining.)"},{"name":"Village Bell-Ringer","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":3,"type":"Creature — Human Scout","text":"Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, untap all creatures you control."},{"name":"Visions of Glory","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":5,"type":"Sorcery","text":"Create a 1/1 white Human creature token for each creature you control.\nFlashback {8}{W}{W}. This spell costs {X} less to cast this way, where X is the greatest mana value of a commander you own on the battlefield or in the command zone. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"},{"name":"Wayfarer's Bauble","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":1,"type":"Artifact","text":"{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."},{"name":"Weathered Wayfarer","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":1,"type":"Creature — Human Cleric Nomad","text":"{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you."},{"name":"Windbrisk Heights","quantity":1,"board":"main","colors":[],"colorIdentity":["White"],"manaValue":0,"type":"Land","text":"Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)\nThis land enters tapped.\n{T}: Add {W}.\n{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn."},{"name":"Zealous Conscripts","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":5,"type":"Creature — Human Warrior","text":"Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."}]}
+{
+  "id": 25646499,
+  "name": "Riders of Rohan UPGRADE",
+  "format": 3,
+  "commander": [
+    "Éowyn, Shieldmaiden"
+  ],
+  "colorIdentity": [
+    "Blue",
+    "Red",
+    "White"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  },
+  "cards": [
+    {
+      "name": "Éowyn, Shieldmaiden",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Red",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Knight",
+      "text": "First strike\nAt the beginning of combat on your turn, if another Human entered the battlefield under your control this turn, create two 2/2 red Human Knight creature tokens with trample and haste. Then if you control six or more Humans, draw a card."
+    },
+    {
+      "name": "Aragorn, King of Gondor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Noble",
+      "text": "Vigilance, lifelink\nWhen Aragorn enters, you become the monarch.\nWhenever Aragorn attacks, up to one target creature can't block this turn. If you're the monarch, creatures can't block this turn."
+    },
+    {
+      "name": "Arcane Signet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Arid Mesa",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Bard the Bowman",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Archer",
+      "text": "Reach\nWhenever you draw your second card each turn, put a +1/+1 counter on target creature. It gains lifelink until end of turn."
+    },
+    {
+      "name": "Bastion Protector",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Soldier",
+      "text": "Commander creatures you control get +2/+2 and have indestructible."
+    },
+    {
+      "name": "Battlefield Forge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}: Add {R} or {W}. This land deals 1 damage to you."
+    },
+    {
+      "name": "Beregond of the Guard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Soldier",
+      "text": "Whenever Beregond or another Human you control enters, creatures you control get +1/+1 and gain vigilance until end of turn."
+    },
+    {
+      "name": "Boromir, Gondor's Hope",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Warrior",
+      "text": "Whenever Boromir enters or attacks, look at the top six cards of your library. You may reveal a Human or artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+    },
+    {
+      "name": "Call for Aid",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Sorcery",
+      "text": "Gain control of all creatures target opponent controls until end of turn. Untap those creatures. They gain haste until end of turn. You can't attack that player this turn. You can't sacrifice those creatures this turn."
+    },
+    {
+      "name": "Call the Coppercoats",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Strive — This spell costs {1}{W} more to cast for each target beyond the first.\nChoose any number of target opponents. Create X 1/1 white Human Soldier creature tokens, where X is the number of creatures those opponents control."
+    },
+    {
+      "name": "Champions of Minas Tirith",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Human Soldier",
+      "text": "When this creature enters, you become the monarch.\nAt the beginning of combat on each opponent's turn, if you're the monarch, that opponent may pay {X}, where X is the number of cards in their hand. If they don't, they can't attack you this combat."
+    },
+    {
+      "name": "Clifftop Retreat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Mountain or a Plains.\n{T}: Add {R} or {W}."
+    },
+    {
+      "name": "Combat Celebrant",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Warrior",
+      "text": "If this creature hasn't been exerted this turn, you may exert it as it attacks. When you do, untap all other creatures you control and after this phase, there is an additional combat phase. (An exerted creature won't untap during your next untap step.)"
+    },
+    {
+      "name": "Command Tower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Coppercoat Vanguard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Human Soldier",
+      "text": "Each other Human you control gets +1/+0 and has ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)"
+    },
+    {
+      "name": "Court of Ire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "When this enchantment enters, you become the monarch.\nAt the beginning of your upkeep, this enchantment deals 2 damage to any target. If you're the monarch, it deals 7 damage instead."
+    },
+    {
+      "name": "Crown of Gondor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Equipped creature gets +1/+1 for each creature you control.\nWhen a legendary creature you control enters, if there is no monarch, you become the monarch.\nEquip {4}. This ability costs {3} less to activate if you're the monarch."
+    },
+    {
+      "name": "Denethor, Stone Seer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Human Noble",
+      "text": "When Denethor enters, scry 2.\n{3}{R}, {T}, Sacrifice Denethor: Target player becomes the monarch. Denethor deals 3 damage to any target."
+    },
+    {
+      "name": "Door of Destinies",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Artifact",
+      "text": "As this artifact enters, choose a creature type.\nWhenever you cast a spell of the chosen type, put a charge counter on this artifact.\nCreatures you control of the chosen type get +1/+1 for each charge counter on this artifact."
+    },
+    {
+      "name": "Earthquake",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Earthquake deals X damage to each creature without flying and each player."
+    },
+    {
+      "name": "Éomer, King of Rohan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Noble",
+      "text": "Double strike\nÉomer enters with a +1/+1 counter on it for each other Human you control.\nWhen Éomer enters, target player becomes the monarch. Éomer deals damage equal to its power to any target."
+    },
+    {
+      "name": "Erkenbrand, Lord of Westfold",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Soldier",
+      "text": "Whenever Erkenbrand or another Human you control enters, creatures you control get +1/+0 until end of turn."
+    },
+    {
+      "name": "Exotic Orchard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+      "name": "Faramir, Steward of Gondor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Noble",
+      "text": "Whenever a legendary creature you control with mana value 4 or greater enters, you become the monarch.\nAt the beginning of your end step, if you're the monarch, create two 1/1 white Human Soldier creature tokens."
+    },
+    {
+      "name": "Fealty to the Realm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment — Aura",
+      "text": "Enchant creature\nWhen this Aura enters, you become the monarch.\nThe monarch controls enchanted creature.\nEnchanted creature attacks each combat if able and can't attack you."
+    },
+    {
+      "name": "Field of Ruin",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles."
+    },
+    {
+      "name": "Flamerush Rider",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Human Warrior",
+      "text": "Whenever this creature attacks, create a token that's a copy of another target attacking creature and that's tapped and attacking. Exile the token at end of combat.\nDash {2}{R}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+    },
+    {
+      "name": "Forth Eorlingas!",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Create X 2/2 red Human Knight creature tokens with trample and haste.\nWhenever one or more creatures you control deal combat damage to one or more players this turn, you become the monarch."
+    },
+    {
+      "name": "Frontier Warmonger",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Human Warrior",
+      "text": "Whenever one or more creatures attack one of your opponents or a planeswalker they control, those creatures gain menace until end of turn."
+    },
+    {
+      "name": "Frontline Medic",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Cleric",
+      "text": "Battalion — Whenever this creature and at least two other creatures attack, creatures you control gain indestructible until end of turn.\nSacrifice this creature: Counter target spell with {X} in its mana cost unless its controller pays {3}."
+    },
+    {
+      "name": "Furycalm Snarl",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, you may reveal a Mountain or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {R} or {W}."
+    },
+    {
+      "name": "Ghostly Prison",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you."
+    },
+    {
+      "name": "Gilraen, Dúnedain Protector",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Noble",
+      "text": "{2}, {T}: Exile another target creature you control. You may return that card to the battlefield under its owner's control. If you don't, at the beginning of the next end step, return that card to the battlefield under its owner's control with a vigilance counter and a lifelink counter on it."
+    },
+    {
+      "name": "Glacial Fortress",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Grasp of Fate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "When this enchantment enters, for each opponent, exile up to one target nonland permanent that player controls until this enchantment leaves the battlefield. (Those permanents return under their owners' control.)"
+    },
+    {
+      "name": "Grey Host Reinforcements",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Soldier Spirit",
+      "text": "Flying, ward {3}\nWhen this creature enters, exile target player's graveyard. Put a number of +1/+1 counters on this creature equal to the number of creature cards exiled this way."
+    },
+    {
+      "name": "Herald's Horn",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "As this artifact enters, choose a creature type.\nCreature spells you cast of the chosen type cost {1} less to cast.\nAt the beginning of your upkeep, look at the top card of your library. If it's a creature card of the chosen type, you may reveal it and put it into your hand."
+    },
+    {
+      "name": "Horn of Gondor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact",
+      "text": "When Horn of Gondor enters, create a 1/1 white Human Soldier creature token.\n{3}, {T}: Create X 1/1 white Human Soldier creature tokens, where X is the number of Humans you control."
+    },
+    {
+      "name": "Island",
+      "quantity": 5,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Island",
+      "text": "({T}: Add {U}.)"
+    },
+    {
+      "name": "Keeper of Keys",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Human Rogue Mutant",
+      "text": "When this creature enters, you become the monarch.\nAt the beginning of your upkeep, if you're the monarch, creatures you control can't be blocked this turn."
+    },
+    {
+      "name": "Lossarnach Captain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Human Soldier",
+      "text": "First strike\nWhenever this creature or another Human you control enters, tap target creature an opponent controls.\nAt the beginning of your upkeep, create a 1/1 white Human Soldier creature token."
+    },
+    {
+      "name": "Lost to Legend",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Put target nonland historic permanent into its owner's library fourth from the top. (Artifacts, legendaries, and Sagas are historic.)"
+    },
+    {
+      "name": "Mirror Entity",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Shapeshifter",
+      "text": "Changeling (This card is every creature type.)\n{X}: Until end of turn, creatures you control have base power and toughness X/X and gain all creature types."
+    },
+    {
+      "name": "Mountain",
+      "quantity": 5,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Oath of Eorl",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment — Saga",
+      "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create two 1/1 white Human Soldier creature tokens.\nII — Create two 2/2 red Human Knight creature tokens with trample and haste.\nIII — Put an indestructible counter on up to one target Human. You become the monarch."
+    },
+    {
+      "name": "Palace Jailer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Human Soldier",
+      "text": "When this creature enters, you become the monarch.\nWhen this creature enters, exile target creature an opponent controls until an opponent becomes the monarch."
+    },
+    {
+      "name": "Path of Ancestry",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    },
+    {
+      "name": "Path to Exile",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Plains",
+      "quantity": 9,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Plains",
+      "text": "({T}: Add {W}.)"
+    },
+    {
+      "name": "Supreme Verdict",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "This spell can't be countered.\nDestroy all creatures."
+    },
+    {
+      "name": "Swords to Plowshares",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Exile target creature. Its controller gains life equal to its power."
+    },
+    {
+      "name": "Talisman of Conviction",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {R} or {W}. This artifact deals 1 damage to you."
+    },
+    {
+      "name": "Talisman of Progress",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {U}. This artifact deals 1 damage to you."
+    },
+    {
+      "name": "Taunt from the Rampart",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Sorcery",
+      "text": "Goad all creatures your opponents control. Until your next turn, those creatures can't block. (Until your next turn, those creatures attack each combat if able and attack a player other than you if able.)"
+    },
+    {
+      "name": "Terramorphic Expanse",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "The Mountain-king's Return",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment — Saga",
+      "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Recruit. (Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Human Soldier creature token.)\nII — Return target creature card with mana value 3 or less from your graveyard to the battlefield.\nIII — Put a +1/+1 counter on up to one target creature."
+    },
+    {
+      "name": "Théoden, King of Rohan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Noble",
+      "text": "Whenever Théoden or another Human you control enters, target creature gains double strike until end of turn."
+    },
+    {
+      "name": "Thought Vessel",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "You have no maximum hand size.\n{T}: Add {C}."
+    },
+    {
+      "name": "Throne of the High City",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{4}, {T}, Sacrifice this land: You become the monarch."
+    },
+    {
+      "name": "Tranquil Cove",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Unbreakable Formation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Creatures you control gain indestructible until end of turn.\nAddendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn."
+    },
+    {
+      "name": "Vanquisher's Banner",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 5,
+      "type": "Artifact",
+      "text": "As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\nWhenever you cast a creature spell of the chosen type, draw a card."
+    },
+    {
+      "name": "Verge Rangers",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Scout Ranger",
+      "text": "First strike\nYou may look at the top card of your library any time.\nAs long as an opponent controls more lands than you, you may play lands from the top of your library. (You can play a land this way only if you have an available land play remaining.)"
+    },
+    {
+      "name": "Village Bell-Ringer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Scout",
+      "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, untap all creatures you control."
+    },
+    {
+      "name": "Visions of Glory",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Sorcery",
+      "text": "Create a 1/1 white Human creature token for each creature you control.\nFlashback {8}{W}{W}. This spell costs {X} less to cast this way, where X is the greatest mana value of a commander you own on the battlefield or in the command zone. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+    },
+    {
+      "name": "Wayfarer's Bauble",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Weathered Wayfarer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Human Cleric Nomad",
+      "text": "{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you."
+    },
+    {
+      "name": "Windbrisk Heights",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)\nThis land enters tapped.\n{T}: Add {W}.\n{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn."
+    },
+    {
+      "name": "Zealous Conscripts",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Human Warrior",
+      "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
+    },
+    {
+      "name": "Port Town",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, you may reveal a Plains or Island card from your hand. If you don't, this land enters tapped.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Prairie Stream",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Island",
+      "text": "({T}: Add {W} or {U}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "Prince Imrahil the Fair",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Human Noble",
+      "text": "Whenever you draw your second card each turn, create a 1/1 white Human Soldier creature token."
+    },
+    {
+      "name": "Riders of Rohan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Human Knight",
+      "text": "When this creature enters, create two 2/2 red Human Knight creature tokens with trample and haste.\nDash {4}{R}{W} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+    },
+    {
+      "name": "Rogue's Passage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."
+    },
+    {
+      "name": "Sacred Foundry",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Mountain",
+      "text": "({T}: Add {R} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Secluded Courtyard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type."
+    },
+    {
+      "name": "Selfless Squire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Human Soldier",
+      "text": "Flash\nWhen this creature enters, prevent all damage that would be dealt to you this turn.\nWhenever damage that would be dealt to you is prevented, put that many +1/+1 counters on this creature."
+    },
+    {
+      "name": "Shared Animosity",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it."
+    },
+    {
+      "name": "Skullclamp",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Steam Vents",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Mountain",
+      "text": "({T}: Add {U} or {R}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Sulfur Falls",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control an Island or a Mountain.\n{T}: Add {U} or {R}."
+    },
+    {
+      "name": "Sunset Revelry",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "If an opponent has more life than you, you gain 4 life.\nIf an opponent controls more creatures than you, create two 1/1 white Human creature tokens.\nIf an opponent has more cards in hand than you, draw a card."
+    }
+  ]
+}

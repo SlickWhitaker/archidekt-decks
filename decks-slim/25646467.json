@@ -1,1 +1,1008 @@
-{"id":25646467,"name":"Krenko, The Gobfather","format":3,"commander":["Krenko, Mob Boss"],"colorIdentity":["Red"],"counts":{"main":99,"commander":1,"maybeboard":0,"sideboard":0,"total":100},"cards":[{"name":"Krenko, Mob Boss","quantity":1,"board":"commander","colors":["Red"],"colorIdentity":["Red"],"manaValue":4,"type":"Legendary Creature — Goblin Warrior","text":"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control."},{"name":"Aggravated Assault","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Enchantment","text":"{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery."},{"name":"Anger","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":4,"type":"Creature — Incarnation","text":"Haste\nAs long as this card is in your graveyard and you control a Mountain, creatures you control have haste."},{"name":"Battle Cry Goblin","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":2,"type":"Creature — Goblin","text":"{1}{R}: Goblins you control get +1/+0 and gain haste until end of turn.\nPack tactics — Whenever this creature attacks, if you attacked with creatures with total power 6 or greater this combat, create a 1/1 red Goblin creature token that's tapped and attacking."},{"name":"Battlemage's Bracers","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Artifact — Equipment","text":"Equipped creature has haste.\nWhenever an ability of equipped creature is activated, if it isn't a mana ability, you may pay {1}. If you do, copy that ability. You may choose new targets for the copy.\nEquip {2}"},{"name":"Blasphemous Act","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":9,"type":"Sorcery","text":"This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature."},{"name":"Blood Moon","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Enchantment","text":"Nonbasic lands are Mountains."},{"name":"Brash Taunter","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":5,"type":"Creature — Goblin","text":"Indestructible\nWhenever this creature is dealt damage, it deals that much damage to target opponent.\n{2}{R}, {T}: This creature fights another target creature."},{"name":"Castle Embereth","quantity":1,"board":"main","colors":[],"colorIdentity":["Red"],"manaValue":0,"type":"Land","text":"This land enters tapped unless you control a Mountain.\n{T}: Add {R}.\n{1}{R}{R}, {T}: Creatures you control get +1/+0 until end of turn."},{"name":"Cavern of Souls","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."},{"name":"Chaos Warp","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Instant","text":"The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield."},{"name":"City on Fire","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":8,"type":"Enchantment","text":"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nIf a source you control would deal damage to a permanent or player, it deals triple that damage instead."},{"name":"Coat of Arms","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":5,"type":"Artifact","text":"Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"},{"name":"Conspicuous Snoop","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":2,"type":"Creature — Goblin Rogue","text":"Play with the top card of your library revealed.\nYou may cast Goblin spells from the top of your library.\nAs long as the top card of your library is a Goblin card, this creature has all activated abilities of that card."},{"name":"Deflecting Swat","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Instant","text":"If you control a commander, you may cast this spell without paying its mana cost.\nYou may choose new targets for target spell or ability."},{"name":"Den of the Bugbear","quantity":1,"board":"main","colors":[],"colorIdentity":["Red"],"manaValue":0,"type":"Land","text":"If you control two or more other lands, this land enters tapped.\n{T}: Add {R}.\n{3}{R}: Until end of turn, this land becomes a 3/2 red Goblin creature with \"Whenever this creature attacks, create a 1/1 red Goblin creature token that's tapped and attacking.\" It's still a land."},{"name":"Echoing Assault","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":5,"type":"Enchantment","text":"Creature tokens you control have menace.\nWhenever you attack a player, choose target nontoken creature that's attacking that player. Create a token that's a copy of that creature, except it's 1/1. The token enters tapped and attacking that player. Sacrifice it at the beginning of the next end step."},{"name":"Fury","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":5,"type":"Creature — Elemental Incarnation","text":"Double strike\nWhen this creature enters, it deals 4 damage divided as you choose among any number of target creatures and/or planeswalkers.\nEvoke—Exile a red card from your hand."},{"name":"Gamble","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":1,"type":"Sorcery","text":"Search your library for a card, put that card into your hand, discard a card at random, then shuffle."},{"name":"Gemstone Caverns","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Legendary Land","text":"If this card is in your opening hand and you're not the starting player, you may begin the game with Gemstone Caverns on the battlefield with a luck counter on it. If you do, exile a card from your hand.\n{T}: Add {C}. If Gemstone Caverns has a luck counter on it, instead add one mana of any color."},{"name":"Goblin Bombardment","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":2,"type":"Enchantment","text":"Sacrifice a creature: This enchantment deals 1 damage to any target."},{"name":"Goblin Chieftain","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Creature — Goblin","text":"Haste (This creature can attack and {T} as soon as it comes under your control.)\nOther Goblin creatures you control get +1/+1 and have haste."},{"name":"Goblin Cratermaker","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":2,"type":"Creature — Goblin Warrior","text":"{1}, Sacrifice this creature: Choose one —\n• This creature deals 2 damage to target creature.\n• Destroy target colorless nonland permanent."},{"name":"Goblin Engineer","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":2,"type":"Creature — Goblin Artificer","text":"When this creature enters, you may search your library for an artifact card, put it into your graveyard, then shuffle.\n{R}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield."},{"name":"Goblin Lackey","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":1,"type":"Creature — Goblin","text":"Whenever this creature deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield."},{"name":"Goblin Matron","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Creature — Goblin","text":"When this creature enters, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle."},{"name":"Goblin Recruiter","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":2,"type":"Creature — Goblin","text":"When this creature enters, search your library for any number of Goblin cards, reveal them, then shuffle and put those cards on top in any order."},{"name":"Goblin Ringleader","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":4,"type":"Creature — Goblin","text":"Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhen this creature enters, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order."},{"name":"Goblin Sharpshooter","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Creature — Goblin","text":"This creature doesn't untap during your untap step.\nWhenever a creature dies, untap this creature.\n{T}: This creature deals 1 damage to any target."},{"name":"Goblin Trashmaster","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":4,"type":"Creature — Goblin Warrior","text":"Other Goblins you control get +1/+1.\nSacrifice a Goblin: Destroy target artifact."},{"name":"Goblin Warchief","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Creature — Goblin Warrior","text":"Goblin spells you cast cost {1} less to cast.\nGoblins you control have haste."},{"name":"Goblin-town Flunkies","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":2,"type":"Creature — Goblin Soldier","text":"Haste\nWhen this creature enters, amass Goblins 1. (Put a +1/+1 counter on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)"},{"name":"Goro-Goro, Disciple of Ryusei","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":2,"type":"Legendary Creature — Goblin Samurai","text":"{R}: Creatures you control gain haste until end of turn.\n{3}{R}{R}: Create a 5/5 red Dragon Spirit creature token with flying. Activate only if you control an attacking modified creature. (Equipment, Auras you control, and counters are modifications.)"},{"name":"Great Train Heist","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":1,"type":"Instant","text":"Spree (Choose one or more additional costs.)\n+ {2}{R} — Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.\n+ {2} — Creatures you control get +1/+0 and gain first strike until end of turn.\n+ {R} — Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token."},{"name":"Grenzo, Havoc Raiser","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":2,"type":"Legendary Creature — Goblin Rogue","text":"Whenever a creature you control deals combat damage to a player, choose one —\n• Goad target creature that player controls.\n• Exile the top card of that player's library. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell."},{"name":"Hanweir Battlements","quantity":1,"board":"main","colors":[],"colorIdentity":["Red"],"manaValue":0,"type":"Land","text":"{T}: Add {C}.\n{R}, {T}: Target creature gains haste until end of turn.\n{3}{R}{R}, {T}: If you both own and control this land and a creature named Hanweir Garrison, exile them, then meld them into Hanweir, the Writhing Township."},{"name":"Hazoret's Monument","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":3,"type":"Legendary Artifact","text":"Red creature spells you cast cost {1} less to cast.\nWhenever you cast a creature spell, you may discard a card. If you do, draw a card."},{"name":"Heat Shimmer","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Sorcery","text":"Create a token that's a copy of target creature, except it has haste and \"At the beginning of the end step, exile this token.\""},{"name":"Hobgoblin Bandit Lord","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Creature — Goblin Rogue","text":"Other Goblins you control get +1/+1.\n{R}, {T}: This creature deals damage equal to the number of Goblins that entered the battlefield under your control this turn to any target."},{"name":"Illusionist's Bracers","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Artifact — Equipment","text":"Whenever an ability of equipped creature is activated, if it isn't a mana ability, copy that ability. You may choose new targets for the copy.\nEquip {3}"},{"name":"Impact Tremors","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":2,"type":"Enchantment","text":"Whenever a creature you control enters, this enchantment deals 1 damage to each opponent."},{"name":"Imperial Recruiter","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Creature — Human Advisor","text":"When this creature enters, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle."},{"name":"Jeska's Will","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Sorcery","text":"Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Add {R} for each card in target opponent's hand.\n• Exile the top three cards of your library. You may play them this turn."},{"name":"Kiki-Jiki, Mirror Breaker","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":5,"type":"Legendary Creature — Goblin Shaman","text":"Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step."},{"name":"Krenko, Tin Street Kingpin","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Legendary Creature — Goblin","text":"Whenever Krenko attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power."},{"name":"Legion Loyalist","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":1,"type":"Creature — Goblin Soldier","text":"Haste\nBattalion — Whenever this creature and at least two other creatures attack, creatures you control gain first strike and trample until end of turn and can't be blocked by creature tokens this turn."},{"name":"Lightning Greaves","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Artifact — Equipment","text":"Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"},{"name":"Mana Echoes","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":4,"type":"Enchantment","text":"Whenever a creature enters, you may add an amount of {C} equal to the number of creatures you control that share a creature type with it."},{"name":"Marvin, Murderous Mimic","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Legendary Creature Artifact — Toy","text":"Marvin has all activated abilities of creatures you control that don't have the same name as this creature."},{"name":"Metallic Mimic","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Creature Artifact — Shapeshifter","text":"As this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nEach other creature you control of the chosen type enters with an additional +1/+1 counter on it."},{"name":"Mogg War Marshal","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":2,"type":"Creature — Goblin Warrior","text":"Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen this creature enters or dies, create a 1/1 red Goblin creature token."},{"name":"Moggcatcher","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":4,"type":"Creature — Human Mercenary","text":"{3}, {T}: Search your library for a Goblin permanent card, put it onto the battlefield, then shuffle."},{"name":"Mountain","quantity":25,"board":"main","colors":[],"colorIdentity":["Red"],"manaValue":0,"type":"Basic Land — Mountain","text":"({T}: Add {R}.)"},{"name":"Muxus, Goblin Grandee","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":6,"type":"Legendary Creature — Goblin Noble","text":"When Muxus enters, reveal the top six cards of your library. Put all Goblin creature cards with mana value 5 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.\nWhenever Muxus attacks, it gets +1/+1 until end of turn for each other Goblin you control."},{"name":"Outpost Siege","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":4,"type":"Enchantment","text":"As this enchantment enters, choose Khans or Dragons.\n• Khans — At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.\n• Dragons — Whenever a creature you control leaves the battlefield, this enchantment deals 1 damage to any target."},{"name":"Pashalik Mons","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Legendary Creature — Goblin Warrior","text":"Whenever Pashalik Mons or another Goblin you control dies, Pashalik Mons deals 1 damage to any target.\n{3}{R}, Sacrifice a Goblin: Create two 1/1 red Goblin creature tokens."},{"name":"Professional Face-Breaker","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Creature — Human Warrior","text":"Menace\nWhenever one or more creatures you control deal combat damage to a player, create a Treasure token.\nSacrifice a Treasure: Exile the top card of your library. You may play that card this turn."},{"name":"Purphoros, God of the Forge","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":4,"type":"Legendary Creature Enchantment — God","text":"Indestructible\nAs long as your devotion to red is less than five, Purphoros isn't a creature.\nWhenever another creature you control enters, Purphoros deals 2 damage to each opponent.\n{2}{R}: Creatures you control get +1/+0 until end of turn."},{"name":"Ragavan, Nimble Pilferer","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":1,"type":"Legendary Creature — Pirate Monkey","text":"Whenever Ragavan deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.\nDash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"},{"name":"Rings of Brighthearth","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":3,"type":"Artifact","text":"Whenever you activate an ability, if it isn't a mana ability, you may pay {2}. If you do, copy that ability. You may choose new targets for the copy."},{"name":"Ruby Medallion","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Artifact","text":"Red spells you cast cost {1} less to cast."},{"name":"Rundvelt Hordemaster","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":2,"type":"Creature — Goblin Warrior","text":"Other Goblins you control get +1/+1.\nWhenever this creature or another Goblin you control dies, exile the top card of your library. If it's a Goblin creature card, you may cast that card until the end of your next turn."},{"name":"Shared Animosity","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Enchantment","text":"Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it."},{"name":"Skirk Fire Marshal","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":5,"type":"Creature — Goblin","text":"Protection from red\nTap five untapped Goblins you control: This creature deals 10 damage to each creature and each player."},{"name":"Skirk Prospector","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":1,"type":"Creature — Goblin","text":"Sacrifice a Goblin: Add {R}."},{"name":"Skullclamp","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":1,"type":"Artifact — Equipment","text":"Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"},{"name":"Sol Ring","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":1,"type":"Artifact","text":"{T}: Add {C}{C}."},{"name":"Squee, Dubious Monarch","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Legendary Creature — Goblin Noble","text":"Haste\nWhenever Squee attacks, create a 1/1 red Goblin creature token that's tapped and attacking.\nYou may cast this card from your graveyard by paying {3}{R} and exiling four other cards from your graveyard rather than paying its mana cost."},{"name":"Staff of Domination","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":3,"type":"Artifact","text":"{1}: Untap this artifact.\n{2}, {T}: You gain 1 life.\n{3}, {T}: Untap target creature.\n{4}, {T}: Tap target creature.\n{5}, {T}: Draw a card."},{"name":"Sting, the Glinting Dagger","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Legendary Artifact — Equipment","text":"Equipped creature gets +1/+1 and has haste.\nAt the beginning of each combat, untap equipped creature.\nEquipped creature has first strike as long as it's blocking or blocked by a Goblin or Orc.\nEquip {2}"},{"name":"Thornbite Staff","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Artifact Kindred — Equipment Shaman","text":"Equipped creature has \"{2}, {T}: This creature deals 1 damage to any target\" and \"Whenever a creature dies, untap this creature.\"\nWhenever a Shaman creature enters, you may attach this Equipment to it.\nEquip {4}"},{"name":"Thousand-Year Elixir","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":3,"type":"Artifact","text":"You may activate abilities of creatures you control as though those creatures had haste.\n{1}, {T}: Untap target creature."},{"name":"Torbran, Thane of Red Fell","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":4,"type":"Legendary Creature — Dwarf Noble","text":"If a red source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead."},{"name":"Urza's Incubator","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":3,"type":"Artifact","text":"As this artifact enters, choose a creature type.\nCreature spells of the chosen type cost {2} less to cast."},{"name":"Valakut Exploration","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":3,"type":"Enchantment","text":"Landfall — Whenever a land you control enters, exile the top card of your library. You may play that card for as long as it remains exiled.\nAt the beginning of your end step, if there are cards exiled with this enchantment, put them into their owner's graveyard, then this enchantment deals that much damage to each opponent."},{"name":"Zealous Conscripts","quantity":1,"board":"main","colors":["Red"],"colorIdentity":["Red"],"manaValue":5,"type":"Creature — Human Warrior","text":"Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."}]}
+{
+  "id": 25646467,
+  "name": "Krenko, The Gobfather",
+  "format": 3,
+  "commander": [
+    "Krenko, Mob Boss"
+  ],
+  "colorIdentity": [
+    "Red"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  },
+  "cards": [
+    {
+      "name": "Krenko, Mob Boss",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Goblin Warrior",
+      "text": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control."
+    },
+    {
+      "name": "Aggravated Assault",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery."
+    },
+    {
+      "name": "Anger",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Incarnation",
+      "text": "Haste\nAs long as this card is in your graveyard and you control a Mountain, creatures you control have haste."
+    },
+    {
+      "name": "Battle Cry Goblin",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Goblin",
+      "text": "{1}{R}: Goblins you control get +1/+0 and gain haste until end of turn.\nPack tactics — Whenever this creature attacks, if you attacked with creatures with total power 6 or greater this combat, create a 1/1 red Goblin creature token that's tapped and attacking."
+    },
+    {
+      "name": "Battlemage's Bracers",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has haste.\nWhenever an ability of equipped creature is activated, if it isn't a mana ability, you may pay {1}. If you do, copy that ability. You may choose new targets for the copy.\nEquip {2}"
+    },
+    {
+      "name": "Blasphemous Act",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 9,
+      "type": "Sorcery",
+      "text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature."
+    },
+    {
+      "name": "Blood Moon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Nonbasic lands are Mountains."
+    },
+    {
+      "name": "Brash Taunter",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Goblin",
+      "text": "Indestructible\nWhenever this creature is dealt damage, it deals that much damage to target opponent.\n{2}{R}, {T}: This creature fights another target creature."
+    },
+    {
+      "name": "Castle Embereth",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Mountain.\n{T}: Add {R}.\n{1}{R}{R}, {T}: Creatures you control get +1/+0 until end of turn."
+    },
+    {
+      "name": "Cavern of Souls",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
+    },
+    {
+      "name": "Chaos Warp",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield."
+    },
+    {
+      "name": "City on Fire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 8,
+      "type": "Enchantment",
+      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nIf a source you control would deal damage to a permanent or player, it deals triple that damage instead."
+    },
+    {
+      "name": "Coat of Arms",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 5,
+      "type": "Artifact",
+      "text": "Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
+    },
+    {
+      "name": "Conspicuous Snoop",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Goblin Rogue",
+      "text": "Play with the top card of your library revealed.\nYou may cast Goblin spells from the top of your library.\nAs long as the top card of your library is a Goblin card, this creature has all activated abilities of that card."
+    },
+    {
+      "name": "Deflecting Swat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nYou may choose new targets for target spell or ability."
+    },
+    {
+      "name": "Den of the Bugbear",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "If you control two or more other lands, this land enters tapped.\n{T}: Add {R}.\n{3}{R}: Until end of turn, this land becomes a 3/2 red Goblin creature with \"Whenever this creature attacks, create a 1/1 red Goblin creature token that's tapped and attacking.\" It's still a land."
+    },
+    {
+      "name": "Echoing Assault",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Creature tokens you control have menace.\nWhenever you attack a player, choose target nontoken creature that's attacking that player. Create a token that's a copy of that creature, except it's 1/1. The token enters tapped and attacking that player. Sacrifice it at the beginning of the next end step."
+    },
+    {
+      "name": "Fury",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Elemental Incarnation",
+      "text": "Double strike\nWhen this creature enters, it deals 4 damage divided as you choose among any number of target creatures and/or planeswalkers.\nEvoke—Exile a red card from your hand."
+    },
+    {
+      "name": "Gamble",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle."
+    },
+    {
+      "name": "Gemstone Caverns",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "If this card is in your opening hand and you're not the starting player, you may begin the game with Gemstone Caverns on the battlefield with a luck counter on it. If you do, exile a card from your hand.\n{T}: Add {C}. If Gemstone Caverns has a luck counter on it, instead add one mana of any color."
+    },
+    {
+      "name": "Goblin Bombardment",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "Sacrifice a creature: This enchantment deals 1 damage to any target."
+    },
+    {
+      "name": "Goblin Chieftain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Goblin",
+      "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nOther Goblin creatures you control get +1/+1 and have haste."
+    },
+    {
+      "name": "Goblin Cratermaker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Goblin Warrior",
+      "text": "{1}, Sacrifice this creature: Choose one —\n• This creature deals 2 damage to target creature.\n• Destroy target colorless nonland permanent."
+    },
+    {
+      "name": "Goblin Engineer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Goblin Artificer",
+      "text": "When this creature enters, you may search your library for an artifact card, put it into your graveyard, then shuffle.\n{R}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield."
+    },
+    {
+      "name": "Goblin Lackey",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Goblin",
+      "text": "Whenever this creature deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield."
+    },
+    {
+      "name": "Goblin Matron",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Goblin",
+      "text": "When this creature enters, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle."
+    },
+    {
+      "name": "Goblin Recruiter",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Goblin",
+      "text": "When this creature enters, search your library for any number of Goblin cards, reveal them, then shuffle and put those cards on top in any order."
+    },
+    {
+      "name": "Goblin Ringleader",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Goblin",
+      "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhen this creature enters, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order."
+    },
+    {
+      "name": "Goblin Sharpshooter",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Goblin",
+      "text": "This creature doesn't untap during your untap step.\nWhenever a creature dies, untap this creature.\n{T}: This creature deals 1 damage to any target."
+    },
+    {
+      "name": "Goblin Trashmaster",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Goblin Warrior",
+      "text": "Other Goblins you control get +1/+1.\nSacrifice a Goblin: Destroy target artifact."
+    },
+    {
+      "name": "Goblin Warchief",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Goblin Warrior",
+      "text": "Goblin spells you cast cost {1} less to cast.\nGoblins you control have haste."
+    },
+    {
+      "name": "Goblin-town Flunkies",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Goblin Soldier",
+      "text": "Haste\nWhen this creature enters, amass Goblins 1. (Put a +1/+1 counter on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)"
+    },
+    {
+      "name": "Goro-Goro, Disciple of Ryusei",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Goblin Samurai",
+      "text": "{R}: Creatures you control gain haste until end of turn.\n{3}{R}{R}: Create a 5/5 red Dragon Spirit creature token with flying. Activate only if you control an attacking modified creature. (Equipment, Auras you control, and counters are modifications.)"
+    },
+    {
+      "name": "Great Train Heist",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Spree (Choose one or more additional costs.)\n+ {2}{R} — Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.\n+ {2} — Creatures you control get +1/+0 and gain first strike until end of turn.\n+ {R} — Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token."
+    },
+    {
+      "name": "Grenzo, Havoc Raiser",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Goblin Rogue",
+      "text": "Whenever a creature you control deals combat damage to a player, choose one —\n• Goad target creature that player controls.\n• Exile the top card of that player's library. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell."
+    },
+    {
+      "name": "Hanweir Battlements",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{R}, {T}: Target creature gains haste until end of turn.\n{3}{R}{R}, {T}: If you both own and control this land and a creature named Hanweir Garrison, exile them, then meld them into Hanweir, the Writhing Township."
+    },
+    {
+      "name": "Hazoret's Monument",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact",
+      "text": "Red creature spells you cast cost {1} less to cast.\nWhenever you cast a creature spell, you may discard a card. If you do, draw a card."
+    },
+    {
+      "name": "Heat Shimmer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Create a token that's a copy of target creature, except it has haste and \"At the beginning of the end step, exile this token.\""
+    },
+    {
+      "name": "Hobgoblin Bandit Lord",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Goblin Rogue",
+      "text": "Other Goblins you control get +1/+1.\n{R}, {T}: This creature deals damage equal to the number of Goblins that entered the battlefield under your control this turn to any target."
+    },
+    {
+      "name": "Illusionist's Bracers",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Whenever an ability of equipped creature is activated, if it isn't a mana ability, copy that ability. You may choose new targets for the copy.\nEquip {3}"
+    },
+    {
+      "name": "Impact Tremors",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "Whenever a creature you control enters, this enchantment deals 1 damage to each opponent."
+    },
+    {
+      "name": "Imperial Recruiter",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Advisor",
+      "text": "When this creature enters, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle."
+    },
+    {
+      "name": "Jeska's Will",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Add {R} for each card in target opponent's hand.\n• Exile the top three cards of your library. You may play them this turn."
+    },
+    {
+      "name": "Kiki-Jiki, Mirror Breaker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Goblin Shaman",
+      "text": "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step."
+    },
+    {
+      "name": "Krenko, Tin Street Kingpin",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Goblin",
+      "text": "Whenever Krenko attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power."
+    },
+    {
+      "name": "Legion Loyalist",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Goblin Soldier",
+      "text": "Haste\nBattalion — Whenever this creature and at least two other creatures attack, creatures you control gain first strike and trample until end of turn and can't be blocked by creature tokens this turn."
+    },
+    {
+      "name": "Lightning Greaves",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
+    },
+    {
+      "name": "Mana Echoes",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Whenever a creature enters, you may add an amount of {C} equal to the number of creatures you control that share a creature type with it."
+    },
+    {
+      "name": "Marvin, Murderous Mimic",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Legendary Creature Artifact — Toy",
+      "text": "Marvin has all activated abilities of creatures you control that don't have the same name as this creature."
+    },
+    {
+      "name": "Metallic Mimic",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Creature Artifact — Shapeshifter",
+      "text": "As this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nEach other creature you control of the chosen type enters with an additional +1/+1 counter on it."
+    },
+    {
+      "name": "Mogg War Marshal",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Goblin Warrior",
+      "text": "Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen this creature enters or dies, create a 1/1 red Goblin creature token."
+    },
+    {
+      "name": "Moggcatcher",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Human Mercenary",
+      "text": "{3}, {T}: Search your library for a Goblin permanent card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Mountain",
+      "quantity": 25,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Muxus, Goblin Grandee",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Goblin Noble",
+      "text": "When Muxus enters, reveal the top six cards of your library. Put all Goblin creature cards with mana value 5 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.\nWhenever Muxus attacks, it gets +1/+1 until end of turn for each other Goblin you control."
+    },
+    {
+      "name": "Outpost Siege",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "As this enchantment enters, choose Khans or Dragons.\n• Khans — At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.\n• Dragons — Whenever a creature you control leaves the battlefield, this enchantment deals 1 damage to any target."
+    },
+    {
+      "name": "Pashalik Mons",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Goblin Warrior",
+      "text": "Whenever Pashalik Mons or another Goblin you control dies, Pashalik Mons deals 1 damage to any target.\n{3}{R}, Sacrifice a Goblin: Create two 1/1 red Goblin creature tokens."
+    },
+    {
+      "name": "Professional Face-Breaker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Warrior",
+      "text": "Menace\nWhenever one or more creatures you control deal combat damage to a player, create a Treasure token.\nSacrifice a Treasure: Exile the top card of your library. You may play that card this turn."
+    },
+    {
+      "name": "Purphoros, God of the Forge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature Enchantment — God",
+      "text": "Indestructible\nAs long as your devotion to red is less than five, Purphoros isn't a creature.\nWhenever another creature you control enters, Purphoros deals 2 damage to each opponent.\n{2}{R}: Creatures you control get +1/+0 until end of turn."
+    },
+    {
+      "name": "Ragavan, Nimble Pilferer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Legendary Creature — Pirate Monkey",
+      "text": "Whenever Ragavan deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.\nDash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+    },
+    {
+      "name": "Rings of Brighthearth",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "Whenever you activate an ability, if it isn't a mana ability, you may pay {2}. If you do, copy that ability. You may choose new targets for the copy."
+    },
+    {
+      "name": "Ruby Medallion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "Red spells you cast cost {1} less to cast."
+    },
+    {
+      "name": "Rundvelt Hordemaster",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Goblin Warrior",
+      "text": "Other Goblins you control get +1/+1.\nWhenever this creature or another Goblin you control dies, exile the top card of your library. If it's a Goblin creature card, you may cast that card until the end of your next turn."
+    },
+    {
+      "name": "Shared Animosity",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it."
+    },
+    {
+      "name": "Skirk Fire Marshal",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Goblin",
+      "text": "Protection from red\nTap five untapped Goblins you control: This creature deals 10 damage to each creature and each player."
+    },
+    {
+      "name": "Skirk Prospector",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Goblin",
+      "text": "Sacrifice a Goblin: Add {R}."
+    },
+    {
+      "name": "Skullclamp",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Squee, Dubious Monarch",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Goblin Noble",
+      "text": "Haste\nWhenever Squee attacks, create a 1/1 red Goblin creature token that's tapped and attacking.\nYou may cast this card from your graveyard by paying {3}{R} and exiling four other cards from your graveyard rather than paying its mana cost."
+    },
+    {
+      "name": "Staff of Domination",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "{1}: Untap this artifact.\n{2}, {T}: You gain 1 life.\n{3}, {T}: Untap target creature.\n{4}, {T}: Tap target creature.\n{5}, {T}: Draw a card."
+    },
+    {
+      "name": "Sting, the Glinting Dagger",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Equipped creature gets +1/+1 and has haste.\nAt the beginning of each combat, untap equipped creature.\nEquipped creature has first strike as long as it's blocking or blocked by a Goblin or Orc.\nEquip {2}"
+    },
+    {
+      "name": "Thornbite Staff",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact Kindred — Equipment Shaman",
+      "text": "Equipped creature has \"{2}, {T}: This creature deals 1 damage to any target\" and \"Whenever a creature dies, untap this creature.\"\nWhenever a Shaman creature enters, you may attach this Equipment to it.\nEquip {4}"
+    },
+    {
+      "name": "Thousand-Year Elixir",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "You may activate abilities of creatures you control as though those creatures had haste.\n{1}, {T}: Untap target creature."
+    },
+    {
+      "name": "Torbran, Thane of Red Fell",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Dwarf Noble",
+      "text": "If a red source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead."
+    },
+    {
+      "name": "Urza's Incubator",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "As this artifact enters, choose a creature type.\nCreature spells of the chosen type cost {2} less to cast."
+    },
+    {
+      "name": "Valakut Exploration",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Landfall — Whenever a land you control enters, exile the top card of your library. You may play that card for as long as it remains exiled.\nAt the beginning of your end step, if there are cards exiled with this enchantment, put them into their owner's graveyard, then this enchantment deals that much damage to each opponent."
+    },
+    {
+      "name": "Zealous Conscripts",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Human Warrior",
+      "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
+    }
+  ]
+}
