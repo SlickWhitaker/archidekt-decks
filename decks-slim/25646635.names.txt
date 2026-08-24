@@ -64,18 +64,6 @@ Opposition Agent
 Orcish Bowmasters
 Ornithopter
 Otawara, Soaring City
-Pact of Negation
-Phyrexian Walker
-Polluted Delta
-Ponder
-Prosperous Thief
-Sakashima's Student
-Satoru Umezawa
-Satoru, the Infiltrator
-Scroll Rack
-Sensei's Divining Top
-Shizo, Death's Storehouse
-Silver-Fur Master
 Sink into Stupor // Soporific Springs
 Skullsnatcher
 Slither Blade
@@ -96,3 +84,15 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
+Pact of Negation
+Phyrexian Walker
+Polluted Delta
+Ponder
+Prosperous Thief
+Sakashima's Student
+Satoru Umezawa
+Satoru, the Infiltrator
+Scroll Rack
+Sensei's Divining Top
+Shizo, Death's Storehouse
+Silver-Fur Master
