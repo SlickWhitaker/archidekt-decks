@@ -1,0 +1,19 @@
+{
+  "id": 25645511,
+  "name": "Akul the Unrepentant",
+  "format": 3,
+  "commander": [
+    "Akul the Unrepentant"
+  ],
+  "colorIdentity": [
+    "Black",
+    "Red"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

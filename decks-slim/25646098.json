@@ -1044,6 +1044,20 @@
       "text": "({T}: Add {U} or {B}.)\nThis land enters tapped unless you control two or more basic lands."
     },
     {
+      "name": "Super Combo",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Replicate {2} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nTarget creature you control deals damage equal to its power to target creature an opponent controls."
+    },
+    {
       "name": "Swamp",
       "quantity": 2,
       "board": "main",
@@ -1224,20 +1238,6 @@
       "manaValue": 6,
       "type": "Creature — Elemental Incarnation",
       "text": "Trample\nIf damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.\nWhen Vigor is put into a graveyard from anywhere, shuffle it into its owner's library."
-    },
-    {
-      "name": "Super Combo",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Replicate {2} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nTarget creature you control deals damage equal to its power to target creature an opponent controls."
     },
     {
       "name": "Arcade Cabinet",

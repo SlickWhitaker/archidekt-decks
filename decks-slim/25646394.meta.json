@@ -1,0 +1,18 @@
+{
+  "id": 25646394,
+  "name": "Jaws: We're Gonna Need a Bigger Deck",
+  "format": 3,
+  "commander": [
+    "Jaws, Relentless Predator"
+  ],
+  "colorIdentity": [
+    "Red"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 25645985,
+  "name": "Food and Fellowship UPGRADE",
+  "format": 3,
+  "commander": [
+    "Sam, Loyal Attendant",
+    "Frodo, Adventurous Hobbit"
+  ],
+  "colorIdentity": [
+    "Black",
+    "Green",
+    "White"
+  ],
+  "counts": {
+    "main": 98,
+    "commander": 2,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

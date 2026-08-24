@@ -1,0 +1,18 @@
+{
+  "id": 25646467,
+  "name": "Krenko, The Gobfather",
+  "format": 3,
+  "commander": [
+    "Krenko, Mob Boss"
+  ],
+  "colorIdentity": [
+    "Red"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

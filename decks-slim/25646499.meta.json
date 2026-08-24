@@ -1,0 +1,20 @@
+{
+  "id": 25646499,
+  "name": "Riders of Rohan UPGRADE",
+  "format": 3,
+  "commander": [
+    "Éowyn, Shieldmaiden"
+  ],
+  "colorIdentity": [
+    "Blue",
+    "Red",
+    "White"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

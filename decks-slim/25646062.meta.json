@@ -1,0 +1,19 @@
+{
+  "id": 25646062,
+  "name": "Hakbal, Prince of Tides",
+  "format": 3,
+  "commander": [
+    "Hakbal of the Surging Soul"
+  ],
+  "colorIdentity": [
+    "Blue",
+    "Green"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

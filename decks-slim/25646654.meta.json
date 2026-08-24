@@ -1,0 +1,20 @@
+{
+  "id": 25646654,
+  "name": "Zinnia's Birds and the Bees",
+  "format": 3,
+  "commander": [
+    "Zinnia, Valley's Voice"
+  ],
+  "colorIdentity": [
+    "Blue",
+    "Red",
+    "White"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

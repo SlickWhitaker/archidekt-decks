@@ -1,0 +1,20 @@
+{
+  "id": 25645947,
+  "name": "Edgar Markov, Trust Fund Vampires",
+  "format": 3,
+  "commander": [
+    "Edgar Markov"
+  ],
+  "colorIdentity": [
+    "Black",
+    "Red",
+    "White"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

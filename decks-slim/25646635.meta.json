@@ -1,0 +1,19 @@
+{
+  "id": 25646635,
+  "name": "Yuriko: Go, Ninja, Go!",
+  "format": 3,
+  "commander": [
+    "Yuriko, the Tiger's Shadow"
+  ],
+  "colorIdentity": [
+    "Black",
+    "Blue"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

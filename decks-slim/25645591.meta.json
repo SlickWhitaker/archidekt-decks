@@ -1,0 +1,19 @@
+{
+  "id": 25645591,
+  "name": "Atarka's Draconic Destruction",
+  "format": 3,
+  "commander": [
+    "Atarka, World Render"
+  ],
+  "colorIdentity": [
+    "Green",
+    "Red"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

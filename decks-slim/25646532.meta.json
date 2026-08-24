@@ -1,0 +1,18 @@
+{
+  "id": 25646532,
+  "name": "Tinybones, Budget Thief",
+  "format": 3,
+  "commander": [
+    "Tinybones, Trinket Thief"
+  ],
+  "colorIdentity": [
+    "Black"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": 25646033,
+  "name": "Grolnok: Hop 'til You Drop",
+  "format": 3,
+  "commander": [
+    "Grolnok, the Omnivore"
+  ],
+  "colorIdentity": [
+    "Blue",
+    "Green"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

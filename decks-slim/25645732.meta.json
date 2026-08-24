@@ -1,0 +1,20 @@
+{
+  "id": 25645732,
+  "name": "Cloud, Equipment Buster",
+  "format": 3,
+  "commander": [
+    "Cloud, Ex-SOLDIER"
+  ],
+  "colorIdentity": [
+    "Green",
+    "Red",
+    "White"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

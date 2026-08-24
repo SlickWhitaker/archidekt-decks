@@ -1,0 +1,20 @@
+{
+  "id": 25646583,
+  "name": "Uugguu, Secret of the Ooze",
+  "format": 3,
+  "commander": [
+    "Uugguu, the Omniplasm"
+  ],
+  "colorIdentity": [
+    "Black",
+    "Blue",
+    "Green"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

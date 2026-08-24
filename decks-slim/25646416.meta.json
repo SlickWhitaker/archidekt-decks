@@ -1,0 +1,19 @@
+{
+  "id": 25646416,
+  "name": "Kibo's Banana Republic",
+  "format": 3,
+  "commander": [
+    "Kibo, Uktabi Prince"
+  ],
+  "colorIdentity": [
+    "Green",
+    "Red"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

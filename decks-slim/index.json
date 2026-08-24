@@ -3,7 +3,7 @@
     {
       "id": 25645511,
       "name": "Akul the Unrepentant",
-      "file": "25645511.json",
+      "format": 3,
       "commander": [
         "Akul the Unrepentant"
       ],
@@ -18,14 +18,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25645511.names.txt",
+      "cardsFile": "25645511.cards.jsonl",
+      "metaFile": "25645511.meta.json",
       "fullBytes": 259684,
-      "slimBytes": 32518,
-      "reductionPercent": 87.5
+      "analysisBytes": 25286,
+      "reductionPercent": 90.3
     },
     {
       "id": 25645591,
       "name": "Atarka's Draconic Destruction",
-      "file": "25645591.json",
+      "format": 3,
       "commander": [
         "Atarka, World Render"
       ],
@@ -40,14 +43,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25645591.names.txt",
+      "cardsFile": "25645591.cards.jsonl",
+      "metaFile": "25645591.meta.json",
       "fullBytes": 231057,
-      "slimBytes": 29592,
-      "reductionPercent": 87.2
+      "analysisBytes": 23173,
+      "reductionPercent": 90.0
     },
     {
       "id": 25645631,
       "name": "Captain Howler, Pirate of the Card-ibbean",
-      "file": "25645631.json",
+      "format": 3,
       "commander": [
         "Captain Howler, Sea Scourge"
       ],
@@ -62,14 +68,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25645631.names.txt",
+      "cardsFile": "25645631.cards.jsonl",
+      "metaFile": "25645631.meta.json",
       "fullBytes": 286362,
-      "slimBytes": 36646,
-      "reductionPercent": 87.2
+      "analysisBytes": 29062,
+      "reductionPercent": 89.9
     },
     {
       "id": 25645732,
       "name": "Cloud, Equipment Buster",
-      "file": "25645732.json",
+      "format": 3,
       "commander": [
         "Cloud, Ex-SOLDIER"
       ],
@@ -85,14 +94,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25645732.names.txt",
+      "cardsFile": "25645732.cards.jsonl",
+      "metaFile": "25645732.meta.json",
       "fullBytes": 304371,
-      "slimBytes": 40831,
-      "reductionPercent": 86.6
+      "analysisBytes": 32735,
+      "reductionPercent": 89.2
     },
     {
       "id": 25645835,
       "name": "Dr. Who: Timey-Wimey",
-      "file": "25645835.json",
+      "format": 3,
       "commander": [
         "Rose Tyler",
         "The Tenth Doctor"
@@ -109,14 +121,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25645835.names.txt",
+      "cardsFile": "25645835.cards.jsonl",
+      "metaFile": "25645835.meta.json",
       "fullBytes": 302293,
-      "slimBytes": 44427,
-      "reductionPercent": 85.3
+      "analysisBytes": 36190,
+      "reductionPercent": 88.0
     },
     {
       "id": 25645947,
       "name": "Edgar Markov, Trust Fund Vampires",
-      "file": "25645947.json",
+      "format": 3,
       "commander": [
         "Edgar Markov"
       ],
@@ -132,14 +147,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25645947.names.txt",
+      "cardsFile": "25645947.cards.jsonl",
+      "metaFile": "25645947.meta.json",
       "fullBytes": 279559,
-      "slimBytes": 36218,
-      "reductionPercent": 87.0
+      "analysisBytes": 28630,
+      "reductionPercent": 89.8
     },
     {
       "id": 25645985,
       "name": "Food and Fellowship UPGRADE",
-      "file": "25645985.json",
+      "format": 3,
       "commander": [
         "Sam, Loyal Attendant",
         "Frodo, Adventurous Hobbit"
@@ -156,14 +174,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25645985.names.txt",
+      "cardsFile": "25645985.cards.jsonl",
+      "metaFile": "25645985.meta.json",
       "fullBytes": 282802,
-      "slimBytes": 38393,
-      "reductionPercent": 86.4
+      "analysisBytes": 30719,
+      "reductionPercent": 89.1
     },
     {
       "id": 25646033,
       "name": "Grolnok: Hop 'til You Drop",
-      "file": "25646033.json",
+      "format": 3,
       "commander": [
         "Grolnok, the Omnivore"
       ],
@@ -178,14 +199,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25646033.names.txt",
+      "cardsFile": "25646033.cards.jsonl",
+      "metaFile": "25646033.meta.json",
       "fullBytes": 292550,
-      "slimBytes": 38276,
-      "reductionPercent": 86.9
+      "analysisBytes": 30510,
+      "reductionPercent": 89.6
     },
     {
       "id": 25646062,
       "name": "Hakbal, Prince of Tides",
-      "file": "25646062.json",
+      "format": 3,
       "commander": [
         "Hakbal of the Surging Soul"
       ],
@@ -200,14 +224,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25646062.names.txt",
+      "cardsFile": "25646062.cards.jsonl",
+      "metaFile": "25646062.meta.json",
       "fullBytes": 259650,
-      "slimBytes": 34566,
-      "reductionPercent": 86.7
+      "analysisBytes": 27610,
+      "reductionPercent": 89.4
     },
     {
       "id": 25646098,
       "name": "Teenage Mutant Token Turtles",
-      "file": "25646098.json",
+      "format": 3,
       "commander": [
         "Michelangelo, the Heart",
         "Leonardo, the Balance"
@@ -226,14 +253,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25646098.names.txt",
+      "cardsFile": "25646098.cards.jsonl",
+      "metaFile": "25646098.meta.json",
       "fullBytes": 286705,
-      "slimBytes": 38451,
-      "reductionPercent": 86.6
+      "analysisBytes": 30782,
+      "reductionPercent": 89.3
     },
     {
       "id": 25646394,
       "name": "Jaws: We're Gonna Need a Bigger Deck",
-      "file": "25646394.json",
+      "format": 3,
       "commander": [
         "Jaws, Relentless Predator"
       ],
@@ -247,14 +277,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25646394.names.txt",
+      "cardsFile": "25646394.cards.jsonl",
+      "metaFile": "25646394.meta.json",
       "fullBytes": 225381,
-      "slimBytes": 30142,
-      "reductionPercent": 86.6
+      "analysisBytes": 24491,
+      "reductionPercent": 89.1
     },
     {
       "id": 25646416,
       "name": "Kibo's Banana Republic",
-      "file": "25646416.json",
+      "format": 3,
       "commander": [
         "Kibo, Uktabi Prince"
       ],
@@ -269,14 +302,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25646416.names.txt",
+      "cardsFile": "25646416.cards.jsonl",
+      "metaFile": "25646416.meta.json",
       "fullBytes": 286870,
-      "slimBytes": 36355,
-      "reductionPercent": 87.3
+      "analysisBytes": 28772,
+      "reductionPercent": 90.0
     },
     {
       "id": 25646467,
       "name": "Krenko, The Gobfather",
-      "file": "25646467.json",
+      "format": 3,
       "commander": [
         "Krenko, Mob Boss"
       ],
@@ -290,14 +326,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25646467.names.txt",
+      "cardsFile": "25646467.cards.jsonl",
+      "metaFile": "25646467.meta.json",
       "fullBytes": 237310,
-      "slimBytes": 32128,
-      "reductionPercent": 86.5
+      "analysisBytes": 26000,
+      "reductionPercent": 89.0
     },
     {
       "id": 25646499,
       "name": "Riders of Rohan UPGRADE",
-      "file": "25646499.json",
+      "format": 3,
       "commander": [
         "Éowyn, Shieldmaiden"
       ],
@@ -313,14 +352,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25646499.names.txt",
+      "cardsFile": "25646499.cards.jsonl",
+      "metaFile": "25646499.meta.json",
       "fullBytes": 257313,
-      "slimBytes": 34679,
-      "reductionPercent": 86.5
+      "analysisBytes": 27695,
+      "reductionPercent": 89.2
     },
     {
       "id": 25646532,
       "name": "Tinybones, Budget Thief",
-      "file": "25646532.json",
+      "format": 3,
       "commander": [
         "Tinybones, Trinket Thief"
       ],
@@ -334,14 +376,17 @@
         "sideboard": 0,
         "total": 100
       },
-      "fullBytes": 226104,
-      "slimBytes": 29081,
-      "reductionPercent": 87.1
+      "namesFile": "25646532.names.txt",
+      "cardsFile": "25646532.cards.jsonl",
+      "metaFile": "25646532.meta.json",
+      "fullBytes": 226050,
+      "analysisBytes": 22998,
+      "reductionPercent": 89.8
     },
     {
       "id": 25646583,
       "name": "Uugguu, Secret of the Ooze",
-      "file": "25646583.json",
+      "format": 3,
       "commander": [
         "Uugguu, the Omniplasm"
       ],
@@ -357,14 +402,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25646583.names.txt",
+      "cardsFile": "25646583.cards.jsonl",
+      "metaFile": "25646583.meta.json",
       "fullBytes": 296224,
-      "slimBytes": 40124,
-      "reductionPercent": 86.5
+      "analysisBytes": 32247,
+      "reductionPercent": 89.1
     },
     {
       "id": 25646611,
       "name": "Valgavoth's DMV",
-      "file": "25646611.json",
+      "format": 3,
       "commander": [
         "Valgavoth, Harrower of Souls"
       ],
@@ -379,14 +427,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25646611.names.txt",
+      "cardsFile": "25646611.cards.jsonl",
+      "metaFile": "25646611.meta.json",
       "fullBytes": 264468,
-      "slimBytes": 34439,
-      "reductionPercent": 87.0
+      "analysisBytes": 27000,
+      "reductionPercent": 89.8
     },
     {
       "id": 25646635,
       "name": "Yuriko: Go, Ninja, Go!",
-      "file": "25646635.json",
+      "format": 3,
       "commander": [
         "Yuriko, the Tiger's Shadow"
       ],
@@ -401,14 +452,17 @@
         "sideboard": 0,
         "total": 100
       },
+      "namesFile": "25646635.names.txt",
+      "cardsFile": "25646635.cards.jsonl",
+      "metaFile": "25646635.meta.json",
       "fullBytes": 307162,
-      "slimBytes": 42062,
-      "reductionPercent": 86.3
+      "analysisBytes": 33962,
+      "reductionPercent": 88.9
     },
     {
       "id": 25646654,
       "name": "Zinnia's Birds and the Bees",
-      "file": "25646654.json",
+      "format": 3,
       "commander": [
         "Zinnia, Valley's Voice"
       ],
@@ -424,9 +478,12 @@
         "sideboard": 0,
         "total": 100
       },
-      "fullBytes": 277707,
-      "slimBytes": 35625,
-      "reductionPercent": 87.2
+      "namesFile": "25646654.names.txt",
+      "cardsFile": "25646654.cards.jsonl",
+      "metaFile": "25646654.meta.json",
+      "fullBytes": 277708,
+      "analysisBytes": 27829,
+      "reductionPercent": 90.0
     }
   ]
 }

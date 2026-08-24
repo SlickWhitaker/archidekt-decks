@@ -1,0 +1,19 @@
+{
+  "id": 25645631,
+  "name": "Captain Howler, Pirate of the Card-ibbean",
+  "format": 3,
+  "commander": [
+    "Captain Howler, Sea Scourge"
+  ],
+  "colorIdentity": [
+    "Blue",
+    "Red"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

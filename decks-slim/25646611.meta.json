@@ -1,0 +1,19 @@
+{
+  "id": 25646611,
+  "name": "Valgavoth's DMV",
+  "format": 3,
+  "commander": [
+    "Valgavoth, Harrower of Souls"
+  ],
+  "colorIdentity": [
+    "Black",
+    "Red"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}
