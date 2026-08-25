@@ -756,6 +756,31 @@
       "text": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
     },
     {
+      "name": "Takenuma, Abandoned Mire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control."
+    },
+    {
+      "name": "Talisman of Indulgence",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This artifact deals 1 damage to you."
+    },
+    {
       "name": "Razorkin Needlehead",
       "quantity": 1,
       "board": "main",
@@ -784,6 +809,22 @@
       "text": "Whenever a creature is dealt damage, this enchantment deals that much damage to that creature's controller."
     },
     {
+      "name": "Terminate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Destroy target creature. It can't be regenerated."
+    },
+    {
       "name": "Roiling Vortex",
       "quantity": 1,
       "board": "main",
@@ -809,6 +850,22 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{1}, {T}: Add {B}{R}."
+    },
+    {
+      "name": "The Lord of Pain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Assassin",
+      "text": "Menace\nYour opponents can't gain life.\nWhenever a player casts their first spell each turn, choose another target player. The Lord of Pain deals damage equal to that spell's mana value to the chosen player."
     },
     {
       "name": "Sheoldred, the Apocalypse",
@@ -888,19 +945,102 @@
       "text": "Whenever a player casts a spell, this enchantment deals 2 damage to that player."
     },
     {
-      "name": "Takenuma, Abandoned Mire",
+      "name": "Spinerock Knoll",
       "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)\nThis land enters tapped.\n{T}: Add {R}.\n{R}, {T}: You may play the exiled card without paying its mana cost if an opponent was dealt 7 or more damage this turn."
+    },
+    {
+      "name": "Spiteful Visions",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "At the beginning of each player's draw step, that player draws an additional card.\nWhenever a player draws a card, this enchantment deals 1 damage to that player."
+    },
+    {
+      "name": "Star of Extinction",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 7,
+      "type": "Sorcery",
+      "text": "Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker."
+    },
+    {
+      "name": "Sulfuric Vortex",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "At the beginning of each player's upkeep, this enchantment deals 2 damage to that player.\nIf a player would gain life, that player gains no life instead."
+    },
+    {
+      "name": "Sulfurous Springs",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This land deals 1 damage to you."
+    },
+    {
+      "name": "Swamp",
+      "quantity": 7,
       "board": "main",
       "colors": [],
       "colorIdentity": [
         "Black"
       ],
       "manaValue": 0,
-      "type": "Legendary Land",
-      "text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control."
+      "type": "Basic Land — Swamp",
+      "text": "({T}: Add {B}.)"
     },
     {
-      "name": "Talisman of Indulgence",
+      "name": "Syr Konrad, the Grim",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Knight",
+      "text": "Whenever another creature dies, or a creature card is put into a graveyard from anywhere other than the battlefield, or a creature card leaves your graveyard, Syr Konrad deals 1 damage to each opponent.\n{1}{B}: Each player mills a card. (They each put the top card of their library into their graveyard.)"
+    },
+    {
+      "name": "Tainted Peak",
       "quantity": 1,
       "board": "main",
       "colors": [],
@@ -908,41 +1048,9 @@
         "Black",
         "Red"
       ],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This artifact deals 1 damage to you."
-    },
-    {
-      "name": "Terminate",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Destroy target creature. It can't be regenerated."
-    },
-    {
-      "name": "The Lord of Pain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Assassin",
-      "text": "Menace\nYour opponents can't gain life.\nWhenever a player casts their first spell each turn, choose another target player. The Lord of Pain deals damage equal to that spell's mana value to the chosen player."
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. Activate only if you control a Swamp."
     },
     {
       "name": "The Meathook Massacre",
@@ -1087,114 +1195,6 @@
       "manaValue": 2,
       "type": "Creature — Human Rogue Ally",
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
-    },
-    {
-      "name": "Spinerock Knoll",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)\nThis land enters tapped.\n{T}: Add {R}.\n{R}, {T}: You may play the exiled card without paying its mana cost if an opponent was dealt 7 or more damage this turn."
-    },
-    {
-      "name": "Spiteful Visions",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "At the beginning of each player's draw step, that player draws an additional card.\nWhenever a player draws a card, this enchantment deals 1 damage to that player."
-    },
-    {
-      "name": "Star of Extinction",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 7,
-      "type": "Sorcery",
-      "text": "Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker."
-    },
-    {
-      "name": "Sulfuric Vortex",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "At the beginning of each player's upkeep, this enchantment deals 2 damage to that player.\nIf a player would gain life, that player gains no life instead."
-    },
-    {
-      "name": "Sulfurous Springs",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This land deals 1 damage to you."
-    },
-    {
-      "name": "Swamp",
-      "quantity": 7,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Swamp",
-      "text": "({T}: Add {B}.)"
-    },
-    {
-      "name": "Syr Konrad, the Grim",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Knight",
-      "text": "Whenever another creature dies, or a creature card is put into a graveyard from anywhere other than the battlefield, or a creature card leaves your graveyard, Syr Konrad deals 1 damage to each opponent.\n{1}{B}: Each player mills a card. (They each put the top card of their library into their graveyard.)"
-    },
-    {
-      "name": "Tainted Peak",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. Activate only if you control a Swamp."
     }
   ]
 }

@@ -51,6 +51,10 @@ Plains
 Plumecreed Escort
 Pollywog Prodigy
 Rally the Ranks
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Rapid Augmenter
 Rapid Hybridization
 Reconnaissance Mission
@@ -64,6 +68,8 @@ Selfless Spirit
 Shared Animosity
 Shivan Reef
 Skullclamp
+Soulcatcher
+Academy Manufactor
 Skyclave Apparition
 Skycloud Expanse
 Sol Ring
@@ -84,9 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor

@@ -52,20 +52,28 @@ Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
+Takenuma, Abandoned Mire
+Talisman of Indulgence
 Razorkin Needlehead
 Repercussion
+Terminate
 Roiling Vortex
 Shadowblood Ridge
+The Lord of Pain
 Sheoldred, the Apocalypse
 Sheoldred's Edict
 Shivan Gorge
 Smoldering Marsh
 Sol Ring
 Spellshock
-Takenuma, Abandoned Mire
-Talisman of Indulgence
-Terminate
-The Lord of Pain
+Spinerock Knoll
+Spiteful Visions
+Star of Extinction
+Sulfuric Vortex
+Sulfurous Springs
+Swamp
+Syr Konrad, the Grim
+Tainted Peak
 The Meathook Massacre
 The One Ring
 Torment of Hailfire
@@ -77,11 +85,3 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
-Spinerock Knoll
-Spiteful Visions
-Star of Extinction
-Sulfuric Vortex
-Sulfurous Springs
-Swamp
-Syr Konrad, the Grim
-Tainted Peak

@@ -33,14 +33,9 @@ Let's Play a Game
 Liliana of the Veil
 Liliana's Caress
 Liliana's Triumph
-Megrim
-Mind Rake
-Mind Stone
-Mindlash Sliver
-Necrogen Mists
-Necrogoyf
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
+Megrim
 Oppression
 Painful Quandary
 Phyrexian Reclamation
@@ -71,3 +66,8 @@ Words of Waste
 Geth's Grimoire
 Tinybones, Trinket Thief
 Waste Not
+Mind Rake
+Mind Stone
+Mindlash Sliver
+Necrogen Mists
+Necrogoyf

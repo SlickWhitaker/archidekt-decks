@@ -57,6 +57,9 @@ Nature's Will
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
+Path to Exile
+Plains
+Plains
 Sephiroth, Fallen Hero
 Sheltered Thicket
 Sigarda's Aid
@@ -87,9 +90,6 @@ World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
-Path to Exile
-Plains
-Plains
 Plains
 Professional Face-Breaker
 Puresteel Paladin
