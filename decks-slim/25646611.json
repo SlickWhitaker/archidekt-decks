@@ -421,72 +421,6 @@
       "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
     },
     {
-      "name": "Furnace of Rath",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
-    },
-    {
-      "name": "Graven Cairns",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}."
-    },
-    {
-      "name": "Haunted Ridge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {B} or {R}."
-    },
-    {
-      "name": "Havoc Festival",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Enchantment",
-      "text": "Players can't gain life.\nAt the beginning of each player's upkeep, that player loses half their life, rounded up."
-    },
-    {
-      "name": "Jet Medallion",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "Black spells you cast cost {1} less to cast."
-    },
-    {
       "name": "Kaervek the Merciless",
       "quantity": 1,
       "board": "main",
@@ -519,6 +453,20 @@
       "text": "When Kardur enters, until your next turn, creatures your opponents control attack each combat if able and attack a player other than you if able.\nWhenever an attacking creature dies, each opponent loses 1 life and you gain 1 life."
     },
     {
+      "name": "Furnace of Rath",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
+    },
+    {
       "name": "Kederekt Parasite",
       "quantity": 1,
       "board": "main",
@@ -541,6 +489,19 @@
       "manaValue": 2,
       "type": "Artifact — Equipment",
       "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
+    },
+    {
+      "name": "Graven Cairns",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}."
     },
     {
       "name": "Luxury Suite",
@@ -600,6 +561,19 @@
       "text": "({T}: Add {R}.)"
     },
     {
+      "name": "Haunted Ridge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {B} or {R}."
+    },
+    {
       "name": "Necropotence",
       "quantity": 1,
       "board": "main",
@@ -644,6 +618,22 @@
       "manaValue": 5,
       "type": "Legendary Creature — Horror Hellion",
       "text": "Companion — Your starting deck contains only cards with odd mana values and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)\nIf a source you control with an odd mana value would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
+    },
+    {
+      "name": "Havoc Festival",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Enchantment",
+      "text": "Players can't gain life.\nAt the beginning of each player's upkeep, that player loses half their life, rounded up."
     },
     {
       "name": "Opposition Agent",
@@ -1195,6 +1185,16 @@
       "manaValue": 2,
       "type": "Creature — Human Rogue Ally",
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
+    },
+    {
+      "name": "Jet Medallion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "Black spells you cast cost {1} less to cast."
     }
   ]
 }

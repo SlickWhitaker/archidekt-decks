@@ -28,22 +28,21 @@ Fiery Confluence
 Fire Covenant
 Florian, Voldaren Scion
 Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
+Furnace of Rath
 Kederekt Parasite
 Lightning Greaves
+Graven Cairns
 Luxury Suite
 Mayhem Devil
 Mogis, God of Slaughter
 Mountain
+Haunted Ridge
 Necropotence
 Ob Nixilis, Captive Kingpin
 Obosh, the Preypiercer
+Havoc Festival
 Opposition Agent
 Orcish Bowmasters
 Painful Quandary
@@ -85,3 +84,4 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
+Jet Medallion
