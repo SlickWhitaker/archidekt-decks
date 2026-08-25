@@ -1210,20 +1210,6 @@
       "text": "Flying\nZinnia gets +X/+0, where X is the number of other creatures you control with base power 1.\nCreature spells you cast gain offspring {2} as you cast them. (You may pay an additional {2} as you cast a creature spell. If you do, when that creature enters, create a 1/1 token copy of it.)"
     },
     {
-      "name": "Soulcatcher",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Soldier Bird",
-      "text": "Flying\nWhenever a creature with flying dies, put a +1/+1 counter on this creature."
-    },
-    {
       "name": "Fiend Hunter",
       "quantity": 1,
       "board": "main",
@@ -1236,6 +1222,20 @@
       "manaValue": 3,
       "type": "Creature — Human Cleric",
       "text": "When this creature enters, you may exile another target creature.\nWhen this creature leaves the battlefield, return the exiled card to the battlefield under its owner's control."
+    },
+    {
+      "name": "Soulcatcher",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Soldier Bird",
+      "text": "Flying\nWhenever a creature with flying dies, put a +1/+1 counter on this creature."
     },
     {
       "name": "Academy Manufactor",

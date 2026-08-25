@@ -13,6 +13,8 @@ Aura Shards
 Baxter, Fly in the Ointment
 Beast Whisperer
 Beastmaster Ascension
+Big Apple, 3 a.m.
+Big Mother Mouser
 Blood Crypt
 Bloom Tender
 Branching Evolution
@@ -89,5 +91,3 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Big Apple, 3 a.m.
-Big Mother Mouser

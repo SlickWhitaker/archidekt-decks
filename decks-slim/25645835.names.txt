@@ -51,6 +51,7 @@ Port Town
 Prairie Stream
 Psychic Paper
 Raugrin Triome
+Regenerations Restored
 Rhystic Study
 RMS Titanic
 Rogue's Passage
@@ -94,4 +95,3 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Regenerations Restored
