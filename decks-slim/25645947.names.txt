@@ -47,6 +47,8 @@ Minas Tirith
 Mondrak, Glory Dominus
 Mountain
 Necropotence
+Nomad Outpost
+Ocelot Pride
 Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
@@ -66,6 +68,7 @@ Skullclamp
 Sol Ring
 Sorin, Imperious Bloodlord
 Spectator Seating
+Edgar Markov
 Stromkirk Captain
 Swamp
 Swords to Plowshares
@@ -86,6 +89,3 @@ Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
-Edgar Markov
-Nomad Outpost
-Ocelot Pride

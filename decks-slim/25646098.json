@@ -295,188 +295,6 @@
       "text": "If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on that creature instead."
     },
     {
-      "name": "Cathars' Crusade",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
-    },
-    {
-      "name": "Chromatic Lantern",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color."
-    },
-    {
-      "name": "Cinder Glade",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Mountain Forest",
-      "text": "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands."
-    },
-    {
-      "name": "City of Brass",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "Whenever this land becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
-    },
-    {
-      "name": "Command Tower",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add one mana of any color in your commander's color identity."
-    },
-    {
-      "name": "Cultivate",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
-    },
-    {
-      "name": "Dimension X Pizzasaur",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Creature Artifact — Mutant Food Alien",
-      "text": "When this creature enters, put two +1/+1 counters on target creature. When you do, destroy up to one target creature with mana value less than or equal to the number of counters among permanents you control.\n{2}, {T}, Sacrifice this creature: You gain 3 life and each opponent loses 3 life."
-    },
-    {
-      "name": "Donatello, the Brains",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Mutant Ninja Turtle",
-      "text": "If one or more tokens would be created under your control, those tokens plus a Mutagen token are created instead.\nPartner—Character select (You can have two commanders if both have this ability.)"
-    },
-    {
-      "name": "Doubling Season",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead."
-    },
-    {
-      "name": "Dragonskull Summit",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}."
-    },
-    {
-      "name": "Evolving Wilds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
-    },
-    {
-      "name": "Exotic Orchard",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
-    },
-    {
-      "name": "Fabled Passage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
-    },
-    {
-      "name": "Felidar Retreat",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Landfall — Whenever a land you control enters, choose one —\n• Create a 2/2 white Cat Beast creature token.\n• Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn."
-    },
-    {
-      "name": "Forest",
-      "quantity": 4,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Forest",
-      "text": "({T}: Add {G}.)"
-    },
-    {
       "name": "Grand Coliseum",
       "quantity": 1,
       "board": "main",
@@ -990,18 +808,6 @@
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {R} or {G}."
     },
     {
-      "name": "Swamp",
-      "quantity": 2,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Swamp",
-      "text": "({T}: Add {B}.)"
-    },
-    {
       "name": "Splinter, the Mentor",
       "quantity": 1,
       "board": "main",
@@ -1016,20 +822,6 @@
       "text": "Menace\nWhenever Splinter or another nontoken creature you control leaves the battlefield, create a Mutagen token.\nPartner—Character select (You can have two commanders if both have this ability.)"
     },
     {
-      "name": "Swan Song",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
-    },
-    {
       "name": "Steelbane Hydra",
       "quantity": 1,
       "board": "main",
@@ -1042,20 +834,6 @@
       "manaValue": 2,
       "type": "Creature — Hydra Turtle",
       "text": "This creature enters with X +1/+1 counters on it.\n{2}{G}, Remove a +1/+1 counter from this creature: Destroy target artifact or enchantment."
-    },
-    {
-      "name": "Swords to Plowshares",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Exile target creature. Its controller gains life equal to its power."
     },
     {
       "name": "Stomping Ground",
@@ -1084,20 +862,6 @@
       "text": "({T}: Add {U} or {B}.)\nThis land enters tapped unless you control two or more basic lands."
     },
     {
-      "name": "Teferi's Protection",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. (While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)\nExile Teferi's Protection."
-    },
-    {
       "name": "Super Combo",
       "quantity": 1,
       "board": "main",
@@ -1112,14 +876,58 @@
       "text": "Replicate {2} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nTarget creature you control deals damage equal to its power to target creature an opponent controls."
     },
     {
-      "name": "Turtle Lair",
-      "quantity": 1,
+      "name": "Swamp",
+      "quantity": 2,
       "board": "main",
       "colors": [],
-      "colorIdentity": [],
+      "colorIdentity": [
+        "Black"
+      ],
       "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Ninja or Turtle spell.\n{3}, {T}: Target Ninja or Turtle can't be blocked this turn."
+      "type": "Basic Land — Swamp",
+      "text": "({T}: Add {B}.)"
+    },
+    {
+      "name": "Swan Song",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
+    },
+    {
+      "name": "Swords to Plowshares",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Exile target creature. Its controller gains life equal to its power."
+    },
+    {
+      "name": "Teferi's Protection",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. (While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)\nExile Teferi's Protection."
     },
     {
       "name": "Tempestra, Dame of Games",
@@ -1134,6 +942,56 @@
       "manaValue": 2,
       "type": "Legendary Creature — Elemental Illusion",
       "text": "{2}{R}, {T}, Sacrifice an artifact: Create a token that's a copy of another target creature you control, except it isn't legendary. It gains haste. Sacrifice it at the beginning of the next end step."
+    },
+    {
+      "name": "Thriving Isle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped. As it enters, choose a color other than blue.\n{T}: Add {U} or one mana of the chosen color."
+    },
+    {
+      "name": "Tireless Provisioner",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Elf Scout",
+      "text": "Landfall — Whenever a land you control enters, create a Food token or a Treasure token. (Food is an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\" Treasure is an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "Tocasia's Welcome",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn."
+    },
+    {
+      "name": "Turtle Lair",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Ninja or Turtle spell.\n{3}, {T}: Target Ninja or Turtle can't be blocked this turn."
     },
     {
       "name": "Unbreakable Formation",
@@ -1163,18 +1021,6 @@
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {B} or {G}."
     },
     {
-      "name": "Thriving Isle",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped. As it enters, choose a color other than blue.\n{T}: Add {U} or one mana of the chosen color."
-    },
-    {
       "name": "Vernal Fen",
       "quantity": 1,
       "board": "main",
@@ -1198,20 +1044,6 @@
       "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
     },
     {
-      "name": "Tireless Provisioner",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Elf Scout",
-      "text": "Landfall — Whenever a land you control enters, create a Food token or a Treasure token. (Food is an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\" Treasure is an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
-    },
-    {
       "name": "Vigor",
       "quantity": 1,
       "board": "main",
@@ -1226,20 +1058,6 @@
       "text": "Trample\nIf damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.\nWhen Vigor is put into a graveyard from anywhere, shuffle it into its owner's library."
     },
     {
-      "name": "Tocasia's Welcome",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn."
-    },
-    {
       "name": "Arcade Cabinet",
       "quantity": 1,
       "board": "main",
@@ -1248,6 +1066,188 @@
       "manaValue": 3,
       "type": "Artifact",
       "text": "When this artifact enters, put a +1/+1 counter on each of up to four target creatures.\n{2}, {T}, Sacrifice a token: Double the number of each kind of counter on target creature."
+    },
+    {
+      "name": "Cathars' Crusade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
+    },
+    {
+      "name": "Chromatic Lantern",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color."
+    },
+    {
+      "name": "Cinder Glade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Mountain Forest",
+      "text": "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "City of Brass",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "Whenever this land becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
+    },
+    {
+      "name": "Command Tower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Cultivate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
+    },
+    {
+      "name": "Dimension X Pizzasaur",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature Artifact — Mutant Food Alien",
+      "text": "When this creature enters, put two +1/+1 counters on target creature. When you do, destroy up to one target creature with mana value less than or equal to the number of counters among permanents you control.\n{2}, {T}, Sacrifice this creature: You gain 3 life and each opponent loses 3 life."
+    },
+    {
+      "name": "Donatello, the Brains",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Mutant Ninja Turtle",
+      "text": "If one or more tokens would be created under your control, those tokens plus a Mutagen token are created instead.\nPartner—Character select (You can have two commanders if both have this ability.)"
+    },
+    {
+      "name": "Doubling Season",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead."
+    },
+    {
+      "name": "Dragonskull Summit",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}."
+    },
+    {
+      "name": "Evolving Wilds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Exotic Orchard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+      "name": "Fabled Passage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
+    },
+    {
+      "name": "Felidar Retreat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Landfall — Whenever a land you control enters, choose one —\n• Create a 2/2 white Cat Beast creature token.\n• Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn."
+    },
+    {
+      "name": "Forest",
+      "quantity": 4,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
     }
   ]
 }

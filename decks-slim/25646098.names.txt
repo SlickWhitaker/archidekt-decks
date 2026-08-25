@@ -18,21 +18,6 @@ Big Mother Mouser
 Blood Crypt
 Bloom Tender
 Branching Evolution
-Cathars' Crusade
-Chromatic Lantern
-Cinder Glade
-City of Brass
-Command Tower
-Cultivate
-Dimension X Pizzasaur
-Donatello, the Brains
-Doubling Season
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -71,23 +56,38 @@ Skullclamp
 Sodden Verdure
 Sol Ring
 Spire Garden
-Swamp
 Splinter, the Mentor
-Swan Song
 Steelbane Hydra
-Swords to Plowshares
 Stomping Ground
 Sunken Hollow
-Teferi's Protection
 Super Combo
-Turtle Lair
+Swamp
+Swan Song
+Swords to Plowshares
+Teferi's Protection
 Tempestra, Dame of Games
+Thriving Isle
+Tireless Provisioner
+Tocasia's Welcome
+Turtle Lair
 Unbreakable Formation
 Undergrowth Stadium
-Thriving Isle
 Vernal Fen
 Vibrant Cityscape
-Tireless Provisioner
 Vigor
-Tocasia's Welcome
 Arcade Cabinet
+Cathars' Crusade
+Chromatic Lantern
+Cinder Glade
+City of Brass
+Command Tower
+Cultivate
+Dimension X Pizzasaur
+Donatello, the Brains
+Doubling Season
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest

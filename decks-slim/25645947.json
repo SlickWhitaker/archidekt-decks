@@ -674,6 +674,34 @@
       "text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step."
     },
     {
+      "name": "Nomad Outpost",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {R}, {W}, or {B}."
+    },
+    {
+      "name": "Ocelot Pride",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Cat",
+      "text": "First strike, lifelink\nAscend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)\nAt the beginning of your end step, if you gained life this turn, create a 1/1 white Cat creature token. Then if you have the city's blessing, for each token you control that entered this turn, create a token that's a copy of it."
+    },
+    {
       "name": "Olivia, Crimson Bride",
       "quantity": 1,
       "board": "main",
@@ -912,6 +940,24 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {R} or {W}."
+    },
+    {
+      "name": "Edgar Markov",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Knight Vampire",
+      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
     },
     {
       "name": "Stromkirk Captain",
@@ -1177,52 +1223,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Cleric",
       "text": "Protection from Humans\nPay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card.\n{B}{B}, Discard a card: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
-    },
-    {
-      "name": "Edgar Markov",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "White",
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "White",
-        "Black",
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Legendary Creature — Knight Vampire",
-      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
-    },
-    {
-      "name": "Nomad Outpost",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {R}, {W}, or {B}."
-    },
-    {
-      "name": "Ocelot Pride",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Cat",
-      "text": "First strike, lifelink\nAscend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)\nAt the beginning of your end step, if you gained life this turn, create a 1/1 white Cat creature token. Then if you have the city's blessing, for each token you control that entered this turn, create a token that's a copy of it."
     }
   ]
 }
