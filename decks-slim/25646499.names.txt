@@ -49,19 +49,6 @@ Path of Ancestry
 Path to Exile
 Plains
 Port Town
-Prairie Stream
-Prince Imrahil the Fair
-Riders of Rohan
-Rogue's Passage
-Sacred Foundry
-Secluded Courtyard
-Selfless Squire
-Shared Animosity
-Skullclamp
-Sol Ring
-Steam Vents
-Sulfur Falls
-Sunset Revelry
 Supreme Verdict
 Swords to Plowshares
 Talisman of Conviction
@@ -82,3 +69,16 @@ Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
+Prairie Stream
+Prince Imrahil the Fair
+Riders of Rohan
+Rogue's Passage
+Sacred Foundry
+Secluded Courtyard
+Selfless Squire
+Shared Animosity
+Skullclamp
+Sol Ring
+Steam Vents
+Sulfur Falls
+Sunset Revelry

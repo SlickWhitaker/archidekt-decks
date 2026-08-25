@@ -20,6 +20,10 @@ Command Tower
 Curiosity Crafter
 Distant Melody
 Elspeth, Sun's Champion
+Empyrean Eagle
+Esior, Wardwing Familiar
+Evolving Wilds
+Exotic Orchard
 Favorable Winds
 Fellwar Stone
 Ferrous Lake
@@ -68,6 +72,12 @@ Steam Vents
 Storm of Souls
 Sulfur Falls
 Sunscorched Divide
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
 Swords to Plowshares
 Temple of Enlightenment
 Temple of Triumph
@@ -80,13 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
-Empyrean Eagle
-Esior, Wardwing Familiar
-Evolving Wilds
-Exotic Orchard

@@ -46,38 +46,42 @@ Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
 Mask of Memory
+Mithril Coat
+Mossfire Valley
+Mountain
 Path of Ancestry
 Path to Exile
+Mountain
 Plains
 Plains
+Mountain
 Plains
+Nature's Lore
 Professional Face-Breaker
 Puresteel Paladin
 Radiant Grove
+Nature's Will
 Red XIII, Proud Warrior
+Rugged Prairie
 Ring of the Lucii
 Rogue's Passage
-Rootbound Crag
-Rugged Prairie
 Sacred Peaks
+Rootbound Crag
 Scavenger Grounds
+Stoneforge Mystic
+Summon: Esper Ramuh
+Summon: Kujata
 Sephiroth, Fallen Hero
+Summoning Materia
 Sheltered Thicket
 Sigarda's Aid
 Skullclamp
+Sungrass Prairie
 Slayers' Stronghold
 Sol Ring
 SOLDIER Military Program
 Sphere Grid
 Spire of Industry
-Stoneforge Mystic
-Summon: Esper Ramuh
-Summon: Kujata
-Summoning Materia
-Sungrass Prairie
-Sunpetal Grove
-Sunscorched Divide
-Swiftfoot Boots
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
@@ -91,10 +95,6 @@ World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
-Mithril Coat
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
+Sunpetal Grove
+Sunscorched Divide
+Swiftfoot Boots

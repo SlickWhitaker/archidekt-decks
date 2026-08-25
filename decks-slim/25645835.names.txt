@@ -31,18 +31,23 @@ Idris, Soul of the TARDIS
 Inspiring Refrain
 Irrigated Farmland
 Island
+Island
+Jenny, Generated Anomaly
+Judoon Enforcers
+Kate Stewart
+Lightning Greaves
+Martha Jones
+Mountain
+Mountain
+Myriad Landscape
+Mystic Monastery
+Nanogene Conversion
 Ominous Cemetery
 Out of Time
 Path of Ancestry
-Plains
-Plains
-Port Town
-Prairie Stream
-Psychic Paper
-Raugrin Triome
-Regenerations Restored
 Rhystic Study
 RMS Titanic
+Plains
 Rogue's Passage
 Rory Williams
 Rotating Fireplace
@@ -84,14 +89,9 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Island
-Jenny, Generated Anomaly
-Judoon Enforcers
-Kate Stewart
-Lightning Greaves
-Martha Jones
-Mountain
-Mountain
-Myriad Landscape
-Mystic Monastery
-Nanogene Conversion
+Plains
+Port Town
+Prairie Stream
+Psychic Paper
+Raugrin Triome
+Regenerations Restored
