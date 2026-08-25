@@ -525,34 +525,6 @@
       "text": "Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard."
     },
     {
-      "name": "Greater Good",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
-    },
-    {
-      "name": "Green Sun's Zenith",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Search your library for a green creature card with mana value X or less, put it onto the battlefield, then shuffle. Shuffle Green Sun's Zenith into its owner's library."
-    },
-    {
       "name": "Hardened Scales",
       "quantity": 1,
       "board": "main",
@@ -1219,6 +1191,34 @@
       "manaValue": 5,
       "type": "Creature — Human Warrior",
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
+    },
+    {
+      "name": "Greater Good",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
+    },
+    {
+      "name": "Green Sun's Zenith",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Search your library for a green creature card with mana value X or less, put it onto the battlefield, then shuffle. Shuffle Green Sun's Zenith into its owner's library."
     }
   ]
 }

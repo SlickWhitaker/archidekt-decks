@@ -4,6 +4,44 @@ An Offer You Can't Refuse
 Arcane Signet
 Boggart Trawler // Boggart Bog
 Brainstorm
+Negate
+Ninja of the Deep Hours
+Opposition Agent
+Orcish Bowmasters
+Ornithopter
+Otawara, Soaring City
+Pact of Negation
+Phyrexian Walker
+Polluted Delta
+Ponder
+Prosperous Thief
+Sakashima's Student
+Satoru Umezawa
+Satoru, the Infiltrator
+Scroll Rack
+Sensei's Divining Top
+Shizo, Death's Storehouse
+Silver-Fur Master
+Sink into Stupor // Soporific Springs
+Skullsnatcher
+Slither Blade
+Snow-Covered Island
+Snow-Covered Swamp
+Snuff Out
+Spectral Sailor
+Starting Town
+Swamp
+Temporal Trespass
+Tetsuko Umezawa, Fugitive
+Thassa's Oracle
+Thieving Skydiver
+Thousand-Faced Shadow
+Throat Slitter
+Underground River
+Vampiric Tutor
+Walker of Secret Ways
+Watery Grave
+Yuriko, the Tiger's Shadow
 Cephalid Coliseum
 Changeling Outcast
 Choked Estuary
@@ -47,44 +85,6 @@ Louisoix's Sacrifice
 Mana Drain
 Memnite
 Misdirection
-Negate
-Ninja of the Deep Hours
-Opposition Agent
-Orcish Bowmasters
-Ornithopter
-Otawara, Soaring City
-Pact of Negation
-Phyrexian Walker
-Polluted Delta
-Ponder
-Prosperous Thief
-Sakashima's Student
-Satoru Umezawa
-Satoru, the Infiltrator
-Scroll Rack
-Sensei's Divining Top
-Shizo, Death's Storehouse
-Silver-Fur Master
-Sink into Stupor // Soporific Springs
-Skullsnatcher
-Slither Blade
-Snow-Covered Island
-Snow-Covered Swamp
-Snuff Out
-Spectral Sailor
-Starting Town
-Swamp
-Temporal Trespass
-Tetsuko Umezawa, Fugitive
-Thassa's Oracle
-Thieving Skydiver
-Thousand-Faced Shadow
-Throat Slitter
-Underground River
-Vampiric Tutor
-Walker of Secret Ways
-Watery Grave
-Yuriko, the Tiger's Shadow
 Mist-Syndicate Naga
 Mistblade Shinobi
 Moon-Circuit Hacker

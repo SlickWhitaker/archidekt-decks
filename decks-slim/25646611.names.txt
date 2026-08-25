@@ -52,14 +52,10 @@ Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
-Takenuma, Abandoned Mire
-Talisman of Indulgence
 Razorkin Needlehead
 Repercussion
-Terminate
 Roiling Vortex
 Shadowblood Ridge
-The Lord of Pain
 Sheoldred, the Apocalypse
 Sheoldred's Edict
 Shivan Gorge
@@ -74,6 +70,10 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
+Takenuma, Abandoned Mire
+Talisman of Indulgence
+Terminate
+The Lord of Pain
 The Meathook Massacre
 The One Ring
 Torment of Hailfire

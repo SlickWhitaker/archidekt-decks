@@ -1,15 +1,5 @@
 Uugguu, the Omniplasm
 Adrix and Nev, Twincasters
-Aeve, Progenitor Ooze
-Altar of Dementia
-Ancient Ooze
-Arcane Signet
-Ashnod's Altar
-Biogenic Ooze
-Biowaste Blob
-Birthing Pod
-Botanical Sanctum
-Breeding Pool
 Cavern of Souls
 Chronicle of Victory
 Clever Impersonator
@@ -95,3 +85,13 @@ Watery Grave
 Woodland Cemetery
 Yavimaya, Cradle of Growth
 Zagoth Triome
+Aeve, Progenitor Ooze
+Altar of Dementia
+Ancient Ooze
+Arcane Signet
+Ashnod's Altar
+Biogenic Ooze
+Biowaste Blob
+Birthing Pod
+Botanical Sanctum
+Breeding Pool

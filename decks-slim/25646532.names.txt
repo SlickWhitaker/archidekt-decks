@@ -20,10 +20,6 @@ Dauthi Voidwalker
 Defile
 Delirium Skeins
 Elderfang Disciple
-Emergence Zone
-Entropic Battlecruiser
-Feed the Swarm
-Fell the Profane // Fell Mire
 Geier Reach Sanitarium
 Go for the Throat
 Hecteyes
@@ -33,9 +29,14 @@ Let's Play a Game
 Liliana of the Veil
 Liliana's Caress
 Liliana's Triumph
+Megrim
+Mind Rake
+Mind Stone
+Mindlash Sliver
+Necrogen Mists
+Necrogoyf
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
-Megrim
 Oppression
 Painful Quandary
 Phyrexian Reclamation
@@ -66,8 +67,7 @@ Words of Waste
 Geth's Grimoire
 Tinybones, Trinket Thief
 Waste Not
-Mind Rake
-Mind Stone
-Mindlash Sliver
-Necrogen Mists
-Necrogoyf
+Emergence Zone
+Entropic Battlecruiser
+Feed the Swarm
+Fell the Profane // Fell Mire
