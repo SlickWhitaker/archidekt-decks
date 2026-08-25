@@ -79,9 +79,11 @@ Sylvan Library
 Terror of the Peaks
 The Great Henge
 The One Ring
-Veil of Summer
 The Ozolith
 Three Visits
+Tooth and Nail
+Vandalblast
+Veil of Summer
 Verdant Catacombs
 Wasteland
 Wheel of Misfortune
@@ -90,5 +92,3 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Tooth and Nail
-Vandalblast

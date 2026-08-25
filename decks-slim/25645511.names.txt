@@ -20,6 +20,8 @@ Akul the Unrepentant
 Command Tower
 Deadly Dispute
 Descent into Avernus
+Dragonskull Summit
+Dread Return
 Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
@@ -48,10 +50,8 @@ Mountain
 Myriad Landscape
 Night's Whisper
 Orca, Siege Demon
-Overseer of the Damned
-Pathrazer of Ulamog
-Phyrexian Triniform
 Pitiless Plunderer
+Overseer of the Damned
 Rakdos Carnarium
 Rakdos Charm
 Rakdos Signet
@@ -82,5 +82,5 @@ Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
-Dragonskull Summit
-Dread Return
+Pathrazer of Ulamog
+Phyrexian Triniform
