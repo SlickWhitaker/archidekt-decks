@@ -47,19 +47,18 @@ Obosh, the Preypiercer
 Opposition Agent
 Orcish Bowmasters
 Painful Quandary
-Phyrexian Arena
-Polluted Bonds
-Prismatic Vista
-Rakdos Charm
-Rampaging Ferocidon
 Razorkin Needlehead
 Repercussion
+Phyrexian Arena
 Roiling Vortex
+Polluted Bonds
 Shadowblood Ridge
 Sheoldred, the Apocalypse
 Sheoldred's Edict
+Prismatic Vista
 Shivan Gorge
 Smoldering Marsh
+Rakdos Charm
 Sol Ring
 Spellshock
 Spinerock Knoll
@@ -85,3 +84,4 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
+Rampaging Ferocidon

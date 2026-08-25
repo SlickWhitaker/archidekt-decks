@@ -65,13 +65,16 @@ Orcish Bowmasters
 Ornithopter
 Otawara, Soaring City
 Sink into Stupor // Soporific Springs
+Skullsnatcher
+Slither Blade
+Snow-Covered Island
 Pact of Negation
+Snow-Covered Swamp
 Phyrexian Walker
 Polluted Delta
 Ponder
 Prosperous Thief
 Sakashima's Student
-Skullsnatcher
 Satoru Umezawa
 Satoru, the Infiltrator
 Scroll Rack
@@ -86,9 +89,6 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
-Slither Blade
-Snow-Covered Island
-Snow-Covered Swamp
 Snuff Out
 Spectral Sailor
 Starting Town

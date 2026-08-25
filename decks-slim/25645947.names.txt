@@ -83,9 +83,9 @@ Vampiric Tutor
 Vault of Champions
 Vein Ripper
 Viscera Seer
-Edgar Markov
 Vito, Thorn of the Dusk Rose
 Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
+Edgar Markov

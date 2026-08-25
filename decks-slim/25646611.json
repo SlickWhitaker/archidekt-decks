@@ -688,74 +688,6 @@
       "text": "Whenever an opponent casts a spell, that player loses 5 life unless they discard a card."
     },
     {
-      "name": "Phyrexian Arena",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "At the beginning of your upkeep, you draw a card and you lose 1 life."
-    },
-    {
-      "name": "Polluted Bonds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever a land an opponent controls enters, that player loses 2 life and you gain 2 life."
-    },
-    {
-      "name": "Prismatic Vista",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Rakdos Charm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Choose one —\n• Exile target player's graveyard.\n• Destroy target artifact.\n• Each creature deals 1 damage to its controller."
-    },
-    {
-      "name": "Rampaging Ferocidon",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Dinosaur",
-      "text": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
-    },
-    {
       "name": "Razorkin Needlehead",
       "quantity": 1,
       "board": "main",
@@ -784,6 +716,20 @@
       "text": "Whenever a creature is dealt damage, this enchantment deals that much damage to that creature's controller."
     },
     {
+      "name": "Phyrexian Arena",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "At the beginning of your upkeep, you draw a card and you lose 1 life."
+    },
+    {
       "name": "Roiling Vortex",
       "quantity": 1,
       "board": "main",
@@ -796,6 +742,20 @@
       "manaValue": 2,
       "type": "Enchantment",
       "text": "At the beginning of each player's upkeep, this enchantment deals 1 damage to them.\nWhenever a player casts a spell, if no mana was spent to cast that spell, this enchantment deals 5 damage to that player.\n{R}: Your opponents can't gain life this turn."
+    },
+    {
+      "name": "Polluted Bonds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever a land an opponent controls enters, that player loses 2 life and you gain 2 life."
     },
     {
       "name": "Shadowblood Ridge",
@@ -839,6 +799,16 @@
       "text": "Choose one —\n• Each opponent sacrifices a nontoken creature of their choice.\n• Each opponent sacrifices a creature token of their choice.\n• Each opponent sacrifices a planeswalker of their choice."
     },
     {
+      "name": "Prismatic Vista",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle."
+    },
+    {
       "name": "Shivan Gorge",
       "quantity": 1,
       "board": "main",
@@ -862,6 +832,22 @@
       "manaValue": 0,
       "type": "Land — Swamp Mountain",
       "text": "({T}: Add {B} or {R}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "Rakdos Charm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Choose one —\n• Exile target player's graveyard.\n• Destroy target artifact.\n• Each creature deals 1 damage to its controller."
     },
     {
       "name": "Sol Ring",
@@ -1195,6 +1181,20 @@
       "manaValue": 2,
       "type": "Creature — Human Rogue Ally",
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
+    },
+    {
+      "name": "Rampaging Ferocidon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Dinosaur",
+      "text": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
     }
   ]
 }

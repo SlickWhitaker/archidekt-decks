@@ -1166,16 +1166,6 @@
       "text": "Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn."
     },
     {
-      "name": "Arcade Cabinet",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "When this artifact enters, put a +1/+1 counter on each of up to four target creatures.\n{2}, {T}, Sacrifice a token: Double the number of each kind of counter on target creature."
-    },
-    {
       "name": "Turtle Lair",
       "quantity": 1,
       "board": "main",
@@ -1248,6 +1238,16 @@
       "manaValue": 6,
       "type": "Creature — Elemental Incarnation",
       "text": "Trample\nIf damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.\nWhen Vigor is put into a graveyard from anywhere, shuffle it into its owner's library."
+    },
+    {
+      "name": "Arcade Cabinet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "When this artifact enters, put a +1/+1 counter on each of up to four target creatures.\n{2}, {T}, Sacrifice a token: Double the number of each kind of counter on target creature."
     }
   ]
 }
