@@ -19,20 +19,6 @@
   },
   "cards": [
     {
-      "name": "Bloodghast",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Vampire Spirit",
-      "text": "This creature can't block.\nThis creature has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield."
-    },
-    {
       "name": "Aether Vial",
       "quantity": 1,
       "board": "main",
@@ -146,6 +132,20 @@
       "manaValue": 0,
       "type": "Land — Swamp Mountain",
       "text": "({T}: Add {B} or {R}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Bloodghast",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Vampire Spirit",
+      "text": "This creature can't block.\nThis creature has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield."
     },
     {
       "name": "Champion of Dusk",

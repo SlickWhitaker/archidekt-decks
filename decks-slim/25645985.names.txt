@@ -2,64 +2,6 @@ Indatha Triome
 Inspiring Statuary
 Isolated Chapel
 Lobelia, Defender of Bag End
-Nature's Lore
-Nazgûl
-Necroblossom Snarl
-Of Herbs and Stewed Rabbit
-Orchard Strider
-Overgrown Tomb
-Path of Ancestry
-Peregrin Took
-Pippin, Warden of Isengard
-Plains
-Prosperous Innkeeper
-Rapacious Guest
-Revive the Shire
-Rosie Cotton of South Lane
-Samwise Gamgee
-Sandsteppe Citadel
-Sanguine Bond
-Savvy Hunter
-Scattered Groves
-Shineshadow Snarl
-Shire Shirriff
-Shire Terrace
-Skullclamp
-Sol Ring
-Sunpetal Grove
-Swamp
-Swords to Plowshares
-The Battle of Bywater
-The Gaffer
-The Shire
-Tireless Provisioner
-Toxic Deluge
-Trail of Crumbs
-Treebeard, Gracious Host
-Trouble in Pairs
-Well of Lost Dreams
-Windswept Heath
-Witch's Oven
-Woodfall Primus
-Woodland Cemetery
-Sam, Loyal Attendant
-Frodo, Adventurous Hobbit
-Academy Manufactor
-Anguished Unmaking
-Aragorn and Arwen, Wed
-Arcane Signet
-Ash Barrens
-Assemble the Entmoot
-Battle at the Bridge
-Bilbo, Birthday Celebrant
-Birds of Paradise
-Bretagard Stronghold
-Brushland
-Butterbur, Bree Innkeeper
-Canopy Vista
-Cauldron Familiar
-Chromatic Lantern
-Stardew Valley
 Command Tower
 Cultivate
 Delighted Halfling
@@ -89,3 +31,61 @@ Merry, Warden of Isengard
 Mirkwood Bats
 Mortality Spear
 Murmuring Bosk
+Nature's Lore
+Nazgûl
+Necroblossom Snarl
+Of Herbs and Stewed Rabbit
+Orchard Strider
+Overgrown Tomb
+Path of Ancestry
+Peregrin Took
+Pippin, Warden of Isengard
+Plains
+Prosperous Innkeeper
+Rapacious Guest
+Revive the Shire
+Rosie Cotton of South Lane
+Samwise Gamgee
+Woodfall Primus
+Woodland Cemetery
+Sam, Loyal Attendant
+Frodo, Adventurous Hobbit
+Academy Manufactor
+Anguished Unmaking
+Aragorn and Arwen, Wed
+Arcane Signet
+Ash Barrens
+Assemble the Entmoot
+Battle at the Bridge
+Bilbo, Birthday Celebrant
+Birds of Paradise
+Bretagard Stronghold
+Brushland
+Butterbur, Bree Innkeeper
+Canopy Vista
+Cauldron Familiar
+Chromatic Lantern
+Stardew Valley
+Sandsteppe Citadel
+Sanguine Bond
+Savvy Hunter
+Scattered Groves
+Shineshadow Snarl
+Shire Shirriff
+Shire Terrace
+Skullclamp
+Sol Ring
+Sunpetal Grove
+Swamp
+Swords to Plowshares
+The Battle of Bywater
+The Gaffer
+The Shire
+Tireless Provisioner
+Toxic Deluge
+Trail of Crumbs
+Treebeard, Gracious Host
+Trouble in Pairs
+Well of Lost Dreams
+Windswept Heath
+Witch's Oven

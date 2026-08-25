@@ -4,12 +4,6 @@ Academy Manufactor
 Adrix and Nev, Twincasters
 Anguished Unmaking
 Anim Pakal, Thousandth Moon
-April O'Neil, Live on the Scene
-Arasta of the Endless Web
-Arcane Signet
-Ash Barrens
-Assassin's Trophy
-Aura Shards
 Baxter, Fly in the Ointment
 Beast Whisperer
 Beastmaster Ascension
@@ -91,3 +85,9 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
+April O'Neil, Live on the Scene
+Arasta of the Endless Web
+Arcane Signet
+Ash Barrens
+Assassin's Trophy
+Aura Shards

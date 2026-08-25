@@ -770,6 +770,18 @@
       "text": "This creature has first strike during your turn.\nWhenever an opponent draws a card, this creature deals 1 damage to them."
     },
     {
+      "name": "Takenuma, Abandoned Mire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control."
+    },
+    {
       "name": "Repercussion",
       "quantity": 1,
       "board": "main",
@@ -839,6 +851,19 @@
       "text": "Choose one —\n• Each opponent sacrifices a nontoken creature of their choice.\n• Each opponent sacrifices a creature token of their choice.\n• Each opponent sacrifices a planeswalker of their choice."
     },
     {
+      "name": "Talisman of Indulgence",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This artifact deals 1 damage to you."
+    },
+    {
       "name": "Shivan Gorge",
       "quantity": 1,
       "board": "main",
@@ -849,6 +874,22 @@
       "manaValue": 0,
       "type": "Legendary Land",
       "text": "{T}: Add {C}.\n{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent."
+    },
+    {
+      "name": "Terminate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Destroy target creature. It can't be regenerated."
     },
     {
       "name": "Smoldering Marsh",
@@ -994,47 +1035,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. Activate only if you control a Swamp."
-    },
-    {
-      "name": "Takenuma, Abandoned Mire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Legendary Land",
-      "text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control."
-    },
-    {
-      "name": "Talisman of Indulgence",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This artifact deals 1 damage to you."
-    },
-    {
-      "name": "Terminate",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Destroy target creature. It can't be regenerated."
     },
     {
       "name": "The Lord of Pain",

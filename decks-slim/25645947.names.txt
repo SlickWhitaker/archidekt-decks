@@ -1,4 +1,3 @@
-Bloodghast
 Aether Vial
 Anguished Unmaking
 Anointed Procession
@@ -8,6 +7,7 @@ Arid Mesa
 Black Market Connections
 Blood Artist
 Blood Crypt
+Bloodghast
 Champion of Dusk
 Charismatic Conqueror
 Chrome Mox
