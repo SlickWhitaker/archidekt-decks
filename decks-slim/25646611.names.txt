@@ -28,6 +28,11 @@ Fiery Confluence
 Fire Covenant
 Florian, Voldaren Scion
 Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -59,19 +64,15 @@ Sol Ring
 Spellshock
 Spinerock Knoll
 Spiteful Visions
-Star of Extinction
-Sulfuric Vortex
-Sulfurous Springs
-Swamp
-Syr Konrad, the Grim
-Tainted Peak
 Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
 The Lord of Pain
+Star of Extinction
 The Meathook Massacre
 The One Ring
 Torment of Hailfire
+Sulfuric Vortex
 Underworld Dreams
 Urborg, Tomb of Yawgmoth
 Vial Smasher the Fierce
@@ -80,8 +81,7 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
+Sulfurous Springs
+Swamp
+Syr Konrad, the Grim
+Tainted Peak

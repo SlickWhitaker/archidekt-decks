@@ -26,12 +26,8 @@ Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
 Etali, Primal Storm
-Evolving Wilds
-Exotic Orchard
-Feed the Swarm
-Fellwar Stone
-Foreboding Ruins
 Grave Titan
+Evolving Wilds
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
@@ -50,8 +46,10 @@ Mountain
 Myriad Landscape
 Night's Whisper
 Orca, Siege Demon
-Pitiless Plunderer
 Overseer of the Damned
+Pathrazer of Ulamog
+Phyrexian Triniform
+Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
 Rakdos Signet
@@ -82,5 +80,7 @@ Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
-Pathrazer of Ulamog
-Phyrexian Triniform
+Exotic Orchard
+Feed the Swarm
+Fellwar Stone
+Foreboding Ruins

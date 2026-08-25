@@ -29,6 +29,10 @@ Donatello, the Brains
 Doubling Season
 Dragonskull Summit
 Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -67,27 +71,23 @@ Skullclamp
 Sodden Verdure
 Sol Ring
 Spire Garden
+Swamp
 Splinter, the Mentor
+Swan Song
 Steelbane Hydra
+Swords to Plowshares
 Stomping Ground
 Sunken Hollow
-Super Combo
-Swamp
-Swan Song
-Swords to Plowshares
 Teferi's Protection
-Tempestra, Dame of Games
-Thriving Isle
-Tireless Provisioner
-Tocasia's Welcome
+Super Combo
 Turtle Lair
+Tempestra, Dame of Games
 Unbreakable Formation
 Undergrowth Stadium
+Thriving Isle
 Vernal Fen
 Vibrant Cityscape
+Tireless Provisioner
 Vigor
+Tocasia's Welcome
 Arcade Cabinet
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
