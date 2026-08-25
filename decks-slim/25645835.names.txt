@@ -13,19 +13,6 @@ Deserted Beach
 Dinosaurs on a Spaceship
 Donna Noble
 Ecstatic Beauty
-Everybody Lives!
-Everything Comes to Dust
-Evolving Wilds
-Exotic Orchard
-Farewell
-Fiery Islet
-Flesh Duplicate
-Four Knocks
-Fractured Identity
-Frostboil Snarl
-Furycalm Snarl
-Gallifrey Falls // No More
-Glacial Fortress
 Grasp of Fate
 Idris, Soul of the TARDIS
 Inspiring Refrain
@@ -81,17 +68,30 @@ The Eleventh Hour
 The Face of Boe
 The Girl in the Fireplace
 The Moment
-Time Beetle
 The Ninth Doctor
-Training Center
-Trenzalore Clocktower
 The Ozolith
-War Room
-Wibbly-wobbly, Timey-wimey
-Wilfred Mott
-The Tenth Doctor
 The Pandorica
 The Parting of the Ways
 The War Doctor
 The Wedding of River Song
 Thespian's Stage
+Time Beetle
+Training Center
+Trenzalore Clocktower
+War Room
+Wibbly-wobbly, Timey-wimey
+Wilfred Mott
+The Tenth Doctor
+Everybody Lives!
+Everything Comes to Dust
+Evolving Wilds
+Exotic Orchard
+Farewell
+Fiery Islet
+Flesh Duplicate
+Four Knocks
+Fractured Identity
+Frostboil Snarl
+Furycalm Snarl
+Gallifrey Falls // No More
+Glacial Fortress

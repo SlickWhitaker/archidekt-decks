@@ -50,15 +50,6 @@ Krosan Grip
 Lightning Greaves
 Llanowar Elves
 Lotus Petal
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Mana Vault
 Misty Rainforest
 Mountain
@@ -92,3 +83,12 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts

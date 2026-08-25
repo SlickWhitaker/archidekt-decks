@@ -47,9 +47,8 @@ Louisoix's Sacrifice
 Mana Drain
 Memnite
 Misdirection
-Mist-Syndicate Naga
 Negate
-Mistblade Shinobi
+Mist-Syndicate Naga
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
@@ -87,6 +86,7 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
+Mistblade Shinobi
 Moon-Circuit Hacker
 Morphic Pool
 Mothdust Changeling
