@@ -64,10 +64,6 @@ Sanguine Bond
 Savai Triome
 Secluded Courtyard
 Shared Animosity
-Skullclamp
-Sol Ring
-Sorin, Imperious Bloodlord
-Spectator Seating
 Stromkirk Captain
 Swamp
 Swords to Plowshares
@@ -89,3 +85,7 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
+Skullclamp
+Sol Ring
+Sorin, Imperious Bloodlord
+Spectator Seating

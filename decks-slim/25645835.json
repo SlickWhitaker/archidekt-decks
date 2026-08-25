@@ -1215,6 +1215,22 @@
       "text": "{T}: Add {C}.\n{2}, {T}: This land becomes a copy of target land, except it has this ability."
     },
     {
+      "name": "The Tenth Doctor",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Red",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Doctor Time Lord",
+      "text": "Allons-y! — Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn't have suspend, it gains suspend.\nTimey-Wimey — {7}: Time travel three times. Activate only as a sorcery. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do it two more times.)"
+    },
+    {
       "name": "Time Beetle",
       "quantity": 1,
       "board": "main",
@@ -1290,22 +1306,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Soldier",
       "text": "Look to the Stars — At the beginning of your upkeep, put a time counter on Wilfred Mott. Then look at the top X cards of your library, where X is the number of time counters on Wilfred Mott. You may put a nonland permanent card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order."
-    },
-    {
-      "name": "The Tenth Doctor",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Red",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Doctor Time Lord",
-      "text": "Allons-y! — Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn't have suspend, it gains suspend.\nTimey-Wimey — {7}: Time travel three times. Activate only as a sorcery. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do it two more times.)"
     }
   ]
 }

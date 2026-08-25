@@ -55,6 +55,8 @@ Rejuvenating Springs
 Reliquary Tower
 Ripples of Potential
 Roaming Throne
+Savor the Moment
+Secluded Courtyard
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -73,8 +75,6 @@ Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
 Hakbal of the Surging Soul
-Savor the Moment
-Secluded Courtyard
 Simic Ascendancy
 Simic Growth Chamber
 Singer of Swift Rivers

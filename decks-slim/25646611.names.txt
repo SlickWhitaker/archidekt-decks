@@ -26,13 +26,6 @@ Feed the Swarm
 Fellwar Stone
 Fiery Confluence
 Fire Covenant
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -47,18 +40,19 @@ Obosh, the Preypiercer
 Opposition Agent
 Orcish Bowmasters
 Painful Quandary
+Phyrexian Arena
+Polluted Bonds
+Prismatic Vista
+Rakdos Charm
+Rampaging Ferocidon
 Razorkin Needlehead
 Repercussion
-Phyrexian Arena
 Roiling Vortex
-Polluted Bonds
 Shadowblood Ridge
 Sheoldred, the Apocalypse
 Sheoldred's Edict
-Prismatic Vista
 Shivan Gorge
 Smoldering Marsh
-Rakdos Charm
 Sol Ring
 Spellshock
 Spinerock Knoll
@@ -84,4 +78,10 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
-Rampaging Ferocidon
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
