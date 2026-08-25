@@ -319,22 +319,6 @@
       "text": "+1: Create three 1/1 white Soldier creature tokens.\n−3: Destroy all creatures with power 4 or greater.\n−7: You get an emblem with \"Creatures you control get +2/+2 and have flying.\""
     },
     {
-      "name": "Empyrean Eagle",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Bird Spirit",
-      "text": "Flying\nOther creatures you control with flying get +1/+1."
-    },
-    {
       "name": "Favorable Winds",
       "quantity": 1,
       "board": "main",
@@ -1212,6 +1196,22 @@
       "manaValue": 3,
       "type": "Creature Artifact — Assembly-Worker",
       "text": "If you would create a Clue, Food, or Treasure token, instead create one of each."
+    },
+    {
+      "name": "Empyrean Eagle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Bird Spirit",
+      "text": "Flying\nOther creatures you control with flying get +1/+1."
     },
     {
       "name": "Esior, Wardwing Familiar",

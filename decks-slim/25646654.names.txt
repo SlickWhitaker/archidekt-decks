@@ -20,7 +20,6 @@ Command Tower
 Curiosity Crafter
 Distant Melody
 Elspeth, Sun's Champion
-Empyrean Eagle
 Favorable Winds
 Fellwar Stone
 Ferrous Lake
@@ -87,6 +86,7 @@ Zinnia, Valley's Voice
 Fiend Hunter
 Soulcatcher
 Academy Manufactor
+Empyrean Eagle
 Esior, Wardwing Familiar
 Evolving Wilds
 Exotic Orchard

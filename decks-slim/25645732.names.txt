@@ -46,13 +46,6 @@ Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
 Mask of Memory
-Mithril Coat
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
 Path of Ancestry
 Path to Exile
 Plains
@@ -65,6 +58,9 @@ Red XIII, Proud Warrior
 Ring of the Lucii
 Rogue's Passage
 Rootbound Crag
+Rugged Prairie
+Sacred Peaks
+Scavenger Grounds
 Sephiroth, Fallen Hero
 Sheltered Thicket
 Sigarda's Aid
@@ -83,10 +79,8 @@ Sunpetal Grove
 Sunscorched Divide
 Swiftfoot Boots
 Sword of Sinew and Steel
-Rugged Prairie
-Sacred Peaks
-Scavenger Grounds
 Sword of the Animist
+Swords to Plowshares
 Tifa, Martial Artist
 Tifa's Limit Break
 Ultimate Magic: Holy
@@ -95,6 +89,12 @@ Vandalblast
 Wood Elves
 World Map
 Yuffie, Materia Hunter
-Swords to Plowshares
 Zack Fair
 Sword of Forge and Frontier
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will
