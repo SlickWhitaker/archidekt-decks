@@ -45,6 +45,24 @@ Prosperous Innkeeper
 Rapacious Guest
 Revive the Shire
 Rosie Cotton of South Lane
+Samwise Gamgee
+Sandsteppe Citadel
+Sanguine Bond
+Savvy Hunter
+Scattered Groves
+Shineshadow Snarl
+Shire Shirriff
+Shire Terrace
+Skullclamp
+Sol Ring
+Sunpetal Grove
+Swamp
+Swords to Plowshares
+The Battle of Bywater
+The Gaffer
+The Shire
+Tireless Provisioner
+Toxic Deluge
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
@@ -65,24 +83,6 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Samwise Gamgee
-Sandsteppe Citadel
-Sanguine Bond
-Savvy Hunter
-Scattered Groves
-Shineshadow Snarl
-Shire Shirriff
-Shire Terrace
-Skullclamp
-Sol Ring
-Sunpetal Grove
-Swamp
-Swords to Plowshares
-The Battle of Bywater
-The Gaffer
-The Shire
-Tireless Provisioner
-Toxic Deluge
 Trail of Crumbs
 Treebeard, Gracious Host
 Trouble in Pairs

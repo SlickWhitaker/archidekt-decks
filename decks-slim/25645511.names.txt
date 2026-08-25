@@ -34,13 +34,6 @@ Foreboding Ruins
 Grave Titan
 Haunted Ridge
 Hero's Downfall
-Hoarding Broodlord
-Hordeling Outburst
-Infernal Grasp
-It That Betrays
-Jet Medallion
-Krenko, Mob Boss
-Krenko, Tin Street Kingpin
 Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
@@ -72,6 +65,13 @@ Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
+Hoarding Broodlord
+Hordeling Outburst
+Infernal Grasp
+It That Betrays
+Jet Medallion
+Krenko, Mob Boss
+Krenko, Tin Street Kingpin
 Krenko's Command
 Lagomos, Hand of Hatred
 Mahadi, Emporium Master

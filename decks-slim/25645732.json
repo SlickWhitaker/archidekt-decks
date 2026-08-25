@@ -225,6 +225,336 @@
       "text": "Reach\nAt the beginning of your upkeep, if you control a creature with power 7 or greater, draw a card.\n{T}: Add one mana of any color."
     },
     {
+      "name": "Buster Sword",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +3/+2.\nWhenever equipped creature deals combat damage to a player, draw a card, then you may cast a spell from your hand with mana value less than or equal to that damage without paying its mana cost.\nEquip {2}"
+    },
+    {
+      "name": "Cait Sith, Fortune Teller",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature Artifact — Cat Moogle",
+      "text": "Lucky Slots — At the beginning of combat on your turn, scry 1, then exile the top card of your library. You may play that card this turn. When you exile a card this way, target creature you control gets +X/+0 until end of turn, where X is that card's mana value."
+    },
+    {
+      "name": "Canopy Vista",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Forest",
+      "text": "({T}: Add {G} or {W}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "Capital City",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land — Town",
+      "text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+    },
+    {
+      "name": "Champion's Helm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +2/+2.\nAs long as equipped creature is legendary, it has hexproof. (It can't be the target of spells or abilities your opponents control.)\nEquip {1}"
+    },
+    {
+      "name": "Chaos Warp",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield."
+    },
+    {
+      "name": "Cid, Freeflier Pilot",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Human Warrior Pilot",
+      "text": "Equipment and Vehicle spells you cast cost {1} less to cast.\nJump — During your turn, Cid has flying.\n{2}, {T}: Return target Equipment or Vehicle card from your graveyard to your hand."
+    },
+    {
+      "name": "Cinder Glade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Mountain Forest",
+      "text": "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "Clever Concealment",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Instant",
+      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)"
+    },
+    {
+      "name": "Clifftop Retreat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Mountain or a Plains.\n{T}: Add {R} or {W}."
+    },
+    {
+      "name": "Clive's Hideaway",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land — Town",
+      "text": "Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)\n{T}: Add {C}.\n{2}, {T}: You may play the exiled card without paying its mana cost if you control four or more legendary creatures."
+    },
+    {
+      "name": "Cloud, Planet's Champion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Soldier Mercenary",
+      "text": "During your turn, as long as Cloud is equipped, it has double strike and indestructible. (This creature deals both first-strike and regular combat damage. Damage and effects that say \"destroy\" don't destroy this creature.)\nEquip abilities you activate that target Cloud cost {2} less to activate."
+    },
+    {
+      "name": "Cloud's Limit Break",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Tiered (Choose one additional cost.)\n• Cross-Slash — {0} — Destroy target tapped creature.\n• Blade Beam — {1} — Destroy any number of target tapped creatures with different controllers.\n• Omnislash — {3}{W} — Destroy all tapped creatures."
+    },
+    {
+      "name": "Colossus Hammer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +10/+10 and loses flying.\nEquip {8} ({8}: Attach to target creature you control. Equip only as a sorcery.)"
+    },
+    {
+      "name": "Command Tower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Dáin, Lord of the Iron Hills",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Dwarf Noble",
+      "text": "Vigilance\nStoried (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, creatures can't attack you unless their controller pays {1} for each of those creatures."
+    },
+    {
+      "name": "Exotic Orchard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+      "name": "Farseek",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Fire-Lit Thicket",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G}."
+    },
+    {
+      "name": "Firion, Wild Rose Warrior",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Warrior Rebel",
+      "text": "Equipped creatures you control have haste.\nWhenever a nontoken Equipment you control enters, create a token that's a copy of it, except it has \"This Equipment's equip abilities cost {2} less to activate.\" Sacrifice that token at the beginning of the next upkeep."
+    },
+    {
+      "name": "Forest",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
+    },
+    {
+      "name": "Forest",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
+    },
+    {
+      "name": "Forest",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
+    },
+    {
+      "name": "Fortified Village",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, you may reveal a Forest or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {G} or {W}."
+    },
+    {
+      "name": "Furycalm Snarl",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, you may reveal a Mountain or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {R} or {W}."
+    },
+    {
+      "name": "Cloud, Ex-SOLDIER",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Green",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Soldier Mercenary",
+      "text": "Haste\nWhen Cloud enters, attach up to one target Equipment you control to it.\nWhenever Cloud attacks, draw a card for each equipped attacking creature you control. Then if Cloud has power 7 or greater, create two Treasure tokens."
+    },
+    {
       "name": "Gongaga, Reactor Town",
       "quantity": 1,
       "board": "main",
@@ -292,113 +622,6 @@
       "manaValue": 2,
       "type": "Legendary Creature — Scout Dwarf",
       "text": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, you may pay {0} rather than pay the equip cost of the first equip ability you activate each turn.\nWhenever another Dwarf or Equipment you control enters, draw a card. This ability triggers only once each turn."
-    },
-    {
-      "name": "Lightning Greaves",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
-    },
-    {
-      "name": "Mask of Memory",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
-    },
-    {
-      "name": "Mithril Coat",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Legendary Artifact — Equipment",
-      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
-    },
-    {
-      "name": "Mossfire Valley",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{1}, {T}: Add {R}{G}."
-    },
-    {
-      "name": "Mountain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
-    },
-    {
-      "name": "Mountain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
-    },
-    {
-      "name": "Mountain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
-    },
-    {
-      "name": "Nature's Lore",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Nature's Will",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control."
     },
     {
       "name": "Path of Ancestry",
@@ -976,92 +1199,37 @@
       "text": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}"
     },
     {
-      "name": "Buster Sword",
+      "name": "Lightning Greaves",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +3/+2.\nWhenever equipped creature deals combat damage to a player, draw a card, then you may cast a spell from your hand with mana value less than or equal to that damage without paying its mana cost.\nEquip {2}"
-    },
-    {
-      "name": "Cait Sith, Fortune Teller",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature Artifact — Cat Moogle",
-      "text": "Lucky Slots — At the beginning of combat on your turn, scry 1, then exile the top card of your library. You may play that card this turn. When you exile a card this way, target creature you control gets +X/+0 until end of turn, where X is that card's mana value."
-    },
-    {
-      "name": "Canopy Vista",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Forest",
-      "text": "({T}: Add {G} or {W}.)\nThis land enters tapped unless you control two or more basic lands."
-    },
-    {
-      "name": "Capital City",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land — Town",
-      "text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-    },
-    {
-      "name": "Champion's Helm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +2/+2.\nAs long as equipped creature is legendary, it has hexproof. (It can't be the target of spells or abilities your opponents control.)\nEquip {1}"
-    },
-    {
-      "name": "Chaos Warp",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield."
-    },
-    {
-      "name": "Cid, Freeflier Pilot",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
       "manaValue": 2,
-      "type": "Legendary Creature — Human Warrior Pilot",
-      "text": "Equipment and Vehicle spells you cast cost {1} less to cast.\nJump — During your turn, Cid has flying.\n{2}, {T}: Return target Equipment or Vehicle card from your graveyard to your hand."
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
     },
     {
-      "name": "Cinder Glade",
+      "name": "Mask of Memory",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+    },
+    {
+      "name": "Mithril Coat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
+    },
+    {
+      "name": "Mossfire Valley",
       "quantity": 1,
       "board": "main",
       "colors": [],
@@ -1070,122 +1238,47 @@
         "Green"
       ],
       "manaValue": 0,
-      "type": "Land — Mountain Forest",
-      "text": "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands."
+      "type": "Land",
+      "text": "{1}, {T}: Add {R}{G}."
     },
     {
-      "name": "Clever Concealment",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Instant",
-      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)"
-    },
-    {
-      "name": "Clifftop Retreat",
+      "name": "Mountain",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [
-        "White",
         "Red"
       ],
       "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Mountain or a Plains.\n{T}: Add {R} or {W}."
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
     },
     {
-      "name": "Clive's Hideaway",
+      "name": "Mountain",
       "quantity": 1,
       "board": "main",
       "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land — Town",
-      "text": "Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)\n{T}: Add {C}.\n{2}, {T}: You may play the exiled card without paying its mana cost if you control four or more legendary creatures."
-    },
-    {
-      "name": "Cloud, Planet's Champion",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
+      "colorIdentity": [
         "Red"
       ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Mountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
       "colorIdentity": [
-        "White",
         "Red"
       ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Soldier Mercenary",
-      "text": "During your turn, as long as Cloud is equipped, it has double strike and indestructible. (This creature deals both first-strike and regular combat damage. Damage and effects that say \"destroy\" don't destroy this creature.)\nEquip abilities you activate that target Cloud cost {2} less to activate."
-    },
-    {
-      "name": "Cloud's Limit Break",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Tiered (Choose one additional cost.)\n• Cross-Slash — {0} — Destroy target tapped creature.\n• Blade Beam — {1} — Destroy any number of target tapped creatures with different controllers.\n• Omnislash — {3}{W} — Destroy all tapped creatures."
-    },
-    {
-      "name": "Colossus Hammer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +10/+10 and loses flying.\nEquip {8} ({8}: Attach to target creature you control. Equip only as a sorcery.)"
-    },
-    {
-      "name": "Command Tower",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
       "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add one mana of any color in your commander's color identity."
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
     },
     {
-      "name": "Dáin, Lord of the Iron Hills",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Dwarf Noble",
-      "text": "Vigilance\nStoried (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, creatures can't attack you unless their controller pays {1} for each of those creatures."
-    },
-    {
-      "name": "Exotic Orchard",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
-    },
-    {
-      "name": "Farseek",
+      "name": "Nature's Lore",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1196,114 +1289,21 @@
       ],
       "manaValue": 2,
       "type": "Sorcery",
-      "text": "Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle."
+      "text": "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
     },
     {
-      "name": "Fire-Lit Thicket",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G}."
-    },
-    {
-      "name": "Firion, Wild Rose Warrior",
+      "name": "Nature's Will",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Red"
+        "Green"
       ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Human Warrior Rebel",
-      "text": "Equipped creatures you control have haste.\nWhenever a nontoken Equipment you control enters, create a token that's a copy of it, except it has \"This Equipment's equip abilities cost {2} less to activate.\" Sacrifice that token at the beginning of the next upkeep."
-    },
-    {
-      "name": "Forest",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
       "colorIdentity": [
         "Green"
       ],
-      "manaValue": 0,
-      "type": "Basic Land — Forest",
-      "text": "({T}: Add {G}.)"
-    },
-    {
-      "name": "Forest",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Forest",
-      "text": "({T}: Add {G}.)"
-    },
-    {
-      "name": "Forest",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Forest",
-      "text": "({T}: Add {G}.)"
-    },
-    {
-      "name": "Fortified Village",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, you may reveal a Forest or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {G} or {W}."
-    },
-    {
-      "name": "Furycalm Snarl",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, you may reveal a Mountain or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {R} or {W}."
-    },
-    {
-      "name": "Cloud, Ex-SOLDIER",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "White",
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "White",
-        "Red",
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Soldier Mercenary",
-      "text": "Haste\nWhen Cloud enters, attach up to one target Equipment you control to it.\nWhenever Cloud attacks, draw a card for each equipped attacking creature you control. Then if Cloud has power 7 or greater, create two Treasure tokens."
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control."
     }
   ]
 }

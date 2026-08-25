@@ -766,48 +766,6 @@
       "text": "Sacrifice a creature: Add one mana of any color."
     },
     {
-      "name": "Stromkirk Captain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Vampire Soldier",
-      "text": "First strike\nOther Vampire creatures you control get +1/+1 and have first strike."
-    },
-    {
-      "name": "Swamp",
-      "quantity": 8,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Swamp",
-      "text": "({T}: Add {B}.)"
-    },
-    {
-      "name": "Swords to Plowshares",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Exile target creature. Its controller gains life equal to its power."
-    },
-    {
       "name": "Plains",
       "quantity": 3,
       "board": "main",
@@ -832,19 +790,6 @@
       "manaValue": 8,
       "type": "Legendary Creature — Demon",
       "text": "Flying, trample\nPay 2 life, Sacrifice another creature: Search your library for a card, put that card into your hand, then shuffle."
-    },
-    {
-      "name": "Talisman of Hierarchy",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. This artifact deals 1 damage to you."
     },
     {
       "name": "Reconnaissance",
@@ -997,22 +942,59 @@
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {R} or {W}."
     },
     {
-      "name": "Edgar Markov",
+      "name": "Stromkirk Captain",
       "quantity": 1,
-      "board": "commander",
+      "board": "main",
       "colors": [
-        "White",
         "Red",
         "Black"
       ],
       "colorIdentity": [
-        "White",
         "Black",
         "Red"
       ],
-      "manaValue": 6,
-      "type": "Legendary Creature — Knight Vampire",
-      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
+      "manaValue": 3,
+      "type": "Creature — Vampire Soldier",
+      "text": "First strike\nOther Vampire creatures you control get +1/+1 and have first strike."
+    },
+    {
+      "name": "Swamp",
+      "quantity": 8,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Swamp",
+      "text": "({T}: Add {B}.)"
+    },
+    {
+      "name": "Swords to Plowshares",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Exile target creature. Its controller gains life equal to its power."
+    },
+    {
+      "name": "Talisman of Hierarchy",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. This artifact deals 1 damage to you."
     },
     {
       "name": "Talisman of Indulgence",
@@ -1223,6 +1205,24 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Cleric",
       "text": "Protection from Humans\nPay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card.\n{B}{B}, Discard a card: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    },
+    {
+      "name": "Edgar Markov",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Knight Vampire",
+      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
     }
   ]
 }

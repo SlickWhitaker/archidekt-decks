@@ -18,6 +18,15 @@ Chaos Warp
 Command Tower
 Deadly Rollick
 Deflecting Swat
+Descent into Avernus
+Dragonskull Summit
+Everlasting Torment
+Exquisite Blood
+Feed the Swarm
+Fellwar Stone
+Fiery Confluence
+Fire Covenant
+Florian, Voldaren Scion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -70,15 +79,6 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
-Descent into Avernus
-Dragonskull Summit
-Everlasting Torment
-Exquisite Blood
-Feed the Swarm
-Fellwar Stone
-Fiery Confluence
-Fire Covenant
-Florian, Voldaren Scion
 Foreboding Ruins
 Furnace of Rath
 Graven Cairns

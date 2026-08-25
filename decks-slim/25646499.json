@@ -981,6 +981,63 @@
       "text": "Whenever Théoden or another Human you control enters, target creature gains double strike until end of turn."
     },
     {
+      "name": "Thought Vessel",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "You have no maximum hand size.\n{T}: Add {C}."
+    },
+    {
+      "name": "Throne of the High City",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{4}, {T}, Sacrifice this land: You become the monarch."
+    },
+    {
+      "name": "Tranquil Cove",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Unbreakable Formation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Creatures you control gain indestructible until end of turn.\nAddendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn."
+    },
+    {
+      "name": "Vanquisher's Banner",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 5,
+      "type": "Artifact",
+      "text": "As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\nWhenever you cast a creature spell of the chosen type, draw a card."
+    },
+    {
       "name": "Verge Rangers",
       "quantity": 1,
       "board": "main",
@@ -1071,63 +1128,6 @@
       "manaValue": 5,
       "type": "Creature — Human Warrior",
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
-    },
-    {
-      "name": "Thought Vessel",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "You have no maximum hand size.\n{T}: Add {C}."
-    },
-    {
-      "name": "Throne of the High City",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{4}, {T}, Sacrifice this land: You become the monarch."
-    },
-    {
-      "name": "Tranquil Cove",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {U}."
-    },
-    {
-      "name": "Unbreakable Formation",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Creatures you control gain indestructible until end of turn.\nAddendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn."
-    },
-    {
-      "name": "Vanquisher's Banner",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 5,
-      "type": "Artifact",
-      "text": "As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\nWhenever you cast a creature spell of the chosen type, draw a card."
     }
   ]
 }

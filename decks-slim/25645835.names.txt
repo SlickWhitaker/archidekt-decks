@@ -52,7 +52,6 @@ Prairie Stream
 Psychic Paper
 Raugrin Triome
 Regenerations Restored
-Sonic Screwdriver
 Rhystic Study
 RMS Titanic
 Rogue's Passage
@@ -62,6 +61,10 @@ Run for Your Life
 Sally Sparrow
 Sea of Clouds
 Sol Ring
+Sonic Screwdriver
+Spectator Seating
+Star Whale
+Storm-Kiln Artist
 Stormcarved Coast
 Strionic Resonator
 Sunbaked Canyon
@@ -92,6 +95,3 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Spectator Seating
-Star Whale
-Storm-Kiln Artist
