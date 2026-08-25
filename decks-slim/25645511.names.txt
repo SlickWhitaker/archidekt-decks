@@ -17,13 +17,17 @@ Chittering Witch
 Chromatic Lantern
 Cinder Barrens
 Akul the Unrepentant
-Dreadbore
 Command Tower
 Deadly Dispute
 Descent into Avernus
 Dragonskull Summit
 Dread Return
+Dreadbore
+Drossforge Bridge
+Endrek Sahr, Master Breeder
+Etali, Primal Storm
 Grave Titan
+Evolving Wilds
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
@@ -76,10 +80,6 @@ Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
-Drossforge Bridge
-Endrek Sahr, Master Breeder
-Etali, Primal Storm
-Evolving Wilds
 Exotic Orchard
 Feed the Swarm
 Fellwar Stone
