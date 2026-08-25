@@ -76,13 +76,6 @@ Steelbane Hydra
 Stomping Ground
 Sunken Hollow
 Super Combo
-Turtle Lair
-Unbreakable Formation
-Undergrowth Stadium
-Vernal Fen
-Vibrant Cityscape
-Vigor
-Arcade Cabinet
 Swamp
 Swan Song
 Swords to Plowshares
@@ -91,3 +84,10 @@ Tempestra, Dame of Games
 Thriving Isle
 Tireless Provisioner
 Tocasia's Welcome
+Turtle Lair
+Unbreakable Formation
+Undergrowth Stadium
+Vernal Fen
+Vibrant Cityscape
+Vigor
+Arcade Cabinet
