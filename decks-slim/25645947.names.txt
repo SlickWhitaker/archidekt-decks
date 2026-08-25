@@ -44,6 +44,9 @@ Living Death
 Luxury Suite
 Marsh Flats
 Minas Tirith
+Mondrak, Glory Dominus
+Mountain
+Necropotence
 Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
@@ -84,8 +87,5 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Mondrak, Glory Dominus
-Mountain
-Necropotence
 Nomad Outpost
 Ocelot Pride

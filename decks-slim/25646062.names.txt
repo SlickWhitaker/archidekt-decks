@@ -46,24 +46,6 @@ Namor the Sub-Mariner
 Nicanzil, Current Conductor
 Path of Ancestry
 Ponder
-Summon: Leviathan
-Svyelun of Sea and Sky
-Swan Song
-Swiftfoot Boots
-Sword of Fire and Ice
-The Ozolith
-Thieving Skydiver
-Tishana's Tidebinder
-Triumph of the Hordes
-Tropical Island
-Unclaimed Territory
-Vineglimmer Snarl
-Vodalian Hexcatcher
-Wanderwine Prophets
-Wilderness Reclamation
-Wooded Foothills
-Zegana, Utopian Speaker
-Hakbal of the Surging Soul
 Pongify
 Raise the Palisade
 Rapid Hybridization
@@ -83,3 +65,21 @@ Sol Ring
 Spell Pierce
 Starting Town
 Stubborn Denial
+Summon: Leviathan
+Svyelun of Sea and Sky
+Swan Song
+Swiftfoot Boots
+Sword of Fire and Ice
+The Ozolith
+Thieving Skydiver
+Tishana's Tidebinder
+Triumph of the Hordes
+Tropical Island
+Unclaimed Territory
+Vineglimmer Snarl
+Vodalian Hexcatcher
+Wanderwine Prophets
+Wilderness Reclamation
+Wooded Foothills
+Zegana, Utopian Speaker
+Hakbal of the Surging Soul

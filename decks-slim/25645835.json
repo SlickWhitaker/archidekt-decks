@@ -564,56 +564,6 @@
       "text": "({T}: Add {R}.)"
     },
     {
-      "name": "Mountain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
-    },
-    {
-      "name": "Myriad Landscape",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
-    },
-    {
-      "name": "Mystic Monastery",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {U}, {R}, or {W}."
-    },
-    {
-      "name": "Nanogene Conversion",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Choose target creature you control. Each other creature becomes a copy of that creature until end of turn, except it isn't legendary."
-    },
-    {
       "name": "Ominous Cemetery",
       "quantity": 1,
       "board": "main",
@@ -818,6 +768,45 @@
       "text": "One or two target creatures each gain haste until end of turn. They can't be blocked this turn except by creatures with haste.\nEscape—{2}{U}{R}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
     },
     {
+      "name": "Sally Sparrow",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Detective",
+      "text": "You may cast creature spells as though they had flash.\nWhenever one or more other creatures you control leave the battlefield, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    },
+    {
+      "name": "Sea of Clouds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
       "name": "Sonic Screwdriver",
       "quantity": 1,
       "board": "main",
@@ -839,22 +828,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {R} or {W}."
-    },
-    {
-      "name": "Sally Sparrow",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human Detective",
-      "text": "You may cast creature spells as though they had flash.\nWhenever one or more other creatures you control leave the battlefield, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
     },
     {
       "name": "Star Whale",
@@ -1285,27 +1258,54 @@
       "text": "Allons-y! — Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn't have suspend, it gains suspend.\nTimey-Wimey — {7}: Time travel three times. Activate only as a sorcery. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do it two more times.)"
     },
     {
-      "name": "Sea of Clouds",
+      "name": "Mountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Myriad Landscape",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Mystic Monastery",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [
         "White",
-        "Blue"
+        "Blue",
+        "Red"
       ],
       "manaValue": 0,
       "type": "Land",
-      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {U}."
+      "text": "This land enters tapped.\n{T}: Add {U}, {R}, or {W}."
     },
     {
-      "name": "Sol Ring",
+      "name": "Nanogene Conversion",
       "quantity": 1,
       "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Choose target creature you control. Each other creature becomes a copy of that creature until end of turn, except it isn't legendary."
     }
   ]
 }
