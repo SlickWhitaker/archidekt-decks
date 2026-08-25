@@ -39,7 +39,7 @@ Forest
 Fortified Village
 Furycalm Snarl
 Cloud, Ex-SOLDIER
-Path of Ancestry
+Rugged Prairie
 Gongaga, Reactor Town
 Hard-Won Jitte
 Hellkite Tyrant
@@ -54,9 +54,18 @@ Mountain
 Mountain
 Nature's Lore
 Nature's Will
-Rugged Prairie
-Sacred Peaks
-Scavenger Grounds
+Path of Ancestry
+Path to Exile
+Plains
+Plains
+Plains
+Professional Face-Breaker
+Puresteel Paladin
+Radiant Grove
+Red XIII, Proud Warrior
+Ring of the Lucii
+Rogue's Passage
+Rootbound Crag
 Sephiroth, Fallen Hero
 Sheltered Thicket
 Sigarda's Aid
@@ -87,14 +96,5 @@ World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
-Path to Exile
-Plains
-Plains
-Plains
-Professional Face-Breaker
-Puresteel Paladin
-Radiant Grove
-Red XIII, Proud Warrior
-Ring of the Lucii
-Rogue's Passage
-Rootbound Crag
+Sacred Peaks
+Scavenger Grounds
