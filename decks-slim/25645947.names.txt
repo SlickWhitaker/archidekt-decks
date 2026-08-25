@@ -44,12 +44,8 @@ Living Death
 Luxury Suite
 Marsh Flats
 Minas Tirith
-Mondrak, Glory Dominus
-Mountain
-Necropotence
-Nomad Outpost
-Ocelot Pride
 Olivia, Crimson Bride
+Mondrak, Glory Dominus
 Path of Ancestry
 Path to Exile
 Patriarch's Bidding
@@ -66,6 +62,8 @@ Secluded Courtyard
 Shared Animosity
 Skullclamp
 Sol Ring
+Sorin, Imperious Bloodlord
+Spectator Seating
 Stromkirk Captain
 Swamp
 Swords to Plowshares
@@ -87,5 +85,7 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Sorin, Imperious Bloodlord
-Spectator Seating
+Mountain
+Necropotence
+Nomad Outpost
+Ocelot Pride
