@@ -58,9 +58,6 @@ Sol Ring
 Springleaf Drum
 Swamp
 Syphon Mind
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
 The Raven Man
 Tinybones Joins Up
 Tinybones, Bauble Burglar
@@ -71,3 +68,6 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not

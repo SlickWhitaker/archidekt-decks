@@ -40,6 +40,8 @@ Martha Jones
 Mountain
 Mountain
 Myriad Landscape
+Mystic Monastery
+Nanogene Conversion
 Ominous Cemetery
 Out of Time
 Path of Ancestry
@@ -57,16 +59,16 @@ Rory Williams
 Rotating Fireplace
 Run for Your Life
 Sally Sparrow
-Sea of Clouds
-Sol Ring
 Sonic Screwdriver
 Spectator Seating
 Star Whale
 Storm-Kiln Artist
 Stormcarved Coast
+Sea of Clouds
 Strionic Resonator
 Sunbaked Canyon
 Sundown Pass
+Sol Ring
 Talisman of Conviction
 Talisman of Creativity
 Talisman of Progress
@@ -93,5 +95,3 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Mystic Monastery
-Nanogene Conversion

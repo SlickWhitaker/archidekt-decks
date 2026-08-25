@@ -69,19 +69,10 @@ Rootbound Crag
 Scalding Tarn
 Seedborn Muse
 Selvala, Heart of the Wilds
-Veil of Summer
 Shifting Woodland
-Verdant Catacombs
 Skullclamp
-Wasteland
-Wheel of Misfortune
 Sol Ring
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
 Spire Garden
-Zealous Conscripts
 Stomping Ground
 Strip Mine
 Sylvan Library
@@ -92,3 +83,12 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts

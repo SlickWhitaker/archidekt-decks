@@ -37,28 +37,39 @@ Grand Coliseum
 Guardian Project
 Halo Fountain
 Heroes in a Half Shell
-Hinterland Harbor
-Island
-Jetmir's Garden
 Heroic Intervention
 Hidden Hideout
-Kami of Whispered Hopes
-Kindred Dominance
 Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
+Hinterland Harbor
+Island
+Jetmir's Garden
+Kami of Whispered Hopes
+Kindred Dominance
 Plains
+Kodama's Reach
+Lita, Little Orphan Amphibian
+Lotho, Corrupt Shirriff
+March of the Multitudes
+Michelangelo, Weirdness to 11
+Mikey & Leo, Chaos & Order
+Mirkwood Bats
+Mona Lisa, Science Geek
+Mondrak, Glory Dominus
+Mountain
+Ninja Pizza
+Ojer Taq, Deepest Foundation // Temple of Civilization
 Plaza of Heroes
-Raffine's Tower
-Raphael, the Muscle
-Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
 Skullclamp
+Raffine's Tower
 Sodden Verdure
 Sol Ring
 Spire Garden
+Raphael, the Muscle
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
@@ -78,16 +89,5 @@ Undergrowth Stadium
 Vernal Fen
 Vibrant Cityscape
 Vigor
+Rat King, Pale Piper
 Arcade Cabinet
-Kodama's Reach
-Lita, Little Orphan Amphibian
-Lotho, Corrupt Shirriff
-March of the Multitudes
-Michelangelo, Weirdness to 11
-Mikey & Leo, Chaos & Order
-Mirkwood Bats
-Mona Lisa, Science Geek
-Mondrak, Glory Dominus
-Mountain
-Ninja Pizza
-Ojer Taq, Deepest Foundation // Temple of Civilization

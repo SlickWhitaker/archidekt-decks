@@ -58,16 +58,9 @@ Roaming Throne
 Savor the Moment
 Secluded Courtyard
 Simic Ascendancy
-Simic Growth Chamber
-Singer of Swift Rivers
-Sodden Verdure
-Sol Ring
-Spell Pierce
-Starting Town
-Stubborn Denial
 Summon: Leviathan
-Hakbal of the Surging Soul
 Svyelun of Sea and Sky
+Simic Growth Chamber
 Swan Song
 Swiftfoot Boots
 Sword of Fire and Ice
@@ -83,3 +76,10 @@ Wanderwine Prophets
 Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
+Hakbal of the Surging Soul
+Singer of Swift Rivers
+Sodden Verdure
+Sol Ring
+Spell Pierce
+Starting Town
+Stubborn Denial

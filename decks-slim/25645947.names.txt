@@ -43,8 +43,13 @@ Legion's Landing // Adanto, the First Fort
 Living Death
 Luxury Suite
 Marsh Flats
-Olivia, Crimson Bride
 Minas Tirith
+Mondrak, Glory Dominus
+Mountain
+Necropotence
+Nomad Outpost
+Ocelot Pride
+Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
 Patriarch's Bidding
@@ -84,8 +89,3 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Mondrak, Glory Dominus
-Mountain
-Necropotence
-Nomad Outpost
-Ocelot Pride
