@@ -38,8 +38,17 @@ Herald's Horn
 Indulgent Aristocrat
 Isolated Chapel
 Kalitas, Traitor of Ghet
-Legion's Landing // Adanto, the First Fort
 Legion Lieutenant
+Legion's Landing // Adanto, the First Fort
+Living Death
+Luxury Suite
+Marsh Flats
+Minas Tirith
+Mondrak, Glory Dominus
+Mountain
+Necropotence
+Nomad Outpost
+Ocelot Pride
 Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
@@ -74,18 +83,9 @@ Vampiric Tutor
 Vault of Champions
 Vein Ripper
 Viscera Seer
+Edgar Markov
 Vito, Thorn of the Dusk Rose
 Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
-Edgar Markov
-Living Death
-Luxury Suite
-Marsh Flats
-Minas Tirith
-Mondrak, Glory Dominus
-Mountain
-Necropotence
-Nomad Outpost
-Ocelot Pride

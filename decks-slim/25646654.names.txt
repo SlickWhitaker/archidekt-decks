@@ -35,12 +35,6 @@ Izzet Signet
 Jacked Rabbit
 Jubilant Skybonder
 Kindred Discovery
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
 Ledger Shredder
 Mabel, Heir to Cragflame
 Martial Coup
@@ -74,6 +68,12 @@ Skyclave Apparition
 Skycloud Expanse
 Sol Ring
 Soulcatchers' Aerie
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
 Steam Vents
 Storm of Souls
 Sulfur Falls

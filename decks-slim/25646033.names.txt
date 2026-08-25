@@ -72,6 +72,7 @@ Splendid Reclamation
 Springheart Nantuko
 Summon: Titan
 Swan Song
+Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
 The Unagi of Kyoshi Island
@@ -93,4 +94,3 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-Thassa's Oracle

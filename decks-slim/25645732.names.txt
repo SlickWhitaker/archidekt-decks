@@ -49,6 +49,10 @@ Mask of Memory
 Mithril Coat
 Mossfire Valley
 Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will
 Path of Ancestry
 Path to Exile
 Plains
@@ -61,18 +65,10 @@ Red XIII, Proud Warrior
 Ring of the Lucii
 Rogue's Passage
 Rootbound Crag
+Sephiroth, Fallen Hero
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
-Sephiroth, Fallen Hero
-Sheltered Thicket
-Sigarda's Aid
-Skullclamp
-Slayers' Stronghold
-Sol Ring
-SOLDIER Military Program
-Sphere Grid
-Spire of Industry
 Stoneforge Mystic
 Summon: Esper Ramuh
 Summon: Kujata
@@ -94,7 +90,11 @@ World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
+Sheltered Thicket
+Sigarda's Aid
+Skullclamp
+Slayers' Stronghold
+Sol Ring
+SOLDIER Military Program
+Sphere Grid
+Spire of Industry
