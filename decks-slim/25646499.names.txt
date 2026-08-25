@@ -62,6 +62,7 @@ Sol Ring
 Steam Vents
 Sulfur Falls
 Sunset Revelry
+Verge Rangers
 Supreme Verdict
 Swords to Plowshares
 Talisman of Conviction
@@ -75,7 +76,6 @@ Throne of the High City
 Tranquil Cove
 Unbreakable Formation
 Vanquisher's Banner
-Verge Rangers
 Village Bell-Ringer
 Visions of Glory
 Wayfarer's Bauble

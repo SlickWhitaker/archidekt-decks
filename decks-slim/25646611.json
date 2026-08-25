@@ -392,22 +392,6 @@
       "text": "As an additional cost to cast this spell, pay X life.\nFire Covenant deals X damage divided as you choose among any number of target creatures."
     },
     {
-      "name": "Florian, Voldaren Scion",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Vampire Noble",
-      "text": "First strike\nAt the beginning of each of your postcombat main phases, look at the top X cards of your library, where X is the total amount of life your opponents lost this turn. Exile one of those cards and put the rest on the bottom of your library in a random order. You may play the exiled card this turn."
-    },
-    {
       "name": "Kaervek the Merciless",
       "quantity": 1,
       "board": "main",
@@ -1116,6 +1100,22 @@
       "manaValue": 2,
       "type": "Creature — Human Rogue Ally",
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
+    },
+    {
+      "name": "Florian, Voldaren Scion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Vampire Noble",
+      "text": "First strike\nAt the beginning of each of your postcombat main phases, look at the top X cards of your library, where X is the total amount of life your opponents lost this turn. Exile one of those cards and put the rest on the bottom of your library in a random order. You may play the exiled card this turn."
     },
     {
       "name": "Foreboding Ruins",

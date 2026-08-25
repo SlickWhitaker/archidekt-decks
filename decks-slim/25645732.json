@@ -624,6 +624,26 @@
       "text": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, you may pay {0} rather than pay the equip cost of the first equip ability you activate each turn.\nWhenever another Dwarf or Equipment you control enters, draw a card. This ability triggers only once each turn."
     },
     {
+      "name": "Lightning Greaves",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
+    },
+    {
+      "name": "Mask of Memory",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+    },
+    {
       "name": "Path of Ancestry",
       "quantity": 1,
       "board": "main",
@@ -1197,26 +1217,6 @@
       "manaValue": 3,
       "type": "Artifact — Equipment",
       "text": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}"
-    },
-    {
-      "name": "Lightning Greaves",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
-    },
-    {
-      "name": "Mask of Memory",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
     },
     {
       "name": "Mithril Coat",

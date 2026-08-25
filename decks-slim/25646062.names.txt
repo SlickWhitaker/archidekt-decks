@@ -40,24 +40,6 @@ Merrow Commerce
 Merrow Harbinger
 Merrow Reejerey
 Metallic Mimic
-Misty Rainforest
-Mutavault
-Namor the Sub-Mariner
-Nicanzil, Current Conductor
-Path of Ancestry
-Ponder
-Pongify
-Raise the Palisade
-Rapid Hybridization
-Realmwalker
-Reflections of Littjara
-Rejuvenating Springs
-Reliquary Tower
-Ripples of Potential
-Roaming Throne
-Savor the Moment
-Secluded Courtyard
-Simic Ascendancy
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -76,6 +58,24 @@ Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
 Hakbal of the Surging Soul
+Misty Rainforest
+Mutavault
+Namor the Sub-Mariner
+Nicanzil, Current Conductor
+Path of Ancestry
+Ponder
+Pongify
+Raise the Palisade
+Rapid Hybridization
+Realmwalker
+Reflections of Littjara
+Rejuvenating Springs
+Reliquary Tower
+Ripples of Potential
+Roaming Throne
+Savor the Moment
+Secluded Courtyard
+Simic Ascendancy
 Simic Growth Chamber
 Singer of Swift Rivers
 Sodden Verdure

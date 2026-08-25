@@ -44,6 +44,8 @@ Hard-Won Jitte
 Hellkite Tyrant
 Iron Hills Blacksmith
 Kíli the Resourceful
+Lightning Greaves
+Mask of Memory
 Path of Ancestry
 Path to Exile
 Plains
@@ -89,8 +91,6 @@ World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
-Lightning Greaves
-Mask of Memory
 Mithril Coat
 Mossfire Valley
 Mountain
