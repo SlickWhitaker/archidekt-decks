@@ -27,12 +27,6 @@ Cultivate
 Dimension X Pizzasaur
 Donatello, the Brains
 Doubling Season
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -84,10 +78,16 @@ Tempestra, Dame of Games
 Thriving Isle
 Tireless Provisioner
 Tocasia's Welcome
-Arcade Cabinet
 Turtle Lair
 Unbreakable Formation
 Undergrowth Stadium
 Vernal Fen
 Vibrant Cityscape
 Vigor
+Arcade Cabinet
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest

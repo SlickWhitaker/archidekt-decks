@@ -45,25 +45,26 @@ Necropotence
 Ob Nixilis, Captive Kingpin
 Obosh, the Preypiercer
 Opposition Agent
-Orcish Bowmasters
-Painful Quandary
-Phyrexian Arena
-Polluted Bonds
-Prismatic Vista
-Rakdos Charm
-Rampaging Ferocidon
 Razorkin Needlehead
 Repercussion
+Orcish Bowmasters
 Roiling Vortex
 Shadowblood Ridge
 Sheoldred, the Apocalypse
 Sheoldred's Edict
 Shivan Gorge
+Painful Quandary
 Smoldering Marsh
 Sol Ring
 Spellshock
 Spinerock Knoll
 Spiteful Visions
+Star of Extinction
+Sulfuric Vortex
+Sulfurous Springs
+Swamp
+Syr Konrad, the Grim
+Tainted Peak
 Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
@@ -71,6 +72,7 @@ The Lord of Pain
 The Meathook Massacre
 The One Ring
 Torment of Hailfire
+Phyrexian Arena
 Underworld Dreams
 Urborg, Tomb of Yawgmoth
 Vial Smasher the Fierce
@@ -78,10 +80,8 @@ Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
+Polluted Bonds
 Zulaport Cutthroat
-Star of Extinction
-Sulfuric Vortex
-Sulfurous Springs
-Swamp
-Syr Konrad, the Grim
-Tainted Peak
+Prismatic Vista
+Rakdos Charm
+Rampaging Ferocidon

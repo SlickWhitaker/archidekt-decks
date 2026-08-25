@@ -18,6 +18,10 @@ Chromatic Lantern
 Cinder Barrens
 Akul the Unrepentant
 Command Tower
+Deadly Dispute
+Descent into Avernus
+Dragonskull Summit
+Dread Return
 Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
@@ -80,7 +84,3 @@ Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
-Deadly Dispute
-Descent into Avernus
-Dragonskull Summit
-Dread Return
