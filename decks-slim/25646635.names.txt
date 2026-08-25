@@ -54,10 +54,6 @@ Morphic Pool
 Mothdust Changeling
 Muddle the Mixture
 Mystic Remora
-Mystic Sanctuary
-Mystical Tutor
-Nanogene Conversion
-Nashi, Moon Sage's Scion
 Negate
 Ninja of the Deep Hours
 Opposition Agent
@@ -94,5 +90,9 @@ Throat Slitter
 Underground River
 Vampiric Tutor
 Walker of Secret Ways
+Mystic Sanctuary
 Watery Grave
+Mystical Tutor
+Nanogene Conversion
+Nashi, Moon Sage's Scion
 Yuriko, the Tiger's Shadow

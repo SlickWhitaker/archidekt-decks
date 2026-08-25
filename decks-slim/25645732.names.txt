@@ -77,24 +77,24 @@ Sol Ring
 SOLDIER Military Program
 Sphere Grid
 Spire of Industry
-Stoneforge Mystic
-Summon: Esper Ramuh
-Summon: Kujata
-Summoning Materia
-Sungrass Prairie
-Sunpetal Grove
-Sunscorched Divide
-Swiftfoot Boots
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
 Tifa, Martial Artist
 Tifa's Limit Break
+Stoneforge Mystic
+Summon: Esper Ramuh
 Ultimate Magic: Holy
+Summon: Kujata
+Summoning Materia
+Sungrass Prairie
 Unfinished Business
+Sunpetal Grove
+Sunscorched Divide
+Swiftfoot Boots
 Vandalblast
+Zack Fair
 Wood Elves
+Sword of Forge and Frontier
 World Map
 Yuffie, Materia Hunter
-Zack Fair
-Sword of Forge and Frontier

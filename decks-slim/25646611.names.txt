@@ -51,7 +51,6 @@ Phyrexian Arena
 Polluted Bonds
 Prismatic Vista
 Rakdos Charm
-Rampaging Ferocidon
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -69,6 +68,7 @@ Sulfuric Vortex
 Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
+Tainted Peak
 Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
@@ -84,4 +84,4 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
-Tainted Peak
+Rampaging Ferocidon

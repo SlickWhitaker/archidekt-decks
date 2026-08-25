@@ -67,12 +67,10 @@ Riverchurn Monument
 Rogue's Passage
 Shifting Woodland
 Snapcaster Mage
+Summon: Titan
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
-Summon: Titan
-Swan Song
-Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
 The Unagi of Kyoshi Island
@@ -94,3 +92,5 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Swan Song
+Thassa's Oracle

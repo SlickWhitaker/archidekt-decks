@@ -69,19 +69,19 @@ Rootbound Crag
 Scalding Tarn
 Seedborn Muse
 Selvala, Heart of the Wilds
-Shifting Woodland
 Veil of Summer
-Skullclamp
+Shifting Woodland
 Verdant Catacombs
-Sol Ring
+Skullclamp
 Wasteland
 Wheel of Misfortune
+Sol Ring
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
-Zealous Conscripts
 Spire Garden
+Zealous Conscripts
 Stomping Ground
 Strip Mine
 Sylvan Library
