@@ -1,26 +1,5 @@
 Éowyn, Shieldmaiden
 Aragorn, King of Gondor
-Arcane Signet
-Arid Mesa
-Bard the Bowman
-Bastion Protector
-Battlefield Forge
-Beregond of the Guard
-Boromir, Gondor's Hope
-Call for Aid
-Call the Coppercoats
-Champions of Minas Tirith
-Clifftop Retreat
-Combat Celebrant
-Command Tower
-Coppercoat Vanguard
-Court of Ire
-Crown of Gondor
-Denethor, Stone Seer
-Door of Destinies
-Earthquake
-Éomer, King of Rohan
-Erkenbrand, Lord of Westfold
 Exotic Orchard
 Faramir, Steward of Gondor
 Fealty to the Realm
@@ -66,13 +45,6 @@ Supreme Verdict
 Swords to Plowshares
 Talisman of Conviction
 Talisman of Progress
-Verge Rangers
-Village Bell-Ringer
-Visions of Glory
-Wayfarer's Bauble
-Weathered Wayfarer
-Windbrisk Heights
-Zealous Conscripts
 Taunt from the Rampart
 Terramorphic Expanse
 The Mountain-king's Return
@@ -82,3 +54,31 @@ Throne of the High City
 Tranquil Cove
 Unbreakable Formation
 Vanquisher's Banner
+Verge Rangers
+Village Bell-Ringer
+Visions of Glory
+Wayfarer's Bauble
+Weathered Wayfarer
+Windbrisk Heights
+Zealous Conscripts
+Arcane Signet
+Arid Mesa
+Bard the Bowman
+Bastion Protector
+Battlefield Forge
+Beregond of the Guard
+Boromir, Gondor's Hope
+Call for Aid
+Call the Coppercoats
+Champions of Minas Tirith
+Clifftop Retreat
+Combat Celebrant
+Command Tower
+Coppercoat Vanguard
+Court of Ire
+Crown of Gondor
+Denethor, Stone Seer
+Door of Destinies
+Earthquake
+Éomer, King of Rohan
+Erkenbrand, Lord of Westfold

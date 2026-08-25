@@ -3,21 +3,6 @@ Arcane Signet
 Arid Mesa
 Ash Barrens
 Blasphemous Act
-Bloodstained Mire
-Boosted Sloop
-Brallin, Skyshark Rider
-Careful Study
-Cascade Bluffs
-Cathartic Reunion
-Cephalid Coliseum
-Chameleon, Master of Disguise
-Change of Fortune
-Chaos Warp
-Chrome Mox
-Command Tower
-Containment Construct
-Cool but Rude
-Cyclonic Rift
 Dack Fayden
 Deflecting Swat
 Demand Answers
@@ -37,7 +22,24 @@ Hydroelectric Specimen // Hydroelectric Laboratory
 Ill-Timed Explosion
 Imperial Recruiter
 Inti, Seneschal of the Sun
+Bloodstained Mire
+Boosted Sloop
+Brallin, Skyshark Rider
+Careful Study
+Cascade Bluffs
+Cathartic Reunion
+Cephalid Coliseum
+Chameleon, Master of Disguise
+Change of Fortune
+Chaos Warp
+Chrome Mox
+Command Tower
+Containment Construct
+Cool but Rude
+Cyclonic Rift
+Marauding Mako
 Island
+Mistrise Village
 Ivora, Insatiable Heir
 Izzet Charm
 Key to the City
@@ -47,8 +49,6 @@ Lonely Sandbar
 Magmakin Artillerist
 Malcolm, Keen-Eyed Navigator
 Mana Vault
-Marauding Mako
-Mistrise Village
 Monument to Endurance
 Mountain
 Mystic Remora
@@ -63,11 +63,6 @@ Reliquary Tower
 Rhystic Study
 Rielle, the Everwise
 Riverglide Pathway // Lavaglide Pathway
-Riverpyre Verge
-Rogue's Passage
-Scalding Tarn
-Scrounging Skyray
-Shivan Reef
 Sol Ring
 Spirebluff Canal
 Steam Vents
@@ -75,6 +70,12 @@ Stormcarved Coast
 Stubborn Denial
 Sulfur Falls
 Surly Badgersaur
+Riverpyre Verge
+Rogue's Passage
+Scalding Tarn
+Scrounging Skyray
+Shivan Reef
+Captain Howler, Sea Scourge
 Swan Song
 Swiftfoot Boots
 Talisman of Creativity
@@ -90,4 +91,3 @@ Twinflame
 Windfall
 Wonder
 Wooded Foothills
-Captain Howler, Sea Scourge

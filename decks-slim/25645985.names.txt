@@ -2,35 +2,6 @@ Indatha Triome
 Inspiring Statuary
 Isolated Chapel
 Lobelia, Defender of Bag End
-Command Tower
-Cultivate
-Delighted Halfling
-Delney, Streetwise Lookout
-Dusk // Dawn
-Essence Warden
-Evolving Wilds
-Exotic Orchard
-Farmer Cotton
-Farseek
-Feasting Hobbit
-Feasting Troll King
-Fell the Mighty
-Field-Tested Frying Pan
-Forest
-Fortified Village
-Ghost Quarter
-Gilded Goose
-Gollum, Obsessed Stalker
-Gwaihir, Greatest of the Eagles
-Gyome, Master Chef
-Hithlain Rope
-Lotho, Corrupt Shirriff
-Many Partings
-Mentor of the Meek
-Merry, Warden of Isengard
-Mirkwood Bats
-Mortality Spear
-Murmuring Bosk
 Nature's Lore
 Nazgûl
 Necroblossom Snarl
@@ -89,3 +60,32 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
+Command Tower
+Cultivate
+Delighted Halfling
+Delney, Streetwise Lookout
+Dusk // Dawn
+Essence Warden
+Evolving Wilds
+Exotic Orchard
+Farmer Cotton
+Farseek
+Feasting Hobbit
+Feasting Troll King
+Fell the Mighty
+Field-Tested Frying Pan
+Forest
+Fortified Village
+Ghost Quarter
+Gilded Goose
+Gollum, Obsessed Stalker
+Gwaihir, Greatest of the Eagles
+Gyome, Master Chef
+Hithlain Rope
+Lotho, Corrupt Shirriff
+Many Partings
+Mentor of the Meek
+Merry, Warden of Isengard
+Mirkwood Bats
+Mortality Spear
+Murmuring Bosk
