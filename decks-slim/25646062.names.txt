@@ -49,18 +49,8 @@ Ponder
 Pongify
 Raise the Palisade
 Rapid Hybridization
-Realmwalker
-Reflections of Littjara
-Rejuvenating Springs
-Reliquary Tower
-Ripples of Potential
-Roaming Throne
-Savor the Moment
-Secluded Courtyard
-Simic Ascendancy
 Summon: Leviathan
 Svyelun of Sea and Sky
-Simic Growth Chamber
 Swan Song
 Swiftfoot Boots
 Sword of Fire and Ice
@@ -77,6 +67,16 @@ Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
 Hakbal of the Surging Soul
+Realmwalker
+Reflections of Littjara
+Rejuvenating Springs
+Reliquary Tower
+Ripples of Potential
+Roaming Throne
+Savor the Moment
+Secluded Courtyard
+Simic Ascendancy
+Simic Growth Chamber
 Singer of Swift Rivers
 Sodden Verdure
 Sol Ring

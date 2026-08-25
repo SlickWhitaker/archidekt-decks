@@ -47,7 +47,6 @@ Island
 Jetmir's Garden
 Kami of Whispered Hopes
 Kindred Dominance
-Plains
 Kodama's Reach
 Lita, Little Orphan Amphibian
 Lotho, Corrupt Shirriff
@@ -60,16 +59,13 @@ Mondrak, Glory Dominus
 Mountain
 Ninja Pizza
 Ojer Taq, Deepest Foundation // Temple of Civilization
-Plaza of Heroes
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
 Skullclamp
-Raffine's Tower
 Sodden Verdure
 Sol Ring
 Spire Garden
-Raphael, the Muscle
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
@@ -89,5 +85,9 @@ Undergrowth Stadium
 Vernal Fen
 Vibrant Cityscape
 Vigor
-Rat King, Pale Piper
 Arcade Cabinet
+Plains
+Plaza of Heroes
+Raffine's Tower
+Raphael, the Muscle
+Rat King, Pale Piper

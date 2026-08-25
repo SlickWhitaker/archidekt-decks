@@ -41,6 +41,12 @@ Martial Coup
 Migratory Route
 Mind Stone
 Mountain
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
 Murmuration
 Mystic Monastery
 Nesting Dovehawk
@@ -84,9 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
