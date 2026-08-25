@@ -46,15 +46,10 @@ Ob Nixilis, Captive Kingpin
 Obosh, the Preypiercer
 Opposition Agent
 Orcish Bowmasters
-Painful Quandary
-Phyrexian Arena
-Polluted Bonds
-Prismatic Vista
-Rakdos Charm
-Rampaging Ferocidon
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
+Painful Quandary
 Shadowblood Ridge
 Sheoldred, the Apocalypse
 Sheoldred's Edict
@@ -85,3 +80,8 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
+Phyrexian Arena
+Polluted Bonds
+Prismatic Vista
+Rakdos Charm
+Rampaging Ferocidon

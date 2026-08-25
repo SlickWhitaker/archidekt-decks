@@ -29,19 +29,6 @@ Glacial Fortress
 Grasp of Fate
 Idris, Soul of the TARDIS
 Inspiring Refrain
-Irrigated Farmland
-Island
-Island
-Jenny, Generated Anomaly
-Judoon Enforcers
-Kate Stewart
-Lightning Greaves
-Martha Jones
-Mountain
-Mountain
-Myriad Landscape
-Mystic Monastery
-Nanogene Conversion
 Ominous Cemetery
 Out of Time
 Path of Ancestry
@@ -55,26 +42,28 @@ Regenerations Restored
 Rhystic Study
 RMS Titanic
 Rogue's Passage
+Rory Williams
+Rotating Fireplace
+Run for Your Life
+Sally Sparrow
+Sea of Clouds
+Sol Ring
 Sonic Screwdriver
 Spectator Seating
 Star Whale
 Storm-Kiln Artist
 Stormcarved Coast
 Strionic Resonator
-Rory Williams
 Sunbaked Canyon
 Sundown Pass
 Talisman of Conviction
 Talisman of Creativity
-Rotating Fireplace
 Talisman of Progress
 TARDIS
-Run for Your Life
 Teferi's Protection
 Temple of Enlightenment
 The Day of the Doctor
 The Eleventh Doctor
-Sally Sparrow
 The Eleventh Hour
 The Face of Boe
 The Girl in the Fireplace
@@ -93,5 +82,16 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Sea of Clouds
-Sol Ring
+Irrigated Farmland
+Island
+Island
+Jenny, Generated Anomaly
+Judoon Enforcers
+Kate Stewart
+Lightning Greaves
+Martha Jones
+Mountain
+Mountain
+Myriad Landscape
+Mystic Monastery
+Nanogene Conversion

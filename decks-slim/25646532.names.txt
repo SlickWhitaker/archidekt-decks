@@ -20,6 +20,10 @@ Dauthi Voidwalker
 Defile
 Delirium Skeins
 Elderfang Disciple
+Emergence Zone
+Entropic Battlecruiser
+Feed the Swarm
+Fell the Profane // Fell Mire
 Geier Reach Sanitarium
 Go for the Throat
 Hecteyes
@@ -62,12 +66,8 @@ Virus Beetle
 War Room
 Wheel of Torture
 Will of the Abzan
-Withering Torment
-Words of Waste
 Geth's Grimoire
 Tinybones, Trinket Thief
 Waste Not
-Emergence Zone
-Entropic Battlecruiser
-Feed the Swarm
-Fell the Profane // Fell Mire
+Withering Torment
+Words of Waste

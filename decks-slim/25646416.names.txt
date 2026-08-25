@@ -37,6 +37,8 @@ Forest
 Fyndhorn Elves
 Gamble
 Genesis Wave
+Greater Good
+Green Sun's Zenith
 Hardened Scales
 Hellkite Tyrant
 Heroic Intervention
@@ -90,5 +92,3 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Greater Good
-Green Sun's Zenith
