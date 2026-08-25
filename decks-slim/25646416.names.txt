@@ -72,22 +72,22 @@ Selvala, Heart of the Wilds
 Shifting Woodland
 Skullclamp
 Sol Ring
-Veil of Summer
 Spire Garden
 Stomping Ground
 Strip Mine
 Sylvan Library
 Terror of the Peaks
 The Great Henge
-Verdant Catacombs
+Veil of Summer
 The One Ring
+Verdant Catacombs
+The Ozolith
 Wasteland
 Wheel of Misfortune
-The Ozolith
+Three Visits
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
-Three Visits
 Yavimaya, Cradle of Growth
 Zealous Conscripts
 Tooth and Nail

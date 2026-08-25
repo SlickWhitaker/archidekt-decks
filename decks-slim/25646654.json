@@ -1148,6 +1148,20 @@
       "text": "Flash\nYou may cast noncreature spells as though they had flash.\nWhenever you cast a noncreature spell, Birds, Frogs, Otters, and Rats you control get +1/+1 until end of turn. Untap them."
     },
     {
+      "name": "Warden of Evos Isle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Wizard Bird",
+      "text": "Flying\nCreature spells with flying you cast cost {1} less to cast."
+    },
+    {
       "name": "Warren Warleader",
       "quantity": 1,
       "board": "main",
@@ -1176,34 +1190,6 @@
       "manaValue": 2,
       "type": "Creature — Wizard Bird",
       "text": "Flying\nCreature spells with flying you cast cost {1} less to cast.\nWhenever another creature you control with flying enters, this creature gets +1/+1 until end of turn."
-    },
-    {
-      "name": "Warden of Evos Isle",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Wizard Bird",
-      "text": "Flying\nCreature spells with flying you cast cost {1} less to cast."
-    },
-    {
-      "name": "Fiend Hunter",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Cleric",
-      "text": "When this creature enters, you may exile another target creature.\nWhen this creature leaves the battlefield, return the exiled card to the battlefield under its owner's control."
     },
     {
       "name": "Zinnia, Valley's Voice",
@@ -1236,6 +1222,20 @@
       "manaValue": 2,
       "type": "Creature — Soldier Bird",
       "text": "Flying\nWhenever a creature with flying dies, put a +1/+1 counter on this creature."
+    },
+    {
+      "name": "Fiend Hunter",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Cleric",
+      "text": "When this creature enters, you may exile another target creature.\nWhen this creature leaves the battlefield, return the exiled card to the battlefield under its owner's control."
     },
     {
       "name": "Academy Manufactor",

@@ -53,15 +53,12 @@ Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
 Razorkin Needlehead
-Takenuma, Abandoned Mire
 Repercussion
 Roiling Vortex
 Shadowblood Ridge
 Sheoldred, the Apocalypse
 Sheoldred's Edict
-Talisman of Indulgence
 Shivan Gorge
-Terminate
 Smoldering Marsh
 Sol Ring
 Spellshock
@@ -73,6 +70,9 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
+Takenuma, Abandoned Mire
+Talisman of Indulgence
+Terminate
 The Lord of Pain
 The Meathook Massacre
 The One Ring

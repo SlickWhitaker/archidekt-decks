@@ -112,6 +112,86 @@
       "text": "Whenever you attack with one or more non-Gnome creatures, put a +1/+1 counter on Anim Pakal, then create X 1/1 colorless Gnome artifact creature tokens that are tapped and attacking, where X is the number of +1/+1 counters on Anim Pakal."
     },
     {
+      "name": "April O'Neil, Live on the Scene",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Human Detective",
+      "text": "Whenever a Mutant, Ninja, or Turtle you control enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nPartner—Character select"
+    },
+    {
+      "name": "Arasta of the Endless Web",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature Enchantment — Spider",
+      "text": "Reach\nWhenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach."
+    },
+    {
+      "name": "Arcane Signet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Ash Barrens",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\nBasic landcycling {1} ({1}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
+    },
+    {
+      "name": "Assassin's Trophy",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Aura Shards",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever a creature you control enters, you may destroy target artifact or enchantment."
+    },
+    {
       "name": "Baxter, Fly in the Ointment",
       "quantity": 1,
       "board": "main",
@@ -152,26 +232,6 @@
       "manaValue": 3,
       "type": "Enchantment",
       "text": "Whenever a creature you control attacks, you may put a quest counter on this enchantment.\nAs long as this enchantment has seven or more quest counters on it, creatures you control get +5/+5."
-    },
-    {
-      "name": "Big Apple, 3 a.m.",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped. As it enters, choose a color.\n{T}: Add one mana of the chosen color.\n{5}, {T}: Create a 1/1 black Rat creature token for each opponent you have."
-    },
-    {
-      "name": "Big Mother Mouser",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Creature Artifact — Robot",
-      "text": "This creature enters with two +1/+1 counters on it.\nWhenever this creature attacks, double the number of +1/+1 counters on it.\nWhen this creature dies, create a number of 1/1 colorless Robot artifact creature tokens equal to the number of +1/+1 counters on this creature."
     },
     {
       "name": "Blood Crypt",
@@ -1170,84 +1230,24 @@
       "text": "When this artifact enters, put a +1/+1 counter on each of up to four target creatures.\n{2}, {T}, Sacrifice a token: Double the number of each kind of counter on target creature."
     },
     {
-      "name": "April O'Neil, Live on the Scene",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Human Detective",
-      "text": "Whenever a Mutant, Ninja, or Turtle you control enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nPartner—Character select"
-    },
-    {
-      "name": "Arasta of the Endless Web",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature Enchantment — Spider",
-      "text": "Reach\nWhenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach."
-    },
-    {
-      "name": "Arcane Signet",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add one mana of any color in your commander's color identity."
-    },
-    {
-      "name": "Ash Barrens",
+      "name": "Big Apple, 3 a.m.",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
       "manaValue": 0,
       "type": "Land",
-      "text": "{T}: Add {C}.\nBasic landcycling {1} ({1}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
+      "text": "This land enters tapped. As it enters, choose a color.\n{T}: Add one mana of the chosen color.\n{5}, {T}: Create a 1/1 black Rat creature token for each opponent you have."
     },
     {
-      "name": "Assassin's Trophy",
+      "name": "Big Mother Mouser",
       "quantity": 1,
       "board": "main",
-      "colors": [
-        "Green",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Aura Shards",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Green"
-      ],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Whenever a creature you control enters, you may destroy target artifact or enchantment."
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Creature Artifact — Robot",
+      "text": "This creature enters with two +1/+1 counters on it.\nWhenever this creature attacks, double the number of +1/+1 counters on it.\nWhen this creature dies, create a number of 1/1 colorless Robot artifact creature tokens equal to the number of +1/+1 counters on this creature."
     }
   ]
 }
