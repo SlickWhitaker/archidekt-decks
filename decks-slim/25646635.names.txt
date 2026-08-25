@@ -71,13 +71,9 @@ Ponder
 Prosperous Thief
 Sakashima's Student
 Satoru Umezawa
-Satoru, the Infiltrator
-Scroll Rack
-Sensei's Divining Top
-Shizo, Death's Storehouse
-Silver-Fur Master
 Sink into Stupor // Soporific Springs
 Skullsnatcher
+Satoru, the Infiltrator
 Slither Blade
 Snow-Covered Island
 Snow-Covered Swamp
@@ -96,3 +92,7 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
+Scroll Rack
+Sensei's Divining Top
+Shizo, Death's Storehouse
+Silver-Fur Master

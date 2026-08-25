@@ -13,33 +13,6 @@ Bronze Guardian
 Bruenor Battlehammer
 Brushland
 Bugenhagen, Wise Elder
-Buster Sword
-Cait Sith, Fortune Teller
-Canopy Vista
-Capital City
-Champion's Helm
-Chaos Warp
-Cid, Freeflier Pilot
-Cinder Glade
-Clever Concealment
-Clifftop Retreat
-Clive's Hideaway
-Cloud, Planet's Champion
-Cloud's Limit Break
-Colossus Hammer
-Command Tower
-Dáin, Lord of the Iron Hills
-Exotic Orchard
-Farseek
-Fire-Lit Thicket
-Firion, Wild Rose Warrior
-Forest
-Forest
-Forest
-Fortified Village
-Furycalm Snarl
-Cloud, Ex-SOLDIER
-Path of Ancestry
 Gongaga, Reactor Town
 Hard-Won Jitte
 Hellkite Tyrant
@@ -54,6 +27,18 @@ Mountain
 Mountain
 Nature's Lore
 Nature's Will
+Path of Ancestry
+Path to Exile
+Plains
+Plains
+Plains
+Professional Face-Breaker
+Puresteel Paladin
+Radiant Grove
+Red XIII, Proud Warrior
+Ring of the Lucii
+Rogue's Passage
+Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
@@ -87,14 +72,29 @@ World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
-Path to Exile
-Plains
-Plains
-Plains
-Professional Face-Breaker
-Puresteel Paladin
-Radiant Grove
-Red XIII, Proud Warrior
-Ring of the Lucii
-Rogue's Passage
-Rootbound Crag
+Buster Sword
+Cait Sith, Fortune Teller
+Canopy Vista
+Capital City
+Champion's Helm
+Chaos Warp
+Cid, Freeflier Pilot
+Cinder Glade
+Clever Concealment
+Clifftop Retreat
+Clive's Hideaway
+Cloud, Planet's Champion
+Cloud's Limit Break
+Colossus Hammer
+Command Tower
+Dáin, Lord of the Iron Hills
+Exotic Orchard
+Farseek
+Fire-Lit Thicket
+Firion, Wild Rose Warrior
+Forest
+Forest
+Forest
+Fortified Village
+Furycalm Snarl
+Cloud, Ex-SOLDIER
