@@ -383,30 +383,6 @@
       "text": "Whenever you cast a creature spell, create X 1/1 black Thrull creature tokens, where X is that spell's mana value.\nWhen you control seven or more Thrulls, sacrifice Endrek Sahr."
     },
     {
-      "name": "Etali, Primal Storm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Legendary Creature — Elder Dinosaur",
-      "text": "Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs."
-    },
-    {
-      "name": "Evolving Wilds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
-    },
-    {
       "name": "Grave Titan",
       "quantity": 1,
       "board": "main",
@@ -1112,6 +1088,30 @@
       "manaValue": 2,
       "type": "Creature — Vampire Spirit",
       "text": "This creature can't block.\nThis creature has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield."
+    },
+    {
+      "name": "Etali, Primal Storm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Elder Dinosaur",
+      "text": "Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs."
+    },
+    {
+      "name": "Evolving Wilds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
     },
     {
       "name": "Exotic Orchard",

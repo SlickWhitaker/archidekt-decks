@@ -50,9 +50,6 @@ Pongify
 Raise the Palisade
 Rapid Hybridization
 Realmwalker
-Reflections of Littjara
-Rejuvenating Springs
-Reliquary Tower
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -71,6 +68,9 @@ Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
 Hakbal of the Surging Soul
+Reflections of Littjara
+Rejuvenating Springs
+Reliquary Tower
 Ripples of Potential
 Roaming Throne
 Savor the Moment

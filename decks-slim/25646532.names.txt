@@ -55,9 +55,6 @@ Shrieking Affliction
 Sign in Blood
 Smallpox
 Sol Ring
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
 Springleaf Drum
 Swamp
 Syphon Mind
@@ -69,5 +66,8 @@ Virus Beetle
 War Room
 Wheel of Torture
 Will of the Abzan
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not
 Withering Torment
 Words of Waste
