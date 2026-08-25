@@ -63,17 +63,17 @@ Oakhollow Village
 Polluted Delta
 Pond Prophet
 Rejuvenating Springs
-Sol Ring
-Splendid Reclamation
-Springheart Nantuko
 Riverchurn Monument
 Rogue's Passage
 Shifting Woodland
 Snapcaster Mage
-The Great Henge
+Sol Ring
+Splendid Reclamation
+Springheart Nantuko
 Summon: Titan
 Swan Song
 Thassa's Oracle
+The Great Henge
 The Mycosynth Gardens
 The Unagi of Kyoshi Island
 Thought Scour

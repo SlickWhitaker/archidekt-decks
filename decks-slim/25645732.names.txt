@@ -49,6 +49,10 @@ Mask of Memory
 Mithril Coat
 Mossfire Valley
 Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will
 Path of Ancestry
 Path to Exile
 Plains
@@ -64,14 +68,6 @@ Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
-Stoneforge Mystic
-Summon: Esper Ramuh
-Summon: Kujata
-Summoning Materia
 Sephiroth, Fallen Hero
 Sheltered Thicket
 Sigarda's Aid
@@ -81,6 +77,14 @@ Sol Ring
 SOLDIER Military Program
 Sphere Grid
 Spire of Industry
+Stoneforge Mystic
+Summon: Esper Ramuh
+Summon: Kujata
+Summoning Materia
+Sungrass Prairie
+Sunpetal Grove
+Sunscorched Divide
+Swiftfoot Boots
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
@@ -94,7 +98,3 @@ World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
-Sungrass Prairie
-Sunpetal Grove
-Sunscorched Divide
-Swiftfoot Boots

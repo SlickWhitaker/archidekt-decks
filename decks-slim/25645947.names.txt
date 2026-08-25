@@ -38,16 +38,10 @@ Herald's Horn
 Indulgent Aristocrat
 Isolated Chapel
 Kalitas, Traitor of Ghet
-Legion Lieutenant
 Legion's Landing // Adanto, the First Fort
-Living Death
-Luxury Suite
-Marsh Flats
-Minas Tirith
-Mondrak, Glory Dominus
-Mountain
-Necropotence
+Legion Lieutenant
 Olivia, Crimson Bride
+Living Death
 Path of Ancestry
 Path to Exile
 Patriarch's Bidding
@@ -87,5 +81,11 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
+Luxury Suite
+Marsh Flats
+Minas Tirith
+Mondrak, Glory Dominus
+Mountain
+Necropotence
 Nomad Outpost
 Ocelot Pride
