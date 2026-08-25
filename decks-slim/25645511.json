@@ -411,16 +411,6 @@
       "text": "Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens."
     },
     {
-      "name": "Evolving Wilds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
-    },
-    {
       "name": "Haunted Ridge",
       "quantity": 1,
       "board": "main",
@@ -1112,6 +1102,16 @@
       "manaValue": 2,
       "type": "Creature — Vampire Spirit",
       "text": "This creature can't block.\nThis creature has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield."
+    },
+    {
+      "name": "Evolving Wilds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
     },
     {
       "name": "Exotic Orchard",

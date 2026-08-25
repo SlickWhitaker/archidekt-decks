@@ -38,16 +38,18 @@ Herald's Horn
 Indulgent Aristocrat
 Isolated Chapel
 Kalitas, Traitor of Ghet
+Legion Lieutenant
 Legion's Landing // Adanto, the First Fort
 Living Death
 Luxury Suite
 Marsh Flats
-Legion Lieutenant
 Minas Tirith
 Mondrak, Glory Dominus
 Mountain
-Olivia, Crimson Bride
 Necropotence
+Nomad Outpost
+Ocelot Pride
+Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
 Patriarch's Bidding
@@ -56,16 +58,6 @@ Plains
 Razaketh, the Foulblooded
 Reconnaissance
 Roaming Throne
-Sacred Foundry
-Sanctum Seeker
-Sanguine Bond
-Savai Triome
-Secluded Courtyard
-Shared Animosity
-Skullclamp
-Sol Ring
-Sorin, Imperious Bloodlord
-Spectator Seating
 Stromkirk Captain
 Swamp
 Swords to Plowshares
@@ -87,5 +79,13 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Nomad Outpost
-Ocelot Pride
+Sacred Foundry
+Sanctum Seeker
+Sanguine Bond
+Savai Triome
+Secluded Courtyard
+Shared Animosity
+Skullclamp
+Sol Ring
+Sorin, Imperious Bloodlord
+Spectator Seating

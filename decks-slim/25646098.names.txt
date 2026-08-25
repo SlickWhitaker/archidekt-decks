@@ -12,9 +12,6 @@ Assassin's Trophy
 Aura Shards
 Baxter, Fly in the Ointment
 Beast Whisperer
-Beastmaster Ascension
-Big Apple, 3 a.m.
-Big Mother Mouser
 Blood Crypt
 Bloom Tender
 Branching Evolution
@@ -51,6 +48,11 @@ March of the Multitudes
 Michelangelo, Weirdness to 11
 Mikey & Leo, Chaos & Order
 Mirkwood Bats
+Mona Lisa, Science Geek
+Mondrak, Glory Dominus
+Mountain
+Ninja Pizza
+Ojer Taq, Deepest Foundation // Temple of Civilization
 Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
@@ -86,8 +88,6 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Mona Lisa, Science Geek
-Mondrak, Glory Dominus
-Mountain
-Ninja Pizza
-Ojer Taq, Deepest Foundation // Temple of Civilization
+Beastmaster Ascension
+Big Apple, 3 a.m.
+Big Mother Mouser

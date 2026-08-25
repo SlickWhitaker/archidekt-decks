@@ -555,6 +555,22 @@
       "text": "Lifelink\nIf a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.\n{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas."
     },
     {
+      "name": "Legion Lieutenant",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Knight Vampire",
+      "text": "Other Vampires you control get +1/+1."
+    },
+    {
       "name": "Legion's Landing // Adanto, the First Fort",
       "quantity": 1,
       "board": "main",
@@ -606,22 +622,6 @@
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle."
     },
     {
-      "name": "Legion Lieutenant",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Black"
-      ],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Knight Vampire",
-      "text": "Other Vampires you control get +1/+1."
-    },
-    {
       "name": "Minas Tirith",
       "quantity": 1,
       "board": "main",
@@ -660,6 +660,48 @@
       "text": "({T}: Add {R}.)"
     },
     {
+      "name": "Necropotence",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step."
+    },
+    {
+      "name": "Nomad Outpost",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {R}, {W}, or {B}."
+    },
+    {
+      "name": "Ocelot Pride",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Cat",
+      "text": "First strike, lifelink\nAscend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)\nAt the beginning of your end step, if you gained life this turn, create a 1/1 white Cat creature token. Then if you have the city's blessing, for each token you control that entered this turn, create a token that's a copy of it."
+    },
+    {
       "name": "Olivia, Crimson Bride",
       "quantity": 1,
       "board": "main",
@@ -674,20 +716,6 @@
       "manaValue": 6,
       "type": "Legendary Creature — Vampire Noble",
       "text": "Flying, haste\nWhenever Olivia attacks, return target creature card from your graveyard to the battlefield tapped and attacking. It gains \"When you don't control a legendary Vampire, exile this creature.\""
-    },
-    {
-      "name": "Necropotence",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step."
     },
     {
       "name": "Path of Ancestry",
@@ -786,132 +814,6 @@
       "manaValue": 4,
       "type": "Creature Artifact — Golem",
       "text": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time."
-    },
-    {
-      "name": "Sacred Foundry",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Mountain",
-      "text": "({T}: Add {R} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
-    },
-    {
-      "name": "Sanctum Seeker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Knight Vampire",
-      "text": "Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life."
-    },
-    {
-      "name": "Sanguine Bond",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever you gain life, target opponent loses that much life."
-    },
-    {
-      "name": "Savai Triome",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Swamp Mountain",
-      "text": "({T}: Add {R}, {W}, or {B}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)"
-    },
-    {
-      "name": "Secluded Courtyard",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type."
-    },
-    {
-      "name": "Shared Animosity",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it."
-    },
-    {
-      "name": "Skullclamp",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
-    },
-    {
-      "name": "Sol Ring",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
-    },
-    {
-      "name": "Sorin, Imperious Bloodlord",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Planeswalker — Sorin",
-      "text": "+1: Target creature you control gains deathtouch and lifelink until end of turn. If it's a Vampire, put a +1/+1 counter on it.\n+1: You may sacrifice a Vampire. When you do, Sorin deals 3 damage to any target and you gain 3 life.\n−3: You may put a Vampire creature card from your hand onto the battlefield."
-    },
-    {
-      "name": "Spectator Seating",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {R} or {W}."
     },
     {
       "name": "Stromkirk Captain",
@@ -1197,7 +1099,48 @@
       "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
     },
     {
-      "name": "Nomad Outpost",
+      "name": "Sacred Foundry",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Mountain",
+      "text": "({T}: Add {R} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Sanctum Seeker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Knight Vampire",
+      "text": "Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life."
+    },
+    {
+      "name": "Sanguine Bond",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever you gain life, target opponent loses that much life."
+    },
+    {
+      "name": "Savai Triome",
       "quantity": 1,
       "board": "main",
       "colors": [],
@@ -1207,22 +1150,79 @@
         "Red"
       ],
       "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {R}, {W}, or {B}."
+      "type": "Land — Plains Swamp Mountain",
+      "text": "({T}: Add {R}, {W}, or {B}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)"
     },
     {
-      "name": "Ocelot Pride",
+      "name": "Secluded Courtyard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type."
+    },
+    {
+      "name": "Shared Animosity",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "White"
+        "Red"
       ],
       "colorIdentity": [
-        "White"
+        "Red"
       ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it."
+    },
+    {
+      "name": "Skullclamp",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
       "manaValue": 1,
-      "type": "Creature — Cat",
-      "text": "First strike, lifelink\nAscend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)\nAt the beginning of your end step, if you gained life this turn, create a 1/1 white Cat creature token. Then if you have the city's blessing, for each token you control that entered this turn, create a token that's a copy of it."
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Sorin, Imperious Bloodlord",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Planeswalker — Sorin",
+      "text": "+1: Target creature you control gains deathtouch and lifelink until end of turn. If it's a Vampire, put a +1/+1 counter on it.\n+1: You may sacrifice a Vampire. When you do, Sorin deals 3 damage to any target and you gain 3 life.\n−3: You may put a Vampire creature card from your hand onto the battlefield."
+    },
+    {
+      "name": "Spectator Seating",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {R} or {W}."
     }
   ]
 }
