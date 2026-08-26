@@ -78,15 +78,15 @@ Temple of Triumph
 Terramorphic Expanse
 Tetsuko Umezawa, Fugitive
 Thriving Bluff
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
 Thriving Heath
 Thriving Isle
 Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor

@@ -55,10 +55,6 @@ Shire Shirriff
 Shire Terrace
 Skullclamp
 Sol Ring
-Sunpetal Grove
-Swamp
-Swords to Plowshares
-The Battle of Bywater
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
@@ -79,6 +75,10 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
+Sunpetal Grove
+Swamp
+Swords to Plowshares
+The Battle of Bywater
 The Gaffer
 The Shire
 Tireless Provisioner
