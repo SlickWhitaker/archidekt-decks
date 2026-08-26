@@ -31,9 +31,10 @@ Exotic Orchard
 Feed the Swarm
 Fellwar Stone
 Foreboding Ruins
+Grave Titan
 Haunted Ridge
 Hero's Downfall
-Grave Titan
+Hoarding Broodlord
 Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
@@ -65,7 +66,6 @@ Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
-Hoarding Broodlord
 Hordeling Outburst
 Infernal Grasp
 It That Betrays

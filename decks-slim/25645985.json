@@ -1100,16 +1100,6 @@
       "text": "Creatures you control have reach.\nSacrifice this enchantment: Create three tapped X/X green Treefolk creature tokens, where X is the amount of life you gained this turn. Put a reach counter on each of them."
     },
     {
-      "name": "Stardew Valley",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{2}, {T}, Tap an untapped creature you control: Create a Food token.\n{3}, {T}: Choose target permanent you control. Draw a card, then another player of your choice may gain control of that permanent. Activate only as a sorcery."
-    },
-    {
       "name": "Battle at the Bridge",
       "quantity": 1,
       "board": "main",
@@ -1233,6 +1223,16 @@
       "manaValue": 3,
       "type": "Artifact",
       "text": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color."
+    },
+    {
+      "name": "Stardew Valley",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{2}, {T}, Tap an untapped creature you control: Create a Food token.\n{3}, {T}: Choose target permanent you control. Draw a card, then another player of your choice may gain control of that permanent. Activate only as a sorcery."
     }
   ]
 }

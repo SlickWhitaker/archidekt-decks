@@ -869,6 +869,20 @@
       "text": "If an opponent has more life than you, you gain 4 life.\nIf an opponent controls more creatures than you, create two 1/1 white Human creature tokens.\nIf an opponent has more cards in hand than you, draw a card."
     },
     {
+      "name": "Verge Rangers",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Scout Ranger",
+      "text": "First strike\nYou may look at the top card of your library any time.\nAs long as an opponent controls more lands than you, you may play lands from the top of your library. (You can play a land this way only if you have an available land play remaining.)"
+    },
+    {
       "name": "Supreme Verdict",
       "quantity": 1,
       "board": "main",
@@ -910,98 +924,6 @@
       "manaValue": 2,
       "type": "Artifact",
       "text": "{T}: Add {C}.\n{T}: Add {R} or {W}. This artifact deals 1 damage to you."
-    },
-    {
-      "name": "Verge Rangers",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Scout Ranger",
-      "text": "First strike\nYou may look at the top card of your library any time.\nAs long as an opponent controls more lands than you, you may play lands from the top of your library. (You can play a land this way only if you have an available land play remaining.)"
-    },
-    {
-      "name": "Village Bell-Ringer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Scout",
-      "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, untap all creatures you control."
-    },
-    {
-      "name": "Visions of Glory",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 5,
-      "type": "Sorcery",
-      "text": "Create a 1/1 white Human creature token for each creature you control.\nFlashback {8}{W}{W}. This spell costs {X} less to cast this way, where X is the greatest mana value of a commander you own on the battlefield or in the command zone. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-    },
-    {
-      "name": "Wayfarer's Bauble",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
-    },
-    {
-      "name": "Weathered Wayfarer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Human Cleric Nomad",
-      "text": "{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you."
-    },
-    {
-      "name": "Windbrisk Heights",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)\nThis land enters tapped.\n{T}: Add {W}.\n{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn."
-    },
-    {
-      "name": "Zealous Conscripts",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Human Warrior",
-      "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
       "name": "Talisman of Progress",
@@ -1128,6 +1050,84 @@
       "manaValue": 5,
       "type": "Artifact",
       "text": "As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\nWhenever you cast a creature spell of the chosen type, draw a card."
+    },
+    {
+      "name": "Village Bell-Ringer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Scout",
+      "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, untap all creatures you control."
+    },
+    {
+      "name": "Visions of Glory",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Sorcery",
+      "text": "Create a 1/1 white Human creature token for each creature you control.\nFlashback {8}{W}{W}. This spell costs {X} less to cast this way, where X is the greatest mana value of a commander you own on the battlefield or in the command zone. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+    },
+    {
+      "name": "Wayfarer's Bauble",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Weathered Wayfarer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Human Cleric Nomad",
+      "text": "{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you."
+    },
+    {
+      "name": "Windbrisk Heights",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)\nThis land enters tapped.\n{T}: Add {W}.\n{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn."
+    },
+    {
+      "name": "Zealous Conscripts",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Human Warrior",
+      "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     }
   ]
 }

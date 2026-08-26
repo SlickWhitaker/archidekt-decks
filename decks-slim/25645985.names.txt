@@ -79,7 +79,6 @@ Aragorn and Arwen, Wed
 Arcane Signet
 Ash Barrens
 Assemble the Entmoot
-Stardew Valley
 Battle at the Bridge
 Bilbo, Birthday Celebrant
 Birds of Paradise
@@ -89,3 +88,4 @@ Butterbur, Bree Innkeeper
 Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
+Stardew Valley

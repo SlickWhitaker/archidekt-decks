@@ -52,7 +52,6 @@ Mountain
 Mountain
 Mountain
 Nature's Lore
-Nature's Will
 Path of Ancestry
 Path to Exile
 Plains
@@ -77,10 +76,6 @@ Sol Ring
 SOLDIER Military Program
 Sphere Grid
 Spire of Industry
-Sword of Sinew and Steel
-Sword of the Animist
-Swords to Plowshares
-Tifa, Martial Artist
 Stoneforge Mystic
 Summon: Esper Ramuh
 Summon: Kujata
@@ -89,6 +84,10 @@ Sungrass Prairie
 Sunpetal Grove
 Sunscorched Divide
 Swiftfoot Boots
+Sword of Sinew and Steel
+Sword of the Animist
+Swords to Plowshares
+Tifa, Martial Artist
 Tifa's Limit Break
 Ultimate Magic: Holy
 Unfinished Business
@@ -98,3 +97,4 @@ World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
+Nature's Will

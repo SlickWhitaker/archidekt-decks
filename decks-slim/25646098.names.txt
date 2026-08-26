@@ -25,6 +25,14 @@ City of Brass
 Command Tower
 Cultivate
 Dimension X Pizzasaur
+Donatello, the Brains
+Doubling Season
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -36,7 +44,6 @@ Island
 Jetmir's Garden
 Kami of Whispered Hopes
 Kindred Dominance
-Donatello, the Brains
 Kodama's Reach
 Lita, Little Orphan Amphibian
 Lotho, Corrupt Shirriff
@@ -56,9 +63,9 @@ Plains
 Plaza of Heroes
 Raffine's Tower
 Raphael, the Muscle
-Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
+Rat King, Pale Piper
 Shellshock
 Skullclamp
 Sodden Verdure
@@ -84,10 +91,3 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Doubling Season
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
