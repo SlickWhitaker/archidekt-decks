@@ -39,7 +39,6 @@ Forest
 Fortified Village
 Furycalm Snarl
 Cloud, Ex-SOLDIER
-Rugged Prairie
 Gongaga, Reactor Town
 Hard-Won Jitte
 Hellkite Tyrant
@@ -66,6 +65,9 @@ Red XIII, Proud Warrior
 Ring of the Lucii
 Rogue's Passage
 Rootbound Crag
+Rugged Prairie
+Sacred Peaks
+Scavenger Grounds
 Sephiroth, Fallen Hero
 Sheltered Thicket
 Sigarda's Aid
@@ -96,5 +98,3 @@ World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
-Sacred Peaks
-Scavenger Grounds

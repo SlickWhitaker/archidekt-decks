@@ -18,21 +18,6 @@ Big Mother Mouser
 Blood Crypt
 Bloom Tender
 Branching Evolution
-Cathars' Crusade
-Chromatic Lantern
-Cinder Glade
-City of Brass
-Command Tower
-Cultivate
-Dimension X Pizzasaur
-Donatello, the Brains
-Doubling Season
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -55,9 +40,9 @@ Mona Lisa, Science Geek
 Mondrak, Glory Dominus
 Mountain
 Ninja Pizza
+Ojer Taq, Deepest Foundation // Temple of Civilization
 Ozolith, the Shattered Spire
 Parallel Lives
-Ojer Taq, Deepest Foundation // Temple of Civilization
 Path of Ancestry
 Plains
 Plaza of Heroes
@@ -91,3 +76,18 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
+Cathars' Crusade
+Chromatic Lantern
+Cinder Glade
+City of Brass
+Command Tower
+Cultivate
+Dimension X Pizzasaur
+Donatello, the Brains
+Doubling Season
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
