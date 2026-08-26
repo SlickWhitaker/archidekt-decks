@@ -30,6 +30,9 @@ Doubling Season
 Dragonskull Summit
 Evolving Wilds
 Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -56,11 +59,6 @@ Ojer Taq, Deepest Foundation // Temple of Civilization
 Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
-Plains
-Plaza of Heroes
-Raffine's Tower
-Raphael, the Muscle
-Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
@@ -88,6 +86,8 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Fabled Passage
-Felidar Retreat
-Forest
+Plains
+Plaza of Heroes
+Raffine's Tower
+Raphael, the Muscle
+Rat King, Pale Piper

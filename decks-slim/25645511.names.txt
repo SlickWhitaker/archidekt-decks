@@ -45,14 +45,6 @@ Krenko's Command
 Lagomos, Hand of Hatred
 Mahadi, Emporium Master
 Mind Stone
-Morbid Opportunist
-Mountain
-Myriad Landscape
-Night's Whisper
-Orca, Siege Demon
-Overseer of the Damned
-Pathrazer of Ulamog
-Phyrexian Triniform
 Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
@@ -84,3 +76,11 @@ Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
+Morbid Opportunist
+Mountain
+Myriad Landscape
+Night's Whisper
+Orca, Siege Demon
+Overseer of the Damned
+Pathrazer of Ulamog
+Phyrexian Triniform

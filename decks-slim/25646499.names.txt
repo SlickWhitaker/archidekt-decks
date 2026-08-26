@@ -50,9 +50,20 @@ Path to Exile
 Plains
 Port Town
 Prairie Stream
+Prince Imrahil the Fair
+Riders of Rohan
+Rogue's Passage
+Sacred Foundry
+Secluded Courtyard
+Selfless Squire
+Shared Animosity
+Skullclamp
+Sol Ring
+Steam Vents
+Sulfur Falls
+Sunset Revelry
 Supreme Verdict
 Swords to Plowshares
-Prince Imrahil the Fair
 Talisman of Conviction
 Talisman of Progress
 Taunt from the Rampart
@@ -71,14 +82,3 @@ Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
-Riders of Rohan
-Rogue's Passage
-Sacred Foundry
-Secluded Courtyard
-Selfless Squire
-Shared Animosity
-Skullclamp
-Sol Ring
-Steam Vents
-Sulfur Falls
-Sunset Revelry

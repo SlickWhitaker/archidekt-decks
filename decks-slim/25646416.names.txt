@@ -57,30 +57,30 @@ Natural Order
 Nature's Claim
 Nature's Lore
 Nykthos, Shrine to Nyx
-Veil of Summer
 Old Gnawbone
 Orcish Lumberjack
 Prismatic Vista
 Professional Face-Breaker
 Railway Brawler
 Rhythm of the Wild
-Verdant Catacombs
 Rishkar's Expertise
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
 Rockfall Vale
-Worldly Tutor
-Yavimaya, Cradle of Growth
 Rootbound Crag
-Zealous Conscripts
 Scalding Tarn
 Seedborn Muse
 Selvala, Heart of the Wilds
 Shifting Woodland
 Skullclamp
+Veil of Summer
 Sol Ring
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
 Spire Garden
 Stomping Ground
 Strip Mine

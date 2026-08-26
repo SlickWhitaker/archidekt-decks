@@ -782,20 +782,6 @@
       "text": "{T}: Add {C}.\n{2}, {T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)"
     },
     {
-      "name": "Veil of Summer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
-    },
-    {
       "name": "Old Gnawbone",
       "quantity": 1,
       "board": "main",
@@ -879,16 +865,6 @@
       "text": "Creature spells you control can't be countered.\nNontoken creatures you control have riot. (They enter with your choice of a +1/+1 counter or haste.)"
     },
     {
-      "name": "Verdant Catacombs",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
-    },
-    {
       "name": "Rishkar's Expertise",
       "quantity": 1,
       "board": "main",
@@ -901,50 +877,6 @@
       "manaValue": 6,
       "type": "Sorcery",
       "text": "Draw cards equal to the greatest power among creatures you control.\nYou may cast a spell with mana value 5 or less from your hand without paying its mana cost."
-    },
-    {
-      "name": "Wasteland",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{T}, Sacrifice this land: Destroy target nonbasic land."
-    },
-    {
-      "name": "Wheel of Misfortune",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Each player secretly chooses a number 0 or greater, then all players reveal those numbers simultaneously and determine the highest and lowest numbers revealed this way. Wheel of Misfortune deals damage equal to the highest number to each player who chose that number. Each player who didn't choose the lowest number discards their hand, then draws seven cards."
-    },
-    {
-      "name": "Windswept Heath",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Wooded Foothills",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle."
     },
     {
       "name": "Rockfall Vale",
@@ -960,30 +892,6 @@
       "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {R} or {G}."
     },
     {
-      "name": "Worldly Tutor",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Search your library for a creature card, reveal it, then shuffle and put the card on top."
-    },
-    {
-      "name": "Yavimaya, Cradle of Growth",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Legendary Land",
-      "text": "Each land is a Forest in addition to its other land types."
-    },
-    {
       "name": "Rootbound Crag",
       "quantity": 1,
       "board": "main",
@@ -995,20 +903,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}."
-    },
-    {
-      "name": "Zealous Conscripts",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Human Warrior",
-      "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
       "name": "Scalding Tarn",
@@ -1071,6 +965,20 @@
       "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
     },
     {
+      "name": "Veil of Summer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
+    },
+    {
       "name": "Sol Ring",
       "quantity": 1,
       "board": "main",
@@ -1079,6 +987,98 @@
       "manaValue": 1,
       "type": "Artifact",
       "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Verdant Catacombs",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Wasteland",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice this land: Destroy target nonbasic land."
+    },
+    {
+      "name": "Wheel of Misfortune",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Each player secretly chooses a number 0 or greater, then all players reveal those numbers simultaneously and determine the highest and lowest numbers revealed this way. Wheel of Misfortune deals damage equal to the highest number to each player who chose that number. Each player who didn't choose the lowest number discards their hand, then draws seven cards."
+    },
+    {
+      "name": "Windswept Heath",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Wooded Foothills",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Worldly Tutor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Search your library for a creature card, reveal it, then shuffle and put the card on top."
+    },
+    {
+      "name": "Yavimaya, Cradle of Growth",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "Each land is a Forest in addition to its other land types."
+    },
+    {
+      "name": "Zealous Conscripts",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Human Warrior",
+      "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
       "name": "Spire Garden",
