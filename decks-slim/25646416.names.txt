@@ -61,13 +61,6 @@ Old Gnawbone
 Orcish Lumberjack
 Prismatic Vista
 Professional Face-Breaker
-Railway Brawler
-Rhythm of the Wild
-Rishkar's Expertise
-Rockfall Vale
-Rootbound Crag
-Scalding Tarn
-Seedborn Muse
 Veil of Summer
 Verdant Catacombs
 Wasteland
@@ -77,6 +70,13 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
+Railway Brawler
+Rhythm of the Wild
+Rishkar's Expertise
+Rockfall Vale
+Rootbound Crag
+Scalding Tarn
+Seedborn Muse
 Selvala, Heart of the Wilds
 Shifting Woodland
 Skullclamp

@@ -791,6 +791,35 @@
       "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type."
     },
     {
+      "name": "Simic Ascendancy",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "{1}{G}{U}: Put a +1/+1 counter on target creature you control.\nWhenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on this enchantment.\nAt the beginning of your upkeep, if this enchantment has twenty or more growth counters on it, you win the game."
+    },
+    {
+      "name": "Simic Growth Chamber",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {G}{U}."
+    },
+    {
       "name": "Summon: Leviathan",
       "quantity": 1,
       "board": "main",
@@ -1023,35 +1052,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Scout Merfolk",
       "text": "At the beginning of combat on your turn, each Merfolk creature you control explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the exploring creature, then put the card back or put it into your graveyard.)\nWhenever Hakbal attacks, you may put a land card from your hand onto the battlefield. If you don't, draw a card."
-    },
-    {
-      "name": "Simic Ascendancy",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "{1}{G}{U}: Put a +1/+1 counter on target creature you control.\nWhenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on this enchantment.\nAt the beginning of your upkeep, if this enchantment has twenty or more growth counters on it, you win the game."
-    },
-    {
-      "name": "Simic Growth Chamber",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {G}{U}."
     },
     {
       "name": "Singer of Swift Rivers",

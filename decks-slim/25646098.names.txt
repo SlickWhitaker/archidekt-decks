@@ -33,12 +33,11 @@ Exotic Orchard
 Fabled Passage
 Felidar Retreat
 Forest
+Heroic Intervention
 Grand Coliseum
 Guardian Project
 Halo Fountain
 Heroes in a Half Shell
-Heroic Intervention
-Hidden Hideout
 Hinterland Harbor
 Island
 Jetmir's Garden
@@ -63,8 +62,8 @@ Plains
 Plaza of Heroes
 Raffine's Tower
 Raphael, the Muscle
-Reflecting Pool
 Rat King, Pale Piper
+Reflecting Pool
 Rocco, Street Chef
 Shellshock
 Skullclamp
@@ -91,3 +90,4 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
+Hidden Hideout

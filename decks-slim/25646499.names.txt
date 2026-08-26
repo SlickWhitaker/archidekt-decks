@@ -56,8 +56,14 @@ Rogue's Passage
 Sacred Foundry
 Secluded Courtyard
 Selfless Squire
-Supreme Verdict
 Shared Animosity
+Skullclamp
+Sol Ring
+Steam Vents
+Sulfur Falls
+Sunset Revelry
+Verge Rangers
+Supreme Verdict
 Swords to Plowshares
 Talisman of Conviction
 Talisman of Progress
@@ -70,15 +76,9 @@ Throne of the High City
 Tranquil Cove
 Unbreakable Formation
 Vanquisher's Banner
-Verge Rangers
 Village Bell-Ringer
 Visions of Glory
 Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
-Skullclamp
-Sol Ring
-Steam Vents
-Sulfur Falls
-Sunset Revelry

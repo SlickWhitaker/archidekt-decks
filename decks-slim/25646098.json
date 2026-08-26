@@ -477,6 +477,20 @@
       "text": "({T}: Add {G}.)"
     },
     {
+      "name": "Heroic Intervention",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Permanents you control gain hexproof and indestructible until end of turn."
+    },
+    {
       "name": "Grand Coliseum",
       "quantity": 1,
       "board": "main",
@@ -535,30 +549,6 @@
       "manaValue": 5,
       "type": "Legendary Creature — Mutant Ninja Turtle",
       "text": "Vigilance, menace, trample, haste\nWhenever one or more Mutants, Ninjas, and/or Turtles you control deal combat damage to a player, put a +1/+1 counter on each of those creatures and draw a card."
-    },
-    {
-      "name": "Heroic Intervention",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Permanents you control gain hexproof and indestructible until end of turn."
-    },
-    {
-      "name": "Hidden Hideout",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity.\n{2}, {T}: Target creature you control with a counter on it gains lifelink until end of turn."
     },
     {
       "name": "Hinterland Harbor",
@@ -888,16 +878,6 @@
       "text": "Double all damage that creatures you control with counters on them would deal.\nWhen Raphael enters, create a Mutagen token.\nPartner—Character select (You can have two commanders if both have this ability.)"
     },
     {
-      "name": "Reflecting Pool",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add one mana of any type that a land you control could produce."
-    },
-    {
       "name": "Rat King, Pale Piper",
       "quantity": 1,
       "board": "main",
@@ -910,6 +890,16 @@
       "manaValue": 4,
       "type": "Legendary Creature — Avatar Rat",
       "text": "Menace\nWhenever Rat King or another nontoken creature you control leaves the battlefield, create a 1/1 black Rat creature token.\n{2}, Sacrifice a token: Draw a card."
+    },
+    {
+      "name": "Reflecting Pool",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any type that a land you control could produce."
     },
     {
       "name": "Rocco, Street Chef",
@@ -1248,6 +1238,16 @@
       "manaValue": 3,
       "type": "Artifact",
       "text": "When this artifact enters, put a +1/+1 counter on each of up to four target creatures.\n{2}, {T}, Sacrifice a token: Double the number of each kind of counter on target creature."
+    },
+    {
+      "name": "Hidden Hideout",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity.\n{2}, {T}: Target creature you control with a counter on it gains lifelink until end of turn."
     }
   ]
 }
