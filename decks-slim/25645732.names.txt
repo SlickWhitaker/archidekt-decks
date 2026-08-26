@@ -39,6 +39,7 @@ Forest
 Fortified Village
 Furycalm Snarl
 Cloud, Ex-SOLDIER
+Path of Ancestry
 Gongaga, Reactor Town
 Hard-Won Jitte
 Hellkite Tyrant
@@ -52,18 +53,7 @@ Mountain
 Mountain
 Mountain
 Nature's Lore
-Path of Ancestry
-Path to Exile
-Plains
-Plains
-Plains
-Professional Face-Breaker
-Puresteel Paladin
-Radiant Grove
-Red XIII, Proud Warrior
-Ring of the Lucii
-Rogue's Passage
-Rootbound Crag
+Nature's Will
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
@@ -90,11 +80,21 @@ Swords to Plowshares
 Tifa, Martial Artist
 Tifa's Limit Break
 Ultimate Magic: Holy
+Path to Exile
+Plains
+Plains
+Plains
+Professional Face-Breaker
+Puresteel Paladin
+Radiant Grove
+Red XIII, Proud Warrior
+Ring of the Lucii
+Rogue's Passage
+Rootbound Crag
+Zack Fair
+Sword of Forge and Frontier
 Unfinished Business
 Vandalblast
 Wood Elves
 World Map
 Yuffie, Materia Hunter
-Zack Fair
-Sword of Forge and Frontier
-Nature's Will

@@ -23,7 +23,6 @@ Elderfang Disciple
 Emergence Zone
 Entropic Battlecruiser
 Feed the Swarm
-Fell the Profane // Fell Mire
 Geier Reach Sanitarium
 Go for the Throat
 Hecteyes
@@ -56,9 +55,6 @@ Sign in Blood
 Smallpox
 Sol Ring
 Springleaf Drum
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
 Swamp
 Syphon Mind
 The Raven Man
@@ -71,3 +67,7 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not
+Fell the Profane // Fell Mire

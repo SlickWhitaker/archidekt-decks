@@ -28,11 +28,6 @@ Dimension X Pizzasaur
 Donatello, the Brains
 Doubling Season
 Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -63,9 +58,9 @@ Plains
 Plaza of Heroes
 Raffine's Tower
 Raphael, the Muscle
+Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
-Rat King, Pale Piper
 Shellshock
 Skullclamp
 Sodden Verdure
@@ -91,3 +86,8 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
