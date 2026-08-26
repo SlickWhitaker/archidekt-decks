@@ -37,44 +37,9 @@ Grand Coliseum
 Guardian Project
 Halo Fountain
 Heroes in a Half Shell
-Hinterland Harbor
 Heroic Intervention
 Hidden Hideout
-Ozolith, the Shattered Spire
-Parallel Lives
-Path of Ancestry
-Plains
-Plaza of Heroes
-Raffine's Tower
-Raphael, the Muscle
-Rat King, Pale Piper
-Reflecting Pool
-Rocco, Street Chef
-Shellshock
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden
-Splinter, the Mentor
-Steelbane Hydra
-Stomping Ground
-Sunken Hollow
-Super Combo
-Swamp
-Swan Song
-Swords to Plowshares
-Teferi's Protection
-Tempestra, Dame of Games
-Thriving Isle
-Tireless Provisioner
-Tocasia's Welcome
-Turtle Lair
-Unbreakable Formation
-Undergrowth Stadium
-Vernal Fen
-Vibrant Cityscape
-Vigor
-Arcade Cabinet
+Hinterland Harbor
 Island
 Jetmir's Garden
 Kami of Whispered Hopes
@@ -91,3 +56,38 @@ Mondrak, Glory Dominus
 Mountain
 Ninja Pizza
 Ojer Taq, Deepest Foundation // Temple of Civilization
+Ozolith, the Shattered Spire
+Parallel Lives
+Path of Ancestry
+Plains
+Plaza of Heroes
+Raffine's Tower
+Raphael, the Muscle
+Rat King, Pale Piper
+Splinter, the Mentor
+Reflecting Pool
+Rocco, Street Chef
+Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden
+Steelbane Hydra
+Swamp
+Swan Song
+Swords to Plowshares
+Teferi's Protection
+Tempestra, Dame of Games
+Thriving Isle
+Tireless Provisioner
+Tocasia's Welcome
+Turtle Lair
+Unbreakable Formation
+Undergrowth Stadium
+Vernal Fen
+Vibrant Cityscape
+Vigor
+Stomping Ground
+Sunken Hollow
+Super Combo
+Arcade Cabinet

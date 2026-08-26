@@ -3,6 +3,13 @@ Archfiend of Despair
 Baleful Mastery
 Black Market Connections
 Blackcleave Cliffs
+Blasphemous Act
+Blightstep Pathway // Searstep Pathway
+Blood Artist
+Blood Crypt
+Bloodchief Ascension
+Bloodletter of Aclazotz
+Valgavoth, Harrower of Souls
 Bloodstained Mire
 Bloodthirsty Conqueror
 Cabal Coffers
@@ -20,16 +27,11 @@ Fellwar Stone
 Fiery Confluence
 Fire Covenant
 Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
 Lightning Greaves
+Foreboding Ruins
 Luxury Suite
 Mayhem Devil
 Mogis, God of Slaughter
@@ -78,10 +80,8 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
-Blasphemous Act
-Blightstep Pathway // Searstep Pathway
-Blood Artist
-Blood Crypt
-Bloodchief Ascension
-Bloodletter of Aclazotz
-Valgavoth, Harrower of Souls
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion

@@ -36,28 +36,10 @@ Kumena, Tyrant of Orazca
 Mana Confluence
 Master of the Pearl Trident
 Merfolk Sovereign
-Summon: Leviathan
-Svyelun of Sea and Sky
-Swan Song
-Swiftfoot Boots
-Sword of Fire and Ice
-The Ozolith
-Thieving Skydiver
-Tishana's Tidebinder
-Triumph of the Hordes
-Tropical Island
-Unclaimed Territory
-Vineglimmer Snarl
-Vodalian Hexcatcher
-Wanderwine Prophets
-Wilderness Reclamation
-Wooded Foothills
-Zegana, Utopian Speaker
 Merrow Commerce
 Merrow Harbinger
 Merrow Reejerey
 Metallic Mimic
-Hakbal of the Surging Soul
 Misty Rainforest
 Mutavault
 Namor the Sub-Mariner
@@ -83,3 +65,21 @@ Sol Ring
 Spell Pierce
 Starting Town
 Stubborn Denial
+Summon: Leviathan
+Svyelun of Sea and Sky
+Swan Song
+Swiftfoot Boots
+Sword of Fire and Ice
+The Ozolith
+Thieving Skydiver
+Tishana's Tidebinder
+Triumph of the Hordes
+Tropical Island
+Unclaimed Territory
+Vineglimmer Snarl
+Vodalian Hexcatcher
+Wanderwine Prophets
+Wilderness Reclamation
+Wooded Foothills
+Zegana, Utopian Speaker
+Hakbal of the Surging Soul

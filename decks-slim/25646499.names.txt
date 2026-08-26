@@ -37,26 +37,6 @@ Grasp of Fate
 Grey Host Reinforcements
 Herald's Horn
 Horn of Gondor
-Supreme Verdict
-Swords to Plowshares
-Talisman of Conviction
-Talisman of Progress
-Taunt from the Rampart
-Terramorphic Expanse
-The Mountain-king's Return
-Théoden, King of Rohan
-Thought Vessel
-Throne of the High City
-Tranquil Cove
-Unbreakable Formation
-Vanquisher's Banner
-Verge Rangers
-Village Bell-Ringer
-Visions of Glory
-Wayfarer's Bauble
-Weathered Wayfarer
-Windbrisk Heights
-Zealous Conscripts
 Island
 Keeper of Keys
 Lossarnach Captain
@@ -82,3 +62,23 @@ Sol Ring
 Steam Vents
 Sulfur Falls
 Sunset Revelry
+Supreme Verdict
+Swords to Plowshares
+Talisman of Conviction
+Talisman of Progress
+Taunt from the Rampart
+Terramorphic Expanse
+The Mountain-king's Return
+Théoden, King of Rohan
+Thought Vessel
+Verge Rangers
+Throne of the High City
+Village Bell-Ringer
+Visions of Glory
+Tranquil Cove
+Unbreakable Formation
+Wayfarer's Bauble
+Weathered Wayfarer
+Vanquisher's Banner
+Windbrisk Heights
+Zealous Conscripts
