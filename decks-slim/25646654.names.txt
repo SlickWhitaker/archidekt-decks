@@ -49,12 +49,6 @@ Path of Ancestry
 Path to Exile
 Plains
 Plumecreed Escort
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
 Pollywog Prodigy
 Rally the Ranks
 Rapid Augmenter
@@ -84,6 +78,12 @@ Temple of Triumph
 Terramorphic Expanse
 Tetsuko Umezawa, Fugitive
 Thriving Bluff
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
 Thriving Heath
 Thriving Isle
 Time Wipe
