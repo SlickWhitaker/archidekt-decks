@@ -39,6 +39,7 @@ Forest
 Fortified Village
 Furycalm Snarl
 Cloud, Ex-SOLDIER
+Path of Ancestry
 Gongaga, Reactor Town
 Hard-Won Jitte
 Hellkite Tyrant
@@ -53,18 +54,6 @@ Mountain
 Mountain
 Nature's Lore
 Nature's Will
-Path of Ancestry
-Path to Exile
-Plains
-Plains
-Plains
-Professional Face-Breaker
-Puresteel Paladin
-Radiant Grove
-Red XIII, Proud Warrior
-Ring of the Lucii
-Rogue's Passage
-Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
@@ -73,6 +62,10 @@ Sheltered Thicket
 Sigarda's Aid
 Skullclamp
 Slayers' Stronghold
+Sol Ring
+SOLDIER Military Program
+Sphere Grid
+Spire of Industry
 Stoneforge Mystic
 Summon: Esper Ramuh
 Summon: Kujata
@@ -84,17 +77,24 @@ Swiftfoot Boots
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
-Sol Ring
-SOLDIER Military Program
-Sphere Grid
-Spire of Industry
-Unfinished Business
-Vandalblast
 Tifa, Martial Artist
 Tifa's Limit Break
 Ultimate Magic: Holy
-Zack Fair
+Unfinished Business
+Vandalblast
 Wood Elves
 World Map
 Yuffie, Materia Hunter
+Zack Fair
+Path to Exile
+Plains
+Plains
+Plains
+Professional Face-Breaker
+Puresteel Paladin
+Radiant Grove
+Red XIII, Proud Warrior
+Ring of the Lucii
+Rogue's Passage
+Rootbound Crag
 Sword of Forge and Frontier

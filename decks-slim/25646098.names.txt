@@ -50,8 +50,13 @@ Lotho, Corrupt Shirriff
 March of the Multitudes
 Michelangelo, Weirdness to 11
 Mikey & Leo, Chaos & Order
-Ozolith, the Shattered Spire
 Mirkwood Bats
+Mona Lisa, Science Geek
+Mondrak, Glory Dominus
+Mountain
+Ninja Pizza
+Ojer Taq, Deepest Foundation // Temple of Civilization
+Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
 Plains
@@ -61,11 +66,6 @@ Raphael, the Muscle
 Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
-Shellshock
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
@@ -85,9 +85,9 @@ Undergrowth Stadium
 Vernal Fen
 Vibrant Cityscape
 Vigor
-Mona Lisa, Science Geek
-Mondrak, Glory Dominus
-Mountain
-Ninja Pizza
 Arcade Cabinet
-Ojer Taq, Deepest Foundation // Temple of Civilization
+Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden
