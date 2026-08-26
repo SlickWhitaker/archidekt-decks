@@ -40,8 +40,6 @@ Martha Jones
 Mountain
 Mountain
 Myriad Landscape
-Mystic Monastery
-Nanogene Conversion
 Ominous Cemetery
 Out of Time
 Path of Ancestry
@@ -54,6 +52,7 @@ Raugrin Triome
 Regenerations Restored
 Rhystic Study
 RMS Titanic
+Mystic Monastery
 Rogue's Passage
 Rory Williams
 Rotating Fireplace
@@ -88,10 +87,11 @@ The Parting of the Ways
 The War Doctor
 The Wedding of River Song
 Thespian's Stage
-The Tenth Doctor
 Time Beetle
 Training Center
 Trenzalore Clocktower
 War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
+The Tenth Doctor
+Nanogene Conversion

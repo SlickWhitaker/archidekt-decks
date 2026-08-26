@@ -71,13 +71,7 @@ Soulcatchers' Aerie
 Steam Vents
 Storm of Souls
 Sulfur Falls
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
 Sunscorched Divide
-Academy Manufactor
 Swords to Plowshares
 Temple of Enlightenment
 Temple of Triumph
@@ -88,5 +82,11 @@ Thriving Heath
 Thriving Isle
 Time Wipe
 Unbreakable Formation
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
 Valley Floodcaller
 Warden of Evos Isle

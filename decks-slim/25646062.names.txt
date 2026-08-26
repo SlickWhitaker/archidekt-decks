@@ -29,6 +29,11 @@ Inspiring Call
 Irma, Part-Time Mutant
 Island
 Karn's Bastion
+Kindred Discovery
+Kiora's Follower
+Kopala, Warden of Waves
+Kumena, Tyrant of Orazca
+Mana Confluence
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -47,11 +52,6 @@ Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
 Hakbal of the Surging Soul
-Kindred Discovery
-Kiora's Follower
-Kopala, Warden of Waves
-Kumena, Tyrant of Orazca
-Mana Confluence
 Master of the Pearl Trident
 Merfolk Sovereign
 Merrow Commerce

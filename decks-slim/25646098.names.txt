@@ -13,6 +13,8 @@ Aura Shards
 Baxter, Fly in the Ointment
 Beast Whisperer
 Beastmaster Ascension
+Big Apple, 3 a.m.
+Big Mother Mouser
 Blood Crypt
 Bloom Tender
 Branching Evolution
@@ -37,6 +39,7 @@ Halo Fountain
 Heroes in a Half Shell
 Heroic Intervention
 Hidden Hideout
+Ozolith, the Shattered Spire
 Hinterland Harbor
 Island
 Jetmir's Garden
@@ -54,14 +57,6 @@ Mondrak, Glory Dominus
 Mountain
 Ninja Pizza
 Ojer Taq, Deepest Foundation // Temple of Civilization
-Ozolith, the Shattered Spire
-Parallel Lives
-Path of Ancestry
-Plains
-Plaza of Heroes
-Raffine's Tower
-Raphael, the Muscle
-Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
@@ -89,5 +84,10 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Big Apple, 3 a.m.
-Big Mother Mouser
+Parallel Lives
+Path of Ancestry
+Plains
+Plaza of Heroes
+Raffine's Tower
+Raphael, the Muscle
+Rat King, Pale Piper

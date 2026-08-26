@@ -24,6 +24,8 @@ Dragonskull Summit
 Dread Return
 Dreadbore
 Drossforge Bridge
+Endrek Sahr, Master Breeder
+Etali, Primal Storm
 Grave Titan
 Haunted Ridge
 Hero's Downfall
@@ -77,8 +79,6 @@ Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
-Endrek Sahr, Master Breeder
-Etali, Primal Storm
 Evolving Wilds
 Exotic Orchard
 Feed the Swarm

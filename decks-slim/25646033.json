@@ -715,88 +715,6 @@
       "text": "Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell's mana value."
     },
     {
-      "name": "Mesmeric Orb",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "Whenever a permanent becomes untapped, that permanent's controller mills a card."
-    },
-    {
-      "name": "Millikin",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Creature Artifact — Construct",
-      "text": "{T}, Mill a card: Add {C}. (Activate only as an instant. To mill a card, put the top card of your library into your graveyard.)"
-    },
-    {
-      "name": "Mistrise Village",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {U}.\n{U}, {T}: The next spell you cast this turn can't be countered."
-    },
-    {
-      "name": "Misty Rainforest",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Mole Man, Moloid Master",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Human Villain",
-      "text": "You may play lands from your graveyard.\nLandfall — Whenever a land you control enters, create a 1/1 green Minion creature token named Moloid with \"Whenever this token attacks, you may mill a card.\""
-    },
-    {
-      "name": "Mystic Sanctuary",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land — Island",
-      "text": "({T}: Add {U}.)\nThis land enters tapped unless you control three or more other Islands.\nWhen this land enters untapped, you may put target instant or sorcery card from your graveyard on top of your library."
-    },
-    {
-      "name": "Nezahal, Primal Tide",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 7,
-      "type": "Legendary Creature — Elder Dinosaur",
-      "text": "This spell can't be countered.\nYou have no maximum hand size.\nWhenever an opponent casts a noncreature spell, draw a card.\nDiscard three cards: Exile Nezahal. Return it to the battlefield tapped under its owner's control at the beginning of the next end step."
-    },
-    {
       "name": "Noxious Revival",
       "quantity": 1,
       "board": "main",
@@ -860,6 +778,56 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {U}."
+    },
+    {
+      "name": "Riverchurn Monument",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)\nExhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)"
+    },
+    {
+      "name": "Rogue's Passage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."
+    },
+    {
+      "name": "Shifting Woodland",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Forest.\n{T}: Add {G}.\nDelirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard."
+    },
+    {
+      "name": "Snapcaster Mage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Human Wizard",
+      "text": "Flash\nWhen this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"
     },
     {
       "name": "Sol Ring",
@@ -1211,43 +1179,75 @@
       "text": "Sacrifice a land: You gain 2 life."
     },
     {
-      "name": "Riverchurn Monument",
+      "name": "Mesmeric Orb",
       "quantity": 1,
       "board": "main",
-      "colors": [
-        "Blue"
-      ],
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "Whenever a permanent becomes untapped, that permanent's controller mills a card."
+    },
+    {
+      "name": "Millikin",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Creature Artifact — Construct",
+      "text": "{T}, Mill a card: Add {C}. (Activate only as an instant. To mill a card, put the top card of your library into your graveyard.)"
+    },
+    {
+      "name": "Mistrise Village",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
       "colorIdentity": [
         "Blue"
       ],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)\nExhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)"
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {U}.\n{U}, {T}: The next spell you cast this turn can't be countered."
     },
     {
-      "name": "Rogue's Passage",
+      "name": "Misty Rainforest",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
       "manaValue": 0,
       "type": "Land",
-      "text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
     },
     {
-      "name": "Shifting Woodland",
+      "name": "Mole Man, Moloid Master",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Villain",
+      "text": "You may play lands from your graveyard.\nLandfall — Whenever a land you control enters, create a 1/1 green Minion creature token named Moloid with \"Whenever this token attacks, you may mill a card.\""
+    },
+    {
+      "name": "Mystic Sanctuary",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [
-        "Green"
+        "Blue"
       ],
       "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Forest.\n{T}: Add {G}.\nDelirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard."
+      "type": "Land — Island",
+      "text": "({T}: Add {U}.)\nThis land enters tapped unless you control three or more other Islands.\nWhen this land enters untapped, you may put target instant or sorcery card from your graveyard on top of your library."
     },
     {
-      "name": "Snapcaster Mage",
+      "name": "Nezahal, Primal Tide",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1256,9 +1256,9 @@
       "colorIdentity": [
         "Blue"
       ],
-      "manaValue": 2,
-      "type": "Creature — Human Wizard",
-      "text": "Flash\nWhen this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"
+      "manaValue": 7,
+      "type": "Legendary Creature — Elder Dinosaur",
+      "text": "This spell can't be countered.\nYou have no maximum hand size.\nWhenever an opponent casts a noncreature spell, draw a card.\nDiscard three cards: Exile Nezahal. Return it to the battlefield tapped under its owner's control at the beginning of the next end step."
     }
   ]
 }

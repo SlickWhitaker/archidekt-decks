@@ -54,8 +54,10 @@ Path of Ancestry
 Path to Exile
 Patriarch's Bidding
 Phyrexian Altar
+Stromkirk Captain
 Plains
 Razaketh, the Foulblooded
+Swamp
 Reconnaissance
 Roaming Throne
 Sacred Foundry
@@ -68,8 +70,7 @@ Skullclamp
 Sol Ring
 Sorin, Imperious Bloodlord
 Spectator Seating
-Stromkirk Captain
-Swamp
+Edgar Markov
 Swords to Plowshares
 Talisman of Hierarchy
 Talisman of Indulgence
@@ -88,4 +89,3 @@ Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
-Edgar Markov
