@@ -59,6 +59,9 @@ Rakdos Charm
 Rakdos Signet
 Rakdos, Lord of Riots
 Rakdos, Patron of Chaos
+Razaketh, the Foulblooded
+Reanimate
+Rune-Scarred Demon
 Scavenger Grounds
 Sepulchral Primordial
 Shadowblood Ridge
@@ -73,14 +76,11 @@ Talisman of Indulgence
 Temple of Malice
 Terminate
 The Balrog of Moria
-Razaketh, the Foulblooded
-Reanimate
-Rune-Scarred Demon
-Unexpected Windfall
 The Balrog, Durin's Bane
 Toxic Deluge
 Tramway Station
-Bloodghast
+Unexpected Windfall
 Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
+Bloodghast

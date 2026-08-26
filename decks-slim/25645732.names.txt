@@ -46,13 +46,6 @@ Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
 Mask of Memory
-Mithril Coat
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
 Path of Ancestry
 Path to Exile
 Plains
@@ -85,16 +78,23 @@ Sungrass Prairie
 Sunpetal Grove
 Sunscorched Divide
 Swiftfoot Boots
-Tifa, Martial Artist
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
+Tifa, Martial Artist
 Tifa's Limit Break
 Ultimate Magic: Holy
-Zack Fair
-Sword of Forge and Frontier
 Unfinished Business
 Vandalblast
 Wood Elves
 World Map
 Yuffie, Materia Hunter
+Zack Fair
+Sword of Forge and Frontier
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will

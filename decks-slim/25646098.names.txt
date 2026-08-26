@@ -30,9 +30,6 @@ Doubling Season
 Dragonskull Summit
 Evolving Wilds
 Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -47,18 +44,23 @@ Kindred Dominance
 Kodama's Reach
 Lita, Little Orphan Amphibian
 Lotho, Corrupt Shirriff
+March of the Multitudes
+Michelangelo, Weirdness to 11
+Mikey & Leo, Chaos & Order
+Mirkwood Bats
+Mona Lisa, Science Geek
+Mondrak, Glory Dominus
+Mountain
+Ninja Pizza
+Ojer Taq, Deepest Foundation // Temple of Civilization
 Ozolith, the Shattered Spire
 Parallel Lives
-March of the Multitudes
 Path of Ancestry
 Plains
 Plaza of Heroes
-Michelangelo, Weirdness to 11
 Raffine's Tower
 Raphael, the Muscle
 Rat King, Pale Piper
-Mikey & Leo, Chaos & Order
-Mirkwood Bats
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
@@ -86,8 +88,6 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Mona Lisa, Science Geek
-Mondrak, Glory Dominus
-Mountain
-Ninja Pizza
-Ojer Taq, Deepest Foundation // Temple of Civilization
+Fabled Passage
+Felidar Retreat
+Forest

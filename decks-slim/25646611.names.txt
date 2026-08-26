@@ -18,21 +18,6 @@ Chaos Warp
 Command Tower
 Deadly Rollick
 Deflecting Swat
-Descent into Avernus
-Dragonskull Summit
-Everlasting Torment
-Exquisite Blood
-Feed the Swarm
-Fellwar Stone
-Fiery Confluence
-Fire Covenant
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -41,6 +26,17 @@ Luxury Suite
 Mayhem Devil
 Mogis, God of Slaughter
 Mountain
+Necropotence
+Ob Nixilis, Captive Kingpin
+Obosh, the Preypiercer
+Opposition Agent
+Orcish Bowmasters
+Painful Quandary
+Phyrexian Arena
+Polluted Bonds
+Prismatic Vista
+Rakdos Charm
+Rampaging Ferocidon
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -74,14 +70,18 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
-Necropotence
-Ob Nixilis, Captive Kingpin
-Obosh, the Preypiercer
-Opposition Agent
-Orcish Bowmasters
-Painful Quandary
-Phyrexian Arena
-Polluted Bonds
-Prismatic Vista
-Rakdos Charm
-Rampaging Ferocidon
+Descent into Avernus
+Dragonskull Summit
+Everlasting Torment
+Exquisite Blood
+Feed the Swarm
+Fellwar Stone
+Fiery Confluence
+Fire Covenant
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
