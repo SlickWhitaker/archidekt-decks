@@ -53,6 +53,9 @@ Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
 Takenuma, Abandoned Mire
+Talisman of Indulgence
+Terminate
+The Lord of Pain
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -71,9 +74,6 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
-Talisman of Indulgence
-Terminate
-The Lord of Pain
 The Meathook Massacre
 The One Ring
 Torment of Hailfire

@@ -768,6 +768,51 @@
       "text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control."
     },
     {
+      "name": "Talisman of Indulgence",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This artifact deals 1 damage to you."
+    },
+    {
+      "name": "Terminate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Destroy target creature. It can't be regenerated."
+    },
+    {
+      "name": "The Lord of Pain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Assassin",
+      "text": "Menace\nYour opponents can't gain life.\nWhenever a player casts their first spell each turn, choose another target player. The Lord of Pain deals damage equal to that spell's mana value to the chosen player."
+    },
+    {
       "name": "Razorkin Needlehead",
       "quantity": 1,
       "board": "main",
@@ -1006,51 +1051,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. Activate only if you control a Swamp."
-    },
-    {
-      "name": "Talisman of Indulgence",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This artifact deals 1 damage to you."
-    },
-    {
-      "name": "Terminate",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Destroy target creature. It can't be regenerated."
-    },
-    {
-      "name": "The Lord of Pain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Assassin",
-      "text": "Menace\nYour opponents can't gain life.\nWhenever a player casts their first spell each turn, choose another target player. The Lord of Pain deals damage equal to that spell's mana value to the chosen player."
     },
     {
       "name": "The Meathook Massacre",
