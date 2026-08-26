@@ -66,6 +66,11 @@ Raphael, the Muscle
 Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
+Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
@@ -79,15 +84,10 @@ Tempestra, Dame of Games
 Thriving Isle
 Tireless Provisioner
 Tocasia's Welcome
+Arcade Cabinet
 Turtle Lair
 Unbreakable Formation
 Undergrowth Stadium
 Vernal Fen
 Vibrant Cityscape
 Vigor
-Arcade Cabinet
-Shellshock
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden

@@ -73,6 +73,13 @@ Talisman of Conviction
 Talisman of Creativity
 Talisman of Progress
 TARDIS
+Time Beetle
+Training Center
+Trenzalore Clocktower
+War Room
+Wibbly-wobbly, Timey-wimey
+Wilfred Mott
+The Tenth Doctor
 Teferi's Protection
 Temple of Enlightenment
 The Day of the Doctor
@@ -81,13 +88,6 @@ The Eleventh Hour
 The Face of Boe
 The Girl in the Fireplace
 The Moment
-Time Beetle
-Training Center
-Trenzalore Clocktower
-War Room
-Wibbly-wobbly, Timey-wimey
-Wilfred Mott
-The Tenth Doctor
 The Ninth Doctor
 The Ozolith
 The Pandorica

@@ -57,12 +57,6 @@ Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
 Rose Room Treasurer
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
 Rugged Prairie
 Seachrome Coast
 Season of the Burrow
@@ -90,3 +84,9 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Zinnia, Valley's Voice
+Warren Warleader
+Watcher of the Spheres
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
