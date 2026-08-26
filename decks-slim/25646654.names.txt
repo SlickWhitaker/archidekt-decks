@@ -26,15 +26,9 @@ Evolving Wilds
 Exotic Orchard
 Favorable Winds
 Fellwar Stone
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
 Ferrous Lake
 Flawless Maneuver
 Glacial Fortress
-Soulcatcher
-Academy Manufactor
 Impact Tremors
 Island
 Izzet Signet
@@ -77,7 +71,13 @@ Soulcatchers' Aerie
 Steam Vents
 Storm of Souls
 Sulfur Falls
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
 Sunscorched Divide
+Academy Manufactor
 Swords to Plowshares
 Temple of Enlightenment
 Temple of Triumph

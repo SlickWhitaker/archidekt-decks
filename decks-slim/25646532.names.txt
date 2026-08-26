@@ -42,6 +42,9 @@ Necrogoyf
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
 Oppression
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not
 Painful Quandary
 Phyrexian Reclamation
 Psychosis Crawler
@@ -66,8 +69,5 @@ Virus Beetle
 War Room
 Wheel of Torture
 Will of the Abzan
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
 Withering Torment
 Words of Waste

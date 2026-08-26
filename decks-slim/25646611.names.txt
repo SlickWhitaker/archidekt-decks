@@ -27,11 +27,16 @@ Fellwar Stone
 Fiery Confluence
 Fire Covenant
 Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
 Lightning Greaves
-Foreboding Ruins
 Luxury Suite
 Mayhem Devil
 Mogis, God of Slaughter
@@ -42,16 +47,17 @@ Obosh, the Preypiercer
 Opposition Agent
 Orcish Bowmasters
 Painful Quandary
+Razorkin Needlehead
 Phyrexian Arena
 Polluted Bonds
 Prismatic Vista
-Rakdos Charm
-Rampaging Ferocidon
-Razorkin Needlehead
 Repercussion
+Rakdos Charm
 Roiling Vortex
+Rampaging Ferocidon
 Shadowblood Ridge
 Sheoldred, the Apocalypse
+Takenuma, Abandoned Mire
 Sheoldred's Edict
 Shivan Gorge
 Smoldering Marsh
@@ -65,7 +71,6 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
-Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
 The Lord of Pain
@@ -80,8 +85,3 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion

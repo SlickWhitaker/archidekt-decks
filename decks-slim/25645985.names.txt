@@ -50,26 +50,6 @@ Sandsteppe Citadel
 Sanguine Bond
 Savvy Hunter
 Scattered Groves
-Woodfall Primus
-Woodland Cemetery
-Sam, Loyal Attendant
-Frodo, Adventurous Hobbit
-Academy Manufactor
-Anguished Unmaking
-Aragorn and Arwen, Wed
-Arcane Signet
-Ash Barrens
-Assemble the Entmoot
-Battle at the Bridge
-Bilbo, Birthday Celebrant
-Birds of Paradise
-Bretagard Stronghold
-Brushland
-Butterbur, Bree Innkeeper
-Canopy Vista
-Cauldron Familiar
-Chromatic Lantern
-Stardew Valley
 Shineshadow Snarl
 Shire Shirriff
 Shire Terrace
@@ -89,3 +69,23 @@ Trouble in Pairs
 Well of Lost Dreams
 Windswept Heath
 Witch's Oven
+Woodfall Primus
+Woodland Cemetery
+Sam, Loyal Attendant
+Frodo, Adventurous Hobbit
+Academy Manufactor
+Anguished Unmaking
+Aragorn and Arwen, Wed
+Arcane Signet
+Ash Barrens
+Assemble the Entmoot
+Stardew Valley
+Battle at the Bridge
+Bilbo, Birthday Celebrant
+Birds of Paradise
+Bretagard Stronghold
+Brushland
+Butterbur, Bree Innkeeper
+Canopy Vista
+Cauldron Familiar
+Chromatic Lantern

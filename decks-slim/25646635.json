@@ -816,30 +816,6 @@
       "text": "Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Nashi deals combat damage to a player, exile the top card of each player's library. Until end of turn, you may play one of those cards. If you cast a spell this way, pay life equal to its mana value rather than paying its mana cost."
     },
     {
-      "name": "Pact of Negation",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Instant",
-      "text": "Counter target spell.\nAt the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the game."
-    },
-    {
-      "name": "Phyrexian Walker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Creature Artifact — Construct Phyrexian",
-      "text": ""
-    },
-    {
       "name": "Negate",
       "quantity": 1,
       "board": "main",
@@ -916,6 +892,30 @@
       "manaValue": 0,
       "type": "Legendary Land",
       "text": "{T}: Add {U}.\nChannel — {3}{U}, Discard this card: Return target artifact, creature, enchantment, or planeswalker to its owner's hand. This ability costs {1} less to activate for each legendary creature you control."
+    },
+    {
+      "name": "Pact of Negation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Instant",
+      "text": "Counter target spell.\nAt the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the game."
+    },
+    {
+      "name": "Phyrexian Walker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Creature Artifact — Construct Phyrexian",
+      "text": ""
     },
     {
       "name": "Polluted Delta",
@@ -1012,6 +1012,44 @@
       "text": "{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order."
     },
     {
+      "name": "Sensei's Divining Top",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put this artifact on top of its owner's library."
+    },
+    {
+      "name": "Shizo, Death's Storehouse",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {B}.\n{B}, {T}: Target legendary creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)"
+    },
+    {
+      "name": "Silver-Fur Master",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Rat Ninja",
+      "text": "Ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nNinjutsu abilities you activate cost {1} less to activate.\nOther Ninja and Rogue creatures you control get +1/+1."
+    },
+    {
       "name": "Sink into Stupor // Soporific Springs",
       "quantity": 1,
       "board": "main",
@@ -1064,110 +1102,6 @@
       "manaValue": 0,
       "type": "Basic Snow Land — Island",
       "text": "({T}: Add {U}.)"
-    },
-    {
-      "name": "Snow-Covered Swamp",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Basic Snow Land — Swamp",
-      "text": "({T}: Add {B}.)"
-    },
-    {
-      "name": "Snuff Out",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Instant",
-      "text": "If you control a Swamp, you may pay 4 life rather than pay this spell's mana cost.\nDestroy target nonblack creature. It can't be regenerated."
-    },
-    {
-      "name": "Spectral Sailor",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Spirit Pirate",
-      "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\n{3}{U}: Draw a card."
-    },
-    {
-      "name": "Starting Town",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land — Town",
-      "text": "This land enters tapped unless it's your first, second, or third turn of the game.\n{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color."
-    },
-    {
-      "name": "Swamp",
-      "quantity": 2,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Swamp",
-      "text": "({T}: Add {B}.)"
-    },
-    {
-      "name": "Temporal Trespass",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 11,
-      "type": "Sorcery",
-      "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTake an extra turn after this one. Exile Temporal Trespass."
-    },
-    {
-      "name": "Tetsuko Umezawa, Fugitive",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Human Rogue",
-      "text": "Creatures you control with power or toughness 1 or less can't be blocked."
-    },
-    {
-      "name": "Thassa's Oracle",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Wizard Merfolk",
-      "text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
     },
     {
       "name": "Thieving Skydiver",
@@ -1282,17 +1216,7 @@
       "text": "Commander ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand or the command zone tapped and attacking.)\nWhenever a Ninja you control deals combat damage to a player, reveal the top card of your library and put that card into your hand. Each opponent loses life equal to that card's mana value."
     },
     {
-      "name": "Sensei's Divining Top",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put this artifact on top of its owner's library."
-    },
-    {
-      "name": "Shizo, Death's Storehouse",
+      "name": "Snow-Covered Swamp",
       "quantity": 1,
       "board": "main",
       "colors": [],
@@ -1300,24 +1224,100 @@
         "Black"
       ],
       "manaValue": 0,
-      "type": "Legendary Land",
-      "text": "{T}: Add {B}.\n{B}, {T}: Target legendary creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)"
+      "type": "Basic Snow Land — Swamp",
+      "text": "({T}: Add {B}.)"
     },
     {
-      "name": "Silver-Fur Master",
+      "name": "Snuff Out",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Black",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Instant",
+      "text": "If you control a Swamp, you may pay 4 life rather than pay this spell's mana cost.\nDestroy target nonblack creature. It can't be regenerated."
+    },
+    {
+      "name": "Spectral Sailor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
         "Blue"
       ],
       "colorIdentity": [
-        "Blue",
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Spirit Pirate",
+      "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\n{3}{U}: Draw a card."
+    },
+    {
+      "name": "Starting Town",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land — Town",
+      "text": "This land enters tapped unless it's your first, second, or third turn of the game.\n{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color."
+    },
+    {
+      "name": "Swamp",
+      "quantity": 2,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
         "Black"
       ],
+      "manaValue": 0,
+      "type": "Basic Land — Swamp",
+      "text": "({T}: Add {B}.)"
+    },
+    {
+      "name": "Temporal Trespass",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 11,
+      "type": "Sorcery",
+      "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTake an extra turn after this one. Exile Temporal Trespass."
+    },
+    {
+      "name": "Tetsuko Umezawa, Fugitive",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
       "manaValue": 2,
-      "type": "Creature — Rat Ninja",
-      "text": "Ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nNinjutsu abilities you activate cost {1} less to activate.\nOther Ninja and Rogue creatures you control get +1/+1."
+      "type": "Legendary Creature — Human Rogue",
+      "text": "Creatures you control with power or toughness 1 or less can't be blocked."
+    },
+    {
+      "name": "Thassa's Oracle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Wizard Merfolk",
+      "text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
     }
   ]
 }

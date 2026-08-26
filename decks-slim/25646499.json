@@ -991,6 +991,53 @@
       "text": "You have no maximum hand size.\n{T}: Add {C}."
     },
     {
+      "name": "Throne of the High City",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{4}, {T}, Sacrifice this land: You become the monarch."
+    },
+    {
+      "name": "Tranquil Cove",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Unbreakable Formation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Creatures you control gain indestructible until end of turn.\nAddendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn."
+    },
+    {
+      "name": "Vanquisher's Banner",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 5,
+      "type": "Artifact",
+      "text": "As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\nWhenever you cast a creature spell of the chosen type, draw a card."
+    },
+    {
       "name": "Verge Rangers",
       "quantity": 1,
       "board": "main",
@@ -1003,16 +1050,6 @@
       "manaValue": 3,
       "type": "Creature — Human Scout Ranger",
       "text": "First strike\nYou may look at the top card of your library any time.\nAs long as an opponent controls more lands than you, you may play lands from the top of your library. (You can play a land this way only if you have an available land play remaining.)"
-    },
-    {
-      "name": "Throne of the High City",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{4}, {T}, Sacrifice this land: You become the monarch."
     },
     {
       "name": "Village Bell-Ringer",
@@ -1043,33 +1080,6 @@
       "text": "Create a 1/1 white Human creature token for each creature you control.\nFlashback {8}{W}{W}. This spell costs {X} less to cast this way, where X is the greatest mana value of a commander you own on the battlefield or in the command zone. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
     },
     {
-      "name": "Tranquil Cove",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {U}."
-    },
-    {
-      "name": "Unbreakable Formation",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Creatures you control gain indestructible until end of turn.\nAddendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn."
-    },
-    {
       "name": "Wayfarer's Bauble",
       "quantity": 1,
       "board": "main",
@@ -1092,16 +1102,6 @@
       "manaValue": 1,
       "type": "Creature — Human Cleric Nomad",
       "text": "{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you."
-    },
-    {
-      "name": "Vanquisher's Banner",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 5,
-      "type": "Artifact",
-      "text": "As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\nWhenever you cast a creature spell of the chosen type, draw a card."
     },
     {
       "name": "Windbrisk Heights",
