@@ -49,7 +49,6 @@ Memnite
 Misdirection
 Mist-Syndicate Naga
 Mistblade Shinobi
-Moon-Circuit Hacker
 Negate
 Ninja of the Deep Hours
 Opposition Agent
@@ -88,6 +87,7 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
+Moon-Circuit Hacker
 Morphic Pool
 Mothdust Changeling
 Muddle the Mixture

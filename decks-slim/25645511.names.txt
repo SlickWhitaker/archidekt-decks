@@ -26,6 +26,7 @@ Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
 Etali, Primal Storm
+Evolving Wilds
 Grave Titan
 Haunted Ridge
 Hero's Downfall
@@ -79,7 +80,6 @@ Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
-Evolving Wilds
 Exotic Orchard
 Feed the Swarm
 Fellwar Stone

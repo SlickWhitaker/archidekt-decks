@@ -57,6 +57,9 @@ Smallpox
 Sol Ring
 Springleaf Drum
 Swamp
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not
 Syphon Mind
 The Raven Man
 Tinybones Joins Up
@@ -66,8 +69,5 @@ Virus Beetle
 War Room
 Wheel of Torture
 Will of the Abzan
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
 Withering Torment
 Words of Waste

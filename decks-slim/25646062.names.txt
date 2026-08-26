@@ -51,21 +51,6 @@ Raise the Palisade
 Rapid Hybridization
 Realmwalker
 Reflections of Littjara
-Rejuvenating Springs
-Reliquary Tower
-Ripples of Potential
-Roaming Throne
-Savor the Moment
-Secluded Courtyard
-Simic Ascendancy
-Simic Growth Chamber
-Singer of Swift Rivers
-Sodden Verdure
-Sol Ring
-Spell Pierce
-Starting Town
-Stubborn Denial
-Hakbal of the Surging Soul
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -83,3 +68,18 @@ Wanderwine Prophets
 Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
+Hakbal of the Surging Soul
+Rejuvenating Springs
+Reliquary Tower
+Ripples of Potential
+Roaming Throne
+Savor the Moment
+Secluded Courtyard
+Simic Ascendancy
+Simic Growth Chamber
+Singer of Swift Rivers
+Sodden Verdure
+Sol Ring
+Spell Pierce
+Starting Town
+Stubborn Denial
