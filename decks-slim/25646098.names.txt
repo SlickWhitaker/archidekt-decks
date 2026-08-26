@@ -66,6 +66,11 @@ Raphael, the Muscle
 Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
+Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
@@ -86,8 +91,3 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Shellshock
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden

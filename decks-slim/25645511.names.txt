@@ -36,7 +36,19 @@ Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
 Hordeling Outburst
+Infernal Grasp
+It That Betrays
+Jet Medallion
+Krenko, Mob Boss
+Krenko, Tin Street Kingpin
+Krenko's Command
+Lagomos, Hand of Hatred
+Mahadi, Emporium Master
+Mind Stone
+Morbid Opportunist
+Mountain
 Pitiless Plunderer
+Myriad Landscape
 Rakdos Carnarium
 Rakdos Charm
 Rakdos Signet
@@ -54,33 +66,21 @@ Song of Totentanz
 Sulfurous Springs
 Swamp
 Swiftfoot Boots
-Tainted Peak
-Talisman of Indulgence
-Temple of Malice
-Terminate
-The Balrog of Moria
-The Balrog, Durin's Bane
-Toxic Deluge
-Tramway Station
-Unexpected Windfall
-Victimize
-Vilis, Broker of Blood
-Wayfarer's Bauble
-Bloodghast
-Infernal Grasp
-It That Betrays
-Jet Medallion
-Krenko, Mob Boss
-Krenko, Tin Street Kingpin
-Krenko's Command
-Lagomos, Hand of Hatred
-Mahadi, Emporium Master
-Mind Stone
-Morbid Opportunist
-Mountain
-Myriad Landscape
 Night's Whisper
 Orca, Siege Demon
 Overseer of the Damned
 Pathrazer of Ulamog
 Phyrexian Triniform
+The Balrog, Durin's Bane
+Tainted Peak
+Talisman of Indulgence
+Temple of Malice
+Terminate
+The Balrog of Moria
+Unexpected Windfall
+Victimize
+Vilis, Broker of Blood
+Wayfarer's Bauble
+Bloodghast
+Toxic Deluge
+Tramway Station

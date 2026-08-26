@@ -523,6 +523,150 @@
       "text": "Create three 1/1 red Goblin creature tokens."
     },
     {
+      "name": "Infernal Grasp",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Destroy target creature. You lose 2 life."
+    },
+    {
+      "name": "It That Betrays",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 12,
+      "type": "Creature — Eldrazi",
+      "text": "Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents of their choice.)\nWhenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control."
+    },
+    {
+      "name": "Jet Medallion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "Black spells you cast cost {1} less to cast."
+    },
+    {
+      "name": "Krenko, Mob Boss",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Goblin Warrior",
+      "text": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control."
+    },
+    {
+      "name": "Krenko, Tin Street Kingpin",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Goblin",
+      "text": "Whenever Krenko attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power."
+    },
+    {
+      "name": "Krenko's Command",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Create two 1/1 red Goblin creature tokens."
+    },
+    {
+      "name": "Lagomos, Hand of Hatred",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Shaman",
+      "text": "At the beginning of combat on your turn, create a 2/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step.\n{T}: Search your library for a card, put it into your hand, then shuffle. Activate only if five or more creatures died this turn."
+    },
+    {
+      "name": "Mahadi, Emporium Master",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Devil",
+      "text": "At the beginning of your end step, create a Treasure token for each creature that died this turn. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "Mind Stone",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card."
+    },
+    {
+      "name": "Morbid Opportunist",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Rogue",
+      "text": "Whenever one or more other creatures die, draw a card. This ability triggers only once each turn."
+    },
+    {
+      "name": "Mountain",
+      "quantity": 8,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
       "name": "Pitiless Plunderer",
       "quantity": 1,
       "board": "main",
@@ -535,6 +679,16 @@
       "manaValue": 4,
       "type": "Creature — Human Pirate",
       "text": "Whenever another creature you control dies, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "Myriad Landscape",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
     },
     {
       "name": "Rakdos Carnarium",
@@ -763,6 +917,86 @@
       "text": "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.)\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
     },
     {
+      "name": "Night's Whisper",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "You draw two cards and lose 2 life."
+    },
+    {
+      "name": "Orca, Siege Demon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 7,
+      "type": "Legendary Creature — Demon",
+      "text": "Trample\nWhenever another creature dies, put a +1/+1 counter on Orca.\nWhen Orca dies, it deals damage equal to its power divided as you choose among any number of targets."
+    },
+    {
+      "name": "Overseer of the Damned",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 7,
+      "type": "Creature — Demon",
+      "text": "Flying\nWhen this creature enters, you may destroy target creature.\nWhenever a nontoken creature an opponent controls dies, create a tapped 2/2 black Zombie creature token."
+    },
+    {
+      "name": "Pathrazer of Ulamog",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 11,
+      "type": "Creature — Eldrazi",
+      "text": "Annihilator 3 (Whenever this creature attacks, defending player sacrifices three permanents of their choice.)\nThis creature can't be blocked except by three or more creatures."
+    },
+    {
+      "name": "Phyrexian Triniform",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 9,
+      "type": "Creature Artifact — Golem Phyrexian",
+      "text": "When this creature dies, create three 3/3 colorless Phyrexian Golem artifact creature tokens.\nEncore {12} ({12}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)"
+    },
+    {
+      "name": "The Balrog, Durin's Bane",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 7,
+      "type": "Legendary Creature — Demon Avatar",
+      "text": "This spell costs {1} less to cast for each permanent sacrificed this turn.\nHaste\nThe Balrog can't be blocked except by legendary creatures.\nWhen The Balrog dies, destroy target artifact or creature an opponent controls."
+    },
+    {
       "name": "Tainted Peak",
       "quantity": 1,
       "board": "main",
@@ -834,49 +1068,6 @@
       "text": "Trample, haste\nWhen The Balrog of Moria dies, you may exile it. When you do, for each opponent, exile up to one target creature that player controls.\nCycling {3}{R} ({3}{R}, Discard this card: Draw a card.)\nWhen you cycle this card, create two Treasure tokens."
     },
     {
-      "name": "The Balrog, Durin's Bane",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 7,
-      "type": "Legendary Creature — Demon Avatar",
-      "text": "This spell costs {1} less to cast for each permanent sacrificed this turn.\nHaste\nThe Balrog can't be blocked except by legendary creatures.\nWhen The Balrog dies, destroy target artifact or creature an opponent controls."
-    },
-    {
-      "name": "Toxic Deluge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "As an additional cost to cast this spell, pay X life.\nAll creatures get -X/-X until end of turn."
-    },
-    {
-      "name": "Tramway Station",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{2}{B}{R}, {T}, Sacrifice this land: Draw a card."
-    },
-    {
       "name": "Unexpected Windfall",
       "quantity": 1,
       "board": "main",
@@ -943,7 +1134,7 @@
       "text": "This creature can't block.\nThis creature has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield."
     },
     {
-      "name": "Infernal Grasp",
+      "name": "Toxic Deluge",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -951,214 +1142,23 @@
       ],
       "colorIdentity": [
         "Black"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Destroy target creature. You lose 2 life."
-    },
-    {
-      "name": "It That Betrays",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 12,
-      "type": "Creature — Eldrazi",
-      "text": "Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents of their choice.)\nWhenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control."
-    },
-    {
-      "name": "Jet Medallion",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "Black spells you cast cost {1} less to cast."
-    },
-    {
-      "name": "Krenko, Mob Boss",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Goblin Warrior",
-      "text": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control."
-    },
-    {
-      "name": "Krenko, Tin Street Kingpin",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
       ],
       "manaValue": 3,
-      "type": "Legendary Creature — Goblin",
-      "text": "Whenever Krenko attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power."
-    },
-    {
-      "name": "Krenko's Command",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 2,
       "type": "Sorcery",
-      "text": "Create two 1/1 red Goblin creature tokens."
+      "text": "As an additional cost to cast this spell, pay X life.\nAll creatures get -X/-X until end of turn."
     },
     {
-      "name": "Lagomos, Hand of Hatred",
+      "name": "Tramway Station",
       "quantity": 1,
       "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
+      "colors": [],
       "colorIdentity": [
         "Black",
         "Red"
       ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Human Shaman",
-      "text": "At the beginning of combat on your turn, create a 2/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step.\n{T}: Search your library for a card, put it into your hand, then shuffle. Activate only if five or more creatures died this turn."
-    },
-    {
-      "name": "Mahadi, Emporium Master",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Devil",
-      "text": "At the beginning of your end step, create a Treasure token for each creature that died this turn. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
-    },
-    {
-      "name": "Mind Stone",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card."
-    },
-    {
-      "name": "Morbid Opportunist",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Rogue",
-      "text": "Whenever one or more other creatures die, draw a card. This ability triggers only once each turn."
-    },
-    {
-      "name": "Mountain",
-      "quantity": 8,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
-    },
-    {
-      "name": "Myriad Landscape",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
       "manaValue": 0,
       "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
-    },
-    {
-      "name": "Night's Whisper",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "You draw two cards and lose 2 life."
-    },
-    {
-      "name": "Orca, Siege Demon",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 7,
-      "type": "Legendary Creature — Demon",
-      "text": "Trample\nWhenever another creature dies, put a +1/+1 counter on Orca.\nWhen Orca dies, it deals damage equal to its power divided as you choose among any number of targets."
-    },
-    {
-      "name": "Overseer of the Damned",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 7,
-      "type": "Creature — Demon",
-      "text": "Flying\nWhen this creature enters, you may destroy target creature.\nWhenever a nontoken creature an opponent controls dies, create a tapped 2/2 black Zombie creature token."
-    },
-    {
-      "name": "Pathrazer of Ulamog",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 11,
-      "type": "Creature — Eldrazi",
-      "text": "Annihilator 3 (Whenever this creature attacks, defending player sacrifices three permanents of their choice.)\nThis creature can't be blocked except by three or more creatures."
-    },
-    {
-      "name": "Phyrexian Triniform",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 9,
-      "type": "Creature Artifact — Golem Phyrexian",
-      "text": "When this creature dies, create three 3/3 colorless Phyrexian Golem artifact creature tokens.\nEncore {12} ({12}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)"
+      "text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{2}{B}{R}, {T}, Sacrifice this land: Draw a card."
     }
   ]
 }

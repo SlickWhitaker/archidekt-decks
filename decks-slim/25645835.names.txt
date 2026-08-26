@@ -60,14 +60,21 @@ Rotating Fireplace
 Run for Your Life
 Sally Sparrow
 Sea of Clouds
-Sol Ring
 Sonic Screwdriver
+Sol Ring
 Spectator Seating
+Stormcarved Coast
 Star Whale
 Storm-Kiln Artist
-Stormcarved Coast
+Time Beetle
 Strionic Resonator
+Training Center
+Trenzalore Clocktower
+War Room
 Sunbaked Canyon
+Wibbly-wobbly, Timey-wimey
+Wilfred Mott
+The Tenth Doctor
 Sundown Pass
 Talisman of Conviction
 Talisman of Creativity
@@ -88,10 +95,3 @@ The Parting of the Ways
 The War Doctor
 The Wedding of River Song
 Thespian's Stage
-The Tenth Doctor
-Time Beetle
-Training Center
-Trenzalore Clocktower
-War Room
-Wibbly-wobbly, Timey-wimey
-Wilfred Mott
