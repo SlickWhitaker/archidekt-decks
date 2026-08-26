@@ -52,9 +52,6 @@ Ocelot Pride
 Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
-Patriarch's Bidding
-Phyrexian Altar
-Stromkirk Captain
 Plains
 Razaketh, the Foulblooded
 Reconnaissance
@@ -62,14 +59,17 @@ Roaming Throne
 Sacred Foundry
 Sanctum Seeker
 Sanguine Bond
+Patriarch's Bidding
 Savai Triome
 Secluded Courtyard
 Shared Animosity
+Phyrexian Altar
 Skullclamp
 Sol Ring
 Sorin, Imperious Bloodlord
 Spectator Seating
 Edgar Markov
+Stromkirk Captain
 Swamp
 Swords to Plowshares
 Talisman of Hierarchy

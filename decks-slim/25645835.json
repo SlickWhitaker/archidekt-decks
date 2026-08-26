@@ -576,44 +576,6 @@
       "text": "({T}: Add {R}.)"
     },
     {
-      "name": "Myriad Landscape",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
-    },
-    {
-      "name": "Mystic Monastery",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {U}, {R}, or {W}."
-    },
-    {
-      "name": "Nanogene Conversion",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Choose target creature you control. Each other creature becomes a copy of that creature until end of turn, except it isn't legendary."
-    },
-    {
       "name": "Ominous Cemetery",
       "quantity": 1,
       "board": "main",
@@ -636,20 +598,6 @@
       "manaValue": 3,
       "type": "Enchantment",
       "text": "When this enchantment enters, untap all creatures, then those creatures phase out until this enchantment leaves the battlefield. Put a time counter on this enchantment for each creature that phased out this way.\nVanishing (At the beginning of your upkeep, remove a time counter from this enchantment. When the last is removed, sacrifice it.)"
-    },
-    {
-      "name": "Rhystic Study",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}."
     },
     {
       "name": "Path of Ancestry",
@@ -752,6 +700,20 @@
       "text": "Vanishing 12 (This enchantment enters with twelve time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhenever one or more time counters are removed from this enchantment, scry 1 and you gain 1 life. Then if this enchantment has no time counters on it, exile it. When you do, take an extra turn after this one."
     },
     {
+      "name": "Rhystic Study",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}."
+    },
+    {
       "name": "RMS Titanic",
       "quantity": 1,
       "board": "main",
@@ -832,6 +794,29 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Detective",
       "text": "You may cast creature spells as though they had flash.\nWhenever one or more other creatures you control leave the battlefield, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    },
+    {
+      "name": "Sea of Clouds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
     },
     {
       "name": "Sonic Screwdriver",
@@ -1285,27 +1270,42 @@
       "text": "Allons-y! — Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn't have suspend, it gains suspend.\nTimey-Wimey — {7}: Time travel three times. Activate only as a sorcery. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do it two more times.)"
     },
     {
-      "name": "Sea of Clouds",
+      "name": "Myriad Landscape",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Mystic Monastery",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [
         "White",
-        "Blue"
+        "Blue",
+        "Red"
       ],
       "manaValue": 0,
       "type": "Land",
-      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {U}."
+      "text": "This land enters tapped.\n{T}: Add {U}, {R}, or {W}."
     },
     {
-      "name": "Sol Ring",
+      "name": "Nanogene Conversion",
       "quantity": 1,
       "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Choose target creature you control. Each other creature becomes a copy of that creature until end of turn, except it isn't legendary."
     }
   ]
 }

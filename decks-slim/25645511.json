@@ -340,20 +340,6 @@
       "text": "Return target creature card from your graveyard to the battlefield.\nFlashback—Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
     },
     {
-      "name": "Grave Titan",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 6,
-      "type": "Creature — Giant",
-      "text": "Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens."
-    },
-    {
       "name": "Dreadbore",
       "quantity": 1,
       "board": "main",
@@ -466,6 +452,20 @@
       "manaValue": 0,
       "type": "Land",
       "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
+    },
+    {
+      "name": "Grave Titan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Giant",
+      "text": "Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens."
     },
     {
       "name": "Haunted Ridge",
@@ -829,48 +829,6 @@
       "text": "Flying, trample\nAt the beginning of your end step, target opponent may sacrifice two nonland, nontoken permanents of their choice. If they don't, you draw two cards."
     },
     {
-      "name": "Razaketh, the Foulblooded",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 8,
-      "type": "Legendary Creature — Demon",
-      "text": "Flying, trample\nPay 2 life, Sacrifice another creature: Search your library for a card, put that card into your hand, then shuffle."
-    },
-    {
-      "name": "Reanimate",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value."
-    },
-    {
-      "name": "Rune-Scarred Demon",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 7,
-      "type": "Creature — Demon",
-      "text": "Flying\nWhen this creature enters, search your library for a card, put it into your hand, then shuffle."
-    },
-    {
       "name": "Scavenger Grounds",
       "quantity": 1,
       "board": "main",
@@ -1052,6 +1010,62 @@
       "text": "Trample, haste\nWhen The Balrog of Moria dies, you may exile it. When you do, for each opponent, exile up to one target creature that player controls.\nCycling {3}{R} ({3}{R}, Discard this card: Draw a card.)\nWhen you cycle this card, create two Treasure tokens."
     },
     {
+      "name": "Razaketh, the Foulblooded",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 8,
+      "type": "Legendary Creature — Demon",
+      "text": "Flying, trample\nPay 2 life, Sacrifice another creature: Search your library for a card, put that card into your hand, then shuffle."
+    },
+    {
+      "name": "Reanimate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value."
+    },
+    {
+      "name": "Rune-Scarred Demon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 7,
+      "type": "Creature — Demon",
+      "text": "Flying\nWhen this creature enters, search your library for a card, put it into your hand, then shuffle."
+    },
+    {
+      "name": "Unexpected Windfall",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Instant",
+      "text": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
       "name": "The Balrog, Durin's Bane",
       "quantity": 1,
       "board": "main",
@@ -1095,18 +1109,18 @@
       "text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{2}{B}{R}, {T}, Sacrifice this land: Draw a card."
     },
     {
-      "name": "Unexpected Windfall",
+      "name": "Bloodghast",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Red"
+        "Black"
       ],
       "colorIdentity": [
-        "Red"
+        "Black"
       ],
-      "manaValue": 4,
-      "type": "Instant",
-      "text": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+      "manaValue": 2,
+      "type": "Creature — Vampire Spirit",
+      "text": "This creature can't block.\nThis creature has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield."
     },
     {
       "name": "Victimize",
@@ -1145,20 +1159,6 @@
       "manaValue": 1,
       "type": "Artifact",
       "text": "{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
-    },
-    {
-      "name": "Bloodghast",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Vampire Spirit",
-      "text": "This creature can't block.\nThis creature has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield."
     }
   ]
 }

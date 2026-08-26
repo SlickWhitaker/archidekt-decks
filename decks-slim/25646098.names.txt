@@ -47,23 +47,18 @@ Kindred Dominance
 Kodama's Reach
 Lita, Little Orphan Amphibian
 Lotho, Corrupt Shirriff
-March of the Multitudes
-Michelangelo, Weirdness to 11
-Mikey & Leo, Chaos & Order
-Mirkwood Bats
-Mona Lisa, Science Geek
-Mondrak, Glory Dominus
-Mountain
-Ninja Pizza
-Ojer Taq, Deepest Foundation // Temple of Civilization
 Ozolith, the Shattered Spire
 Parallel Lives
+March of the Multitudes
 Path of Ancestry
 Plains
 Plaza of Heroes
+Michelangelo, Weirdness to 11
 Raffine's Tower
 Raphael, the Muscle
 Rat King, Pale Piper
+Mikey & Leo, Chaos & Order
+Mirkwood Bats
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
@@ -71,23 +66,28 @@ Skullclamp
 Sodden Verdure
 Sol Ring
 Spire Garden
-Swamp
-Swan Song
-Swords to Plowshares
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
 Sunken Hollow
 Super Combo
+Swamp
+Swan Song
+Swords to Plowshares
 Teferi's Protection
-Turtle Lair
 Tempestra, Dame of Games
+Thriving Isle
+Tireless Provisioner
+Tocasia's Welcome
+Turtle Lair
 Unbreakable Formation
 Undergrowth Stadium
 Vernal Fen
-Thriving Isle
 Vibrant Cityscape
 Vigor
-Tireless Provisioner
-Tocasia's Welcome
 Arcade Cabinet
+Mona Lisa, Science Geek
+Mondrak, Glory Dominus
+Mountain
+Ninja Pizza
+Ojer Taq, Deepest Foundation // Temple of Civilization

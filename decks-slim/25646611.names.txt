@@ -41,15 +41,6 @@ Luxury Suite
 Mayhem Devil
 Mogis, God of Slaughter
 Mountain
-Necropotence
-Ob Nixilis, Captive Kingpin
-Obosh, the Preypiercer
-Opposition Agent
-Orcish Bowmasters
-Painful Quandary
-Phyrexian Arena
-Polluted Bonds
-Prismatic Vista
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -83,5 +74,14 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
+Necropotence
+Ob Nixilis, Captive Kingpin
+Obosh, the Preypiercer
+Opposition Agent
+Orcish Bowmasters
+Painful Quandary
+Phyrexian Arena
+Polluted Bonds
+Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
