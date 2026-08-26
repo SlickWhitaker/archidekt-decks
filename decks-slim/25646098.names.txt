@@ -25,14 +25,6 @@ City of Brass
 Command Tower
 Cultivate
 Dimension X Pizzasaur
-Donatello, the Brains
-Doubling Season
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -44,6 +36,7 @@ Island
 Jetmir's Garden
 Kami of Whispered Hopes
 Kindred Dominance
+Donatello, the Brains
 Kodama's Reach
 Lita, Little Orphan Amphibian
 Lotho, Corrupt Shirriff
@@ -84,10 +77,17 @@ Tempestra, Dame of Games
 Thriving Isle
 Tireless Provisioner
 Tocasia's Welcome
-Arcade Cabinet
 Turtle Lair
 Unbreakable Formation
 Undergrowth Stadium
 Vernal Fen
 Vibrant Cityscape
 Vigor
+Arcade Cabinet
+Doubling Season
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
