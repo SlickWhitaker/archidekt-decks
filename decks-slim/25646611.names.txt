@@ -52,6 +52,7 @@ Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
+Takenuma, Abandoned Mire
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -70,7 +71,6 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
-Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
 The Lord of Pain

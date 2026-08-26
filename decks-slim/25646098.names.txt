@@ -18,29 +18,33 @@ Big Mother Mouser
 Blood Crypt
 Bloom Tender
 Branching Evolution
+Cathars' Crusade
+Chromatic Lantern
+Cinder Glade
+City of Brass
+Command Tower
+Cultivate
+Dimension X Pizzasaur
+Donatello, the Brains
+Doubling Season
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
 Heroes in a Half Shell
-Heroic Intervention
-Hidden Hideout
 Hinterland Harbor
 Island
 Jetmir's Garden
 Kami of Whispered Hopes
 Kindred Dominance
 Kodama's Reach
-Lita, Little Orphan Amphibian
-Lotho, Corrupt Shirriff
-March of the Multitudes
-Michelangelo, Weirdness to 11
-Mikey & Leo, Chaos & Order
-Mirkwood Bats
-Mona Lisa, Science Geek
-Mondrak, Glory Dominus
-Mountain
-Ninja Pizza
-Ojer Taq, Deepest Foundation // Temple of Civilization
+Heroic Intervention
+Hidden Hideout
 Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
@@ -76,18 +80,14 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Cathars' Crusade
-Chromatic Lantern
-Cinder Glade
-City of Brass
-Command Tower
-Cultivate
-Dimension X Pizzasaur
-Donatello, the Brains
-Doubling Season
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
+Lita, Little Orphan Amphibian
+Lotho, Corrupt Shirriff
+March of the Multitudes
+Michelangelo, Weirdness to 11
+Mikey & Leo, Chaos & Order
+Mirkwood Bats
+Mona Lisa, Science Geek
+Mondrak, Glory Dominus
+Mountain
+Ninja Pizza
+Ojer Taq, Deepest Foundation // Temple of Civilization

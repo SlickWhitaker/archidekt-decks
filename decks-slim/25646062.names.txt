@@ -32,6 +32,24 @@ Karn's Bastion
 Kindred Discovery
 Kiora's Follower
 Kopala, Warden of Waves
+Summon: Leviathan
+Svyelun of Sea and Sky
+Swan Song
+Swiftfoot Boots
+Sword of Fire and Ice
+The Ozolith
+Thieving Skydiver
+Tishana's Tidebinder
+Triumph of the Hordes
+Tropical Island
+Unclaimed Territory
+Vineglimmer Snarl
+Vodalian Hexcatcher
+Wanderwine Prophets
+Wilderness Reclamation
+Wooded Foothills
+Zegana, Utopian Speaker
+Hakbal of the Surging Soul
 Kumena, Tyrant of Orazca
 Mana Confluence
 Master of the Pearl Trident
@@ -57,24 +75,6 @@ Ripples of Potential
 Roaming Throne
 Savor the Moment
 Secluded Courtyard
-Summon: Leviathan
-Svyelun of Sea and Sky
-Swan Song
-Swiftfoot Boots
-Sword of Fire and Ice
-The Ozolith
-Thieving Skydiver
-Tishana's Tidebinder
-Triumph of the Hordes
-Tropical Island
-Unclaimed Territory
-Vineglimmer Snarl
-Vodalian Hexcatcher
-Wanderwine Prophets
-Wilderness Reclamation
-Wooded Foothills
-Zegana, Utopian Speaker
-Hakbal of the Surging Soul
 Simic Ascendancy
 Simic Growth Chamber
 Singer of Swift Rivers

@@ -519,48 +519,6 @@
       "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card."
     },
     {
-      "name": "Mindlash Sliver",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Sliver",
-      "text": "All Slivers have \"{1}, Sacrifice this permanent: Each player discards a card.\""
-    },
-    {
-      "name": "Necrogen Mists",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "At the beginning of each player's upkeep, that player discards a card."
-    },
-    {
-      "name": "Necrogoyf",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Lhurgoyf",
-      "text": "Necrogoyf's power is equal to the number of creature cards in all graveyards.\nAt the beginning of each player's upkeep, that player discards a card.\nMadness {1}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-    },
-    {
       "name": "Nezumi Informant",
       "quantity": 1,
       "board": "main",
@@ -827,30 +785,6 @@
       "text": "At the beginning of each end step, if a player discarded a card this turn, create a 1/1 black Bird creature token with flying and \"This token can't block.\"\n{3}{B}, {T}: Each opponent discards a card. Activate only as a sorcery."
     },
     {
-      "name": "Geth's Grimoire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Artifact — Book",
-      "text": "Whenever an opponent discards a card, you may draw a card."
-    },
-    {
-      "name": "Tinybones, Trinket Thief",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Skeleton Rogue",
-      "text": "At the beginning of each end step, if an opponent discarded a card this turn, you draw a card and you lose 1 life.\n{4}{B}{B}: Each opponent with no cards in hand loses 10 life."
-    },
-    {
       "name": "Tinybones Joins Up",
       "quantity": 1,
       "board": "main",
@@ -941,20 +875,6 @@
       "text": "Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Any number of target opponents each sacrifice a creature with the greatest power among creatures that player controls and lose 3 life.\n• Return target creature card from your graveyard to the battlefield."
     },
     {
-      "name": "Waste Not",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.\nWhenever an opponent discards a land card, add {B}{B}.\nWhenever an opponent discards a noncreature, nonland card, draw a card."
-    },
-    {
       "name": "Withering Torment",
       "quantity": 1,
       "board": "main",
@@ -981,6 +901,86 @@
       "manaValue": 3,
       "type": "Enchantment",
       "text": "{1}: The next time you would draw a card this turn, each opponent discards a card instead."
+    },
+    {
+      "name": "Geth's Grimoire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Artifact — Book",
+      "text": "Whenever an opponent discards a card, you may draw a card."
+    },
+    {
+      "name": "Tinybones, Trinket Thief",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Skeleton Rogue",
+      "text": "At the beginning of each end step, if an opponent discarded a card this turn, you draw a card and you lose 1 life.\n{4}{B}{B}: Each opponent with no cards in hand loses 10 life."
+    },
+    {
+      "name": "Waste Not",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.\nWhenever an opponent discards a land card, add {B}{B}.\nWhenever an opponent discards a noncreature, nonland card, draw a card."
+    },
+    {
+      "name": "Mindlash Sliver",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Sliver",
+      "text": "All Slivers have \"{1}, Sacrifice this permanent: Each player discards a card.\""
+    },
+    {
+      "name": "Necrogen Mists",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "At the beginning of each player's upkeep, that player discards a card."
+    },
+    {
+      "name": "Necrogoyf",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Lhurgoyf",
+      "text": "Necrogoyf's power is equal to the number of creature cards in all graveyards.\nAt the beginning of each player's upkeep, that player discards a card.\nMadness {1}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
     }
   ]
 }

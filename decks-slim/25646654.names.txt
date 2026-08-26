@@ -35,12 +35,6 @@ Izzet Signet
 Jacked Rabbit
 Jubilant Skybonder
 Kindred Discovery
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
 Ledger Shredder
 Mabel, Heir to Cragflame
 Martial Coup
@@ -50,6 +44,12 @@ Mountain
 Murmuration
 Mystic Monastery
 Nesting Dovehawk
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
 Ornithopter of Paradise
 Path of Ancestry
 Path to Exile
