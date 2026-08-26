@@ -66,13 +66,14 @@ Secluded Courtyard
 Shared Animosity
 Skullclamp
 Sol Ring
+Sorin, Imperious Bloodlord
+Spectator Seating
 Stromkirk Captain
 Swamp
 Swords to Plowshares
 Talisman of Hierarchy
 Talisman of Indulgence
 Teferi's Protection
-Sorin, Imperious Bloodlord
 Toxic Deluge
 Trouble in Pairs
 Twilight Prophet
@@ -88,4 +89,3 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Spectator Seating

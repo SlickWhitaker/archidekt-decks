@@ -63,18 +63,14 @@ Oakhollow Village
 Polluted Delta
 Pond Prophet
 Rejuvenating Springs
-Riverchurn Monument
-Rogue's Passage
-Shifting Woodland
-Snapcaster Mage
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
 Summon: Titan
 Swan Song
+Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
-Thassa's Oracle
 The Unagi of Kyoshi Island
 Thought Scour
 Tishana's Tidebinder
@@ -94,3 +90,7 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Riverchurn Monument
+Rogue's Passage
+Shifting Woodland
+Snapcaster Mage

@@ -49,25 +49,30 @@ Mask of Memory
 Mithril Coat
 Mossfire Valley
 Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will
 Path of Ancestry
 Path to Exile
 Plains
 Plains
-Mountain
 Plains
-Mountain
 Professional Face-Breaker
-Nature's Lore
 Puresteel Paladin
 Radiant Grove
 Red XIII, Proud Warrior
-Nature's Will
 Ring of the Lucii
 Rogue's Passage
-Rugged Prairie
 Rootbound Crag
+Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
+Sephiroth, Fallen Hero
+Sheltered Thicket
+Sigarda's Aid
+Skullclamp
+Slayers' Stronghold
 Stoneforge Mystic
 Summon: Esper Ramuh
 Summon: Kujata
@@ -79,22 +84,17 @@ Swiftfoot Boots
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
-Tifa, Martial Artist
-Sephiroth, Fallen Hero
-Sheltered Thicket
-Sigarda's Aid
-Skullclamp
-Slayers' Stronghold
 Sol Ring
 SOLDIER Military Program
 Sphere Grid
 Spire of Industry
-Tifa's Limit Break
 Unfinished Business
 Vandalblast
+Tifa, Martial Artist
+Tifa's Limit Break
+Ultimate Magic: Holy
+Zack Fair
 Wood Elves
 World Map
 Yuffie, Materia Hunter
-Ultimate Magic: Holy
 Sword of Forge and Frontier
-Zack Fair

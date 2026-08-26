@@ -37,6 +37,12 @@ Jubilant Skybonder
 Kindred Discovery
 Ledger Shredder
 Mabel, Heir to Cragflame
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
 Martial Coup
 Migratory Route
 Mind Stone
@@ -57,12 +63,6 @@ Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
 Rose Room Treasurer
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
 Rugged Prairie
 Seachrome Coast
 Season of the Burrow
