@@ -22,6 +22,7 @@ Deadly Dispute
 Descent into Avernus
 Dragonskull Summit
 Dread Return
+Grave Titan
 Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
@@ -31,7 +32,6 @@ Exotic Orchard
 Feed the Swarm
 Fellwar Stone
 Foreboding Ruins
-Grave Titan
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
@@ -47,8 +47,13 @@ Mahadi, Emporium Master
 Mind Stone
 Morbid Opportunist
 Mountain
-Pitiless Plunderer
 Myriad Landscape
+Night's Whisper
+Orca, Siege Demon
+Overseer of the Damned
+Pathrazer of Ulamog
+Phyrexian Triniform
+Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
 Rakdos Signet
@@ -66,21 +71,16 @@ Song of Totentanz
 Sulfurous Springs
 Swamp
 Swiftfoot Boots
-Night's Whisper
-Orca, Siege Demon
-Overseer of the Damned
-Pathrazer of Ulamog
-Phyrexian Triniform
-The Balrog, Durin's Bane
 Tainted Peak
 Talisman of Indulgence
 Temple of Malice
 Terminate
 The Balrog of Moria
+The Balrog, Durin's Bane
+Toxic Deluge
+Tramway Station
 Unexpected Windfall
 Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
-Toxic Deluge
-Tramway Station

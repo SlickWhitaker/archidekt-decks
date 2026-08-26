@@ -42,6 +42,51 @@ Cloud, Ex-SOLDIER
 Gongaga, Reactor Town
 Hard-Won Jitte
 Hellkite Tyrant
+Path of Ancestry
+Path to Exile
+Plains
+Plains
+Plains
+Professional Face-Breaker
+Puresteel Paladin
+Radiant Grove
+Red XIII, Proud Warrior
+Ring of the Lucii
+Rogue's Passage
+Rootbound Crag
+Rugged Prairie
+Sacred Peaks
+Scavenger Grounds
+Sephiroth, Fallen Hero
+Sheltered Thicket
+Sigarda's Aid
+Skullclamp
+Slayers' Stronghold
+Sol Ring
+SOLDIER Military Program
+Sphere Grid
+Spire of Industry
+Stoneforge Mystic
+Summon: Esper Ramuh
+Summon: Kujata
+Summoning Materia
+Sungrass Prairie
+Sunpetal Grove
+Sunscorched Divide
+Swiftfoot Boots
+Sword of Sinew and Steel
+Sword of the Animist
+Swords to Plowshares
+Tifa, Martial Artist
+Tifa's Limit Break
+Ultimate Magic: Holy
+Unfinished Business
+Vandalblast
+Wood Elves
+World Map
+Yuffie, Materia Hunter
+Zack Fair
+Sword of Forge and Frontier
 Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
@@ -53,48 +98,3 @@ Mountain
 Mountain
 Nature's Lore
 Nature's Will
-Path of Ancestry
-Path to Exile
-Plains
-Plains
-Plains
-Professional Face-Breaker
-Puresteel Paladin
-Radiant Grove
-Red XIII, Proud Warrior
-Rugged Prairie
-Sacred Peaks
-Ring of the Lucii
-Scavenger Grounds
-Rogue's Passage
-Rootbound Crag
-Sephiroth, Fallen Hero
-Sheltered Thicket
-Sigarda's Aid
-Stoneforge Mystic
-Skullclamp
-Slayers' Stronghold
-Sol Ring
-SOLDIER Military Program
-Sphere Grid
-Spire of Industry
-Summon: Esper Ramuh
-Summon: Kujata
-Summoning Materia
-Sungrass Prairie
-Sunpetal Grove
-Sunscorched Divide
-Sword of Sinew and Steel
-Sword of the Animist
-Swords to Plowshares
-Tifa, Martial Artist
-Swiftfoot Boots
-Tifa's Limit Break
-Ultimate Magic: Holy
-Zack Fair
-Unfinished Business
-Vandalblast
-Wood Elves
-World Map
-Yuffie, Materia Hunter
-Sword of Forge and Frontier

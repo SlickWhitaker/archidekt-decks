@@ -638,6 +638,20 @@
       "text": "When this enchantment enters, untap all creatures, then those creatures phase out until this enchantment leaves the battlefield. Put a time counter on this enchantment for each creature that phased out this way.\nVanishing (At the beginning of your upkeep, remove a time counter from this enchantment. When the last is removed, sacrifice it.)"
     },
     {
+      "name": "Rhystic Study",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}."
+    },
+    {
       "name": "Path of Ancestry",
       "quantity": 1,
       "board": "main",
@@ -738,20 +752,6 @@
       "text": "Vanishing 12 (This enchantment enters with twelve time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhenever one or more time counters are removed from this enchantment, scry 1 and you gain 1 life. Then if this enchantment has no time counters on it, exile it. When you do, take an extra turn after this one."
     },
     {
-      "name": "Rhystic Study",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}."
-    },
-    {
       "name": "RMS Titanic",
       "quantity": 1,
       "board": "main",
@@ -834,19 +834,6 @@
       "text": "You may cast creature spells as though they had flash.\nWhenever one or more other creatures you control leave the battlefield, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
     },
     {
-      "name": "Sea of Clouds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {U}."
-    },
-    {
       "name": "Sonic Screwdriver",
       "quantity": 1,
       "board": "main",
@@ -855,16 +842,6 @@
       "manaValue": 3,
       "type": "Artifact",
       "text": "{T}: Add one mana of any color.\n{1}, {T}: Untap another target artifact.\n{2}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{3}, {T}: Target creature can't be blocked this turn."
-    },
-    {
-      "name": "Sol Ring",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
     },
     {
       "name": "Spectator Seating",
@@ -878,19 +855,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {R} or {W}."
-    },
-    {
-      "name": "Stormcarved Coast",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {U} or {R}."
     },
     {
       "name": "Star Whale",
@@ -921,18 +885,17 @@
       "text": "This creature gets +1/+0 for each artifact you control.\nMagecraft — Whenever you cast or copy an instant or sorcery spell, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
     },
     {
-      "name": "Time Beetle",
+      "name": "Stormcarved Coast",
       "quantity": 1,
       "board": "main",
-      "colors": [
-        "Blue"
-      ],
+      "colors": [],
       "colorIdentity": [
-        "Blue"
+        "Blue",
+        "Red"
       ],
-      "manaValue": 2,
-      "type": "Creature — Insect Alien",
-      "text": "Skulk (This creature can't be blocked by creatures with greater power.)\nParallel Universe — Whenever this creature deals combat damage to a player, time travel. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)"
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {U} or {R}."
     },
     {
       "name": "Strionic Resonator",
@@ -943,41 +906,6 @@
       "manaValue": 2,
       "type": "Artifact",
       "text": "{2}, {T}: Copy target triggered ability you control. You may choose new targets for the copy. (A triggered ability uses the words \"when,\" \"whenever,\" or \"at.\")"
-    },
-    {
-      "name": "Training Center",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {U} or {R}."
-    },
-    {
-      "name": "Trenzalore Clocktower",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Legendary Land",
-      "text": "{T}: Add {U}. Put a time counter on Trenzalore Clocktower.\n{1}{U}, {T}, Remove twelve time counters from Trenzalore Clocktower and exile it: Shuffle your graveyard and hand into your library, then draw seven cards. Activate only if you control a Time Lord."
-    },
-    {
-      "name": "War Room",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{3}, {T}, Pay life equal to the number of colors in your commanders' color identity: Draw a card."
     },
     {
       "name": "Sunbaked Canyon",
@@ -991,50 +919,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}, Pay 1 life: Add {R} or {W}.\n{1}, {T}, Sacrifice this land: Draw a card."
-    },
-    {
-      "name": "Wibbly-wobbly, Timey-wimey",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Time travel. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)\nDraw a card."
-    },
-    {
-      "name": "Wilfred Mott",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human Soldier",
-      "text": "Look to the Stars — At the beginning of your upkeep, put a time counter on Wilfred Mott. Then look at the top X cards of your library, where X is the number of time counters on Wilfred Mott. You may put a nonland permanent card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order."
-    },
-    {
-      "name": "The Tenth Doctor",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Red",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Doctor Time Lord",
-      "text": "Allons-y! — Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn't have suspend, it gains suspend.\nTimey-Wimey — {7}: Time travel three times. Activate only as a sorcery. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do it two more times.)"
     },
     {
       "name": "Sundown Pass",
@@ -1306,6 +1190,122 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}.\n{2}, {T}: This land becomes a copy of target land, except it has this ability."
+    },
+    {
+      "name": "Time Beetle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Insect Alien",
+      "text": "Skulk (This creature can't be blocked by creatures with greater power.)\nParallel Universe — Whenever this creature deals combat damage to a player, time travel. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)"
+    },
+    {
+      "name": "Training Center",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {U} or {R}."
+    },
+    {
+      "name": "Trenzalore Clocktower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {U}. Put a time counter on Trenzalore Clocktower.\n{1}{U}, {T}, Remove twelve time counters from Trenzalore Clocktower and exile it: Shuffle your graveyard and hand into your library, then draw seven cards. Activate only if you control a Time Lord."
+    },
+    {
+      "name": "War Room",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{3}, {T}, Pay life equal to the number of colors in your commanders' color identity: Draw a card."
+    },
+    {
+      "name": "Wibbly-wobbly, Timey-wimey",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Time travel. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)\nDraw a card."
+    },
+    {
+      "name": "Wilfred Mott",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Soldier",
+      "text": "Look to the Stars — At the beginning of your upkeep, put a time counter on Wilfred Mott. Then look at the top X cards of your library, where X is the number of time counters on Wilfred Mott. You may put a nonland permanent card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order."
+    },
+    {
+      "name": "The Tenth Doctor",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Red",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Doctor Time Lord",
+      "text": "Allons-y! — Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn't have suspend, it gains suspend.\nTimey-Wimey — {7}: Time travel three times. Activate only as a sorcery. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do it two more times.)"
+    },
+    {
+      "name": "Sea of Clouds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
     }
   ]
 }

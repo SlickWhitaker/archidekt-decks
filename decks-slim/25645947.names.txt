@@ -54,6 +54,7 @@ Path of Ancestry
 Path to Exile
 Patriarch's Bidding
 Phyrexian Altar
+Stromkirk Captain
 Plains
 Razaketh, the Foulblooded
 Reconnaissance
@@ -68,7 +69,7 @@ Skullclamp
 Sol Ring
 Sorin, Imperious Bloodlord
 Spectator Seating
-Stromkirk Captain
+Edgar Markov
 Swamp
 Swords to Plowshares
 Talisman of Hierarchy
@@ -83,7 +84,6 @@ Vampiric Tutor
 Vault of Champions
 Vein Ripper
 Viscera Seer
-Edgar Markov
 Vito, Thorn of the Dusk Rose
 Voldaren Estate
 Welcoming Vampire

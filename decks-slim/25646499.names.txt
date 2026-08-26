@@ -71,6 +71,10 @@ Terramorphic Expanse
 The Mountain-king's Return
 Théoden, King of Rohan
 Thought Vessel
+Throne of the High City
+Tranquil Cove
+Unbreakable Formation
+Vanquisher's Banner
 Verge Rangers
 Village Bell-Ringer
 Visions of Glory
@@ -78,7 +82,3 @@ Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
-Throne of the High City
-Tranquil Cove
-Unbreakable Formation
-Vanquisher's Banner

@@ -766,6 +766,22 @@
       "text": "Sacrifice a creature: Add one mana of any color."
     },
     {
+      "name": "Stromkirk Captain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Vampire Soldier",
+      "text": "First strike\nOther Vampire creatures you control get +1/+1 and have first strike."
+    },
+    {
       "name": "Plains",
       "quantity": 3,
       "board": "main",
@@ -942,20 +958,22 @@
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {R} or {W}."
     },
     {
-      "name": "Stromkirk Captain",
+      "name": "Edgar Markov",
       "quantity": 1,
-      "board": "main",
+      "board": "commander",
       "colors": [
+        "White",
         "Red",
         "Black"
       ],
       "colorIdentity": [
+        "White",
         "Black",
         "Red"
       ],
-      "manaValue": 3,
-      "type": "Creature — Vampire Soldier",
-      "text": "First strike\nOther Vampire creatures you control get +1/+1 and have first strike."
+      "manaValue": 6,
+      "type": "Legendary Creature — Knight Vampire",
+      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
     },
     {
       "name": "Swamp",
@@ -1139,24 +1157,6 @@
       "manaValue": 1,
       "type": "Creature — Wizard Vampire",
       "text": "Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
-    },
-    {
-      "name": "Edgar Markov",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "White",
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "White",
-        "Black",
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Legendary Creature — Knight Vampire",
-      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
     },
     {
       "name": "Vito, Thorn of the Dusk Rose",
