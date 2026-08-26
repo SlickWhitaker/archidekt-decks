@@ -46,7 +46,6 @@ Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
 Mask of Memory
-Mithril Coat
 Path of Ancestry
 Path to Exile
 Plains
@@ -85,7 +84,6 @@ Swords to Plowshares
 Tifa, Martial Artist
 Tifa's Limit Break
 Ultimate Magic: Holy
-Mossfire Valley
 Unfinished Business
 Vandalblast
 Wood Elves
@@ -93,6 +91,8 @@ World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
+Mithril Coat
+Mossfire Valley
 Mountain
 Mountain
 Mountain

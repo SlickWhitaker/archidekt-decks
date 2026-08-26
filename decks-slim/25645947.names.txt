@@ -55,7 +55,6 @@ Path to Exile
 Patriarch's Bidding
 Phyrexian Altar
 Plains
-Stromkirk Captain
 Razaketh, the Foulblooded
 Reconnaissance
 Roaming Throne
@@ -69,7 +68,7 @@ Skullclamp
 Sol Ring
 Sorin, Imperious Bloodlord
 Spectator Seating
-Edgar Markov
+Stromkirk Captain
 Swamp
 Swords to Plowshares
 Talisman of Hierarchy
@@ -89,3 +88,4 @@ Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
+Edgar Markov

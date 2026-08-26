@@ -54,8 +54,14 @@ Rally the Ranks
 Rapid Augmenter
 Rapid Hybridization
 Reconnaissance Mission
+Warren Warleader
+Watcher of the Spheres
 Restless Anchorage
 Roaming Throne
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
 Rose Room Treasurer
 Rugged Prairie
 Seachrome Coast
@@ -84,9 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor

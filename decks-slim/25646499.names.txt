@@ -55,9 +55,10 @@ Riders of Rohan
 Rogue's Passage
 Sacred Foundry
 Secluded Courtyard
-Supreme Verdict
-Swords to Plowshares
 Selfless Squire
+Supreme Verdict
+Shared Animosity
+Swords to Plowshares
 Talisman of Conviction
 Talisman of Progress
 Taunt from the Rampart
@@ -76,7 +77,6 @@ Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
-Shared Animosity
 Skullclamp
 Sol Ring
 Steam Vents

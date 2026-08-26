@@ -61,7 +61,6 @@ Old Gnawbone
 Orcish Lumberjack
 Prismatic Vista
 Professional Face-Breaker
-Veil of Summer
 Railway Brawler
 Rhythm of the Wild
 Rishkar's Expertise
@@ -69,6 +68,7 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
+Veil of Summer
 Verdant Catacombs
 Wasteland
 Wheel of Misfortune

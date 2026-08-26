@@ -778,22 +778,6 @@
       "text": "({T}: Add {W}.)"
     },
     {
-      "name": "Stromkirk Captain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Vampire Soldier",
-      "text": "First strike\nOther Vampire creatures you control get +1/+1 and have first strike."
-    },
-    {
       "name": "Razaketh, the Foulblooded",
       "quantity": 1,
       "board": "main",
@@ -958,22 +942,20 @@
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {R} or {W}."
     },
     {
-      "name": "Edgar Markov",
+      "name": "Stromkirk Captain",
       "quantity": 1,
-      "board": "commander",
+      "board": "main",
       "colors": [
-        "White",
         "Red",
         "Black"
       ],
       "colorIdentity": [
-        "White",
         "Black",
         "Red"
       ],
-      "manaValue": 6,
-      "type": "Legendary Creature — Knight Vampire",
-      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
+      "manaValue": 3,
+      "type": "Creature — Vampire Soldier",
+      "text": "First strike\nOther Vampire creatures you control get +1/+1 and have first strike."
     },
     {
       "name": "Swamp",
@@ -1223,6 +1205,24 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Cleric",
       "text": "Protection from Humans\nPay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card.\n{B}{B}, Discard a card: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    },
+    {
+      "name": "Edgar Markov",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Knight Vampire",
+      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
     }
   ]
 }
