@@ -22,19 +22,9 @@ Descent into Avernus
 Dragonskull Summit
 Everlasting Torment
 Exquisite Blood
-Feed the Swarm
-Fellwar Stone
-Fiery Confluence
-Fire Covenant
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
+Feed the Swarm
 Kederekt Parasite
 Lightning Greaves
 Luxury Suite
@@ -85,3 +75,13 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
+Fellwar Stone
+Fiery Confluence
+Fire Covenant
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion

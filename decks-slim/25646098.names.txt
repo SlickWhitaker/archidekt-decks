@@ -28,6 +28,11 @@ Dimension X Pizzasaur
 Donatello, the Brains
 Doubling Season
 Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -61,11 +66,6 @@ Raphael, the Muscle
 Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
-Shellshock
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
@@ -86,8 +86,8 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
+Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden

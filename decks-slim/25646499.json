@@ -811,6 +811,20 @@
       "text": "Exile target creature. Its controller gains life equal to its power."
     },
     {
+      "name": "Selfless Squire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Human Soldier",
+      "text": "Flash\nWhen this creature enters, prevent all damage that would be dealt to you this turn.\nWhenever damage that would be dealt to you is prevented, put that many +1/+1 counters on this creature."
+    },
+    {
       "name": "Talisman of Conviction",
       "quantity": 1,
       "board": "main",
@@ -1040,20 +1054,6 @@
       "manaValue": 5,
       "type": "Creature — Human Warrior",
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
-    },
-    {
-      "name": "Selfless Squire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Human Soldier",
-      "text": "Flash\nWhen this creature enters, prevent all damage that would be dealt to you this turn.\nWhenever damage that would be dealt to you is prevented, put that many +1/+1 counters on this creature."
     },
     {
       "name": "Shared Animosity",

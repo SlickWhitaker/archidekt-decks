@@ -57,6 +57,7 @@ Sacred Foundry
 Secluded Courtyard
 Supreme Verdict
 Swords to Plowshares
+Selfless Squire
 Talisman of Conviction
 Talisman of Progress
 Taunt from the Rampart
@@ -75,7 +76,6 @@ Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
-Selfless Squire
 Shared Animosity
 Skullclamp
 Sol Ring

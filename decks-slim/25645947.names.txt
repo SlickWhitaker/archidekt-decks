@@ -46,13 +46,16 @@ Marsh Flats
 Minas Tirith
 Mondrak, Glory Dominus
 Mountain
-Olivia, Crimson Bride
 Necropotence
+Nomad Outpost
+Ocelot Pride
+Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
 Patriarch's Bidding
 Phyrexian Altar
 Plains
+Stromkirk Captain
 Razaketh, the Foulblooded
 Reconnaissance
 Roaming Throne
@@ -66,7 +69,7 @@ Skullclamp
 Sol Ring
 Sorin, Imperious Bloodlord
 Spectator Seating
-Stromkirk Captain
+Edgar Markov
 Swamp
 Swords to Plowshares
 Talisman of Hierarchy
@@ -86,6 +89,3 @@ Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
-Edgar Markov
-Nomad Outpost
-Ocelot Pride
