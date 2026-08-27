@@ -30,8 +30,8 @@ Venser, Shaper Savant
 Peregrine Drake
 The Unagi of Kyoshi Island
 Kinnan, Bonder Prodigy
-Crop Rotation
 Island
+Crop Rotation
 Esper Sentinel
 Eladamri's Call
 Mindbreak Trap
@@ -45,11 +45,11 @@ Sowing Mycospawn
 Windswept Heath
 Arcane Signet
 Enlightened Tutor
+Arid Mesa
 Silence
 Eldritch Evolution
 Cyclonic Rift
 Deadeye Navigator
-Arid Mesa
 Elvish Mystic
 Scalding Tarn
 Rhystic Study
@@ -71,7 +71,6 @@ Spellseeker
 Misty Rainforest
 Mana Vault
 Palinchron
-The One Ring
 Marsh Flats
 Ancestral Statue
 Mental Misstep
@@ -79,10 +78,21 @@ Minamo, School at Water's Edge
 Endurance
 Wild Growth
 Delighted Halfling
+Ranger-Captain of Eos
 Rejuvenating Springs
 Intruder Alarm
-Ranger-Captain of Eos
-Phantasmal Image
-Helga, Skittish Seer
 Verdant Catacombs
+Phantasmal Image
 Chakram Retriever
+Helga, Skittish Seer
+Blinking Spirit
+Garruk's Uprising
+Beast Whisperer
+Inga and Esika
+Great Oak Guardian
+Kiora, Behemoth Beckoner
+Kiora's Follower
+Saryth, the Viper's Fang
+Foundation Breaker
+Forest
+Mystic Snake

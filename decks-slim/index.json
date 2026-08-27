@@ -522,18 +522,18 @@
         "White"
       ],
       "counts": {
-        "main": 88,
+        "main": 99,
         "commander": 1,
         "maybeboard": 0,
         "sideboard": 0,
-        "total": 89
+        "total": 100
       },
       "namesFile": "25800025.names.txt",
       "cardsFile": "25800025.cards.jsonl",
       "metaFile": "25800025.meta.json",
-      "fullBytes": 270849,
-      "analysisBytes": 27848,
-      "reductionPercent": 89.7
+      "fullBytes": 300711,
+      "analysisBytes": 30742,
+      "reductionPercent": 89.8
     }
   ]
 }

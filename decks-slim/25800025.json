@@ -11,11 +11,11 @@
     "White"
   ],
   "counts": {
-    "main": 88,
+    "main": 99,
     "commander": 1,
     "maybeboard": 0,
     "sideboard": 0,
-    "total": 89
+    "total": 100
   },
   "cards": [
     {
@@ -448,6 +448,18 @@
       "text": "Whenever you tap a nonland permanent for mana, add one mana of any type that permanent produced.\n{5}{G}{U}: Look at the top five cards of your library. You may put a non-Human creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order."
     },
     {
+      "name": "Island",
+      "quantity": 3,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Island",
+      "text": "({T}: Add {U}.)"
+    },
+    {
       "name": "Crop Rotation",
       "quantity": 1,
       "board": "main",
@@ -460,18 +472,6 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for a land card, put that card onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Island",
-      "quantity": 2,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Island",
-      "text": "({T}: Add {U}.)"
     },
     {
       "name": "Esper Sentinel",
@@ -641,6 +641,16 @@
       "text": "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
     },
     {
+      "name": "Arid Mesa",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
+    },
+    {
       "name": "Silence",
       "quantity": 1,
       "board": "main",
@@ -695,16 +705,6 @@
       "manaValue": 6,
       "type": "Creature — Spirit",
       "text": "Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)\nAs long as Deadeye Navigator is paired with another creature, each of those creatures has \"{1}{U}: Exile this creature, then return it to the battlefield under your control.\""
-    },
-    {
-      "name": "Arid Mesa",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
     },
     {
       "name": "Elvish Mystic",
@@ -975,16 +975,6 @@
       "text": "Flying\nWhen this creature enters, untap up to seven lands.\n{2}{U}{U}: Return this creature to its owner's hand."
     },
     {
-      "name": "The One Ring",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Legendary Artifact",
-      "text": "Indestructible\nWhen The One Ring enters, if you cast it, you gain protection from everything until your next turn.\nAt the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.\n{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring."
-    },
-    {
       "name": "Marsh Flats",
       "quantity": 1,
       "board": "main",
@@ -1073,6 +1063,20 @@
       "text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a legendary spell, and that spell can't be countered."
     },
     {
+      "name": "Ranger-Captain of Eos",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Soldier Ranger",
+      "text": "When this creature enters, you may search your library for a creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle.\nSacrifice this creature: Your opponents can't cast noncreature spells this turn."
+    },
+    {
       "name": "Rejuvenating Springs",
       "quantity": 1,
       "board": "main",
@@ -1100,18 +1104,14 @@
       "text": "Creatures don't untap during their controllers' untap steps.\nWhenever a creature enters, untap all creatures."
     },
     {
-      "name": "Ranger-Captain of Eos",
+      "name": "Verdant Catacombs",
       "quantity": 1,
       "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Soldier Ranger",
-      "text": "When this creature enters, you may search your library for a creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle.\nSacrifice this creature: Your opponents can't cast noncreature spells this turn."
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
     },
     {
       "name": "Phantasmal Image",
@@ -1126,6 +1126,20 @@
       "manaValue": 2,
       "type": "Creature — Illusion",
       "text": "You may have this creature enter as a copy of any creature on the battlefield, except it's an Illusion in addition to its other types and it has \"When this creature becomes the target of a spell or ability, sacrifice it.\""
+    },
+    {
+      "name": "Chakram Retriever",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Elemental Dog",
+      "text": "Partner with Chakram Slinger (When this creature enters, target player may put Chakram Slinger into their hand from their library, then shuffle.)\nWhenever you cast a spell during your turn, untap target creature."
     },
     {
       "name": "Helga, Skittish Seer",
@@ -1146,28 +1160,164 @@
       "text": "Whenever you cast a creature spell with mana value 4 or greater, you draw a card, gain 1 life, and put a +1/+1 counter on Helga.\n{T}: Add X mana of any one color, where X is Helga's power. Spend this mana only to cast creature spells with mana value 4 or greater or creature spells with {X} in their mana costs."
     },
     {
-      "name": "Verdant Catacombs",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Chakram Retriever",
+      "name": "Blinking Spirit",
       "quantity": 1,
       "board": "main",
       "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Spirit",
+      "text": "{0}: Return this creature to its owner's hand."
+    },
+    {
+      "name": "Garruk's Uprising",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card."
+    },
+    {
+      "name": "Beast Whisperer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Elf Druid",
+      "text": "Whenever you cast a creature spell, draw a card."
+    },
+    {
+      "name": "Inga and Esika",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
         "Blue"
       ],
       "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human God",
+      "text": "Creatures you control have vigilance and \"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.\"\nWhenever you cast a creature spell, if three or more mana from creatures was spent to cast it, draw a card."
+    },
+    {
+      "name": "Great Oak Guardian",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Treefolk",
+      "text": "Flash (You may cast this spell any time you could cast an instant.)\nReach\nWhen this creature enters, creatures target player controls get +2/+2 until end of turn. Untap them."
+    },
+    {
+      "name": "Kiora, Behemoth Beckoner",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
         "Blue"
       ],
-      "manaValue": 5,
-      "type": "Creature — Elemental Dog",
-      "text": "Partner with Chakram Slinger (When this creature enters, target player may put Chakram Slinger into their hand from their library, then shuffle.)\nWhenever you cast a spell during your turn, untap target creature."
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Planeswalker — Kiora",
+      "text": "Whenever a creature you control with power 4 or greater enters, draw a card.\n−1: Untap target permanent."
+    },
+    {
+      "name": "Kiora's Follower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Merfolk",
+      "text": "{T}: Untap another target permanent."
+    },
+    {
+      "name": "Saryth, the Viper's Fang",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Warlock",
+      "text": "Other tapped creatures you control have deathtouch.\nOther untapped creatures you control have hexproof.\n{1}, {T}: Untap another target creature or land you control."
+    },
+    {
+      "name": "Foundation Breaker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Elemental",
+      "text": "When this creature enters, you may destroy target artifact or enchantment.\nEvoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)"
+    },
+    {
+      "name": "Forest",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
+    },
+    {
+      "name": "Mystic Snake",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Snake",
+      "text": "Flash\nWhen this creature enters, counter target spell."
     }
   ]
 }
