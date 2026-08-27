@@ -34,24 +34,6 @@ Kiora's Follower
 Kopala, Warden of Waves
 Kumena, Tyrant of Orazca
 Mana Confluence
-Summon: Leviathan
-Svyelun of Sea and Sky
-Swan Song
-Swiftfoot Boots
-Sword of Fire and Ice
-The Ozolith
-Thieving Skydiver
-Tishana's Tidebinder
-Triumph of the Hordes
-Tropical Island
-Unclaimed Territory
-Vineglimmer Snarl
-Vodalian Hexcatcher
-Wanderwine Prophets
-Wilderness Reclamation
-Wooded Foothills
-Zegana, Utopian Speaker
-Hakbal of the Surging Soul
 Master of the Pearl Trident
 Merfolk Sovereign
 Merrow Commerce
@@ -80,6 +62,24 @@ Simic Growth Chamber
 Singer of Swift Rivers
 Sodden Verdure
 Sol Ring
+Summon: Leviathan
+Svyelun of Sea and Sky
+Swan Song
+Swiftfoot Boots
+Sword of Fire and Ice
+The Ozolith
+Thieving Skydiver
+Tishana's Tidebinder
+Triumph of the Hordes
+Tropical Island
+Unclaimed Territory
+Vineglimmer Snarl
+Vodalian Hexcatcher
+Wanderwine Prophets
+Wilderness Reclamation
+Wooded Foothills
+Zegana, Utopian Speaker
+Hakbal of the Surging Soul
 Spell Pierce
 Starting Town
 Stubborn Denial
