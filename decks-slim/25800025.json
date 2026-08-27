@@ -421,7 +421,7 @@
     },
     {
       "name": "Island",
-      "quantity": 3,
+      "quantity": 4,
       "board": "main",
       "colors": [],
       "colorIdentity": [
@@ -737,16 +737,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}, Pay 1 life: Add one mana of any color."
-    },
-    {
-      "name": "Gemstone Caverns",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Legendary Land",
-      "text": "If this card is in your opening hand and you're not the starting player, you may begin the game with Gemstone Caverns on the battlefield with a luck counter on it. If you do, exile a card from your hand.\n{T}: Add {C}. If Gemstone Caverns has a luck counter on it, instead add one mana of any color."
     },
     {
       "name": "Faerie Mastermind",
@@ -1192,22 +1182,6 @@
       "text": "Flash (You may cast this spell any time you could cast an instant.)\nReach\nWhen this creature enters, creatures target player controls get +2/+2 until end of turn. Untap them."
     },
     {
-      "name": "Kiora, Behemoth Beckoner",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Planeswalker — Kiora",
-      "text": "Whenever a creature you control with power 4 or greater enters, draw a card.\n−1: Untap target permanent."
-    },
-    {
       "name": "Kiora's Follower",
       "quantity": 1,
       "board": "main",
@@ -1306,6 +1280,22 @@
       "manaValue": 2,
       "type": "Creature — Faerie",
       "text": "Flying\nWhen this creature enters, untap up to two lands.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+    },
+    {
+      "name": "Faeburrow Elder",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Druid Treefolk",
+      "text": "Vigilance\nThis creature gets +1/+1 for each color among permanents you control.\n{T}: For each color among permanents you control, add one mana of that color."
     }
   ]
 }

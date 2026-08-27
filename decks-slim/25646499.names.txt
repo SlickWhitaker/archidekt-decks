@@ -62,23 +62,23 @@ Sol Ring
 Steam Vents
 Sulfur Falls
 Sunset Revelry
-Verge Rangers
 Supreme Verdict
 Swords to Plowshares
-Village Bell-Ringer
 Talisman of Conviction
 Talisman of Progress
 Taunt from the Rampart
 Terramorphic Expanse
 The Mountain-king's Return
+Verge Rangers
+Village Bell-Ringer
+Visions of Glory
+Wayfarer's Bauble
+Weathered Wayfarer
+Windbrisk Heights
+Zealous Conscripts
 Théoden, King of Rohan
 Thought Vessel
 Throne of the High City
 Tranquil Cove
 Unbreakable Formation
 Vanquisher's Banner
-Visions of Glory
-Wayfarer's Bauble
-Weathered Wayfarer
-Windbrisk Heights
-Zealous Conscripts

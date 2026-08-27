@@ -25,6 +25,7 @@ Fractured Identity
 Frostboil Snarl
 Furycalm Snarl
 Gallifrey Falls // No More
+Glacial Fortress
 Grasp of Fate
 Idris, Soul of the TARDIS
 Inspiring Refrain
@@ -94,4 +95,3 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Glacial Fortress
