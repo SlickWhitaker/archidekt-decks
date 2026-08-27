@@ -41,6 +41,20 @@
       "text": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control."
     },
     {
+      "name": "Goblin Bombardment",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "Sacrifice a creature: This enchantment deals 1 damage to any target."
+    },
+    {
       "name": "Aggravated Assault",
       "quantity": 1,
       "board": "main",
@@ -291,20 +305,6 @@
       "text": "If this card is in your opening hand and you're not the starting player, you may begin the game with Gemstone Caverns on the battlefield with a luck counter on it. If you do, exile a card from your hand.\n{T}: Add {C}. If Gemstone Caverns has a luck counter on it, instead add one mana of any color."
     },
     {
-      "name": "Goblin Bombardment",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "Sacrifice a creature: This enchantment deals 1 damage to any target."
-    },
-    {
       "name": "Goblin Chieftain",
       "quantity": 1,
       "board": "main",
@@ -445,6 +445,20 @@
       "text": "Goblin spells you cast cost {1} less to cast.\nGoblins you control have haste."
     },
     {
+      "name": "Heat Shimmer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Create a token that's a copy of target creature, except it has haste and \"At the beginning of the end step, exile this token.\""
+    },
+    {
       "name": "Goro-Goro, Disciple of Ryusei",
       "quantity": 1,
       "board": "main",
@@ -507,20 +521,6 @@
       "manaValue": 3,
       "type": "Legendary Artifact",
       "text": "Red creature spells you cast cost {1} less to cast.\nWhenever you cast a creature spell, you may discard a card. If you do, draw a card."
-    },
-    {
-      "name": "Heat Shimmer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Create a token that's a copy of target creature, except it has haste and \"At the beginning of the end step, exile this token.\""
     },
     {
       "name": "Hobgoblin Bandit Lord",

@@ -68,7 +68,16 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
 Selvala, Heart of the Wilds
+Yavimaya, Cradle of Growth
+Zealous Conscripts
 Shifting Woodland
 Skullclamp
 Sol Ring
@@ -76,19 +85,10 @@ Spire Garden
 Stomping Ground
 Strip Mine
 Sylvan Library
-Veil of Summer
 Terror of the Peaks
 The Great Henge
 The One Ring
 The Ozolith
 Three Visits
-Verdant Catacombs
 Tooth and Nail
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
 Vandalblast
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts

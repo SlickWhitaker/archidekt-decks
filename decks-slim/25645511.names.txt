@@ -18,6 +18,10 @@ Chromatic Lantern
 Cinder Barrens
 Akul the Unrepentant
 Command Tower
+Deadly Dispute
+Descent into Avernus
+Dragonskull Summit
+Dread Return
 Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
@@ -42,13 +46,6 @@ Lagomos, Hand of Hatred
 Mahadi, Emporium Master
 Mind Stone
 Morbid Opportunist
-Mountain
-Myriad Landscape
-Night's Whisper
-Orca, Siege Demon
-Overseer of the Damned
-Pathrazer of Ulamog
-Phyrexian Triniform
 Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
@@ -75,12 +72,15 @@ The Balrog of Moria
 The Balrog, Durin's Bane
 Toxic Deluge
 Tramway Station
+Mountain
+Myriad Landscape
 Unexpected Windfall
 Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
-Deadly Dispute
-Descent into Avernus
-Dragonskull Summit
-Dread Return
+Night's Whisper
+Orca, Siege Demon
+Overseer of the Damned
+Pathrazer of Ulamog
+Phyrexian Triniform

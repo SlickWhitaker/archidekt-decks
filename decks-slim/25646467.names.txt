@@ -1,5 +1,6 @@
 Ashnod's Altar
 Krenko, Mob Boss
+Goblin Bombardment
 Aggravated Assault
 Anger
 Battle Cry Goblin
@@ -19,7 +20,6 @@ Echoing Assault
 Fury
 Gamble
 Gemstone Caverns
-Goblin Bombardment
 Goblin Chieftain
 Goblin Cratermaker
 Goblin Engineer
@@ -30,12 +30,12 @@ Goblin Ringleader
 Goblin Sharpshooter
 Goblin Trashmaster
 Goblin Warchief
+Heat Shimmer
 Goro-Goro, Disciple of Ryusei
 Great Train Heist
 Grenzo, Havoc Raiser
 Hanweir Battlements
 Hazoret's Monument
-Heat Shimmer
 Hobgoblin Bandit Lord
 Illusionist's Bracers
 Impact Tremors

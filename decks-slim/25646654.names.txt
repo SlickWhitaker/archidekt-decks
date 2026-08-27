@@ -35,12 +35,6 @@ Izzet Signet
 Jacked Rabbit
 Jubilant Skybonder
 Kindred Discovery
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
 Ledger Shredder
 Mabel, Heir to Cragflame
 Martial Coup
@@ -56,7 +50,11 @@ Path to Exile
 Plains
 Plumecreed Escort
 Pollywog Prodigy
+Warren Warleader
+Watcher of the Spheres
 Rally the Ranks
+Zinnia, Valley's Voice
+Fiend Hunter
 Rapid Augmenter
 Rapid Hybridization
 Reconnaissance Mission
@@ -71,6 +69,8 @@ Shared Animosity
 Shivan Reef
 Skullclamp
 Skyclave Apparition
+Soulcatcher
+Academy Manufactor
 Skycloud Expanse
 Sol Ring
 Soulcatchers' Aerie
