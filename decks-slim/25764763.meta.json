@@ -1,0 +1,18 @@
+{
+  "id": 25764763,
+  "name": "Angels: They're Just Like Us, but Cooler and with Wings - Secret Lair",
+  "format": 3,
+  "commander": [
+    "Bruna, the Fading Light"
+  ],
+  "colorIdentity": [
+    "White"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

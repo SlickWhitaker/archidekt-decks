@@ -56,20 +56,11 @@ Mountain
 Natural Order
 Nature's Claim
 Nature's Lore
-Veil of Summer
 Nykthos, Shrine to Nyx
 Old Gnawbone
 Orcish Lumberjack
-Verdant Catacombs
 Prismatic Vista
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
 Professional Face-Breaker
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Railway Brawler
 Rhythm of the Wild
 Rishkar's Expertise
@@ -92,3 +83,12 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts

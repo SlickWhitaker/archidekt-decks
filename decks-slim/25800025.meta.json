@@ -1,0 +1,20 @@
+{
+  "id": 25800025,
+  "name": "Helga, Skittish Seer",
+  "format": 3,
+  "commander": [
+    "Helga, Skittish Seer"
+  ],
+  "colorIdentity": [
+    "Blue",
+    "Green",
+    "White"
+  ],
+  "counts": {
+    "main": 88,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 89
+  }
+}
