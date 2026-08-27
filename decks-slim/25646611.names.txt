@@ -47,12 +47,18 @@ Obosh, the Preypiercer
 Opposition Agent
 Orcish Bowmasters
 Painful Quandary
+Phyrexian Arena
+Polluted Bonds
+Prismatic Vista
 Razorkin Needlehead
+Rakdos Charm
 Repercussion
 Roiling Vortex
 Shadowblood Ridge
+Rampaging Ferocidon
 Sheoldred, the Apocalypse
 Sheoldred's Edict
+Takenuma, Abandoned Mire
 Shivan Gorge
 Smoldering Marsh
 Sol Ring
@@ -65,7 +71,6 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
-Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
 The Lord of Pain
@@ -80,8 +85,3 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Zulaport Cutthroat
-Phyrexian Arena
-Polluted Bonds
-Prismatic Vista
-Rakdos Charm
-Rampaging Ferocidon

@@ -62,6 +62,9 @@ Rundvelt Hordemaster
 Shared Animosity
 Skirk Fire Marshal
 Skirk Prospector
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 Skullclamp
 Sol Ring
 Squee, Dubious Monarch
@@ -71,6 +74,3 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki

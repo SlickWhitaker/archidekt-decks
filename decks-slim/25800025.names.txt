@@ -17,8 +17,8 @@ Hallowed Fountain
 Otawara, Soaring City
 Temple Garden
 Bountiful Promenade
-Sea of Clouds
 Phyrexian Metamorph
+Sea of Clouds
 Chulane, Teller of Tales
 Polluted Delta
 Hullbreaker Horror
@@ -65,7 +65,6 @@ Bloom Tender
 Chord of Calling
 Spellseeker
 Misty Rainforest
-Mana Vault
 Palinchron
 Marsh Flats
 Ancestral Statue
@@ -94,3 +93,4 @@ Mystic Snake
 Temur Sabertooth
 Cloud of Faeries
 Faeburrow Elder
+Somberwald Sage

@@ -439,128 +439,6 @@
       "text": "Delirium — Choose one. If there are four or more card types among cards in your graveyard, choose one or more instead.\n• Creatures your opponents control get -1/-1 until end of turn.\n• Each opponent discards two cards.\n• Each opponent loses 3 life and you gain 3 life."
     },
     {
-      "name": "Liliana of the Veil",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Planeswalker — Liliana",
-      "text": "+1: Each player discards a card.\n−2: Target player sacrifices a creature.\n−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice."
-    },
-    {
-      "name": "Liliana's Caress",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "Whenever an opponent discards a card, that player loses 2 life."
-    },
-    {
-      "name": "Liliana's Triumph",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Each opponent sacrifices a creature of their choice. If you control a Liliana planeswalker, each opponent also discards a card."
-    },
-    {
-      "name": "Megrim",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Whenever an opponent discards a card, this enchantment deals 2 damage to that player."
-    },
-    {
-      "name": "Mind Rake",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Target player discards two cards.\nOverload {1}{B} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
-    },
-    {
-      "name": "Mind Stone",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card."
-    },
-    {
-      "name": "Mindlash Sliver",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Sliver",
-      "text": "All Slivers have \"{1}, Sacrifice this permanent: Each player discards a card.\""
-    },
-    {
-      "name": "Necrogen Mists",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "At the beginning of each player's upkeep, that player discards a card."
-    },
-    {
-      "name": "Necrogoyf",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Lhurgoyf",
-      "text": "Necrogoyf's power is equal to the number of creature cards in all graveyards.\nAt the beginning of each player's upkeep, that player discards a card.\nMadness {1}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-    },
-    {
       "name": "Nezumi Informant",
       "quantity": 1,
       "board": "main",
@@ -981,6 +859,128 @@
       "manaValue": 2,
       "type": "Enchantment",
       "text": "Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.\nWhenever an opponent discards a land card, add {B}{B}.\nWhenever an opponent discards a noncreature, nonland card, draw a card."
+    },
+    {
+      "name": "Liliana of the Veil",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Planeswalker — Liliana",
+      "text": "+1: Each player discards a card.\n−2: Target player sacrifices a creature.\n−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice."
+    },
+    {
+      "name": "Liliana's Caress",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "Whenever an opponent discards a card, that player loses 2 life."
+    },
+    {
+      "name": "Liliana's Triumph",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Each opponent sacrifices a creature of their choice. If you control a Liliana planeswalker, each opponent also discards a card."
+    },
+    {
+      "name": "Megrim",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever an opponent discards a card, this enchantment deals 2 damage to that player."
+    },
+    {
+      "name": "Mind Rake",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Target player discards two cards.\nOverload {1}{B} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
+    },
+    {
+      "name": "Mind Stone",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card."
+    },
+    {
+      "name": "Mindlash Sliver",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Sliver",
+      "text": "All Slivers have \"{1}, Sacrifice this permanent: Each player discards a card.\""
+    },
+    {
+      "name": "Necrogen Mists",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "At the beginning of each player's upkeep, that player discards a card."
+    },
+    {
+      "name": "Necrogoyf",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Lhurgoyf",
+      "text": "Necrogoyf's power is equal to the number of creature cards in all graveyards.\nAt the beginning of each player's upkeep, that player discards a card.\nMadness {1}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
     }
   ]
 }
