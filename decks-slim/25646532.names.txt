@@ -30,6 +30,15 @@ Hecteyes
 Infernal Grasp
 Languish
 Let's Play a Game
+Liliana of the Veil
+Liliana's Caress
+Liliana's Triumph
+Megrim
+Mind Rake
+Mind Stone
+Mindlash Sliver
+Necrogen Mists
+Necrogoyf
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
 Oppression
@@ -47,6 +56,9 @@ Sign in Blood
 Smallpox
 Sol Ring
 Springleaf Drum
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not
 Swamp
 Syphon Mind
 The Raven Man
@@ -59,15 +71,3 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
-Liliana of the Veil
-Liliana's Caress
-Liliana's Triumph
-Megrim
-Mind Rake
-Mind Stone
-Mindlash Sliver
-Necrogen Mists
-Necrogoyf

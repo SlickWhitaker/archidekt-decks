@@ -29,11 +29,6 @@ Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
 Glacial Fortress
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
 Impact Tremors
 Island
 Izzet Signet
@@ -47,7 +42,6 @@ Migratory Route
 Mind Stone
 Mountain
 Murmuration
-Academy Manufactor
 Mystic Monastery
 Nesting Dovehawk
 Ornithopter of Paradise
@@ -90,3 +84,9 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor

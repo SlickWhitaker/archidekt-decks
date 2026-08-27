@@ -43,15 +43,6 @@ Hardened Scales
 Hellkite Tyrant
 Heroic Intervention
 Jeska's Will
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
@@ -92,3 +83,12 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts

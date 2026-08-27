@@ -1,3 +1,6 @@
+Impact Tremors
+Goblin Bombardment
+Molten Echoes
 Aether Vial
 Anguished Unmaking
 Anointed Procession
@@ -27,7 +30,6 @@ Delney, Streetwise Lookout
 Demonic Tutor
 Dragonskull Summit
 Drana and Linvala
-Drana, Liberator of Malakir
 Elenda, the Dusk Rose
 Esper Sentinel
 Exquisite Blood
@@ -35,28 +37,38 @@ Flawless Maneuver
 Generous Gift
 Godless Shrine
 Herald's Horn
-Indulgent Aristocrat
 Isolated Chapel
 Kalitas, Traitor of Ghet
 Legion Lieutenant
+Legion's Landing // Adanto, the First Fort
+Living Death
+Luxury Suite
+Marsh Flats
+Minas Tirith
+Mondrak, Glory Dominus
+Mountain
+Necropotence
+Nomad Outpost
+Ocelot Pride
 Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
 Patriarch's Bidding
 Phyrexian Altar
-Legion's Landing // Adanto, the First Fort
-Living Death
-Luxury Suite
 Plains
-Marsh Flats
-Minas Tirith
-Mondrak, Glory Dominus
-Mountain
 Razaketh, the Foulblooded
-Necropotence
-Nomad Outpost
-Ocelot Pride
 Reconnaissance
+Roaming Throne
+Sacred Foundry
+Sanctum Seeker
+Sanguine Bond
+Savai Triome
+Secluded Courtyard
+Shared Animosity
+Skullclamp
+Sol Ring
+Sorin, Imperious Bloodlord
+Spectator Seating
 Stromkirk Captain
 Swamp
 Swords to Plowshares
@@ -65,7 +77,6 @@ Talisman of Indulgence
 Teferi's Protection
 Toxic Deluge
 Trouble in Pairs
-Twilight Prophet
 Unclaimed Territory
 Urborg, Tomb of Yawgmoth
 Vampiric Tutor
@@ -78,14 +89,3 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Roaming Throne
-Sacred Foundry
-Sanctum Seeker
-Sanguine Bond
-Savai Triome
-Secluded Courtyard
-Shared Animosity
-Skullclamp
-Sol Ring
-Sorin, Imperious Bloodlord
-Spectator Seating
