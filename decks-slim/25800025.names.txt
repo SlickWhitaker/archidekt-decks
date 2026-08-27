@@ -30,8 +30,8 @@ Venser, Shaper Savant
 Peregrine Drake
 The Unagi of Kyoshi Island
 Kinnan, Bonder Prodigy
-Island
 Crop Rotation
+Island
 Esper Sentinel
 Eladamri's Call
 Mindbreak Trap
@@ -44,24 +44,24 @@ Elvish Spirit Guide
 Sowing Mycospawn
 Windswept Heath
 Arcane Signet
-Arid Mesa
 Enlightened Tutor
 Silence
 Eldritch Evolution
 Cyclonic Rift
 Deadeye Navigator
+Arid Mesa
 Elvish Mystic
 Scalding Tarn
 Rhystic Study
+Worldly Tutor
 Walking Ballista
 Mana Confluence
 Gemstone Caverns
-Worldly Tutor
+Faerie Mastermind
 Swan Song
 Boseiju, Who Endures
 Fierce Guardianship
 Fyndhorn Elves
-Faerie Mastermind
 Mystic Remora
 Birds of Paradise
 Mockingbird
@@ -83,6 +83,6 @@ Rejuvenating Springs
 Intruder Alarm
 Ranger-Captain of Eos
 Phantasmal Image
+Helga, Skittish Seer
 Verdant Catacombs
 Chakram Retriever
-Helga, Skittish Seer
