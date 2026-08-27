@@ -49,6 +49,7 @@ Ponder
 Pongify
 Raise the Palisade
 Rapid Hybridization
+Realmwalker
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -66,8 +67,6 @@ Wanderwine Prophets
 Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
-Hakbal of the Surging Soul
-Realmwalker
 Reflections of Littjara
 Rejuvenating Springs
 Reliquary Tower
@@ -80,6 +79,7 @@ Simic Growth Chamber
 Singer of Swift Rivers
 Sodden Verdure
 Sol Ring
+Hakbal of the Surging Soul
 Spell Pierce
 Starting Town
 Stubborn Denial

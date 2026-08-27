@@ -29,6 +29,7 @@ Glacial Fortress
 Grasp of Fate
 Idris, Soul of the TARDIS
 Inspiring Refrain
+Irrigated Farmland
 Ominous Cemetery
 Out of Time
 Path of Ancestry
@@ -82,7 +83,6 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Irrigated Farmland
 Island
 Island
 Jenny, Generated Anomaly

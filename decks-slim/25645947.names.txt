@@ -37,9 +37,11 @@ Godless Shrine
 Herald's Horn
 Indulgent Aristocrat
 Isolated Chapel
-Legion Lieutenant
 Kalitas, Traitor of Ghet
+Legion Lieutenant
+Olivia, Crimson Bride
 Legion's Landing // Adanto, the First Fort
+Path of Ancestry
 Living Death
 Luxury Suite
 Marsh Flats
@@ -49,11 +51,6 @@ Mountain
 Necropotence
 Nomad Outpost
 Ocelot Pride
-Olivia, Crimson Bride
-Path of Ancestry
-Path to Exile
-Patriarch's Bidding
-Phyrexian Altar
 Plains
 Razaketh, the Foulblooded
 Reconnaissance
@@ -89,3 +86,6 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
+Path to Exile
+Patriarch's Bidding
+Phyrexian Altar
