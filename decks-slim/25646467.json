@@ -9,13 +9,23 @@
     "Red"
   ],
   "counts": {
-    "main": 99,
+    "main": 100,
     "commander": 1,
     "maybeboard": 0,
     "sideboard": 0,
-    "total": 100
+    "total": 101
   },
   "cards": [
+    {
+      "name": "Ashnod's Altar",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "Sacrifice a creature: Add {C}{C}."
+    },
     {
       "name": "Krenko, Mob Boss",
       "quantity": 1,

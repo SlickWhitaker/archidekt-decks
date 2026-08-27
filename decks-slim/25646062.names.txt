@@ -46,6 +46,7 @@ Namor the Sub-Mariner
 Nicanzil, Current Conductor
 Path of Ancestry
 Ponder
+Pongify
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -64,7 +65,6 @@ Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
 Hakbal of the Surging Soul
-Pongify
 Raise the Palisade
 Rapid Hybridization
 Realmwalker

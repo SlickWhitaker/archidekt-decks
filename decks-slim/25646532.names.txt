@@ -44,6 +44,9 @@ Nezumi Shortfang // Stabwhisker the Odious
 Oppression
 Painful Quandary
 Phyrexian Reclamation
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not
 Psychosis Crawler
 Quest for the Nihil Stone
 Rankle, Master of Pranks
@@ -56,9 +59,6 @@ Sign in Blood
 Smallpox
 Sol Ring
 Springleaf Drum
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
 Swamp
 Syphon Mind
 The Raven Man

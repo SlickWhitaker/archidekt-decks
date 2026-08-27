@@ -97,9 +97,9 @@
       "namesFile": "25645732.names.txt",
       "cardsFile": "25645732.cards.jsonl",
       "metaFile": "25645732.meta.json",
-      "fullBytes": 304470,
-      "analysisBytes": 32735,
-      "reductionPercent": 89.2
+      "fullBytes": 304543,
+      "analysisBytes": 32697,
+      "reductionPercent": 89.3
     },
     {
       "id": 25645835,
@@ -150,9 +150,9 @@
       "namesFile": "25645947.names.txt",
       "cardsFile": "25645947.cards.jsonl",
       "metaFile": "25645947.meta.json",
-      "fullBytes": 279374,
-      "analysisBytes": 28387,
-      "reductionPercent": 89.8
+      "fullBytes": 279415,
+      "analysisBytes": 28282,
+      "reductionPercent": 89.9
     },
     {
       "id": 25645985,
@@ -320,18 +320,18 @@
         "Red"
       ],
       "counts": {
-        "main": 99,
+        "main": 100,
         "commander": 1,
         "maybeboard": 0,
         "sideboard": 0,
-        "total": 100
+        "total": 101
       },
       "namesFile": "25646467.names.txt",
       "cardsFile": "25646467.cards.jsonl",
       "metaFile": "25646467.meta.json",
-      "fullBytes": 238627,
-      "analysisBytes": 26432,
-      "reductionPercent": 88.9
+      "fullBytes": 241689,
+      "analysisBytes": 26608,
+      "reductionPercent": 89.0
     },
     {
       "id": 25646499,

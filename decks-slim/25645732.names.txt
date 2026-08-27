@@ -1,3 +1,6 @@
+Forge Anew
+Hammer of Nazahn
+Steelshaper's Gift
 Aerith, Last Ancient
 Arcane Signet
 Austere Command
@@ -17,7 +20,6 @@ Buster Sword
 Cait Sith, Fortune Teller
 Canopy Vista
 Capital City
-Champion's Helm
 Chaos Warp
 Cid, Freeflier Pilot
 Cinder Glade
@@ -39,7 +41,6 @@ Forest
 Fortified Village
 Furycalm Snarl
 Cloud, Ex-SOLDIER
-Path of Ancestry
 Gongaga, Reactor Town
 Hard-Won Jitte
 Hellkite Tyrant
@@ -54,6 +55,18 @@ Mountain
 Mountain
 Nature's Lore
 Nature's Will
+Path of Ancestry
+Path to Exile
+Plains
+Plains
+Plains
+Professional Face-Breaker
+Puresteel Paladin
+Radiant Grove
+Red XIII, Proud Warrior
+Ring of the Lucii
+Rogue's Passage
+Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
@@ -63,7 +76,6 @@ Sigarda's Aid
 Skullclamp
 Slayers' Stronghold
 Sol Ring
-SOLDIER Military Program
 Sphere Grid
 Spire of Industry
 Stoneforge Mystic
@@ -83,18 +95,6 @@ Ultimate Magic: Holy
 Unfinished Business
 Vandalblast
 Wood Elves
-World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
-Path to Exile
-Plains
-Plains
-Plains
-Professional Face-Breaker
-Puresteel Paladin
-Radiant Grove
-Red XIII, Proud Warrior
-Ring of the Lucii
-Rogue's Passage
-Rootbound Crag

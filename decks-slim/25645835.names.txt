@@ -65,13 +65,6 @@ Sonic Screwdriver
 Spectator Seating
 Star Whale
 Storm-Kiln Artist
-Time Beetle
-Training Center
-Trenzalore Clocktower
-War Room
-Wibbly-wobbly, Timey-wimey
-Wilfred Mott
-The Tenth Doctor
 Stormcarved Coast
 Strionic Resonator
 Sunbaked Canyon
@@ -95,3 +88,10 @@ The Parting of the Ways
 The War Doctor
 The Wedding of River Song
 Thespian's Stage
+Time Beetle
+Training Center
+Trenzalore Clocktower
+War Room
+Wibbly-wobbly, Timey-wimey
+Wilfred Mott
+The Tenth Doctor

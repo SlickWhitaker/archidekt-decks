@@ -61,14 +61,14 @@
       "text": "As this enchantment enters, choose a creature type.\nWhenever a nontoken creature you control of the chosen type enters, create a token that's a copy of that creature. That token gains haste. Exile it at the beginning of the next end step."
     },
     {
-      "name": "Aether Vial",
+      "name": "Urza's Incubator",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
-      "manaValue": 1,
+      "manaValue": 3,
       "type": "Artifact",
-      "text": "At the beginning of your upkeep, you may put a charge counter on this artifact.\n{T}: You may put a creature card with mana value equal to the number of charge counters on this artifact from your hand onto the battlefield."
+      "text": "As this artifact enters, choose a creature type.\nCreature spells of the chosen type cost {2} less to cast."
     },
     {
       "name": "Anguished Unmaking",

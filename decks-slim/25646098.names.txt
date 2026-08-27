@@ -28,26 +28,35 @@ Dimension X Pizzasaur
 Donatello, the Brains
 Doubling Season
 Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
 Heroes in a Half Shell
 Heroic Intervention
 Hidden Hideout
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
+Ozolith, the Shattered Spire
+Parallel Lives
+Path of Ancestry
+Plains
+Plaza of Heroes
 Hinterland Harbor
+Raffine's Tower
 Island
 Jetmir's Garden
+Raphael, the Muscle
 Kami of Whispered Hopes
 Kindred Dominance
 Kodama's Reach
+Rat King, Pale Piper
 Lita, Little Orphan Amphibian
 Lotho, Corrupt Shirriff
 March of the Multitudes
+Reflecting Pool
 Michelangelo, Weirdness to 11
 Mikey & Leo, Chaos & Order
 Mirkwood Bats
@@ -56,21 +65,6 @@ Mondrak, Glory Dominus
 Mountain
 Ninja Pizza
 Ojer Taq, Deepest Foundation // Temple of Civilization
-Ozolith, the Shattered Spire
-Parallel Lives
-Path of Ancestry
-Plains
-Plaza of Heroes
-Raffine's Tower
-Raphael, the Muscle
-Rat King, Pale Piper
-Reflecting Pool
-Rocco, Street Chef
-Shellshock
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
@@ -91,3 +85,9 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
+Rocco, Street Chef
+Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden

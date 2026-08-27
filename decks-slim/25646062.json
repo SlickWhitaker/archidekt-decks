@@ -650,6 +650,20 @@
       "text": "Look at the top three cards of your library, then put them back in any order. You may shuffle.\nDraw a card."
     },
     {
+      "name": "Pongify",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Destroy target creature. It can't be regenerated. Its controller creates a 3/3 green Ape creature token."
+    },
+    {
       "name": "Summon: Leviathan",
       "quantity": 1,
       "board": "main",
@@ -882,20 +896,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Scout Merfolk",
       "text": "At the beginning of combat on your turn, each Merfolk creature you control explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the exploring creature, then put the card back or put it into your graveyard.)\nWhenever Hakbal attacks, you may put a land card from your hand onto the battlefield. If you don't, draw a card."
-    },
-    {
-      "name": "Pongify",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Destroy target creature. It can't be regenerated. Its controller creates a 3/3 green Ape creature token."
     },
     {
       "name": "Raise the Palisade",
