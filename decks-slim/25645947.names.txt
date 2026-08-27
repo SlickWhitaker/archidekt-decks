@@ -13,6 +13,9 @@ Bloodline Necromancer
 Bloodstained Mire
 Bloodthirsty Conqueror
 Bojuka Bog
+Boros Charm
+Captivating Vampire
+Caves of Koilos
 Champion of Dusk
 Charismatic Conqueror
 Chrome Mox
@@ -34,8 +37,8 @@ Godless Shrine
 Herald's Horn
 Indulgent Aristocrat
 Isolated Chapel
-Kalitas, Traitor of Ghet
 Legion Lieutenant
+Kalitas, Traitor of Ghet
 Legion's Landing // Adanto, the First Fort
 Living Death
 Luxury Suite
@@ -86,6 +89,3 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Boros Charm
-Captivating Vampire
-Caves of Koilos

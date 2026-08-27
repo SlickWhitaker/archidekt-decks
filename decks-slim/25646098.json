@@ -295,188 +295,6 @@
       "text": "If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on that creature instead."
     },
     {
-      "name": "Cathars' Crusade",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
-    },
-    {
-      "name": "Chromatic Lantern",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color."
-    },
-    {
-      "name": "Cinder Glade",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Mountain Forest",
-      "text": "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands."
-    },
-    {
-      "name": "City of Brass",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "Whenever this land becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
-    },
-    {
-      "name": "Command Tower",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add one mana of any color in your commander's color identity."
-    },
-    {
-      "name": "Cultivate",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
-    },
-    {
-      "name": "Dimension X Pizzasaur",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Creature Artifact — Mutant Food Alien",
-      "text": "When this creature enters, put two +1/+1 counters on target creature. When you do, destroy up to one target creature with mana value less than or equal to the number of counters among permanents you control.\n{2}, {T}, Sacrifice this creature: You gain 3 life and each opponent loses 3 life."
-    },
-    {
-      "name": "Donatello, the Brains",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Mutant Ninja Turtle",
-      "text": "If one or more tokens would be created under your control, those tokens plus a Mutagen token are created instead.\nPartner—Character select (You can have two commanders if both have this ability.)"
-    },
-    {
-      "name": "Doubling Season",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead."
-    },
-    {
-      "name": "Dragonskull Summit",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}."
-    },
-    {
-      "name": "Evolving Wilds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
-    },
-    {
-      "name": "Exotic Orchard",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
-    },
-    {
-      "name": "Fabled Passage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
-    },
-    {
-      "name": "Felidar Retreat",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Landfall — Whenever a land you control enters, choose one —\n• Create a 2/2 white Cat Beast creature token.\n• Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn."
-    },
-    {
-      "name": "Forest",
-      "quantity": 4,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Forest",
-      "text": "({T}: Add {G}.)"
-    },
-    {
       "name": "Grand Coliseum",
       "quantity": 1,
       "board": "main",
@@ -537,6 +355,44 @@
       "text": "Vigilance, menace, trample, haste\nWhenever one or more Mutants, Ninjas, and/or Turtles you control deal combat damage to a player, put a +1/+1 counter on each of those creatures and draw a card."
     },
     {
+      "name": "Heroic Intervention",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Permanents you control gain hexproof and indestructible until end of turn."
+    },
+    {
+      "name": "Hidden Hideout",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity.\n{2}, {T}: Target creature you control with a counter on it gains lifelink until end of turn."
+    },
+    {
+      "name": "Cathars' Crusade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
+    },
+    {
       "name": "Hinterland Harbor",
       "quantity": 1,
       "board": "main",
@@ -560,6 +416,16 @@
       "manaValue": 0,
       "type": "Basic Land — Island",
       "text": "({T}: Add {U}.)"
+    },
+    {
+      "name": "Chromatic Lantern",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color."
     },
     {
       "name": "Jetmir's Garden",
@@ -588,6 +454,19 @@
       "manaValue": 3,
       "type": "Creature — Spirit",
       "text": "If one or more +1/+1 counters would be put on a permanent you control, that many plus one +1/+1 counters are put on that permanent instead.\n{T}: Add X mana of any one color, where X is this creature's power."
+    },
+    {
+      "name": "Cinder Glade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Mountain Forest",
+      "text": "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands."
     },
     {
       "name": "Kindred Dominance",
@@ -646,6 +525,16 @@
       "manaValue": 2,
       "type": "Legendary Creature — Rogue Halfling",
       "text": "Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "City of Brass",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "Whenever this land becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
     },
     {
       "name": "March of the Multitudes",
@@ -708,7 +597,7 @@
       "text": "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life."
     },
     {
-      "name": "Heroic Intervention",
+      "name": "Mona Lisa, Science Geek",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -717,19 +606,63 @@
       "colorIdentity": [
         "Green"
       ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Permanents you control gain hexproof and indestructible until end of turn."
+      "manaValue": 3,
+      "type": "Legendary Creature — Mutant Lizard",
+      "text": "Reach\n{T}: Add X mana of any one color, where X is Mona Lisa's power."
     },
     {
-      "name": "Hidden Hideout",
+      "name": "Mondrak, Glory Dominus",
       "quantity": 1,
       "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Horror Phyrexian",
+      "text": "If one or more tokens would be created under your control, twice that many of those tokens are created instead.\n{1}{W/P}{W/P}, Sacrifice two other artifacts and/or creatures: Put an indestructible counter on Mondrak. ({W/P} can be paid with either {W} or 2 life.)"
+    },
+    {
+      "name": "Mountain",
+      "quantity": 2,
+      "board": "main",
       "colors": [],
-      "colorIdentity": [],
+      "colorIdentity": [
+        "Red"
+      ],
       "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity.\n{2}, {T}: Target creature you control with a counter on it gains lifelink until end of turn."
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Ninja Pizza",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Foods you control have \"{T}, Sacrifice this artifact: Add one mana of any color.\"\nAt the beginning of your second main phase, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    },
+    {
+      "name": "Ojer Taq, Deepest Foundation // Temple of Civilization",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — God",
+      "text": "Ojer Taq, Deepest Foundation: Vigilance\nIf one or more creature tokens would be created under your control, three times that many of those tokens are created instead.\nWhen Ojer Taq dies, return it to the battlefield tapped and transformed under its owner's control. | Temple of Civilization: (Transforms from Ojer Taq, Deepest Foundation.)\n{T}: Add {W}.\n{2}{W}, {T}: Transform this land. Activate only if you attacked with three or more creatures this turn and only as a sorcery."
     },
     {
       "name": "Ozolith, the Shattered Spire",
@@ -744,20 +677,6 @@
       "manaValue": 2,
       "type": "Legendary Artifact",
       "text": "If one or more +1/+1 counters would be put on an artifact or creature you control, that many plus one +1/+1 counters are put on it instead.\n{1}{G}, {T}: Put a +1/+1 counter on target artifact or creature you control. Activate only as a sorcery.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-    },
-    {
-      "name": "Mona Lisa, Science Geek",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Mutant Lizard",
-      "text": "Reach\n{T}: Add X mana of any one color, where X is Mona Lisa's power."
     },
     {
       "name": "Parallel Lives",
@@ -820,20 +739,6 @@
       "text": "({T}: Add {W}, {U}, or {B}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)"
     },
     {
-      "name": "Mondrak, Glory Dominus",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Horror Phyrexian",
-      "text": "If one or more tokens would be created under your control, twice that many of those tokens are created instead.\n{1}{W/P}{W/P}, Sacrifice two other artifacts and/or creatures: Put an indestructible counter on Mondrak. ({W/P} can be paid with either {W} or 2 life.)"
-    },
-    {
       "name": "Raphael, the Muscle",
       "quantity": 1,
       "board": "main",
@@ -860,18 +765,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Avatar Rat",
       "text": "Menace\nWhenever Rat King or another nontoken creature you control leaves the battlefield, create a 1/1 black Rat creature token.\n{2}, Sacrifice a token: Draw a card."
-    },
-    {
-      "name": "Mountain",
-      "quantity": 2,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
     },
     {
       "name": "Reflecting Pool",
@@ -1222,7 +1115,17 @@
       "text": "When this artifact enters, put a +1/+1 counter on each of up to four target creatures.\n{2}, {T}, Sacrifice a token: Double the number of each kind of counter on target creature."
     },
     {
-      "name": "Ninja Pizza",
+      "name": "Command Tower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Cultivate",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1232,11 +1135,96 @@
         "Green"
       ],
       "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Foods you control have \"{T}, Sacrifice this artifact: Add one mana of any color.\"\nAt the beginning of your second main phase, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+      "type": "Sorcery",
+      "text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
     },
     {
-      "name": "Ojer Taq, Deepest Foundation // Temple of Civilization",
+      "name": "Dimension X Pizzasaur",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature Artifact — Mutant Food Alien",
+      "text": "When this creature enters, put two +1/+1 counters on target creature. When you do, destroy up to one target creature with mana value less than or equal to the number of counters among permanents you control.\n{2}, {T}, Sacrifice this creature: You gain 3 life and each opponent loses 3 life."
+    },
+    {
+      "name": "Donatello, the Brains",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Mutant Ninja Turtle",
+      "text": "If one or more tokens would be created under your control, those tokens plus a Mutagen token are created instead.\nPartner—Character select (You can have two commanders if both have this ability.)"
+    },
+    {
+      "name": "Doubling Season",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead."
+    },
+    {
+      "name": "Dragonskull Summit",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}."
+    },
+    {
+      "name": "Evolving Wilds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Exotic Orchard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+      "name": "Fabled Passage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
+    },
+    {
+      "name": "Felidar Retreat",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1245,9 +1233,21 @@
       "colorIdentity": [
         "White"
       ],
-      "manaValue": 6,
-      "type": "Legendary Creature — God",
-      "text": "Ojer Taq, Deepest Foundation: Vigilance\nIf one or more creature tokens would be created under your control, three times that many of those tokens are created instead.\nWhen Ojer Taq dies, return it to the battlefield tapped and transformed under its owner's control. | Temple of Civilization: (Transforms from Ojer Taq, Deepest Foundation.)\n{T}: Add {W}.\n{2}{W}, {T}: Transform this land. Activate only if you attacked with three or more creatures this turn and only as a sorcery."
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Landfall — Whenever a land you control enters, choose one —\n• Create a 2/2 white Cat Beast creature token.\n• Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn."
+    },
+    {
+      "name": "Forest",
+      "quantity": 4,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
     }
   ]
 }

@@ -181,6 +181,22 @@
       "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
     },
     {
+      "name": "Kaervek the Merciless",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 7,
+      "type": "Legendary Creature — Human Shaman",
+      "text": "Whenever an opponent casts a spell, Kaervek deals damage equal to that spell's mana value to any target."
+    },
+    {
       "name": "Bloodstained Mire",
       "quantity": 1,
       "board": "main",
@@ -392,7 +408,7 @@
       "text": "As an additional cost to cast this spell, pay X life.\nFire Covenant deals X damage divided as you choose among any number of target creatures."
     },
     {
-      "name": "Kaervek the Merciless",
+      "name": "Florian, Voldaren Scion",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -403,52 +419,12 @@
         "Black",
         "Red"
       ],
-      "manaValue": 7,
-      "type": "Legendary Creature — Human Shaman",
-      "text": "Whenever an opponent casts a spell, Kaervek deals damage equal to that spell's mana value to any target."
+      "manaValue": 3,
+      "type": "Legendary Creature — Vampire Noble",
+      "text": "First strike\nAt the beginning of each of your postcombat main phases, look at the top X cards of your library, where X is the total amount of life your opponents lost this turn. Exile one of those cards and put the rest on the bottom of your library in a random order. You may play the exiled card this turn."
     },
     {
-      "name": "Kardur, Doomscourge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Demon Berserker",
-      "text": "When Kardur enters, until your next turn, creatures your opponents control attack each combat if able and attack a player other than you if able.\nWhenever an attacking creature dies, each opponent loses 1 life and you gain 1 life."
-    },
-    {
-      "name": "Kederekt Parasite",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Horror",
-      "text": "Whenever an opponent draws a card, if you control a red permanent, you may have this creature deal 1 damage to that player."
-    },
-    {
-      "name": "Lightning Greaves",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
-    },
-    {
-      "name": "Luxury Suite",
+      "name": "Foreboding Ruins",
       "quantity": 1,
       "board": "main",
       "colors": [],
@@ -458,68 +434,50 @@
       ],
       "manaValue": 0,
       "type": "Land",
-      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {B} or {R}."
+      "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
     },
     {
-      "name": "Mayhem Devil",
+      "name": "Furnace of Rath",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
         "Red"
       ],
-      "manaValue": 3,
-      "type": "Creature — Devil",
-      "text": "Whenever a player sacrifices a permanent, this creature deals 1 damage to any target."
-    },
-    {
-      "name": "Mogis, God of Slaughter",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
       "colorIdentity": [
-        "Black",
         "Red"
       ],
       "manaValue": 4,
-      "type": "Legendary Creature Enchantment — God",
-      "text": "Indestructible\nAs long as your devotion to black and red is less than seven, Mogis isn't a creature.\nAt the beginning of each opponent's upkeep, Mogis deals 2 damage to that player unless they sacrifice a creature of their choice."
+      "type": "Enchantment",
+      "text": "If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
     },
     {
-      "name": "Mountain",
-      "quantity": 8,
+      "name": "Graven Cairns",
+      "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [
+        "Black",
         "Red"
       ],
       "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}."
     },
     {
-      "name": "Necropotence",
+      "name": "Haunted Ridge",
       "quantity": 1,
       "board": "main",
-      "colors": [
-        "Black"
-      ],
+      "colors": [],
       "colorIdentity": [
-        "Black"
+        "Black",
+        "Red"
       ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step."
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {B} or {R}."
     },
     {
-      "name": "Ob Nixilis, Captive Kingpin",
+      "name": "Havoc Festival",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -530,135 +488,19 @@
         "Black",
         "Red"
       ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Demon",
-      "text": "Flying, trample\nWhenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on Ob Nixilis. Exile the top card of your library. Until your next end step, you may play that card."
-    },
-    {
-      "name": "Obosh, the Preypiercer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Horror Hellion",
-      "text": "Companion — Your starting deck contains only cards with odd mana values and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)\nIf a source you control with an odd mana value would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
-    },
-    {
-      "name": "Opposition Agent",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Rogue",
-      "text": "Flash\nYou control your opponents while they're searching their libraries.\nWhile an opponent is searching their library, they exile each card they find. You may play those cards for as long as they remain exiled, and you may spend mana as though it were mana of any color to cast them."
-    },
-    {
-      "name": "Orcish Bowmasters",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Archer Orc",
-      "text": "Flash\nWhen this creature enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, this creature deals 1 damage to any target. Then amass Orcs 1."
-    },
-    {
-      "name": "Painful Quandary",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
+      "manaValue": 6,
       "type": "Enchantment",
-      "text": "Whenever an opponent casts a spell, that player loses 5 life unless they discard a card."
+      "text": "Players can't gain life.\nAt the beginning of each player's upkeep, that player loses half their life, rounded up."
     },
     {
-      "name": "Phyrexian Arena",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "At the beginning of your upkeep, you draw a card and you lose 1 life."
-    },
-    {
-      "name": "Polluted Bonds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever a land an opponent controls enters, that player loses 2 life and you gain 2 life."
-    },
-    {
-      "name": "Prismatic Vista",
+      "name": "Jet Medallion",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Rakdos Charm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
       "manaValue": 2,
-      "type": "Instant",
-      "text": "Choose one —\n• Exile target player's graveyard.\n• Destroy target artifact.\n• Each creature deals 1 damage to its controller."
-    },
-    {
-      "name": "Rampaging Ferocidon",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Dinosaur",
-      "text": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
+      "type": "Artifact",
+      "text": "Black spells you cast cost {1} less to cast."
     },
     {
       "name": "Razorkin Needlehead",
@@ -1102,7 +944,60 @@
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
     },
     {
-      "name": "Florian, Voldaren Scion",
+      "name": "Kardur, Doomscourge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Demon Berserker",
+      "text": "When Kardur enters, until your next turn, creatures your opponents control attack each combat if able and attack a player other than you if able.\nWhenever an attacking creature dies, each opponent loses 1 life and you gain 1 life."
+    },
+    {
+      "name": "Kederekt Parasite",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Horror",
+      "text": "Whenever an opponent draws a card, if you control a red permanent, you may have this creature deal 1 damage to that player."
+    },
+    {
+      "name": "Lightning Greaves",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
+    },
+    {
+      "name": "Luxury Suite",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {B} or {R}."
+    },
+    {
+      "name": "Mayhem Devil",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1114,64 +1009,11 @@
         "Red"
       ],
       "manaValue": 3,
-      "type": "Legendary Creature — Vampire Noble",
-      "text": "First strike\nAt the beginning of each of your postcombat main phases, look at the top X cards of your library, where X is the total amount of life your opponents lost this turn. Exile one of those cards and put the rest on the bottom of your library in a random order. You may play the exiled card this turn."
+      "type": "Creature — Devil",
+      "text": "Whenever a player sacrifices a permanent, this creature deals 1 damage to any target."
     },
     {
-      "name": "Foreboding Ruins",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
-    },
-    {
-      "name": "Furnace of Rath",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
-    },
-    {
-      "name": "Graven Cairns",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}."
-    },
-    {
-      "name": "Haunted Ridge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {B} or {R}."
-    },
-    {
-      "name": "Havoc Festival",
+      "name": "Mogis, God of Slaughter",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1182,19 +1024,177 @@
         "Black",
         "Red"
       ],
-      "manaValue": 6,
-      "type": "Enchantment",
-      "text": "Players can't gain life.\nAt the beginning of each player's upkeep, that player loses half their life, rounded up."
+      "manaValue": 4,
+      "type": "Legendary Creature Enchantment — God",
+      "text": "Indestructible\nAs long as your devotion to black and red is less than seven, Mogis isn't a creature.\nAt the beginning of each opponent's upkeep, Mogis deals 2 damage to that player unless they sacrifice a creature of their choice."
     },
     {
-      "name": "Jet Medallion",
+      "name": "Mountain",
+      "quantity": 8,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Necropotence",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step."
+    },
+    {
+      "name": "Ob Nixilis, Captive Kingpin",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Demon",
+      "text": "Flying, trample\nWhenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on Ob Nixilis. Exile the top card of your library. Until your next end step, you may play that card."
+    },
+    {
+      "name": "Obosh, the Preypiercer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Horror Hellion",
+      "text": "Companion — Your starting deck contains only cards with odd mana values and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)\nIf a source you control with an odd mana value would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
+    },
+    {
+      "name": "Opposition Agent",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Rogue",
+      "text": "Flash\nYou control your opponents while they're searching their libraries.\nWhile an opponent is searching their library, they exile each card they find. You may play those cards for as long as they remain exiled, and you may spend mana as though it were mana of any color to cast them."
+    },
+    {
+      "name": "Orcish Bowmasters",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Archer Orc",
+      "text": "Flash\nWhen this creature enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, this creature deals 1 damage to any target. Then amass Orcs 1."
+    },
+    {
+      "name": "Painful Quandary",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever an opponent casts a spell, that player loses 5 life unless they discard a card."
+    },
+    {
+      "name": "Phyrexian Arena",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "At the beginning of your upkeep, you draw a card and you lose 1 life."
+    },
+    {
+      "name": "Polluted Bonds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever a land an opponent controls enters, that player loses 2 life and you gain 2 life."
+    },
+    {
+      "name": "Prismatic Vista",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Rakdos Charm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
       "manaValue": 2,
-      "type": "Artifact",
-      "text": "Black spells you cast cost {1} less to cast."
+      "type": "Instant",
+      "text": "Choose one —\n• Exile target player's graveyard.\n• Destroy target artifact.\n• Each creature deals 1 damage to its controller."
+    },
+    {
+      "name": "Rampaging Ferocidon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Dinosaur",
+      "text": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
     }
   ]
 }

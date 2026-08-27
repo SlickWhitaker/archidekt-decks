@@ -53,9 +53,6 @@ Sangromancer
 Sepulchral Primordial
 Shrieking Affliction
 Sign in Blood
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
 Smallpox
 Sol Ring
 Springleaf Drum
@@ -69,5 +66,8 @@ Virus Beetle
 War Room
 Wheel of Torture
 Will of the Abzan
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not
 Withering Torment
 Words of Waste

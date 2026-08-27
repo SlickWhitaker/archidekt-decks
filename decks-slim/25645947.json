@@ -212,6 +212,49 @@
       "text": "This land enters tapped.\nWhen this land enters, exile target player's graveyard.\n{T}: Add {B}."
     },
     {
+      "name": "Boros Charm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Choose one —\n• Boros Charm deals 4 damage to target player or planeswalker.\n• Permanents you control gain indestructible until end of turn.\n• Target creature gains double strike until end of turn."
+    },
+    {
+      "name": "Captivating Vampire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Vampire",
+      "text": "Other Vampire creatures you control get +1/+1.\nTap five untapped Vampires you control: Gain control of target creature. It becomes a Vampire in addition to its other types."
+    },
+    {
+      "name": "Caves of Koilos",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. This land deals 1 damage to you."
+    },
+    {
       "name": "Champion of Dusk",
       "quantity": 1,
       "board": "main",
@@ -498,20 +541,6 @@
       "text": "This land enters tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B}."
     },
     {
-      "name": "Kalitas, Traitor of Ghet",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Vampire Warrior",
-      "text": "Lifelink\nIf a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.\n{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas."
-    },
-    {
       "name": "Legion Lieutenant",
       "quantity": 1,
       "board": "main",
@@ -526,6 +555,20 @@
       "manaValue": 2,
       "type": "Creature — Knight Vampire",
       "text": "Other Vampires you control get +1/+1."
+    },
+    {
+      "name": "Kalitas, Traitor of Ghet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Vampire Warrior",
+      "text": "Lifelink\nIf a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.\n{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas."
     },
     {
       "name": "Legion's Landing // Adanto, the First Fort",
@@ -1180,49 +1223,6 @@
       "manaValue": 6,
       "type": "Legendary Creature — Knight Vampire",
       "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
-    },
-    {
-      "name": "Boros Charm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Red"
-      ],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Choose one —\n• Boros Charm deals 4 damage to target player or planeswalker.\n• Permanents you control gain indestructible until end of turn.\n• Target creature gains double strike until end of turn."
-    },
-    {
-      "name": "Captivating Vampire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Vampire",
-      "text": "Other Vampire creatures you control get +1/+1.\nTap five untapped Vampires you control: Gain control of target creature. It becomes a Vampire in addition to its other types."
-    },
-    {
-      "name": "Caves of Koilos",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. This land deals 1 damage to you."
     }
   ]
 }

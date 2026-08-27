@@ -42,12 +42,6 @@ Cloud, Ex-SOLDIER
 Gongaga, Reactor Town
 Hard-Won Jitte
 Hellkite Tyrant
-Iron Hills Blacksmith
-Kíli the Resourceful
-Lightning Greaves
-Mask of Memory
-Mithril Coat
-Mossfire Valley
 Path of Ancestry
 Path to Exile
 Plains
@@ -63,11 +57,7 @@ Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
-Mountain
-Mountain
-Mountain
 Sephiroth, Fallen Hero
-Nature's Lore
 Sheltered Thicket
 Sigarda's Aid
 Skullclamp
@@ -97,4 +87,14 @@ World Map
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
+Iron Hills Blacksmith
+Kíli the Resourceful
+Lightning Greaves
+Mask of Memory
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
 Nature's Will
