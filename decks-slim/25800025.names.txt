@@ -1,5 +1,4 @@
 Force of Negation
-Thassa's Oracle
 Force of Will
 Lotus Petal
 Flooded Strand
@@ -28,7 +27,6 @@ Grand Abolisher
 City of Brass
 Venser, Shaper Savant
 Peregrine Drake
-The Unagi of Kyoshi Island
 Kinnan, Bonder Prodigy
 Island
 Crop Rotation
@@ -41,7 +39,6 @@ Solitude
 Exotic Orchard
 Sol Ring
 Elvish Spirit Guide
-Sowing Mycospawn
 Windswept Heath
 Arcane Signet
 Enlightened Tutor
@@ -96,3 +93,5 @@ Saryth, the Viper's Fang
 Foundation Breaker
 Forest
 Mystic Snake
+Temur Sabertooth
+Cloud of Faeries

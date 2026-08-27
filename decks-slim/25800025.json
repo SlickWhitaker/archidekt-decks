@@ -33,20 +33,6 @@
       "text": "If it's not your turn, you may exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target noncreature spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
     },
     {
-      "name": "Thassa's Oracle",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Wizard Merfolk",
-      "text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
-    },
-    {
       "name": "Force of Will",
       "quantity": 1,
       "board": "main",
@@ -418,20 +404,6 @@
       "text": "Flying\nWhen this creature enters, untap up to five lands."
     },
     {
-      "name": "The Unagi of Kyoshi Island",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Serpent",
-      "text": "Flash\nWard—Waterbend {4}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}. They can tap their artifacts and creatures to help. Each one pays for {1}.)\nWhenever an opponent draws their second card each turn, you draw two cards."
-    },
-    {
       "name": "Kinnan, Bonder Prodigy",
       "quantity": 1,
       "board": "main",
@@ -593,18 +565,6 @@
       "manaValue": 3,
       "type": "Creature — Elf Spirit",
       "text": "Exile this card from your hand: Add {G}."
-    },
-    {
-      "name": "Sowing Mycospawn",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Fungus Eldrazi",
-      "text": "Devoid (This card has no color.)\nKicker {1}{C} (You may pay an additional {1}{C} as you cast this spell.)\nWhen you cast this spell, search your library for a land card, put it onto the battlefield, then shuffle.\nWhen you cast this spell, if it was kicked, exile target land."
     },
     {
       "name": "Windswept Heath",
@@ -1293,7 +1253,7 @@
     },
     {
       "name": "Forest",
-      "quantity": 1,
+      "quantity": 2,
       "board": "main",
       "colors": [],
       "colorIdentity": [
@@ -1318,6 +1278,34 @@
       "manaValue": 4,
       "type": "Creature — Snake",
       "text": "Flash\nWhen this creature enters, counter target spell."
+    },
+    {
+      "name": "Temur Sabertooth",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Cat",
+      "text": "{1}{G}: You may return another creature you control to its owner's hand. If you do, this creature gains indestructible until end of turn."
+    },
+    {
+      "name": "Cloud of Faeries",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Faerie",
+      "text": "Flying\nWhen this creature enters, untap up to two lands.\nCycling {2} ({2}, Discard this card: Draw a card.)"
     }
   ]
 }

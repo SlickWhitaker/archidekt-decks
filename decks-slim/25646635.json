@@ -1050,6 +1050,48 @@
       "text": "Ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nNinjutsu abilities you activate cost {1} less to activate.\nOther Ninja and Rogue creatures you control get +1/+1."
     },
     {
+      "name": "Thieving Skydiver",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Merfolk Rogue",
+      "text": "Kicker {X}. X can't be 0. (You may pay an additional {X} as you cast this spell.)\nFlying\nWhen this creature enters, if it was kicked, gain control of target artifact with mana value X or less. If that artifact is an Equipment, attach it to this creature."
+    },
+    {
+      "name": "Thousand-Faced Shadow",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Human Ninja",
+      "text": "Ninjutsu {2}{U}{U} ({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nFlying\nWhen this creature enters from your hand, if it's attacking, create a token that's a copy of another target attacking creature. The token enters tapped and attacking."
+    },
+    {
+      "name": "Throat Slitter",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Rat Ninja",
+      "text": "Ninjutsu {2}{B} ({2}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever this creature deals combat damage to a player, destroy target nonblack creature that player controls."
+    },
+    {
       "name": "Sink into Stupor // Soporific Springs",
       "quantity": 1,
       "board": "main",
@@ -1076,6 +1118,19 @@
       "manaValue": 2,
       "type": "Creature — Rat Ninja",
       "text": "Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever this creature deals combat damage to a player, exile up to two target cards from that player's graveyard."
+    },
+    {
+      "name": "Underground River",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}: Add {U} or {B}. This land deals 1 damage to you."
     },
     {
       "name": "Slither Blade",
@@ -1154,6 +1209,20 @@
       "text": "This land enters tapped unless it's your first, second, or third turn of the game.\n{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color."
     },
     {
+      "name": "Vampiric Tutor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Search your library for a card, then shuffle and put that card on top. You lose 2 life."
+    },
+    {
       "name": "Swamp",
       "quantity": 2,
       "board": "main",
@@ -1206,75 +1275,6 @@
       "manaValue": 2,
       "type": "Creature — Wizard Merfolk",
       "text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
-    },
-    {
-      "name": "Thieving Skydiver",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Merfolk Rogue",
-      "text": "Kicker {X}. X can't be 0. (You may pay an additional {X} as you cast this spell.)\nFlying\nWhen this creature enters, if it was kicked, gain control of target artifact with mana value X or less. If that artifact is an Equipment, attach it to this creature."
-    },
-    {
-      "name": "Thousand-Faced Shadow",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Human Ninja",
-      "text": "Ninjutsu {2}{U}{U} ({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nFlying\nWhen this creature enters from your hand, if it's attacking, create a token that's a copy of another target attacking creature. The token enters tapped and attacking."
-    },
-    {
-      "name": "Throat Slitter",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Rat Ninja",
-      "text": "Ninjutsu {2}{B} ({2}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever this creature deals combat damage to a player, destroy target nonblack creature that player controls."
-    },
-    {
-      "name": "Underground River",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue",
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{T}: Add {U} or {B}. This land deals 1 damage to you."
-    },
-    {
-      "name": "Vampiric Tutor",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Search your library for a card, then shuffle and put that card on top. You lose 2 life."
     },
     {
       "name": "Walker of Secret Ways",

@@ -384,19 +384,6 @@
       "text": "Gallifrey Falls: Gallifrey Falls deals 4 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.\nFuse (You may cast one or both halves of this card from your hand.) | No More: Any number of target creatures you control phase out.\nFuse (You may cast one or both halves of this card from your hand.)"
     },
     {
-      "name": "Glacial Fortress",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}."
-    },
-    {
       "name": "Grasp of Fate",
       "quantity": 1,
       "board": "main",
@@ -1306,6 +1293,19 @@
       "manaValue": 5,
       "type": "Legendary Creature — Doctor Time Lord",
       "text": "Allons-y! — Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn't have suspend, it gains suspend.\nTimey-Wimey — {7}: Time travel three times. Activate only as a sorcery. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do it two more times.)"
+    },
+    {
+      "name": "Glacial Fortress",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}."
     }
   ]
 }
