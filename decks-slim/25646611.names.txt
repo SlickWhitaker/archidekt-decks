@@ -53,12 +53,10 @@ Rakdos Charm
 Rampaging Ferocidon
 Razorkin Needlehead
 Repercussion
-Takenuma, Abandoned Mire
 Roiling Vortex
 Shadowblood Ridge
 Sheoldred, the Apocalypse
 Sheoldred's Edict
-Talisman of Indulgence
 Shivan Gorge
 Smoldering Marsh
 Sol Ring
@@ -70,18 +68,20 @@ Sulfuric Vortex
 Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
+Takenuma, Abandoned Mire
+Talisman of Indulgence
 Tainted Peak
-Scrawling Crawler
-Valgavoth, Harrower of Souls
 Terminate
 The Lord of Pain
 The Meathook Massacre
 The One Ring
 Torment of Hailfire
 Underworld Dreams
+Scrawling Crawler
 Urborg, Tomb of Yawgmoth
 Vial Smasher the Fierce
 Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
+Valgavoth, Harrower of Souls

@@ -768,18 +768,6 @@
       "text": "Whenever a creature is dealt damage, this enchantment deals that much damage to that creature's controller."
     },
     {
-      "name": "Takenuma, Abandoned Mire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Legendary Land",
-      "text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control."
-    },
-    {
       "name": "Roiling Vortex",
       "quantity": 1,
       "board": "main",
@@ -833,19 +821,6 @@
       "manaValue": 2,
       "type": "Instant",
       "text": "Choose one —\n• Each opponent sacrifices a nontoken creature of their choice.\n• Each opponent sacrifices a creature token of their choice.\n• Each opponent sacrifices a planeswalker of their choice."
-    },
-    {
-      "name": "Talisman of Indulgence",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This artifact deals 1 damage to you."
     },
     {
       "name": "Shivan Gorge",
@@ -992,6 +967,31 @@
       "text": "Whenever another creature dies, or a creature card is put into a graveyard from anywhere other than the battlefield, or a creature card leaves your graveyard, Syr Konrad deals 1 damage to each opponent.\n{1}{B}: Each player mills a card. (They each put the top card of their library into their graveyard.)"
     },
     {
+      "name": "Takenuma, Abandoned Mire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control."
+    },
+    {
+      "name": "Talisman of Indulgence",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This artifact deals 1 damage to you."
+    },
+    {
       "name": "Tainted Peak",
       "quantity": 1,
       "board": "main",
@@ -1003,32 +1003,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. Activate only if you control a Swamp."
-    },
-    {
-      "name": "Scrawling Crawler",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Creature Artifact — Construct Phyrexian",
-      "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
-    },
-    {
-      "name": "Valgavoth, Harrower of Souls",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Elder Demon",
-      "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
     },
     {
       "name": "Terminate",
@@ -1115,6 +1089,16 @@
       "text": "Whenever an opponent draws a card, this enchantment deals 1 damage to that player."
     },
     {
+      "name": "Scrawling Crawler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Creature Artifact — Construct Phyrexian",
+      "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
+    },
+    {
       "name": "Urborg, Tomb of Yawgmoth",
       "quantity": 1,
       "board": "main",
@@ -1191,6 +1175,22 @@
       "manaValue": 3,
       "type": "Legendary Creature — Goblin Warrior",
       "text": "Whenever a land enters, Zo-Zu deals 2 damage to that land's controller."
+    },
+    {
+      "name": "Valgavoth, Harrower of Souls",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Elder Demon",
+      "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
     }
   ]
 }

@@ -48,6 +48,15 @@ Rosie Cotton of South Lane
 Samwise Gamgee
 Sandsteppe Citadel
 Sanguine Bond
+Savvy Hunter
+Scattered Groves
+Shineshadow Snarl
+Shire Shirriff
+Shire Terrace
+Skullclamp
+Sol Ring
+Sunpetal Grove
+Swamp
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
@@ -68,15 +77,6 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Savvy Hunter
-Scattered Groves
-Shineshadow Snarl
-Shire Shirriff
-Shire Terrace
-Skullclamp
-Sol Ring
-Sunpetal Grove
-Swamp
 Swords to Plowshares
 The Battle of Bywater
 The Gaffer

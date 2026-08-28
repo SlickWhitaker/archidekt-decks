@@ -31,7 +31,6 @@ Feed the Swarm
 Fellwar Stone
 Foreboding Ruins
 Grave Titan
-Pitiless Plunderer
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
@@ -41,18 +40,15 @@ It That Betrays
 Jet Medallion
 Krenko, Mob Boss
 Krenko, Tin Street Kingpin
-Krenko's Command
-Lagomos, Hand of Hatred
-Mahadi, Emporium Master
-Mind Stone
-Morbid Opportunist
-Mountain
-Myriad Landscape
-Night's Whisper
-Orca, Siege Demon
-Overseer of the Damned
-Pathrazer of Ulamog
-Phyrexian Triniform
+Pitiless Plunderer
+Rakdos Carnarium
+Rakdos Charm
+Rakdos Signet
+Rakdos, Lord of Riots
+Rakdos, Patron of Chaos
+Razaketh, the Foulblooded
+Reanimate
+Rune-Scarred Demon
 Scavenger Grounds
 Sepulchral Primordial
 Shadowblood Ridge
@@ -76,11 +72,15 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
-Rakdos Carnarium
-Rakdos Charm
-Rakdos Signet
-Rakdos, Lord of Riots
-Rakdos, Patron of Chaos
-Razaketh, the Foulblooded
-Reanimate
-Rune-Scarred Demon
+Krenko's Command
+Lagomos, Hand of Hatred
+Mahadi, Emporium Master
+Mind Stone
+Morbid Opportunist
+Mountain
+Myriad Landscape
+Night's Whisper
+Orca, Siege Demon
+Overseer of the Damned
+Pathrazer of Ulamog
+Phyrexian Triniform

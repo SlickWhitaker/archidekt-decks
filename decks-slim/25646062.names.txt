@@ -57,14 +57,6 @@ Ripples of Potential
 Roaming Throne
 Savor the Moment
 Secluded Courtyard
-Simic Ascendancy
-Simic Growth Chamber
-Singer of Swift Rivers
-Sodden Verdure
-Sol Ring
-Spell Pierce
-Starting Town
-Stubborn Denial
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -75,7 +67,6 @@ Thieving Skydiver
 Tishana's Tidebinder
 Triumph of the Hordes
 Tropical Island
-Hakbal of the Surging Soul
 Unclaimed Territory
 Vineglimmer Snarl
 Vodalian Hexcatcher
@@ -83,3 +74,12 @@ Wanderwine Prophets
 Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
+Hakbal of the Surging Soul
+Simic Ascendancy
+Simic Growth Chamber
+Singer of Swift Rivers
+Sodden Verdure
+Sol Ring
+Spell Pierce
+Starting Town
+Stubborn Denial
