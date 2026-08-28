@@ -668,6 +668,93 @@
       "text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
     },
     {
+      "name": "Mithril Coat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
+    },
+    {
+      "name": "Mossfire Valley",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{1}, {T}: Add {R}{G}."
+    },
+    {
+      "name": "Mountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Mountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Mountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Nature's Lore",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Nature's Will",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control."
+    },
+    {
       "name": "Path of Ancestry",
       "quantity": 1,
       "board": "main",
@@ -818,6 +905,22 @@
       "text": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}."
     },
     {
+      "name": "Sephiroth, Fallen Hero",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Soldier Avatar",
+      "text": "Jenova Cells — Whenever Sephiroth attacks, you may put a cell counter on target creature. Until end of turn, each modified creature you control has base power and toughness 7/5. (Equipment, Auras you control, and counters are modifications.)\nThe Reunion — {3}, Sacrifice a modified creature: Return this card from your graveyard to the battlefield tapped."
+    },
+    {
       "name": "Rugged Prairie",
       "quantity": 1,
       "board": "main",
@@ -854,22 +957,6 @@
       "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
     },
     {
-      "name": "Sephiroth, Fallen Hero",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Red"
-      ],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Soldier Avatar",
-      "text": "Jenova Cells — Whenever Sephiroth attacks, you may put a cell counter on target creature. Until end of turn, each modified creature you control has base power and toughness 7/5. (Equipment, Auras you control, and counters are modifications.)\nThe Reunion — {3}, Sacrifice a modified creature: Return this card from your graveyard to the battlefield tapped."
-    },
-    {
       "name": "Sheltered Thicket",
       "quantity": 1,
       "board": "main",
@@ -881,77 +968,6 @@
       "manaValue": 0,
       "type": "Land — Mountain Forest",
       "text": "({T}: Add {R} or {G}.)\nThis land enters tapped.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-    },
-    {
-      "name": "Sigarda's Aid",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 1,
-      "type": "Enchantment",
-      "text": "You may cast Aura and Equipment spells as though they had flash.\nWhenever an Equipment you control enters, you may attach it to target creature you control."
-    },
-    {
-      "name": "Skullclamp",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
-    },
-    {
-      "name": "Slayers' Stronghold",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{R}{W}, {T}: Target creature gets +2/+0 and gains vigilance and haste until end of turn."
-    },
-    {
-      "name": "Sol Ring",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
-    },
-    {
-      "name": "Sphere Grid",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on that creature.\nUnlock Ability — Creatures you control with +1/+1 counters on them have reach and trample."
-    },
-    {
-      "name": "Spire of Industry",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color. Activate only if you control an artifact."
     },
     {
       "name": "Stoneforge Mystic",
@@ -1219,66 +1235,54 @@
       "text": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}"
     },
     {
-      "name": "Mithril Coat",
+      "name": "Sigarda's Aid",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment",
+      "text": "You may cast Aura and Equipment spells as though they had flash.\nWhenever an Equipment you control enters, you may attach it to target creature you control."
+    },
+    {
+      "name": "Skullclamp",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Legendary Artifact — Equipment",
-      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
+      "manaValue": 1,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
     },
     {
-      "name": "Mossfire Valley",
+      "name": "Slayers' Stronghold",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [
-        "Red",
-        "Green"
+        "White",
+        "Red"
       ],
       "manaValue": 0,
       "type": "Land",
-      "text": "{1}, {T}: Add {R}{G}."
+      "text": "{T}: Add {C}.\n{R}{W}, {T}: Target creature gets +2/+0 and gains vigilance and haste until end of turn."
     },
     {
-      "name": "Mountain",
+      "name": "Sol Ring",
       "quantity": 1,
       "board": "main",
       "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
     },
     {
-      "name": "Mountain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
-    },
-    {
-      "name": "Mountain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
-    },
-    {
-      "name": "Nature's Lore",
+      "name": "Sphere Grid",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1288,22 +1292,18 @@
         "Green"
       ],
       "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
+      "type": "Enchantment",
+      "text": "Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on that creature.\nUnlock Ability — Creatures you control with +1/+1 counters on them have reach and trample."
     },
     {
-      "name": "Nature's Will",
+      "name": "Spire of Industry",
       "quantity": 1,
       "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control."
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color. Activate only if you control an artifact."
     }
   ]
 }

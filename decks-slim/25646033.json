@@ -771,32 +771,6 @@
       "text": "You may play lands from your graveyard.\nLandfall — Whenever a land you control enters, create a 1/1 green Minion creature token named Moloid with \"Whenever this token attacks, you may mill a card.\""
     },
     {
-      "name": "Mystic Sanctuary",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land — Island",
-      "text": "({T}: Add {U}.)\nThis land enters tapped unless you control three or more other Islands.\nWhen this land enters untapped, you may put target instant or sorcery card from your graveyard on top of your library."
-    },
-    {
-      "name": "Nezahal, Primal Tide",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 7,
-      "type": "Legendary Creature — Elder Dinosaur",
-      "text": "This spell can't be countered.\nYou have no maximum hand size.\nWhenever an opponent casts a noncreature spell, draw a card.\nDiscard three cards: Exile Nezahal. Return it to the battlefield tapped under its owner's control at the beginning of the next end step."
-    },
-    {
       "name": "Noxious Revival",
       "quantity": 1,
       "board": "main",
@@ -1259,6 +1233,32 @@
       "manaValue": 0,
       "type": "Artifact",
       "text": "Sacrifice a land: You gain 2 life."
+    },
+    {
+      "name": "Mystic Sanctuary",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island",
+      "text": "({T}: Add {U}.)\nThis land enters tapped unless you control three or more other Islands.\nWhen this land enters untapped, you may put target instant or sorcery card from your graveyard on top of your library."
+    },
+    {
+      "name": "Nezahal, Primal Tide",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 7,
+      "type": "Legendary Creature — Elder Dinosaur",
+      "text": "This spell can't be countered.\nYou have no maximum hand size.\nWhenever an opponent casts a noncreature spell, draw a card.\nDiscard three cards: Exile Nezahal. Return it to the battlefield tapped under its owner's control at the beginning of the next end step."
     }
   ]
 }

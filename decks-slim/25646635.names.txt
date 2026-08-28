@@ -13,15 +13,37 @@ Command Tower
 Commandeer
 Counterspell
 Cursed Totem
+Cyclonic Rift
+Darkslick Shores
+Dauthi Voidwalker
+Deadly Rollick
+Demonic Consultation
+Dig Through Time
+Dismember
+Dokuchi Silencer
+Draco
+Drowned Catacomb
+Fallen Shinobi
+Fell the Profane // Fell Mire
+Fierce Guardianship
+Flare of Denial
+Flare of Malice
+Flusterstorm
+Force of Despair
+Force of Will
+Gingerbrute
 Negate
+Gloomlake Verge
 Ninja of the Deep Hours
 Opposition Agent
+Grafdigger's Cage
 Orcish Bowmasters
 Ornithopter
 Otawara, Soaring City
 Pact of Negation
 Phyrexian Walker
 Polluted Delta
+Halimar Depths
 Ponder
 Prosperous Thief
 Sakashima's Student
@@ -51,28 +73,6 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
-Cyclonic Rift
-Darkslick Shores
-Dauthi Voidwalker
-Deadly Rollick
-Demonic Consultation
-Dig Through Time
-Dismember
-Dokuchi Silencer
-Draco
-Drowned Catacomb
-Fallen Shinobi
-Fell the Profane // Fell Mire
-Fierce Guardianship
-Flare of Denial
-Flare of Malice
-Flusterstorm
-Force of Despair
-Force of Will
-Gingerbrute
-Gloomlake Verge
-Grafdigger's Cage
-Halimar Depths
 Higure, the Still Wind
 Hydroelectric Specimen // Hydroelectric Laboratory
 Ingenious Infiltrator

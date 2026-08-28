@@ -326,20 +326,6 @@
       "text": "This land enters tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}."
     },
     {
-      "name": "Dread Return",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Return target creature card from your graveyard to the battlefield.\nFlashback—Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-    },
-    {
       "name": "Dreadbore",
       "quantity": 1,
       "board": "main",
@@ -1159,6 +1145,20 @@
       "manaValue": 2,
       "type": "Creature — Vampire Spirit",
       "text": "This creature can't block.\nThis creature has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield."
+    },
+    {
+      "name": "Zulaport Cutthroat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Human Rogue Ally",
+      "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
     }
   ]
 }

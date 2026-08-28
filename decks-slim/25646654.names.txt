@@ -24,7 +24,6 @@ Empyrean Eagle
 Esior, Wardwing Familiar
 Evolving Wilds
 Exotic Orchard
-Favorable Winds
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
@@ -90,3 +89,4 @@ Zinnia, Valley's Voice
 Fiend Hunter
 Soulcatcher
 Academy Manufactor
+Cathars' Crusade

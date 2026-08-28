@@ -369,20 +369,6 @@
       "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
     },
     {
-      "name": "Favorable Winds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "Creatures you control with flying get +1/+1."
-    },
-    {
       "name": "Fellwar Stone",
       "quantity": 1,
       "board": "main",
@@ -1246,6 +1232,20 @@
       "manaValue": 3,
       "type": "Creature Artifact — Assembly-Worker",
       "text": "If you would create a Clue, Food, or Treasure token, instead create one of each."
+    },
+    {
+      "name": "Cathars' Crusade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
     }
   ]
 }
