@@ -56,10 +56,6 @@ Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
 Rose Room Treasurer
 Rugged Prairie
 Seachrome Coast
@@ -69,7 +65,6 @@ Shared Animosity
 Shivan Reef
 Skullclamp
 Skyclave Apparition
-Soulcatcher
 Skycloud Expanse
 Sol Ring
 Soulcatchers' Aerie
@@ -89,4 +84,9 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
 Academy Manufactor

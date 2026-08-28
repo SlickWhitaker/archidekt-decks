@@ -55,12 +55,6 @@ Regenerations Restored
 Rhystic Study
 RMS Titanic
 Rogue's Passage
-Rory Williams
-Rotating Fireplace
-Run for Your Life
-Sally Sparrow
-Sea of Clouds
-Sol Ring
 Sonic Screwdriver
 Spectator Seating
 Star Whale
@@ -68,6 +62,7 @@ Storm-Kiln Artist
 Stormcarved Coast
 Strionic Resonator
 Sunbaked Canyon
+Rory Williams
 Sundown Pass
 Talisman of Conviction
 Talisman of Creativity
@@ -95,3 +90,8 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
+Rotating Fireplace
+Run for Your Life
+Sally Sparrow
+Sea of Clouds
+Sol Ring

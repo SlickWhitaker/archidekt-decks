@@ -50,15 +50,6 @@ Krosan Grip
 Lightning Greaves
 Llanowar Elves
 Lotus Petal
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Mana Vault
 Misty Rainforest
 Mountain
@@ -67,8 +58,17 @@ Nature's Claim
 Nature's Lore
 Nykthos, Shrine to Nyx
 Old Gnawbone
+Veil of Summer
 Orcish Lumberjack
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
 Prismatic Vista
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
 Professional Face-Breaker
 Railway Brawler
 Rhythm of the Wild
