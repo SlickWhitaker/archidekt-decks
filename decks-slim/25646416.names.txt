@@ -50,6 +50,15 @@ Krosan Grip
 Lightning Greaves
 Llanowar Elves
 Lotus Petal
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
 Mana Vault
 Misty Rainforest
 Mountain
@@ -68,16 +77,7 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
 Selvala, Heart of the Wilds
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Shifting Woodland
 Skullclamp
 Sol Ring

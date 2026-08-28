@@ -24,13 +24,6 @@ Dragonskull Summit
 Dread Return
 Dreadbore
 Drossforge Bridge
-Endrek Sahr, Master Breeder
-Etali, Primal Storm
-Evolving Wilds
-Exotic Orchard
-Feed the Swarm
-Fellwar Stone
-Foreboding Ruins
 Grave Titan
 Haunted Ridge
 Hero's Downfall
@@ -46,6 +39,13 @@ Lagomos, Hand of Hatred
 Mahadi, Emporium Master
 Mind Stone
 Morbid Opportunist
+Mountain
+Myriad Landscape
+Night's Whisper
+Orca, Siege Demon
+Overseer of the Damned
+Pathrazer of Ulamog
+Phyrexian Triniform
 Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
@@ -72,15 +72,15 @@ The Balrog of Moria
 The Balrog, Durin's Bane
 Toxic Deluge
 Tramway Station
-Mountain
-Myriad Landscape
 Unexpected Windfall
 Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
-Night's Whisper
-Orca, Siege Demon
-Overseer of the Damned
-Pathrazer of Ulamog
-Phyrexian Triniform
+Endrek Sahr, Master Breeder
+Etali, Primal Storm
+Evolving Wilds
+Exotic Orchard
+Feed the Swarm
+Fellwar Stone
+Foreboding Ruins

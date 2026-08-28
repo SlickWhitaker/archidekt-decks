@@ -19,6 +19,21 @@ Command Tower
 Deadly Rollick
 Deflecting Swat
 Descent into Avernus
+Dragonskull Summit
+Everlasting Torment
+Exquisite Blood
+Feed the Swarm
+Fellwar Stone
+Fiery Confluence
+Fire Covenant
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
+Razorkin Needlehead
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -38,7 +53,21 @@ Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
-Razorkin Needlehead
+Takenuma, Abandoned Mire
+Talisman of Indulgence
+Terminate
+The Lord of Pain
+The Meathook Massacre
+The One Ring
+Torment of Hailfire
+Underworld Dreams
+Urborg, Tomb of Yawgmoth
+Vial Smasher the Fierce
+Wheel of Misfortune
+Witch's Clinic
+Wound Reflection
+Zo-Zu the Punisher
+Zulaport Cutthroat
 Repercussion
 Roiling Vortex
 Shadowblood Ridge
@@ -56,32 +85,3 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
-Takenuma, Abandoned Mire
-Talisman of Indulgence
-Terminate
-The Lord of Pain
-The Meathook Massacre
-The One Ring
-Torment of Hailfire
-Underworld Dreams
-Urborg, Tomb of Yawgmoth
-Vial Smasher the Fierce
-Wheel of Misfortune
-Witch's Clinic
-Wound Reflection
-Zo-Zu the Punisher
-Zulaport Cutthroat
-Dragonskull Summit
-Everlasting Torment
-Exquisite Blood
-Feed the Swarm
-Fellwar Stone
-Fiery Confluence
-Fire Covenant
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion

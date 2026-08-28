@@ -18,21 +18,6 @@ Big Mother Mouser
 Blood Crypt
 Bloom Tender
 Branching Evolution
-Cathars' Crusade
-Chromatic Lantern
-Cinder Glade
-City of Brass
-Command Tower
-Cultivate
-Dimension X Pizzasaur
-Donatello, the Brains
-Doubling Season
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -56,20 +41,21 @@ Mondrak, Glory Dominus
 Mountain
 Ninja Pizza
 Ojer Taq, Deepest Foundation // Temple of Civilization
-Reflecting Pool
-Rocco, Street Chef
-Shellshock
 Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
 Plains
-Skullclamp
 Plaza of Heroes
 Raffine's Tower
-Sodden Verdure
 Raphael, the Muscle
 Rat King, Pale Piper
+Reflecting Pool
+Rocco, Street Chef
+Shellshock
+Skullclamp
+Sodden Verdure
 Sol Ring
+Spire Garden
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
@@ -90,4 +76,18 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Spire Garden
+Cathars' Crusade
+Chromatic Lantern
+Cinder Glade
+City of Brass
+Command Tower
+Cultivate
+Dimension X Pizzasaur
+Donatello, the Brains
+Doubling Season
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
