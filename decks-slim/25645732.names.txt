@@ -59,10 +59,7 @@ Nature's Will
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
-Path to Exile
-Plains
 Sephiroth, Fallen Hero
-Plains
 Sheltered Thicket
 Sigarda's Aid
 Skullclamp
@@ -89,6 +86,10 @@ Vandalblast
 Wood Elves
 Yuffie, Materia Hunter
 Zack Fair
+Sword of Forge and Frontier
+Path to Exile
+Plains
+Plains
 Plains
 Professional Face-Breaker
 Puresteel Paladin
@@ -97,4 +98,3 @@ Red XIII, Proud Warrior
 Ring of the Lucii
 Rogue's Passage
 Rootbound Crag
-Sword of Forge and Frontier

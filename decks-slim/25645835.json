@@ -586,6 +586,34 @@
       "text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
     },
     {
+      "name": "Mystic Monastery",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {U}, {R}, or {W}."
+    },
+    {
+      "name": "Nanogene Conversion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Choose target creature you control. Each other creature becomes a copy of that creature until end of turn, except it isn't legendary."
+    },
+    {
       "name": "Ominous Cemetery",
       "quantity": 1,
       "board": "main",
@@ -819,16 +847,6 @@
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {U}."
     },
     {
-      "name": "Sol Ring",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
-    },
-    {
       "name": "Sonic Screwdriver",
       "quantity": 1,
       "board": "main",
@@ -837,6 +855,16 @@
       "manaValue": 3,
       "type": "Artifact",
       "text": "{T}: Add one mana of any color.\n{1}, {T}: Untap another target artifact.\n{2}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{3}, {T}: Target creature can't be blocked this turn."
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
     },
     {
       "name": "Spectator Seating",
@@ -878,6 +906,20 @@
       "manaValue": 4,
       "type": "Creature — Shaman Dwarf",
       "text": "This creature gets +1/+0 for each artifact you control.\nMagecraft — Whenever you cast or copy an instant or sorcery spell, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "Time Beetle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Insect Alien",
+      "text": "Skulk (This creature can't be blocked by creatures with greater power.)\nParallel Universe — Whenever this creature deals combat damage to a player, time travel. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)"
     },
     {
       "name": "Stormcarved Coast",
@@ -1187,18 +1229,20 @@
       "text": "{T}: Add {C}.\n{2}, {T}: This land becomes a copy of target land, except it has this ability."
     },
     {
-      "name": "Time Beetle",
+      "name": "The Tenth Doctor",
       "quantity": 1,
-      "board": "main",
+      "board": "commander",
       "colors": [
+        "Red",
         "Blue"
       ],
       "colorIdentity": [
-        "Blue"
+        "Blue",
+        "Red"
       ],
-      "manaValue": 2,
-      "type": "Creature — Insect Alien",
-      "text": "Skulk (This creature can't be blocked by creatures with greater power.)\nParallel Universe — Whenever this creature deals combat damage to a player, time travel. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)"
+      "manaValue": 5,
+      "type": "Legendary Creature — Doctor Time Lord",
+      "text": "Allons-y! — Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn't have suspend, it gains suspend.\nTimey-Wimey — {7}: Time travel three times. Activate only as a sorcery. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do it two more times.)"
     },
     {
       "name": "Training Center",
@@ -1262,50 +1306,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Soldier",
       "text": "Look to the Stars — At the beginning of your upkeep, put a time counter on Wilfred Mott. Then look at the top X cards of your library, where X is the number of time counters on Wilfred Mott. You may put a nonland permanent card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order."
-    },
-    {
-      "name": "The Tenth Doctor",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Red",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Doctor Time Lord",
-      "text": "Allons-y! — Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn't have suspend, it gains suspend.\nTimey-Wimey — {7}: Time travel three times. Activate only as a sorcery. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do it two more times.)"
-    },
-    {
-      "name": "Mystic Monastery",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {U}, {R}, or {W}."
-    },
-    {
-      "name": "Nanogene Conversion",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Choose target creature you control. Each other creature becomes a copy of that creature until end of turn, except it isn't legendary."
     }
   ]
 }

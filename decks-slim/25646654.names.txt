@@ -21,9 +21,6 @@ Curiosity Crafter
 Distant Melody
 Elspeth, Sun's Champion
 Empyrean Eagle
-Esior, Wardwing Familiar
-Evolving Wilds
-Exotic Orchard
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
@@ -70,13 +67,6 @@ Soulcatchers' Aerie
 Steam Vents
 Storm of Souls
 Sulfur Falls
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
-Cathars' Crusade
 Sunscorched Divide
 Swords to Plowshares
 Temple of Enlightenment
@@ -90,3 +80,13 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
+Cathars' Crusade
+Esior, Wardwing Familiar
+Evolving Wilds
+Exotic Orchard

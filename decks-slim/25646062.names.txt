@@ -33,6 +33,16 @@ Kindred Discovery
 Kiora's Follower
 Kopala, Warden of Waves
 Kumena, Tyrant of Orazca
+Mana Confluence
+Master of the Pearl Trident
+Merfolk Sovereign
+Merrow Commerce
+Merrow Harbinger
+Merrow Reejerey
+Metallic Mimic
+Misty Rainforest
+Mutavault
+Namor the Sub-Mariner
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -51,16 +61,6 @@ Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
 Hakbal of the Surging Soul
-Mana Confluence
-Master of the Pearl Trident
-Merfolk Sovereign
-Merrow Commerce
-Merrow Harbinger
-Merrow Reejerey
-Metallic Mimic
-Misty Rainforest
-Mutavault
-Namor the Sub-Mariner
 Nicanzil, Current Conductor
 Path of Ancestry
 Ponder
