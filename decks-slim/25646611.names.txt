@@ -26,17 +26,23 @@ Fellwar Stone
 Fiery Confluence
 Fire Covenant
 Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
 Kaervek the Merciless
 Kardur, Doomscourge
+Graven Cairns
 Kederekt Parasite
 Lightning Greaves
 Luxury Suite
+Haunted Ridge
 Mayhem Devil
 Mogis, God of Slaughter
 Mountain
+Havoc Festival
 Necropotence
 Ob Nixilis, Captive Kingpin
 Obosh, the Preypiercer
+Jet Medallion
 Opposition Agent
 Orcish Bowmasters
 Painful Quandary
@@ -45,6 +51,7 @@ Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
+Takenuma, Abandoned Mire
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -63,7 +70,8 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
-Takenuma, Abandoned Mire
+Scrawling Crawler
+Valgavoth, Harrower of Souls
 Talisman of Indulgence
 Terminate
 The Lord of Pain
@@ -77,11 +85,3 @@ Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
-Scrawling Crawler
-Valgavoth, Harrower of Souls
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion

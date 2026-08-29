@@ -36,7 +36,14 @@ Jubilant Skybonder
 Kindred Discovery
 Ledger Shredder
 Mabel, Heir to Cragflame
+Warren Warleader
+Watcher of the Spheres
 Martial Coup
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
+Cathars' Crusade
 Migratory Route
 Mind Stone
 Mountain
@@ -83,10 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
-Cathars' Crusade

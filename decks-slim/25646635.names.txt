@@ -42,18 +42,8 @@ Ink-Eyes, Servant of Oni
 Island
 Kaito, Bane of Nightmares
 Lim-Dûl's Vault
-Lotus Petal
-Louisoix's Sacrifice
-Mana Drain
-Memnite
-Misdirection
-Mist-Syndicate Naga
-Mistblade Shinobi
-Moon-Circuit Hacker
-Morphic Pool
-Mothdust Changeling
-Muddle the Mixture
 Negate
+Lotus Petal
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
@@ -91,6 +81,16 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
+Louisoix's Sacrifice
+Mana Drain
+Memnite
+Misdirection
+Mist-Syndicate Naga
+Mistblade Shinobi
+Moon-Circuit Hacker
+Morphic Pool
+Mothdust Changeling
+Muddle the Mixture
 Mystic Remora
 Mystic Sanctuary
 Mystical Tutor
