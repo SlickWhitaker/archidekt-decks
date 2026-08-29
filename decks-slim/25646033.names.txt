@@ -58,7 +58,6 @@ Misty Rainforest
 Mole Man, Moloid Master
 Mystic Sanctuary
 Nezahal, Primal Tide
-Sol Ring
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -68,6 +67,9 @@ Riverchurn Monument
 Rogue's Passage
 Shifting Woodland
 Snapcaster Mage
+Sol Ring
+Splendid Reclamation
+Springheart Nantuko
 Summon: Titan
 Swan Song
 Thassa's Oracle
@@ -92,5 +94,3 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-Splendid Reclamation
-Springheart Nantuko

@@ -660,6 +660,84 @@
       "text": "({T}: Add {W}.)"
     },
     {
+      "name": "Plains",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Plains",
+      "text": "({T}: Add {W}.)"
+    },
+    {
+      "name": "Port Town",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, you may reveal a Plains or Island card from your hand. If you don't, this land enters tapped.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Prairie Stream",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Island",
+      "text": "({T}: Add {W} or {U}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "Psychic Paper",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "As this Equipment becomes attached to a creature, choose a creature card name and a creature type.\nEquipped creature has ward {1}, it can't be blocked, and its name and creature type are the last chosen name and creature type.\nEquip {2}"
+    },
+    {
+      "name": "Raugrin Triome",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Island Mountain",
+      "text": "({T}: Add {U}, {R}, or {W}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)"
+    },
+    {
+      "name": "Regenerations Restored",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "Vanishing 12 (This enchantment enters with twelve time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhenever one or more time counters are removed from this enchantment, scry 1 and you gain 1 life. Then if this enchantment has no time counters on it, exile it. When you do, take an extra turn after this one."
+    },
+    {
       "name": "Rhystic Study",
       "quantity": 1,
       "board": "main",
@@ -686,18 +764,6 @@
       "manaValue": 4,
       "type": "Legendary Artifact — Vehicle",
       "text": "Flying, trample\nWhen RMS Titanic deals combat damage to a player, sacrifice it and create that many Treasure tokens.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)"
-    },
-    {
-      "name": "Plains",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Plains",
-      "text": "({T}: Add {W}.)"
     },
     {
       "name": "Rogue's Passage",
@@ -1055,100 +1121,6 @@
       "text": "At the beginning of your upkeep, put a time counter on The Moment.\n{2}, {T}: Untap target creature you control. It phases out until The Moment leaves the battlefield.\n{3}, {T}: Destroy each nonland permanent with mana value less than or equal to the number of time counters on The Moment. Then sacrifice The Moment. Activate only as a sorcery."
     },
     {
-      "name": "The Ninth Doctor",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Doctor Time Lord",
-      "text": "Haste\nInto the TARDIS — Whenever The Ninth Doctor becomes untapped during your untap step, you get an additional upkeep step after this step."
-    },
-    {
-      "name": "The Ozolith",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Legendary Artifact",
-      "text": "Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on The Ozolith.\nAt the beginning of combat on your turn, if The Ozolith has counters on it, you may move all counters from The Ozolith onto target creature."
-    },
-    {
-      "name": "The Pandorica",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Artifact",
-      "text": "You may choose not to untap The Pandorica during your untap step.\n{1}{W}, {T}: Untap another target nonland permanent, then it phases out. It can't phase in for as long as The Pandorica remains tapped. When The Pandorica becomes untapped or leaves the battlefield, that permanent phases in. Activate only as a sorcery."
-    },
-    {
-      "name": "The Parting of the Ways",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Enchantment — Saga",
-      "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Exile the top five cards of your library. For each nonland card exiled this way, put a number of time counters on that card equal to its mana value. If it doesn't have suspend, it gains suspend.\nII — Time travel, then time travel.\nIII — For each opponent, destroy up to one target artifact that player controls."
-    },
-    {
-      "name": "The War Doctor",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Red"
-      ],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Doctor Time Lord",
-      "text": "Whenever one or more other permanents phase out and whenever one or more other cards are put into exile from anywhere, put a time counter on The War Doctor.\nWhenever The War Doctor attacks, it deals damage equal to the number of time counters on it to any target. If a creature dealt damage this way would die this turn, exile it instead."
-    },
-    {
-      "name": "The Wedding of River Song",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Draw two cards, then you may exile a nonland card from your hand with a number of time counters on it equal to its mana value. Then target opponent does the same. Cards exiled this way that don't have suspend gain suspend.\nTime travel. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)"
-    },
-    {
-      "name": "Thespian's Stage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{2}, {T}: This land becomes a copy of target land, except it has this ability."
-    },
-    {
       "name": "Time Beetle",
       "quantity": 1,
       "board": "main",
@@ -1242,70 +1214,98 @@
       "text": "Allons-y! — Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn't have suspend, it gains suspend.\nTimey-Wimey — {7}: Time travel three times. Activate only as a sorcery. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do it two more times.)"
     },
     {
-      "name": "Port Town",
+      "name": "The Ninth Doctor",
       "quantity": 1,
       "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
+      "colors": [
+        "Red",
         "Blue"
       ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, you may reveal a Plains or Island card from your hand. If you don't, this land enters tapped.\n{T}: Add {W} or {U}."
-    },
-    {
-      "name": "Prairie Stream",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
       "colorIdentity": [
-        "White",
-        "Blue"
+        "Blue",
+        "Red"
       ],
-      "manaValue": 0,
-      "type": "Land — Plains Island",
-      "text": "({T}: Add {W} or {U}.)\nThis land enters tapped unless you control two or more basic lands."
+      "manaValue": 3,
+      "type": "Legendary Creature — Doctor Time Lord",
+      "text": "Haste\nInto the TARDIS — Whenever The Ninth Doctor becomes untapped during your untap step, you get an additional upkeep step after this step."
     },
     {
-      "name": "Psychic Paper",
+      "name": "The Ozolith",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "As this Equipment becomes attached to a creature, choose a creature card name and a creature type.\nEquipped creature has ward {1}, it can't be blocked, and its name and creature type are the last chosen name and creature type.\nEquip {2}"
+      "manaValue": 1,
+      "type": "Legendary Artifact",
+      "text": "Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on The Ozolith.\nAt the beginning of combat on your turn, if The Ozolith has counters on it, you may move all counters from The Ozolith onto target creature."
     },
     {
-      "name": "Raugrin Triome",
+      "name": "The Pandorica",
       "quantity": 1,
       "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue",
-        "Red"
+      "colors": [
+        "White"
       ],
-      "manaValue": 0,
-      "type": "Land — Plains Island Mountain",
-      "text": "({T}: Add {U}, {R}, or {W}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)"
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Artifact",
+      "text": "You may choose not to untap The Pandorica during your untap step.\n{1}{W}, {T}: Untap another target nonland permanent, then it phases out. It can't phase in for as long as The Pandorica remains tapped. When The Pandorica becomes untapped or leaves the battlefield, that permanent phases in. Activate only as a sorcery."
     },
     {
-      "name": "Regenerations Restored",
+      "name": "The Parting of the Ways",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Enchantment — Saga",
+      "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Exile the top five cards of your library. For each nonland card exiled this way, put a number of time counters on that card equal to its mana value. If it doesn't have suspend, it gains suspend.\nII — Time travel, then time travel.\nIII — For each opponent, destroy up to one target artifact that player controls."
+    },
+    {
+      "name": "The War Doctor",
       "quantity": 1,
       "board": "main",
       "colors": [
         "White",
-        "Blue"
+        "Red"
       ],
       "colorIdentity": [
         "White",
-        "Blue"
+        "Red"
       ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "Vanishing 12 (This enchantment enters with twelve time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhenever one or more time counters are removed from this enchantment, scry 1 and you gain 1 life. Then if this enchantment has no time counters on it, exile it. When you do, take an extra turn after this one."
+      "manaValue": 4,
+      "type": "Legendary Creature — Doctor Time Lord",
+      "text": "Whenever one or more other permanents phase out and whenever one or more other cards are put into exile from anywhere, put a time counter on The War Doctor.\nWhenever The War Doctor attacks, it deals damage equal to the number of time counters on it to any target. If a creature dealt damage this way would die this turn, exile it instead."
+    },
+    {
+      "name": "The Wedding of River Song",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Draw two cards, then you may exile a nonland card from your hand with a number of time counters on it equal to its mana value. Then target opponent does the same. Cards exiled this way that don't have suspend gain suspend.\nTime travel. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter.)"
+    },
+    {
+      "name": "Thespian's Stage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{2}, {T}: This land becomes a copy of target land, except it has this ability."
     }
   ]
 }

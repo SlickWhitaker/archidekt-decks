@@ -50,24 +50,13 @@ Lightning Greaves
 Llanowar Elves
 Mana Vault
 Misty Rainforest
-Veil of Summer
 Mountain
 Natural Order
 Nature's Claim
 Nature's Lore
 Nykthos, Shrine to Nyx
 Old Gnawbone
-Verdant Catacombs
 Orcish Lumberjack
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
-Kibo, Uktabi Prince
-Academy Manufactor
 Prismatic Vista
 Professional Face-Breaker
 Railway Brawler
@@ -92,3 +81,14 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Kibo, Uktabi Prince
+Academy Manufactor

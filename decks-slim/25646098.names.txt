@@ -31,29 +31,14 @@ Dragonskull Summit
 Evolving Wilds
 Exotic Orchard
 Fabled Passage
+Felidar Retreat
+Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
 Heroes in a Half Shell
 Heroic Intervention
 Hidden Hideout
-Hinterland Harbor
-Island
-Jetmir's Garden
-Kami of Whispered Hopes
-Kindred Dominance
-Kodama's Reach
-Lita, Little Orphan Amphibian
-Lotho, Corrupt Shirriff
-March of the Multitudes
-Michelangelo, Weirdness to 11
-Mikey & Leo, Chaos & Order
-Mirkwood Bats
-Mona Lisa, Science Geek
-Mondrak, Glory Dominus
-Mountain
-Ninja Pizza
-Ojer Taq, Deepest Foundation // Temple of Civilization
 Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
@@ -66,14 +51,28 @@ Reflecting Pool
 Rocco, Street Chef
 Shellshock
 Skullclamp
+Hinterland Harbor
+Island
+Jetmir's Garden
 Sodden Verdure
+Kami of Whispered Hopes
+Kindred Dominance
 Sol Ring
+Kodama's Reach
+Lita, Little Orphan Amphibian
+Lotho, Corrupt Shirriff
 Spire Garden
+March of the Multitudes
+Michelangelo, Weirdness to 11
+Mikey & Leo, Chaos & Order
+Mirkwood Bats
+Mona Lisa, Science Geek
 Splinter, the Mentor
+Mondrak, Glory Dominus
+Mountain
+Ninja Pizza
 Steelbane Hydra
-Stomping Ground
-Sunken Hollow
-Super Combo
+Ojer Taq, Deepest Foundation // Temple of Civilization
 Swamp
 Swan Song
 Swords to Plowshares
@@ -89,5 +88,6 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Felidar Retreat
-Forest
+Stomping Ground
+Sunken Hollow
+Super Combo

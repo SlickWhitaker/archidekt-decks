@@ -12,6 +12,18 @@ Boss's Chauffeur
 Calamity of Cinders
 Cartographer's Hawk
 Cascade Bluffs
+Castle Ardenvale
+Cayth, Famed Mechanist
+Clifftop Retreat
+Combat Celebrant
+Command Tower
+Curiosity Crafter
+Distant Melody
+Elspeth, Sun's Champion
+Empyrean Eagle
+Esior, Wardwing Familiar
+Evolving Wilds
+Exotic Orchard
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
@@ -78,15 +90,3 @@ Fiend Hunter
 Soulcatcher
 Academy Manufactor
 Cathars' Crusade
-Castle Ardenvale
-Cayth, Famed Mechanist
-Clifftop Retreat
-Combat Celebrant
-Command Tower
-Curiosity Crafter
-Distant Melody
-Elspeth, Sun's Champion
-Empyrean Eagle
-Esior, Wardwing Familiar
-Evolving Wilds
-Exotic Orchard
