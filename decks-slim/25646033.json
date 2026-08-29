@@ -783,6 +783,30 @@
       "text": "({T}: Add {U}.)\nThis land enters tapped unless you control three or more other Islands.\nWhen this land enters untapped, you may put target instant or sorcery card from your graveyard on top of your library."
     },
     {
+      "name": "Nezahal, Primal Tide",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 7,
+      "type": "Legendary Creature — Elder Dinosaur",
+      "text": "This spell can't be countered.\nYou have no maximum hand size.\nWhenever an opponent casts a noncreature spell, draw a card.\nDiscard three cards: Exile Nezahal. Return it to the battlefield tapped under its owner's control at the beginning of the next end step."
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
       "name": "Noxious Revival",
       "quantity": 1,
       "board": "main",
@@ -896,44 +920,6 @@
       "manaValue": 2,
       "type": "Creature — Human Wizard",
       "text": "Flash\nWhen this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"
-    },
-    {
-      "name": "Sol Ring",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
-    },
-    {
-      "name": "Splendid Reclamation",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Return all land cards from your graveyard to the battlefield tapped."
-    },
-    {
-      "name": "Springheart Nantuko",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Creature Enchantment — Monk Insect",
-      "text": "Bestow {1}{G}\nEnchanted creature gets +1/+1.\nLandfall — Whenever a land you control enters, you may pay {1}{G} if this permanent is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token."
     },
     {
       "name": "Summon: Titan",
@@ -1247,18 +1233,32 @@
       "text": "Sacrifice a land: You gain 2 life."
     },
     {
-      "name": "Nezahal, Primal Tide",
+      "name": "Splendid Reclamation",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Blue"
+        "Green"
       ],
       "colorIdentity": [
-        "Blue"
+        "Green"
       ],
-      "manaValue": 7,
-      "type": "Legendary Creature — Elder Dinosaur",
-      "text": "This spell can't be countered.\nYou have no maximum hand size.\nWhenever an opponent casts a noncreature spell, draw a card.\nDiscard three cards: Exile Nezahal. Return it to the battlefield tapped under its owner's control at the beginning of the next end step."
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Return all land cards from your graveyard to the battlefield tapped."
+    },
+    {
+      "name": "Springheart Nantuko",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature Enchantment — Monk Insect",
+      "text": "Bestow {1}{G}\nEnchanted creature gets +1/+1.\nLandfall — Whenever a land you control enters, you may pay {1}{G} if this permanent is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token."
     }
   ]
 }
