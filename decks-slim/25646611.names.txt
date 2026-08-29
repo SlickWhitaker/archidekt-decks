@@ -17,23 +17,9 @@ Chaos Warp
 Command Tower
 Deadly Rollick
 Deflecting Swat
-Descent into Avernus
-Dragonskull Summit
-Everlasting Torment
-Exquisite Blood
-Feed the Swarm
-Fellwar Stone
-Fiery Confluence
-Fire Covenant
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
+Descent into Avernus
 Kederekt Parasite
 Lightning Greaves
 Luxury Suite
@@ -68,20 +54,34 @@ Sulfuric Vortex
 Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
+Tainted Peak
 Takenuma, Abandoned Mire
 Talisman of Indulgence
-Tainted Peak
 Terminate
 The Lord of Pain
 The Meathook Massacre
 The One Ring
 Torment of Hailfire
 Underworld Dreams
-Scrawling Crawler
 Urborg, Tomb of Yawgmoth
 Vial Smasher the Fierce
 Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
+Scrawling Crawler
 Valgavoth, Harrower of Souls
+Dragonskull Summit
+Everlasting Torment
+Exquisite Blood
+Feed the Swarm
+Fellwar Stone
+Fiery Confluence
+Fire Covenant
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion

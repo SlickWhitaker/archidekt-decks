@@ -247,19 +247,6 @@
       "text": "{T}: Add {U}.\nChannel — {3}{U}, Discard this card: Return target artifact, creature, enchantment, or planeswalker to its owner's hand. This ability costs {1} less to activate for each legendary creature you control."
     },
     {
-      "name": "Bountiful Promenade",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {W}."
-    },
-    {
       "name": "Temple Garden",
       "quantity": 1,
       "board": "main",
@@ -273,6 +260,19 @@
       "text": "({T}: Add {G} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     },
     {
+      "name": "Bountiful Promenade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {W}."
+    },
+    {
       "name": "Sea of Clouds",
       "quantity": 1,
       "board": "main",
@@ -284,20 +284,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {U}."
-    },
-    {
-      "name": "Phyrexian Metamorph",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Creature Artifact — Shapeshifter Phyrexian",
-      "text": "({U/P} can be paid with either {U} or 2 life.)\nYou may have this creature enter as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types."
     },
     {
       "name": "Chulane, Teller of Tales",
@@ -316,6 +302,20 @@
       "manaValue": 5,
       "type": "Legendary Creature — Human Druid",
       "text": "Vigilance\nWhenever you cast a creature spell, draw a card, then you may put a land card from your hand onto the battlefield.\n{3}, {T}: Return target creature you control to its owner's hand."
+    },
+    {
+      "name": "Phyrexian Metamorph",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Creature Artifact — Shapeshifter Phyrexian",
+      "text": "({U/P} can be paid with either {U} or 2 life.)\nYou may have this creature enter as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types."
     },
     {
       "name": "Polluted Delta",
