@@ -43,6 +43,11 @@ Furycalm Snarl
 Cloud, Ex-SOLDIER
 Gongaga, Reactor Town
 Hard-Won Jitte
+Hellkite Tyrant
+Iron Hills Blacksmith
+Kíli the Resourceful
+Lightning Greaves
+Mask of Memory
 Path of Ancestry
 Path to Exile
 Plains
@@ -85,12 +90,7 @@ Vandalblast
 Wood Elves
 Yuffie, Materia Hunter
 Zack Fair
-Hellkite Tyrant
-Iron Hills Blacksmith
-Kíli the Resourceful
 Sword of Forge and Frontier
-Lightning Greaves
-Mask of Memory
 Mithril Coat
 Mossfire Valley
 Mountain

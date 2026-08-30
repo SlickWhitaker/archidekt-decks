@@ -556,20 +556,6 @@
       "text": "({T}: Add {U}.)"
     },
     {
-      "name": "Keeper of Keys",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Human Rogue Mutant",
-      "text": "When this creature enters, you become the monarch.\nAt the beginning of your upkeep, if you're the monarch, creatures you control can't be blocked this turn."
-    },
-    {
       "name": "Supreme Verdict",
       "quantity": 1,
       "board": "main",
@@ -829,6 +815,20 @@
       "manaValue": 5,
       "type": "Creature — Human Warrior",
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
+    },
+    {
+      "name": "Keeper of Keys",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Human Rogue Mutant",
+      "text": "When this creature enters, you become the monarch.\nAt the beginning of your upkeep, if you're the monarch, creatures you control can't be blocked this turn."
     },
     {
       "name": "Lossarnach Captain",

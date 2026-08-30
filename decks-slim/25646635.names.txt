@@ -38,15 +38,6 @@ Halimar Depths
 Higure, the Still Wind
 Hydroelectric Specimen // Hydroelectric Laboratory
 Ingenious Infiltrator
-Ink-Eyes, Servant of Oni
-Island
-Kaito, Bane of Nightmares
-Lim-Dûl's Vault
-Lotus Petal
-Louisoix's Sacrifice
-Mana Drain
-Memnite
-Misdirection
 Negate
 Ninja of the Deep Hours
 Opposition Agent
@@ -85,6 +76,15 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
+Ink-Eyes, Servant of Oni
+Island
+Kaito, Bane of Nightmares
+Lim-Dûl's Vault
+Lotus Petal
+Louisoix's Sacrifice
+Mana Drain
+Memnite
+Misdirection
 Mist-Syndicate Naga
 Mistblade Shinobi
 Moon-Circuit Hacker
