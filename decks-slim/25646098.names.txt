@@ -27,12 +27,6 @@ Cultivate
 Dimension X Pizzasaur
 Donatello, the Brains
 Doubling Season
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -91,3 +85,9 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
