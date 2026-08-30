@@ -955,20 +955,6 @@
       "text": "Whenever an opponent discards a card, you may draw a card."
     },
     {
-      "name": "Waste Not",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.\nWhenever an opponent discards a land card, add {B}{B}.\nWhenever an opponent discards a noncreature, nonland card, draw a card."
-    },
-    {
       "name": "Tinybones, Trinket Thief",
       "quantity": 1,
       "board": "commander",
@@ -981,6 +967,20 @@
       "manaValue": 2,
       "type": "Legendary Creature — Skeleton Rogue",
       "text": "At the beginning of each end step, if an opponent discarded a card this turn, you draw a card and you lose 1 life.\n{4}{B}{B}: Each opponent with no cards in hand loses 10 life."
+    },
+    {
+      "name": "Waste Not",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.\nWhenever an opponent discards a land card, add {B}{B}.\nWhenever an opponent discards a noncreature, nonland card, draw a card."
     }
   ]
 }

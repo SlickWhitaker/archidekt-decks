@@ -35,12 +35,6 @@ Exotic Orchard
 Farseek
 Fire-Lit Thicket
 Firion, Wild Rose Warrior
-Forest
-Forest
-Forest
-Fortified Village
-Furycalm Snarl
-Cloud, Ex-SOLDIER
 Gongaga, Reactor Town
 Hard-Won Jitte
 Hellkite Tyrant
@@ -97,4 +91,10 @@ Vandalblast
 Wood Elves
 Yuffie, Materia Hunter
 Zack Fair
+Forest
+Forest
+Forest
+Fortified Village
+Furycalm Snarl
+Cloud, Ex-SOLDIER
 Sword of Forge and Frontier

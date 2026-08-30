@@ -70,6 +70,7 @@ Selvala, Heart of the Wilds
 Shifting Woodland
 Skullclamp
 Sol Ring
+Veil of Summer
 Spire Garden
 Stomping Ground
 Strip Mine
@@ -80,9 +81,9 @@ The One Ring
 The Ozolith
 Three Visits
 Tooth and Nail
-Vandalblast
-Veil of Summer
 Verdant Catacombs
+Vandalblast
+Kibo, Uktabi Prince
 Wasteland
 Wheel of Misfortune
 Windswept Heath
@@ -90,5 +91,4 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Kibo, Uktabi Prince
 Academy Manufactor

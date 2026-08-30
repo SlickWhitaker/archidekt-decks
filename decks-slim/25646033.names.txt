@@ -68,7 +68,6 @@ Rogue's Passage
 Shifting Woodland
 Snapcaster Mage
 Summon: Titan
-Swan Song
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
@@ -93,4 +92,5 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Swan Song
 Thassa's Oracle

@@ -46,7 +46,7 @@
       "namesFile": "25645591.names.txt",
       "cardsFile": "25645591.cards.jsonl",
       "metaFile": "25645591.meta.json",
-      "fullBytes": 231122,
+      "fullBytes": 231094,
       "analysisBytes": 23173,
       "reductionPercent": 90.0
     },
@@ -71,7 +71,7 @@
       "namesFile": "25645631.names.txt",
       "cardsFile": "25645631.cards.jsonl",
       "metaFile": "25645631.meta.json",
-      "fullBytes": 286395,
+      "fullBytes": 286378,
       "analysisBytes": 29062,
       "reductionPercent": 89.9
     },
@@ -202,7 +202,7 @@
       "namesFile": "25646033.names.txt",
       "cardsFile": "25646033.cards.jsonl",
       "metaFile": "25646033.meta.json",
-      "fullBytes": 292605,
+      "fullBytes": 292620,
       "analysisBytes": 30510,
       "reductionPercent": 89.6
     },
@@ -227,7 +227,7 @@
       "namesFile": "25646062.names.txt",
       "cardsFile": "25646062.cards.jsonl",
       "metaFile": "25646062.meta.json",
-      "fullBytes": 259669,
+      "fullBytes": 259684,
       "analysisBytes": 27610,
       "reductionPercent": 89.4
     },
@@ -355,7 +355,7 @@
       "namesFile": "25646499.names.txt",
       "cardsFile": "25646499.cards.jsonl",
       "metaFile": "25646499.meta.json",
-      "fullBytes": 257378,
+      "fullBytes": 257440,
       "analysisBytes": 27695,
       "reductionPercent": 89.2
     },
@@ -505,7 +505,7 @@
       "namesFile": "25764763.names.txt",
       "cardsFile": "25764763.cards.jsonl",
       "metaFile": "25764763.meta.json",
-      "fullBytes": 222005,
+      "fullBytes": 222004,
       "analysisBytes": 24522,
       "reductionPercent": 89.0
     },
