@@ -1195,29 +1195,6 @@
       "text": "Ninjutsu {1}{R} ({1}{R}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhen Yuffie enters, gain control of target noncreature artifact for as long as you control Yuffie. Then you may attach an Equipment you control to Yuffie."
     },
     {
-      "name": "Mithril Coat",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Legendary Artifact — Equipment",
-      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
-    },
-    {
-      "name": "Mossfire Valley",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{1}, {T}: Add {R}{G}."
-    },
-    {
       "name": "Zack Fair",
       "quantity": 1,
       "board": "main",
@@ -1240,6 +1217,29 @@
       "manaValue": 3,
       "type": "Artifact — Equipment",
       "text": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}"
+    },
+    {
+      "name": "Mithril Coat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
+    },
+    {
+      "name": "Mossfire Valley",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{1}, {T}: Add {R}{G}."
     },
     {
       "name": "Mountain",
