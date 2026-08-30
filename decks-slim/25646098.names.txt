@@ -25,8 +25,6 @@ City of Brass
 Command Tower
 Cultivate
 Dimension X Pizzasaur
-Donatello, the Brains
-Doubling Season
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -85,6 +83,8 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
+Donatello, the Brains
+Doubling Season
 Dragonskull Summit
 Evolving Wilds
 Exotic Orchard

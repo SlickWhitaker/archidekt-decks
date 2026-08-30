@@ -876,6 +876,28 @@
       "text": "{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)\nExhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)"
     },
     {
+      "name": "Rogue's Passage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."
+    },
+    {
+      "name": "Shifting Woodland",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Forest.\n{T}: Add {G}.\nDelirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard."
+    },
+    {
       "name": "Sol Ring",
       "quantity": 1,
       "board": "main",
@@ -898,16 +920,6 @@
       "manaValue": 4,
       "type": "Sorcery",
       "text": "Return all land cards from your graveyard to the battlefield tapped."
-    },
-    {
-      "name": "Rogue's Passage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."
     },
     {
       "name": "Springheart Nantuko",
@@ -936,18 +948,6 @@
       "manaValue": 5,
       "type": "Creature Enchantment — Saga Giant",
       "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Mill five cards.\nII — Return all land cards from your graveyard to the battlefield tapped.\nIII — Until end of turn, another target creature you control gains trample and gets +X/+X, where X is the number of lands you control.\nReach, trample"
-    },
-    {
-      "name": "Shifting Woodland",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Forest.\n{T}: Add {G}.\nDelirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard."
     },
     {
       "name": "Swan Song",

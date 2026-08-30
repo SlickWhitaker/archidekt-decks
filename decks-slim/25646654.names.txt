@@ -17,6 +17,13 @@ Cayth, Famed Mechanist
 Clifftop Retreat
 Combat Celebrant
 Command Tower
+Curiosity Crafter
+Distant Melody
+Elspeth, Sun's Champion
+Empyrean Eagle
+Esior, Wardwing Familiar
+Evolving Wilds
+Exotic Orchard
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
@@ -30,6 +37,13 @@ Kindred Discovery
 Ledger Shredder
 Mabel, Heir to Cragflame
 Martial Coup
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
+Cathars' Crusade
 Migratory Route
 Mind Stone
 Mountain
@@ -76,17 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
-Cathars' Crusade
-Curiosity Crafter
-Distant Melody
-Elspeth, Sun's Champion
-Empyrean Eagle
-Esior, Wardwing Familiar
-Evolving Wilds
-Exotic Orchard
