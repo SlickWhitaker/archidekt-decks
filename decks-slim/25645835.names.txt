@@ -59,12 +59,12 @@ Rory Williams
 Rotating Fireplace
 Run for Your Life
 Sally Sparrow
-Sea of Clouds
-Sol Ring
 Sonic Screwdriver
+Sea of Clouds
 Spectator Seating
 Star Whale
 Storm-Kiln Artist
+Sol Ring
 Stormcarved Coast
 Strionic Resonator
 Sunbaked Canyon
@@ -85,6 +85,9 @@ The Ninth Doctor
 The Ozolith
 The Pandorica
 The Parting of the Ways
+The War Doctor
+The Wedding of River Song
+Thespian's Stage
 Time Beetle
 Training Center
 Trenzalore Clocktower
@@ -92,6 +95,3 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-The War Doctor
-The Wedding of River Song
-Thespian's Stage

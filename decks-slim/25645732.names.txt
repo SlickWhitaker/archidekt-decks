@@ -35,20 +35,14 @@ Exotic Orchard
 Farseek
 Fire-Lit Thicket
 Firion, Wild Rose Warrior
+Forest
+Forest
+Forest
+Fortified Village
+Furycalm Snarl
+Cloud, Ex-SOLDIER
 Gongaga, Reactor Town
 Hard-Won Jitte
-Hellkite Tyrant
-Iron Hills Blacksmith
-Kíli the Resourceful
-Lightning Greaves
-Mask of Memory
-Mithril Coat
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
 Path of Ancestry
 Path to Exile
 Plains
@@ -91,10 +85,16 @@ Vandalblast
 Wood Elves
 Yuffie, Materia Hunter
 Zack Fair
-Forest
-Forest
-Forest
-Fortified Village
-Furycalm Snarl
-Cloud, Ex-SOLDIER
+Hellkite Tyrant
+Iron Hills Blacksmith
+Kíli the Resourceful
 Sword of Forge and Frontier
+Lightning Greaves
+Mask of Memory
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will

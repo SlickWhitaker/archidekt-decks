@@ -51,6 +51,13 @@ Plumecreed Escort
 Pollywog Prodigy
 Rally the Ranks
 Rapid Augmenter
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
+Cathars' Crusade
 Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage
@@ -71,13 +78,6 @@ Steam Vents
 Storm of Souls
 Sulfur Falls
 Sunscorched Divide
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
-Cathars' Crusade
 Swords to Plowshares
 Temple of Enlightenment
 Temple of Triumph
