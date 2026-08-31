@@ -739,6 +739,119 @@
       "text": "Changeling (This card is every creature type.)\nConvoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nYou may have this creature enter as a copy of any creature on the battlefield, except it has changeling."
     },
     {
+      "name": "Opulent Palace",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {B}, {G}, or {U}."
+    },
+    {
+      "name": "Oran-Rief Ooze",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Ooze",
+      "text": "When this creature enters, put a +1/+1 counter on target creature you control.\nWhenever this creature attacks, put a +1/+1 counter on each attacking creature with a +1/+1 counter on it."
+    },
+    {
+      "name": "Overgrown Tomb",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Swamp Forest",
+      "text": "({T}: Add {B} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Ozolith, the Shattered Spire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Artifact",
+      "text": "If one or more +1/+1 counters would be put on an artifact or creature you control, that many plus one +1/+1 counters are put on it instead.\n{1}{G}, {T}: Put a +1/+1 counter on target artifact or creature you control. Activate only as a sorcery.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+    },
+    {
+      "name": "Parallel Lives",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
+    },
+    {
+      "name": "Patchwork Banner",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\n{T}: Add one mana of any color."
+    },
+    {
+      "name": "Path of Ancestry",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    },
+    {
+      "name": "Phantasmal Image",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Illusion",
+      "text": "You may have this creature enter as a copy of any creature on the battlefield, except it's an Illusion in addition to its other types and it has \"When this creature becomes the target of a spell or ability, sacrifice it.\""
+    },
+    {
+      "name": "Phyrexian Altar",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "Sacrifice a creature: Add one mana of any color."
+    },
+    {
       "name": "Phyrexian Tower",
       "quantity": 1,
       "board": "main",
@@ -893,20 +1006,6 @@
       "text": "{T}: Add {C}{C}."
     },
     {
-      "name": "Opulent Palace",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue",
-        "Black",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {B}, {G}, or {U}."
-    },
-    {
       "name": "Springleaf Parade",
       "quantity": 1,
       "board": "main",
@@ -1043,20 +1142,6 @@
       "text": "Indestructible\n{T}: Add {B}.\n{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)\n∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield."
     },
     {
-      "name": "Oran-Rief Ooze",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Ooze",
-      "text": "When this creature enters, put a +1/+1 counter on target creature you control.\nWhenever this creature attacks, put a +1/+1 counter on each attacking creature with a +1/+1 counter on it."
-    },
-    {
       "name": "Three Tree City",
       "quantity": 1,
       "board": "main",
@@ -1108,19 +1193,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {B} or {G}."
-    },
-    {
-      "name": "Overgrown Tomb",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Swamp Forest",
-      "text": "({T}: Add {B} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     },
     {
       "name": "Urborg, Tomb of Yawgmoth",
@@ -1179,20 +1251,6 @@
       "text": "This land enters tapped unless you control a Swamp or a Forest.\n{T}: Add {B} or {G}."
     },
     {
-      "name": "Ozolith, the Shattered Spire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Artifact",
-      "text": "If one or more +1/+1 counters would be put on an artifact or creature you control, that many plus one +1/+1 counters are put on it instead.\n{1}{G}, {T}: Put a +1/+1 counter on target artifact or creature you control. Activate only as a sorcery.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-    },
-    {
       "name": "Yavimaya, Cradle of Growth",
       "quantity": 1,
       "board": "main",
@@ -1215,64 +1273,6 @@
       "manaValue": 0,
       "type": "Land — Island Swamp Forest",
       "text": "({T}: Add {B}, {G}, or {U}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)"
-    },
-    {
-      "name": "Parallel Lives",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
-    },
-    {
-      "name": "Patchwork Banner",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\n{T}: Add one mana of any color."
-    },
-    {
-      "name": "Path of Ancestry",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
-    },
-    {
-      "name": "Phantasmal Image",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Illusion",
-      "text": "You may have this creature enter as a copy of any creature on the battlefield, except it's an Illusion in addition to its other types and it has \"When this creature becomes the target of a spell or ability, sacrifice it.\""
-    },
-    {
-      "name": "Phyrexian Altar",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "Sacrifice a creature: Add one mana of any color."
     }
   ]
 }

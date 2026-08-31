@@ -49,8 +49,17 @@ Krosan Grip
 Lightning Greaves
 Llanowar Elves
 Mana Vault
+Misty Rainforest
+Mountain
+Natural Order
 Veil of Summer
+Nature's Claim
+Nature's Lore
+Nykthos, Shrine to Nyx
+Old Gnawbone
+Orcish Lumberjack
 Verdant Catacombs
+Prismatic Vista
 Wasteland
 Wheel of Misfortune
 Windswept Heath
@@ -58,23 +67,14 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Kibo, Uktabi Prince
-Academy Manufactor
-Misty Rainforest
-Mountain
-Natural Order
-Nature's Claim
-Nature's Lore
-Nykthos, Shrine to Nyx
-Old Gnawbone
-Orcish Lumberjack
-Prismatic Vista
 Professional Face-Breaker
+Kibo, Uktabi Prince
 Railway Brawler
 Rhythm of the Wild
 Rishkar's Expertise
 Rockfall Vale
 Rootbound Crag
+Academy Manufactor
 Scalding Tarn
 Seedborn Muse
 Selvala, Heart of the Wilds

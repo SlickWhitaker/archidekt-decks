@@ -163,6 +163,20 @@
       "text": "Counter target spell.\nAt the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the game."
     },
     {
+      "name": "Carpet of Flowers",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment",
+      "text": "At the beginning of each of your main phases, if you haven't added mana with this ability this turn, you may add X mana of any one color, where X is the number of Islands target opponent controls."
+    },
+    {
       "name": "Swords to Plowshares",
       "quantity": 1,
       "board": "main",
@@ -175,6 +189,21 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Exile target creature. Its controller gains life equal to its power."
+    },
+    {
+      "name": "Emiel the Blessed",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Unicorn",
+      "text": "{3}: Exile another target creature you control, then return it to the battlefield under its owner's control.\nWhenever another creature you control enters, you may pay {G/W}. If you do, put a +1/+1 counter on it. If it's a Unicorn, put two +1/+1 counters on it instead. ({G/W} can be paid with either {G} or {W}.)"
     },
     {
       "name": "Noble Hierarch",
@@ -191,35 +220,6 @@
       "manaValue": 1,
       "type": "Creature — Human Druid",
       "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{T}: Add {G}, {W}, or {U}."
-    },
-    {
-      "name": "Carpet of Flowers",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Enchantment",
-      "text": "At the beginning of each of your main phases, if you haven't added mana with this ability this turn, you may add X mana of any one color, where X is the number of Islands target opponent controls."
-    },
-    {
-      "name": "Emiel the Blessed",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Unicorn",
-      "text": "{3}: Exile another target creature you control, then return it to the battlefield under its owner's control.\nWhenever another creature you control enters, you may pay {G/W}. If you do, put a +1/+1 counter on it. If it's a Unicorn, put two +1/+1 counters on it instead. ({G/W} can be paid with either {G} or {W}.)"
     },
     {
       "name": "Hallowed Fountain",
