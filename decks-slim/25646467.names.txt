@@ -31,6 +31,11 @@ Goblin Sharpshooter
 Goblin Trashmaster
 Goblin Warchief
 Heat Shimmer
+Goro-Goro, Disciple of Ryusei
+Great Train Heist
+Grenzo, Havoc Raiser
+Hanweir Battlements
+Hazoret's Monument
 Hobgoblin Bandit Lord
 Illusionist's Bracers
 Impact Tremors
@@ -69,8 +74,4 @@ Urza's Incubator
 Valakut Exploration
 Zealous Conscripts
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-Goro-Goro, Disciple of Ryusei
-Great Train Heist
-Grenzo, Havoc Raiser
-Hanweir Battlements
-Hazoret's Monument
+War Room

@@ -1,11 +1,8 @@
-Michelangelo, the Heart
-Leonardo, the Balance
 Academy Manufactor
 Adrix and Nev, Twincasters
 Anguished Unmaking
 Anim Pakal, Thousandth Moon
 April O'Neil, Live on the Scene
-Arasta of the Endless Web
 Arcane Signet
 Ash Barrens
 Assassin's Trophy
@@ -45,6 +42,17 @@ Jetmir's Garden
 Kami of Whispered Hopes
 Kindred Dominance
 Kodama's Reach
+Lita, Little Orphan Amphibian
+Lotho, Corrupt Shirriff
+March of the Multitudes
+Michelangelo, Weirdness to 11
+Mikey & Leo, Chaos & Order
+Mirkwood Bats
+Mona Lisa, Science Geek
+Mondrak, Glory Dominus
+Mountain
+Ninja Pizza
+Ojer Taq, Deepest Foundation // Temple of Civilization
 Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
@@ -80,14 +88,6 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Lita, Little Orphan Amphibian
-Lotho, Corrupt Shirriff
-March of the Multitudes
-Michelangelo, Weirdness to 11
-Mikey & Leo, Chaos & Order
-Mirkwood Bats
-Mona Lisa, Science Geek
-Mondrak, Glory Dominus
-Mountain
-Ninja Pizza
-Ojer Taq, Deepest Foundation // Temple of Civilization
+Michelangelo, the Heart
+Leonardo, the Balance
+Bristly Bill, Spine Sower

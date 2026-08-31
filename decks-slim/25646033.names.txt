@@ -49,6 +49,15 @@ Life from the Loam
 Lilypad Village
 Long River Lurker
 Lotus Cobra
+Mana Confluence
+Mana Drain
+Mesmeric Orb
+Millikin
+Mistrise Village
+Misty Rainforest
+Mole Man, Moloid Master
+Mystic Sanctuary
+Nezahal, Primal Tide
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -58,12 +67,10 @@ Riverchurn Monument
 Rogue's Passage
 Shifting Woodland
 Snapcaster Mage
+Summon: Titan
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
-Summon: Titan
-Swan Song
-Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
 The Unagi of Kyoshi Island
@@ -85,12 +92,5 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-Mana Confluence
-Mana Drain
-Mesmeric Orb
-Millikin
-Mistrise Village
-Misty Rainforest
-Mole Man, Moloid Master
-Mystic Sanctuary
-Nezahal, Primal Tide
+Swan Song
+Thassa's Oracle

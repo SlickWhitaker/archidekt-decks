@@ -20,10 +20,6 @@ Command Tower
 Curiosity Crafter
 Distant Melody
 Elspeth, Sun's Champion
-Empyrean Eagle
-Esior, Wardwing Familiar
-Evolving Wilds
-Exotic Orchard
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
@@ -41,13 +37,6 @@ Migratory Route
 Mind Stone
 Mountain
 Murmuration
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
-Cathars' Crusade
 Mystic Monastery
 Nesting Dovehawk
 Ornithopter of Paradise
@@ -90,3 +79,14 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
+Cathars' Crusade
+Empyrean Eagle
+Esior, Wardwing Familiar
+Evolving Wilds
+Exotic Orchard

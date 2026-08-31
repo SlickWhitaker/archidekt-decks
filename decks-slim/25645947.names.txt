@@ -22,10 +22,6 @@ Caves of Koilos
 Champion of Dusk
 Charismatic Conqueror
 Chrome Mox
-Herald's Horn
-Isolated Chapel
-Kalitas, Traitor of Ghet
-Legion Lieutenant
 Command Tower
 Cordial Vampire
 Cruel Celebrant
@@ -37,12 +33,17 @@ Drana and Linvala
 Elenda, the Dusk Rose
 Esper Sentinel
 Exquisite Blood
+Flawless Maneuver
+Generous Gift
+Godless Shrine
+Herald's Horn
+Isolated Chapel
+Kalitas, Traitor of Ghet
+Legion Lieutenant
 Legion's Landing // Adanto, the First Fort
 Living Death
-Flawless Maneuver
 Luxury Suite
 Marsh Flats
-Generous Gift
 Minas Tirith
 Mondrak, Glory Dominus
 Mountain
@@ -50,24 +51,11 @@ Necropotence
 Nomad Outpost
 Ocelot Pride
 Olivia, Crimson Bride
+Plains
 Path of Ancestry
 Path to Exile
 Patriarch's Bidding
 Phyrexian Altar
-Plains
-Razaketh, the Foulblooded
-Reconnaissance
-Roaming Throne
-Sacred Foundry
-Sanctum Seeker
-Sanguine Bond
-Savai Triome
-Secluded Courtyard
-Shared Animosity
-Skullclamp
-Sol Ring
-Sorin, Imperious Bloodlord
-Spectator Seating
 Stromkirk Captain
 Swamp
 Swords to Plowshares
@@ -88,4 +76,16 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Godless Shrine
+Razaketh, the Foulblooded
+Reconnaissance
+Roaming Throne
+Sacred Foundry
+Sanctum Seeker
+Sanguine Bond
+Savai Triome
+Secluded Courtyard
+Shared Animosity
+Skullclamp
+Sol Ring
+Sorin, Imperious Bloodlord
+Spectator Seating

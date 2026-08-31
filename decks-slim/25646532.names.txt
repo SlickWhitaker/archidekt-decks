@@ -39,7 +39,6 @@ Mind Stone
 Mindlash Sliver
 Necrogen Mists
 Necrogoyf
-Geth's Grimoire
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
 Oppression
@@ -69,5 +68,6 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
-Waste Not
+Geth's Grimoire
 Tinybones, Trinket Thief
+Waste Not
