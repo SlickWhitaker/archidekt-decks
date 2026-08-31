@@ -39,30 +39,20 @@ Halo Fountain
 Heroes in a Half Shell
 Heroic Intervention
 Hidden Hideout
+Hinterland Harbor
+Island
+Jetmir's Garden
+Kami of Whispered Hopes
+Kindred Dominance
+Kodama's Reach
 Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
 Plains
 Plaza of Heroes
-Hinterland Harbor
 Raffine's Tower
-Island
-Jetmir's Garden
 Raphael, the Muscle
-Kami of Whispered Hopes
-Kindred Dominance
-Kodama's Reach
-Lita, Little Orphan Amphibian
-Lotho, Corrupt Shirriff
-March of the Multitudes
-Michelangelo, Weirdness to 11
-Mikey & Leo, Chaos & Order
-Mirkwood Bats
-Mona Lisa, Science Geek
-Mondrak, Glory Dominus
-Mountain
-Ninja Pizza
-Ojer Taq, Deepest Foundation // Temple of Civilization
+Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
@@ -90,4 +80,14 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Rat King, Pale Piper
+Lita, Little Orphan Amphibian
+Lotho, Corrupt Shirriff
+March of the Multitudes
+Michelangelo, Weirdness to 11
+Mikey & Leo, Chaos & Order
+Mirkwood Bats
+Mona Lisa, Science Geek
+Mondrak, Glory Dominus
+Mountain
+Ninja Pizza
+Ojer Taq, Deepest Foundation // Temple of Civilization

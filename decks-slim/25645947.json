@@ -335,6 +335,59 @@
       "text": "Imprint — When this artifact enters, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors."
     },
     {
+      "name": "Herald's Horn",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "As this artifact enters, choose a creature type.\nCreature spells you cast of the chosen type cost {1} less to cast.\nAt the beginning of your upkeep, look at the top card of your library. If it's a creature card of the chosen type, you may reveal it and put it into your hand."
+    },
+    {
+      "name": "Isolated Chapel",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B}."
+    },
+    {
+      "name": "Kalitas, Traitor of Ghet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Vampire Warrior",
+      "text": "Lifelink\nIf a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.\n{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas."
+    },
+    {
+      "name": "Legion Lieutenant",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Knight Vampire",
+      "text": "Other Vampires you control get +1/+1."
+    },
+    {
       "name": "Command Tower",
       "quantity": 1,
       "board": "main",
@@ -491,116 +544,6 @@
       "text": "Whenever an opponent loses life, you gain that much life."
     },
     {
-      "name": "Flawless Maneuver",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCreatures you control gain indestructible until end of turn."
-    },
-    {
-      "name": "Generous Gift",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Destroy target permanent. Its controller creates a 3/3 green Elephant creature token."
-    },
-    {
-      "name": "Herald's Horn",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "As this artifact enters, choose a creature type.\nCreature spells you cast of the chosen type cost {1} less to cast.\nAt the beginning of your upkeep, look at the top card of your library. If it's a creature card of the chosen type, you may reveal it and put it into your hand."
-    },
-    {
-      "name": "Isolated Chapel",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B}."
-    },
-    {
-      "name": "Kalitas, Traitor of Ghet",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Vampire Warrior",
-      "text": "Lifelink\nIf a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.\n{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas."
-    },
-    {
-      "name": "Legion Lieutenant",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Black"
-      ],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Knight Vampire",
-      "text": "Other Vampires you control get +1/+1."
-    },
-    {
-      "name": "Godless Shrine",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Swamp",
-      "text": "({T}: Add {W} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
-    },
-    {
-      "name": "Olivia, Crimson Bride",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Legendary Creature — Vampire Noble",
-      "text": "Flying, haste\nWhenever Olivia attacks, return target creature card from your graveyard to the battlefield tapped and attacking. It gains \"When you don't control a legendary Vampire, exile this creature.\""
-    },
-    {
       "name": "Legion's Landing // Adanto, the First Fort",
       "quantity": 1,
       "board": "main",
@@ -629,6 +572,20 @@
       "text": "Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield."
     },
     {
+      "name": "Flawless Maneuver",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCreatures you control gain indestructible until end of turn."
+    },
+    {
       "name": "Luxury Suite",
       "quantity": 1,
       "board": "main",
@@ -650,6 +607,20 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Generous Gift",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Destroy target permanent. Its controller creates a 3/3 green Elephant creature token."
     },
     {
       "name": "Minas Tirith",
@@ -730,6 +701,22 @@
       "manaValue": 1,
       "type": "Creature — Cat",
       "text": "First strike, lifelink\nAscend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)\nAt the beginning of your end step, if you gained life this turn, create a 1/1 white Cat creature token. Then if you have the city's blessing, for each token you control that entered this turn, create a token that's a copy of it."
+    },
+    {
+      "name": "Olivia, Crimson Bride",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Vampire Noble",
+      "text": "Flying, haste\nWhenever Olivia attacks, return target creature card from your graveyard to the battlefield tapped and attacking. It gains \"When you don't control a legendary Vampire, exile this creature.\""
     },
     {
       "name": "Path of Ancestry",
@@ -1223,6 +1210,19 @@
       "manaValue": 6,
       "type": "Legendary Creature — Knight Vampire",
       "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
+    },
+    {
+      "name": "Godless Shrine",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Swamp",
+      "text": "({T}: Add {W} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     }
   ]
 }

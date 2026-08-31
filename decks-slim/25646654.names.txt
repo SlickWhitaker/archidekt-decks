@@ -40,6 +40,7 @@ Martial Coup
 Migratory Route
 Mind Stone
 Mountain
+Murmuration
 Warren Warleader
 Watcher of the Spheres
 Zinnia, Valley's Voice
@@ -47,7 +48,6 @@ Fiend Hunter
 Soulcatcher
 Academy Manufactor
 Cathars' Crusade
-Murmuration
 Mystic Monastery
 Nesting Dovehawk
 Ornithopter of Paradise

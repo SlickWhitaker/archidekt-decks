@@ -584,6 +584,20 @@
       "text": "({T}: Add {R}.)"
     },
     {
+      "name": "Murmuration",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Birds you control get +1/+1 and have vigilance.\nAt the beginning of your end step, for each spell you've cast this turn, create a 1/2 blue Bird creature token with flying named Storm Crow."
+    },
+    {
       "name": "Warren Warleader",
       "quantity": 1,
       "board": "main",
@@ -682,20 +696,6 @@
       "manaValue": 5,
       "type": "Enchantment",
       "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
-    },
-    {
-      "name": "Murmuration",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Birds you control get +1/+1 and have vigilance.\nAt the beginning of your end step, for each spell you've cast this turn, create a 1/2 blue Bird creature token with flying named Storm Crow."
     },
     {
       "name": "Mystic Monastery",

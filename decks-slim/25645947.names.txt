@@ -22,6 +22,10 @@ Caves of Koilos
 Champion of Dusk
 Charismatic Conqueror
 Chrome Mox
+Herald's Horn
+Isolated Chapel
+Kalitas, Traitor of Ghet
+Legion Lieutenant
 Command Tower
 Cordial Vampire
 Cruel Celebrant
@@ -33,24 +37,19 @@ Drana and Linvala
 Elenda, the Dusk Rose
 Esper Sentinel
 Exquisite Blood
-Flawless Maneuver
-Generous Gift
-Herald's Horn
-Isolated Chapel
-Kalitas, Traitor of Ghet
-Legion Lieutenant
-Godless Shrine
-Olivia, Crimson Bride
 Legion's Landing // Adanto, the First Fort
 Living Death
+Flawless Maneuver
 Luxury Suite
 Marsh Flats
+Generous Gift
 Minas Tirith
 Mondrak, Glory Dominus
 Mountain
 Necropotence
 Nomad Outpost
 Ocelot Pride
+Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
 Patriarch's Bidding
@@ -89,3 +88,4 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
+Godless Shrine

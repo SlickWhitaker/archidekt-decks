@@ -658,6 +658,16 @@
       "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
     },
     {
+      "name": "Mask of Memory",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+    },
+    {
       "name": "Path of Ancestry",
       "quantity": 1,
       "board": "main",
@@ -716,16 +726,6 @@
       "manaValue": 0,
       "type": "Basic Land — Plains",
       "text": "({T}: Add {W}.)"
-    },
-    {
-      "name": "Mask of Memory",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
     },
     {
       "name": "Professional Face-Breaker",
@@ -854,16 +854,6 @@
       "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
     },
     {
-      "name": "Mithril Coat",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Legendary Artifact — Equipment",
-      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
-    },
-    {
       "name": "Sephiroth, Fallen Hero",
       "quantity": 1,
       "board": "main",
@@ -930,19 +920,6 @@
       "text": "{T}: Add {C}.\n{R}{W}, {T}: Target creature gets +2/+0 and gains vigilance and haste until end of turn."
     },
     {
-      "name": "Mossfire Valley",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{1}, {T}: Add {R}{G}."
-    },
-    {
       "name": "Sol Ring",
       "quantity": 1,
       "board": "main",
@@ -1003,18 +980,6 @@
       "manaValue": 4,
       "type": "Creature Enchantment — Wizard Saga",
       "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Judgment Bolt — This creature deals damage equal to the number of noncreature, nonland cards in your graveyard to target creature an opponent controls.\nII, III — Wizards you control get +1/+0 until end of turn."
-    },
-    {
-      "name": "Mountain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
     },
     {
       "name": "Summon: Kujata",
@@ -1252,6 +1217,41 @@
       "manaValue": 3,
       "type": "Artifact — Equipment",
       "text": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}"
+    },
+    {
+      "name": "Mithril Coat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
+    },
+    {
+      "name": "Mossfire Valley",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{1}, {T}: Add {R}{G}."
+    },
+    {
+      "name": "Mountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
     },
     {
       "name": "Mountain",

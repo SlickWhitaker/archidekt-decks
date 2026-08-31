@@ -67,28 +67,28 @@ Rootbound Crag
 Scalding Tarn
 Seedborn Muse
 Selvala, Heart of the Wilds
+Veil of Summer
 Shifting Woodland
+Verdant Catacombs
 Skullclamp
 Sol Ring
 Spire Garden
 Stomping Ground
+Wasteland
+Wheel of Misfortune
 Strip Mine
+Windswept Heath
 Sylvan Library
+Wooded Foothills
 Terror of the Peaks
 The Great Henge
 The One Ring
-The Ozolith
-Three Visits
-Tooth and Nail
-Vandalblast
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
 Worldly Tutor
+The Ozolith
 Yavimaya, Cradle of Growth
 Zealous Conscripts
+Three Visits
+Tooth and Nail
 Kibo, Uktabi Prince
+Vandalblast
 Academy Manufactor

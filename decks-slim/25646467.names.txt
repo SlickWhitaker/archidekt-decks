@@ -31,11 +31,6 @@ Goblin Sharpshooter
 Goblin Trashmaster
 Goblin Warchief
 Heat Shimmer
-Goro-Goro, Disciple of Ryusei
-Great Train Heist
-Grenzo, Havoc Raiser
-Hanweir Battlements
-Hazoret's Monument
 Hobgoblin Bandit Lord
 Illusionist's Bracers
 Impact Tremors
@@ -45,9 +40,6 @@ Kiki-Jiki, Mirror Breaker
 Krenko, Tin Street Kingpin
 Legion Loyalist
 Lightning Greaves
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 Mana Echoes
 Marvin, Murderous Mimic
 Metallic Mimic
@@ -74,3 +66,11 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+Goro-Goro, Disciple of Ryusei
+Great Train Heist
+Grenzo, Havoc Raiser
+Hanweir Battlements
+Hazoret's Monument
