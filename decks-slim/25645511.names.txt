@@ -20,6 +20,7 @@ Akul the Unrepentant
 Command Tower
 Deadly Dispute
 Descent into Avernus
+Dragonskull Summit
 Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
@@ -33,24 +34,6 @@ Grave Titan
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
-Hordeling Outburst
-Infernal Grasp
-It That Betrays
-Jet Medallion
-Krenko, Mob Boss
-Krenko, Tin Street Kingpin
-Krenko's Command
-Lagomos, Hand of Hatred
-Mahadi, Emporium Master
-Mind Stone
-Morbid Opportunist
-Mountain
-Myriad Landscape
-Night's Whisper
-Orca, Siege Demon
-Overseer of the Damned
-Pathrazer of Ulamog
-Phyrexian Triniform
 Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
@@ -83,4 +66,21 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
-Dragonskull Summit
+Hordeling Outburst
+Infernal Grasp
+It That Betrays
+Jet Medallion
+Krenko, Mob Boss
+Krenko, Tin Street Kingpin
+Krenko's Command
+Lagomos, Hand of Hatred
+Mahadi, Emporium Master
+Mind Stone
+Morbid Opportunist
+Mountain
+Myriad Landscape
+Night's Whisper
+Orca, Siege Demon
+Overseer of the Damned
+Pathrazer of Ulamog
+Phyrexian Triniform

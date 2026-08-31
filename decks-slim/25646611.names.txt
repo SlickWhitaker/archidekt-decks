@@ -61,27 +61,27 @@ Shivan Gorge
 Smoldering Marsh
 Sol Ring
 Spellshock
-Spinerock Knoll
-Spiteful Visions
-Star of Extinction
-Sulfuric Vortex
-Sulfurous Springs
-Swamp
-Syr Konrad, the Grim
-Tainted Peak
 Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
 The Lord of Pain
 The Meathook Massacre
 The One Ring
+Spinerock Knoll
 Torment of Hailfire
 Underworld Dreams
 Urborg, Tomb of Yawgmoth
 Vial Smasher the Fierce
 Wheel of Misfortune
+Spiteful Visions
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Scrawling Crawler
 Valgavoth, Harrower of Souls
+Star of Extinction
+Sulfuric Vortex
+Sulfurous Springs
+Swamp
+Syr Konrad, the Grim
+Tainted Peak

@@ -45,6 +45,9 @@ Kiki-Jiki, Mirror Breaker
 Krenko, Tin Street Kingpin
 Legion Loyalist
 Lightning Greaves
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 Mana Echoes
 Marvin, Murderous Mimic
 Metallic Mimic
@@ -71,6 +74,3 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki

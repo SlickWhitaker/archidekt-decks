@@ -46,11 +46,13 @@ Hard-Won Jitte
 Hellkite Tyrant
 Iron Hills Blacksmith
 Kíli the Resourceful
+Lightning Greaves
 Path of Ancestry
 Path to Exile
 Plains
 Plains
 Plains
+Mask of Memory
 Professional Face-Breaker
 Puresteel Paladin
 Radiant Grove
@@ -61,16 +63,19 @@ Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
+Mithril Coat
 Sephiroth, Fallen Hero
 Sheltered Thicket
 Sigarda's Aid
 Skullclamp
 Slayers' Stronghold
+Mossfire Valley
 Sol Ring
 Sphere Grid
 Spire of Industry
 Stoneforge Mystic
 Summon: Esper Ramuh
+Mountain
 Summon: Kujata
 Summoning Materia
 Sungrass Prairie
@@ -89,11 +94,6 @@ Wood Elves
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
-Lightning Greaves
-Mask of Memory
-Mithril Coat
-Mossfire Valley
-Mountain
 Mountain
 Mountain
 Nature's Lore
