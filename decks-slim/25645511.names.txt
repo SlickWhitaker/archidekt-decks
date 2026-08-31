@@ -21,6 +21,7 @@ Command Tower
 Deadly Dispute
 Descent into Avernus
 Dragonskull Summit
+Grave Titan
 Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
@@ -29,7 +30,6 @@ Evolving Wilds
 Exotic Orchard
 Feed the Swarm
 Fellwar Stone
-Grave Titan
 Foreboding Ruins
 Haunted Ridge
 Hero's Downfall

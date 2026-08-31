@@ -49,6 +49,17 @@ Krosan Grip
 Lightning Greaves
 Llanowar Elves
 Mana Vault
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Kibo, Uktabi Prince
+Academy Manufactor
 Misty Rainforest
 Mountain
 Natural Order
@@ -81,14 +92,3 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Kibo, Uktabi Prince
-Zealous Conscripts
-Academy Manufactor

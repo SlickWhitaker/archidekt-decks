@@ -38,6 +38,7 @@ Kate Stewart
 Lightning Greaves
 Martha Jones
 Mountain
+Mountain
 Ominous Cemetery
 Out of Time
 Path of Ancestry
@@ -91,7 +92,6 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Mountain
 Myriad Landscape
 Mystic Monastery
 Nanogene Conversion

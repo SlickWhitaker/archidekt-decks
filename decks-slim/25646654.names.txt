@@ -20,6 +20,10 @@ Command Tower
 Curiosity Crafter
 Distant Melody
 Elspeth, Sun's Champion
+Empyrean Eagle
+Esior, Wardwing Familiar
+Evolving Wilds
+Exotic Orchard
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
@@ -86,7 +90,3 @@ Fiend Hunter
 Soulcatcher
 Academy Manufactor
 Cathars' Crusade
-Empyrean Eagle
-Esior, Wardwing Familiar
-Evolving Wilds
-Exotic Orchard

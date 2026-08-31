@@ -81,7 +81,7 @@ Urborg, Tomb of Yawgmoth
 Vial Smasher the Fierce
 Wheel of Misfortune
 Witch's Clinic
-Scrawling Crawler
-Valgavoth, Harrower of Souls
 Wound Reflection
 Zo-Zu the Punisher
+Valgavoth, Harrower of Souls
+Scrawling Crawler

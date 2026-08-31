@@ -449,34 +449,6 @@
       "text": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card."
     },
     {
-      "name": "Goldspan Dragon",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Dragon",
-      "text": "Flying, haste\nWhenever this creature attacks or becomes the target of a spell, create a Treasure token.\nTreasures you control have \"{T}, Sacrifice this artifact: Add two mana of any one color.\""
-    },
-    {
-      "name": "Greater Good",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
-    },
-    {
       "name": "Harbinger of the Hunt",
       "quantity": 1,
       "board": "main",
@@ -1029,6 +1001,34 @@
       "manaValue": 5,
       "type": "Creature — Dragon",
       "text": "Flying\nWhenever a Dragon you control is dealt damage, it deals that much damage to any target that isn't a Dragon."
+    },
+    {
+      "name": "Goldspan Dragon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Dragon",
+      "text": "Flying, haste\nWhenever this creature attacks or becomes the target of a spell, create a Treasure token.\nTreasures you control have \"{T}, Sacrifice this artifact: Add two mana of any one color.\""
+    },
+    {
+      "name": "Greater Good",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
     }
   ]
 }

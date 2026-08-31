@@ -53,15 +53,6 @@ Mosswort Bridge
 Necrotic Ooze
 Ochre Jelly
 Omni-Changeling
-Opulent Palace
-Oran-Rief Ooze
-Overgrown Tomb
-Ozolith, the Shattered Spire
-Parallel Lives
-Patchwork Banner
-Path of Ancestry
-Phantasmal Image
-Phyrexian Altar
 Phyrexian Tower
 Polluted Delta
 Predator Ooze
@@ -74,6 +65,7 @@ Shipwreck Marsh
 Slick Imitator
 Slurrk, All-Ingesting
 Sol Ring
+Opulent Palace
 Springleaf Parade
 Sunken Hollow
 Susur Secundi, Void Altar
@@ -84,14 +76,22 @@ Talisman of Resilience
 Temperamental Oozewagg
 The Mimeoplasm
 The Soul Stone
+Oran-Rief Ooze
 Three Tree City
 Uchuulon
 Umori, the Collector
 Undergrowth Stadium
+Overgrown Tomb
 Urborg, Tomb of Yawgmoth
 Urza's Incubator
 Verdant Catacombs
 Watery Grave
 Woodland Cemetery
+Ozolith, the Shattered Spire
 Yavimaya, Cradle of Growth
 Zagoth Triome
+Parallel Lives
+Patchwork Banner
+Path of Ancestry
+Phantasmal Image
+Phyrexian Altar

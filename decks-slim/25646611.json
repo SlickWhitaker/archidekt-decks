@@ -1139,32 +1139,6 @@
       "text": "{T}: Add {C}.\n{2}, {T}: Target commander gains lifelink until end of turn."
     },
     {
-      "name": "Scrawling Crawler",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Creature Artifact — Construct Phyrexian",
-      "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
-    },
-    {
-      "name": "Valgavoth, Harrower of Souls",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Elder Demon",
-      "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
-    },
-    {
       "name": "Wound Reflection",
       "quantity": 1,
       "board": "main",
@@ -1191,6 +1165,32 @@
       "manaValue": 3,
       "type": "Legendary Creature — Goblin Warrior",
       "text": "Whenever a land enters, Zo-Zu deals 2 damage to that land's controller."
+    },
+    {
+      "name": "Valgavoth, Harrower of Souls",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Elder Demon",
+      "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
+    },
+    {
+      "name": "Scrawling Crawler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Creature Artifact — Construct Phyrexian",
+      "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
     }
   ]
 }
