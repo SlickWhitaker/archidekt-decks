@@ -3,6 +3,12 @@ Archfiend of Despair
 Baleful Mastery
 Black Market Connections
 Blackcleave Cliffs
+Blasphemous Act
+Blightstep Pathway // Searstep Pathway
+Blood Artist
+Blood Crypt
+Bloodchief Ascension
+Bloodletter of Aclazotz
 Bloodstained Mire
 Bloodthirsty Conqueror
 Cabal Coffers
@@ -11,21 +17,6 @@ Chaos Warp
 Command Tower
 Deadly Rollick
 Deflecting Swat
-Descent into Avernus
-Dragonskull Summit
-Everlasting Torment
-Exquisite Blood
-Feed the Swarm
-Fellwar Stone
-Fiery Confluence
-Fire Covenant
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -79,9 +70,18 @@ Wound Reflection
 Zo-Zu the Punisher
 Scrawling Crawler
 Valgavoth, Harrower of Souls
-Blasphemous Act
-Blightstep Pathway // Searstep Pathway
-Blood Artist
-Blood Crypt
-Bloodchief Ascension
-Bloodletter of Aclazotz
+Descent into Avernus
+Dragonskull Summit
+Everlasting Torment
+Exquisite Blood
+Feed the Swarm
+Fellwar Stone
+Fiery Confluence
+Fire Covenant
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion

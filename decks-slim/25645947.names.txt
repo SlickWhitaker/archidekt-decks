@@ -6,6 +6,7 @@ Anguished Unmaking
 Anointed Procession
 Arcane Signet
 Archivist of Oghma
+Arid Mesa
 Black Market Connections
 Blood Artist
 Blood Crypt
@@ -44,11 +45,6 @@ Living Death
 Luxury Suite
 Marsh Flats
 Minas Tirith
-Mondrak, Glory Dominus
-Mountain
-Necropotence
-Nomad Outpost
-Ocelot Pride
 Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
@@ -88,4 +84,8 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Arid Mesa
+Mondrak, Glory Dominus
+Mountain
+Necropotence
+Nomad Outpost
+Ocelot Pride

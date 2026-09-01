@@ -45,18 +45,11 @@ Jeska's Will
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
+Veil of Summer
 Krosan Grip
 Lightning Greaves
 Llanowar Elves
 Mana Vault
-Misty Rainforest
-Mountain
-Natural Order
-Veil of Summer
-Nature's Claim
-Nature's Lore
-Nykthos, Shrine to Nyx
-Old Gnawbone
 Verdant Catacombs
 Wasteland
 Wheel of Misfortune
@@ -64,12 +57,19 @@ Windswept Heath
 Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
-Orcish Lumberjack
 Zealous Conscripts
+Kibo, Uktabi Prince
+Misty Rainforest
+Mountain
+Natural Order
+Nature's Claim
+Nature's Lore
+Nykthos, Shrine to Nyx
+Old Gnawbone
+Academy Manufactor
+Orcish Lumberjack
 Prismatic Vista
 Professional Face-Breaker
-Kibo, Uktabi Prince
-Academy Manufactor
 Railway Brawler
 Rhythm of the Wild
 Rishkar's Expertise

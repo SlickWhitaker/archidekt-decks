@@ -34,15 +34,8 @@ Izzet Signet
 Jacked Rabbit
 Jubilant Skybonder
 Kindred Discovery
-Warren Warleader
-Watcher of the Spheres
 Ledger Shredder
-Zinnia, Valley's Voice
 Mabel, Heir to Cragflame
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
-Cathars' Crusade
 Martial Coup
 Migratory Route
 Mind Stone
@@ -90,3 +83,10 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
+Cathars' Crusade
