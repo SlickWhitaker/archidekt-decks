@@ -41,13 +41,16 @@ Migratory Route
 Mind Stone
 Mountain
 Murmuration
-Mystic Monastery
-Nesting Dovehawk
 Warren Warleader
 Watcher of the Spheres
 Zinnia, Valley's Voice
-Ornithopter of Paradise
 Fiend Hunter
+Mystic Monastery
+Soulcatcher
+Academy Manufactor
+Cathars' Crusade
+Nesting Dovehawk
+Ornithopter of Paradise
 Path of Ancestry
 Path to Exile
 Plains
@@ -63,10 +66,8 @@ Rose Room Treasurer
 Rugged Prairie
 Seachrome Coast
 Season of the Burrow
-Soulcatcher
 Selfless Spirit
 Shared Animosity
-Academy Manufactor
 Shivan Reef
 Skullclamp
 Skyclave Apparition
@@ -85,7 +86,6 @@ Tetsuko Umezawa, Fugitive
 Thriving Bluff
 Thriving Heath
 Thriving Isle
-Cathars' Crusade
 Time Wipe
 Unbreakable Formation
 Valley Floodcaller

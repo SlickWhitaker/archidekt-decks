@@ -59,36 +59,36 @@ Old Gnawbone
 Orcish Lumberjack
 Prismatic Vista
 Professional Face-Breaker
+Veil of Summer
 Railway Brawler
 Rhythm of the Wild
 Rishkar's Expertise
 Rockfall Vale
 Rootbound Crag
-Veil of Summer
 Scalding Tarn
 Seedborn Muse
-Selvala, Heart of the Wilds
-Shifting Woodland
-Skullclamp
-Sol Ring
-Spire Garden
-Stomping Ground
 Verdant Catacombs
 Wasteland
 Wheel of Misfortune
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
-Strip Mine
 Yavimaya, Cradle of Growth
 Zealous Conscripts
+Kibo, Uktabi Prince
+Academy Manufactor
+Selvala, Heart of the Wilds
+Shifting Woodland
+Skullclamp
+Sol Ring
+Spire Garden
+Stomping Ground
+Strip Mine
 Sylvan Library
 Terror of the Peaks
 The Great Henge
 The One Ring
 The Ozolith
-Kibo, Uktabi Prince
 Three Visits
 Tooth and Nail
 Vandalblast
-Academy Manufactor

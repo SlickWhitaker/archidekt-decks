@@ -53,6 +53,11 @@ Mana Confluence
 Mana Drain
 Mesmeric Orb
 Millikin
+Mistrise Village
+Misty Rainforest
+Mole Man, Moloid Master
+Mystic Sanctuary
+Nezahal, Primal Tide
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -89,8 +94,3 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-Mistrise Village
-Misty Rainforest
-Mole Man, Moloid Master
-Mystic Sanctuary
-Nezahal, Primal Tide

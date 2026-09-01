@@ -39,6 +39,9 @@ Lightning Greaves
 Martha Jones
 Mountain
 Mountain
+Myriad Landscape
+Mystic Monastery
+Nanogene Conversion
 Ominous Cemetery
 Out of Time
 Path of Ancestry
@@ -56,15 +59,16 @@ Rory Williams
 Rotating Fireplace
 Run for Your Life
 Sally Sparrow
-Sea of Clouds
-Sol Ring
 Sonic Screwdriver
 Spectator Seating
 Star Whale
 Storm-Kiln Artist
+Sea of Clouds
 Stormcarved Coast
+Sol Ring
 Strionic Resonator
 Sunbaked Canyon
+Time Beetle
 Sundown Pass
 Talisman of Conviction
 Talisman of Creativity
@@ -85,13 +89,9 @@ The Parting of the Ways
 The War Doctor
 The Wedding of River Song
 Thespian's Stage
-Time Beetle
+The Tenth Doctor
 Training Center
 Trenzalore Clocktower
 War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
-The Tenth Doctor
-Myriad Landscape
-Mystic Monastery
-Nanogene Conversion
