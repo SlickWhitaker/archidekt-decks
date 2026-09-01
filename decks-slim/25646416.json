@@ -810,20 +810,6 @@
       "text": "Menace\nWhenever one or more creatures you control deal combat damage to a player, create a Treasure token.\nSacrifice a Treasure: Exile the top card of your library. You may play that card this turn."
     },
     {
-      "name": "Veil of Summer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
-    },
-    {
       "name": "Railway Brawler",
       "quantity": 1,
       "board": "main",
@@ -854,16 +840,6 @@
       "text": "Creature spells you control can't be countered.\nNontoken creatures you control have riot. (They enter with your choice of a +1/+1 counter or haste.)"
     },
     {
-      "name": "Verdant Catacombs",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
-    },
-    {
       "name": "Rishkar's Expertise",
       "quantity": 1,
       "board": "main",
@@ -889,6 +865,113 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {R} or {G}."
+    },
+    {
+      "name": "Rootbound Crag",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}."
+    },
+    {
+      "name": "Scalding Tarn",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Seedborn Muse",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Spirit",
+      "text": "Untap all permanents you control during each other player's untap step."
+    },
+    {
+      "name": "Selvala, Heart of the Wilds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Elf Scout",
+      "text": "Whenever another creature enters, its controller may draw a card if its power is greater than each other creature's power.\n{G}, {T}: Add X mana in any combination of colors, where X is the greatest power among creatures you control."
+    },
+    {
+      "name": "Shifting Woodland",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Forest.\n{T}: Add {G}.\nDelirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard."
+    },
+    {
+      "name": "Skullclamp",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Veil of Summer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
+    },
+    {
+      "name": "Verdant Catacombs",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
     },
     {
       "name": "Wasteland",
@@ -973,43 +1056,6 @@
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
-      "name": "Rootbound Crag",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}."
-    },
-    {
-      "name": "Scalding Tarn",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Seedborn Muse",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Spirit",
-      "text": "Untap all permanents you control during each other player's untap step."
-    },
-    {
       "name": "Kibo, Uktabi Prince",
       "quantity": 1,
       "board": "commander",
@@ -1033,52 +1079,6 @@
       "manaValue": 3,
       "type": "Creature Artifact — Assembly-Worker",
       "text": "If you would create a Clue, Food, or Treasure token, instead create one of each."
-    },
-    {
-      "name": "Selvala, Heart of the Wilds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Elf Scout",
-      "text": "Whenever another creature enters, its controller may draw a card if its power is greater than each other creature's power.\n{G}, {T}: Add X mana in any combination of colors, where X is the greatest power among creatures you control."
-    },
-    {
-      "name": "Shifting Woodland",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Forest.\n{T}: Add {G}.\nDelirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard."
-    },
-    {
-      "name": "Skullclamp",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
-    },
-    {
-      "name": "Sol Ring",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
     },
     {
       "name": "Spire Garden",

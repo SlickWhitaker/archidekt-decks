@@ -26,12 +26,6 @@ Fellwar Stone
 Fiery Confluence
 Fire Covenant
 Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -83,5 +77,11 @@ Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
 Scrawling Crawler
 Valgavoth, Harrower of Souls

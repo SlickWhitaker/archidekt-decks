@@ -235,19 +235,6 @@
       "text": "({T}: Add {W} or {U}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     },
     {
-      "name": "Bountiful Promenade",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {W}."
-    },
-    {
       "name": "Otawara, Soaring City",
       "quantity": 1,
       "board": "main",
@@ -271,6 +258,19 @@
       "manaValue": 0,
       "type": "Land — Plains Forest",
       "text": "({T}: Add {G} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Bountiful Promenade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {W}."
     },
     {
       "name": "Sea of Clouds",

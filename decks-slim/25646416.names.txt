@@ -59,12 +59,19 @@ Old Gnawbone
 Orcish Lumberjack
 Prismatic Vista
 Professional Face-Breaker
-Veil of Summer
 Railway Brawler
 Rhythm of the Wild
-Verdant Catacombs
 Rishkar's Expertise
 Rockfall Vale
+Rootbound Crag
+Scalding Tarn
+Seedborn Muse
+Selvala, Heart of the Wilds
+Shifting Woodland
+Skullclamp
+Sol Ring
+Veil of Summer
+Verdant Catacombs
 Wasteland
 Wheel of Misfortune
 Windswept Heath
@@ -72,15 +79,8 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Rootbound Crag
-Scalding Tarn
-Seedborn Muse
 Kibo, Uktabi Prince
 Academy Manufactor
-Selvala, Heart of the Wilds
-Shifting Woodland
-Skullclamp
-Sol Ring
 Spire Garden
 Stomping Ground
 Strip Mine

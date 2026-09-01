@@ -819,6 +819,58 @@
       "text": "Red spells you cast cost {1} less to cast."
     },
     {
+      "name": "Valakut Exploration",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Landfall — Whenever a land you control enters, exile the top card of your library. You may play that card for as long as it remains exiled.\nAt the beginning of your end step, if there are cards exiled with this enchantment, put them into their owner's graveyard, then this enchantment deals that much damage to each opponent."
+    },
+    {
+      "name": "Zealous Conscripts",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Human Warrior",
+      "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
+    },
+    {
+      "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment — Saga",
+      "text": "Fable of the Mirror-Breaker: (As this Saga enters and after your draw step, add a lore counter.)\nI — Create a 2/2 red Goblin Shaman creature token with \"Whenever this token attacks, create a Treasure token.\"\nII — You may discard up to two cards. If you do, draw that many cards.\nIII — Exile this Saga, then return it to the battlefield transformed under your control. | Reflection of Kiki-Jiki: {1}, {T}: Create a token that's a copy of another target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step."
+    },
+    {
+      "name": "War Room",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{3}, {T}, Pay life equal to the number of colors in your commanders' color identity: Draw a card."
+    },
+    {
       "name": "Rundvelt Hordemaster",
       "quantity": 1,
       "board": "main",
@@ -961,58 +1013,6 @@
       "manaValue": 3,
       "type": "Artifact",
       "text": "As this artifact enters, choose a creature type.\nCreature spells of the chosen type cost {2} less to cast."
-    },
-    {
-      "name": "Valakut Exploration",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Landfall — Whenever a land you control enters, exile the top card of your library. You may play that card for as long as it remains exiled.\nAt the beginning of your end step, if there are cards exiled with this enchantment, put them into their owner's graveyard, then this enchantment deals that much damage to each opponent."
-    },
-    {
-      "name": "Zealous Conscripts",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Human Warrior",
-      "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
-    },
-    {
-      "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment — Saga",
-      "text": "Fable of the Mirror-Breaker: (As this Saga enters and after your draw step, add a lore counter.)\nI — Create a 2/2 red Goblin Shaman creature token with \"Whenever this token attacks, create a Treasure token.\"\nII — You may discard up to two cards. If you do, draw that many cards.\nIII — Exile this Saga, then return it to the battlefield transformed under your control. | Reflection of Kiki-Jiki: {1}, {T}: Create a token that's a copy of another target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step."
-    },
-    {
-      "name": "War Room",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{3}, {T}, Pay life equal to the number of colors in your commanders' color identity: Draw a card."
     }
   ]
 }

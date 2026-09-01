@@ -426,6 +426,230 @@
       "text": "{T}: Add {C}.\n{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
     },
     {
+      "name": "Kindred Discovery",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "As this enchantment enters, choose a creature type.\nWhenever a creature you control of the chosen type enters or attacks, draw a card."
+    },
+    {
+      "name": "Kiora's Follower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Merfolk",
+      "text": "{T}: Untap another target permanent."
+    },
+    {
+      "name": "Kopala, Warden of Waves",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Wizard Merfolk",
+      "text": "Spells your opponents cast that target a Merfolk you control cost {2} more to cast.\nAbilities your opponents activate that target a Merfolk you control cost {2} more to activate."
+    },
+    {
+      "name": "Kumena, Tyrant of Orazca",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Merfolk Shaman",
+      "text": "Tap another untapped Merfolk you control: Kumena can't be blocked this turn.\nTap three untapped Merfolk you control: Draw a card.\nTap five untapped Merfolk you control: Put a +1/+1 counter on each Merfolk you control."
+    },
+    {
+      "name": "Mana Confluence",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life: Add one mana of any color."
+    },
+    {
+      "name": "Master of the Pearl Trident",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Merfolk",
+      "text": "Other Merfolk creatures you control get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)"
+    },
+    {
+      "name": "Merfolk Sovereign",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Merfolk Noble",
+      "text": "Other Merfolk creatures you control get +1/+1.\n{T}: Target Merfolk creature can't be blocked this turn."
+    },
+    {
+      "name": "Merrow Commerce",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment Kindred — Merfolk",
+      "text": "At the beginning of your end step, untap all Merfolk you control."
+    },
+    {
+      "name": "Merrow Harbinger",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Wizard Merfolk",
+      "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhen this creature enters, you may search your library for a Merfolk card, reveal it, then shuffle and put that card on top."
+    },
+    {
+      "name": "Merrow Reejerey",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Soldier Merfolk",
+      "text": "Other Merfolk creatures you control get +1/+1.\nWhenever you cast a Merfolk spell, you may tap or untap target permanent."
+    },
+    {
+      "name": "Metallic Mimic",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Creature Artifact — Shapeshifter",
+      "text": "As this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nEach other creature you control of the chosen type enters with an additional +1/+1 counter on it."
+    },
+    {
+      "name": "Misty Rainforest",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Mutavault",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{1}: This land becomes a 2/2 creature with all creature types until end of turn. It's still a land."
+    },
+    {
+      "name": "Namor the Sub-Mariner",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Merfolk Mutant Villain",
+      "text": "Flying\nNamor's power is equal to the number of Merfolk you control.\nWhenever you cast a noncreature spell with one or more blue mana symbols in its mana cost, create that many 1/1 blue Merfolk creature tokens."
+    },
+    {
+      "name": "Nicanzil, Current Conductor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Scout Merfolk",
+      "text": "Whenever a creature you control explores a land card, you may put a land card from your hand onto the battlefield tapped.\nWhenever a creature you control explores a nonland card, put a +1/+1 counter on Nicanzil."
+    },
+    {
+      "name": "Path of Ancestry",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    },
+    {
+      "name": "Ponder",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Look at the top three cards of your library, then put them back in any order. You may shuffle.\nDraw a card."
+    },
+    {
       "name": "Summon: Leviathan",
       "quantity": 1,
       "board": "main",
@@ -658,230 +882,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Scout Merfolk",
       "text": "At the beginning of combat on your turn, each Merfolk creature you control explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the exploring creature, then put the card back or put it into your graveyard.)\nWhenever Hakbal attacks, you may put a land card from your hand onto the battlefield. If you don't, draw a card."
-    },
-    {
-      "name": "Kindred Discovery",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "As this enchantment enters, choose a creature type.\nWhenever a creature you control of the chosen type enters or attacks, draw a card."
-    },
-    {
-      "name": "Kiora's Follower",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Merfolk",
-      "text": "{T}: Untap another target permanent."
-    },
-    {
-      "name": "Kopala, Warden of Waves",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Wizard Merfolk",
-      "text": "Spells your opponents cast that target a Merfolk you control cost {2} more to cast.\nAbilities your opponents activate that target a Merfolk you control cost {2} more to activate."
-    },
-    {
-      "name": "Kumena, Tyrant of Orazca",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Merfolk Shaman",
-      "text": "Tap another untapped Merfolk you control: Kumena can't be blocked this turn.\nTap three untapped Merfolk you control: Draw a card.\nTap five untapped Merfolk you control: Put a +1/+1 counter on each Merfolk you control."
-    },
-    {
-      "name": "Mana Confluence",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life: Add one mana of any color."
-    },
-    {
-      "name": "Master of the Pearl Trident",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Merfolk",
-      "text": "Other Merfolk creatures you control get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)"
-    },
-    {
-      "name": "Merfolk Sovereign",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Merfolk Noble",
-      "text": "Other Merfolk creatures you control get +1/+1.\n{T}: Target Merfolk creature can't be blocked this turn."
-    },
-    {
-      "name": "Merrow Commerce",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment Kindred — Merfolk",
-      "text": "At the beginning of your end step, untap all Merfolk you control."
-    },
-    {
-      "name": "Merrow Harbinger",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Wizard Merfolk",
-      "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhen this creature enters, you may search your library for a Merfolk card, reveal it, then shuffle and put that card on top."
-    },
-    {
-      "name": "Merrow Reejerey",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Soldier Merfolk",
-      "text": "Other Merfolk creatures you control get +1/+1.\nWhenever you cast a Merfolk spell, you may tap or untap target permanent."
-    },
-    {
-      "name": "Metallic Mimic",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Creature Artifact — Shapeshifter",
-      "text": "As this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nEach other creature you control of the chosen type enters with an additional +1/+1 counter on it."
-    },
-    {
-      "name": "Misty Rainforest",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Mutavault",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{1}: This land becomes a 2/2 creature with all creature types until end of turn. It's still a land."
-    },
-    {
-      "name": "Namor the Sub-Mariner",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Merfolk Mutant Villain",
-      "text": "Flying\nNamor's power is equal to the number of Merfolk you control.\nWhenever you cast a noncreature spell with one or more blue mana symbols in its mana cost, create that many 1/1 blue Merfolk creature tokens."
-    },
-    {
-      "name": "Nicanzil, Current Conductor",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Scout Merfolk",
-      "text": "Whenever a creature you control explores a land card, you may put a land card from your hand onto the battlefield tapped.\nWhenever a creature you control explores a nonland card, put a +1/+1 counter on Nicanzil."
-    },
-    {
-      "name": "Path of Ancestry",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
-    },
-    {
-      "name": "Ponder",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Look at the top three cards of your library, then put them back in any order. You may shuffle.\nDraw a card."
     },
     {
       "name": "Pongify",
