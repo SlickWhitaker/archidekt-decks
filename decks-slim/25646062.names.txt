@@ -49,7 +49,6 @@ Ponder
 Pongify
 Raise the Palisade
 Rapid Hybridization
-Realmwalker
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -68,6 +67,7 @@ Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
 Hakbal of the Surging Soul
+Realmwalker
 Reflections of Littjara
 Rejuvenating Springs
 Reliquary Tower

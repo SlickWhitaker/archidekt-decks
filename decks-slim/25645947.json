@@ -569,6 +569,20 @@
       "text": "Lifelink\nIf a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.\n{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas."
     },
     {
+      "name": "Legion's Landing // Adanto, the First Fort",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Legendary Enchantment",
+      "text": "Legion's Landing: When Legion's Landing enters, create a 1/1 white Vampire creature token with lifelink.\nWhen you attack with three or more creatures, transform Legion's Landing. | Adanto, the First Fort: (Transforms from Legion's Landing.)\n{T}: Add {W}.\n{2}{W}, {T}: Create a 1/1 white Vampire creature token with lifelink."
+    },
+    {
       "name": "Legion Lieutenant",
       "quantity": 1,
       "board": "main",
@@ -583,20 +597,6 @@
       "manaValue": 2,
       "type": "Creature — Knight Vampire",
       "text": "Other Vampires you control get +1/+1."
-    },
-    {
-      "name": "Legion's Landing // Adanto, the First Fort",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 1,
-      "type": "Legendary Enchantment",
-      "text": "Legion's Landing: When Legion's Landing enters, create a 1/1 white Vampire creature token with lifelink.\nWhen you attack with three or more creatures, transform Legion's Landing. | Adanto, the First Fort: (Transforms from Legion's Landing.)\n{T}: Add {W}.\n{2}{W}, {T}: Create a 1/1 white Vampire creature token with lifelink."
     },
     {
       "name": "Living Death",

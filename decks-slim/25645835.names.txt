@@ -39,9 +39,6 @@ Lightning Greaves
 Martha Jones
 Mountain
 Mountain
-Myriad Landscape
-Mystic Monastery
-Nanogene Conversion
 Ominous Cemetery
 Out of Time
 Path of Ancestry
@@ -55,6 +52,12 @@ Regenerations Restored
 Rhystic Study
 RMS Titanic
 Rogue's Passage
+Rory Williams
+Rotating Fireplace
+Run for Your Life
+Sally Sparrow
+Sea of Clouds
+Sol Ring
 Sonic Screwdriver
 Spectator Seating
 Star Whale
@@ -89,9 +92,6 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Rory Williams
-Rotating Fireplace
-Run for Your Life
-Sally Sparrow
-Sea of Clouds
-Sol Ring
+Myriad Landscape
+Mystic Monastery
+Nanogene Conversion

@@ -39,6 +39,7 @@ Mind Stone
 Mindlash Sliver
 Necrogen Mists
 Necrogoyf
+Geth's Grimoire
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
 Oppression
@@ -53,9 +54,6 @@ Sangromancer
 Sepulchral Primordial
 Shrieking Affliction
 Sign in Blood
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
 Smallpox
 Sol Ring
 Springleaf Drum
@@ -71,3 +69,5 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
+Waste Not
+Tinybones, Trinket Thief

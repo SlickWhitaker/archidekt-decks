@@ -342,19 +342,6 @@
       "text": "Destroy target creature or planeswalker."
     },
     {
-      "name": "Drossforge Bridge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Artifact Land",
-      "text": "This land enters tapped.\nIndestructible\n{T}: Add {B} or {R}."
-    },
-    {
       "name": "Grave Titan",
       "quantity": 1,
       "board": "main",
@@ -1074,6 +1061,19 @@
       "manaValue": 2,
       "type": "Creature — Human Rogue Ally",
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
+    },
+    {
+      "name": "Drossforge Bridge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Artifact Land",
+      "text": "This land enters tapped.\nIndestructible\n{T}: Add {B} or {R}."
     },
     {
       "name": "Endrek Sahr, Master Breeder",
