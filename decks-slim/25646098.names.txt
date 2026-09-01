@@ -28,8 +28,6 @@ Dragonskull Summit
 Evolving Wilds
 Exotic Orchard
 Fabled Passage
-Felidar Retreat
-Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -42,44 +40,6 @@ Jetmir's Garden
 Kami of Whispered Hopes
 Kindred Dominance
 Kodama's Reach
-Ozolith, the Shattered Spire
-Parallel Lives
-Path of Ancestry
-Plains
-Plaza of Heroes
-Raffine's Tower
-Raphael, the Muscle
-Rat King, Pale Piper
-Reflecting Pool
-Rocco, Street Chef
-Shellshock
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden
-Splinter, the Mentor
-Steelbane Hydra
-Stomping Ground
-Sunken Hollow
-Super Combo
-Swamp
-Swan Song
-Swords to Plowshares
-Teferi's Protection
-Tempestra, Dame of Games
-Thriving Isle
-Tireless Provisioner
-Tocasia's Welcome
-Turtle Lair
-Unbreakable Formation
-Undergrowth Stadium
-Vernal Fen
-Vibrant Cityscape
-Vigor
-Arcade Cabinet
-Michelangelo, the Heart
-Leonardo, the Balance
-Bristly Bill, Spine Sower
 Lita, Little Orphan Amphibian
 Lotho, Corrupt Shirriff
 March of the Multitudes
@@ -91,3 +51,43 @@ Mondrak, Glory Dominus
 Mountain
 Ninja Pizza
 Ojer Taq, Deepest Foundation // Temple of Civilization
+Ozolith, the Shattered Spire
+Parallel Lives
+Path of Ancestry
+Plains
+Plaza of Heroes
+Raffine's Tower
+Raphael, the Muscle
+Rat King, Pale Piper
+Felidar Retreat
+Reflecting Pool
+Rocco, Street Chef
+Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden
+Forest
+Swamp
+Splinter, the Mentor
+Steelbane Hydra
+Stomping Ground
+Sunken Hollow
+Super Combo
+Swan Song
+Swords to Plowshares
+Teferi's Protection
+Turtle Lair
+Unbreakable Formation
+Undergrowth Stadium
+Vernal Fen
+Vibrant Cityscape
+Vigor
+Arcade Cabinet
+Tempestra, Dame of Games
+Thriving Isle
+Tireless Provisioner
+Tocasia's Welcome
+Michelangelo, the Heart
+Bristly Bill, Spine Sower
+Leonardo, the Balance

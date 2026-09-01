@@ -35,6 +35,9 @@ Gingerbrute
 Gloomlake Verge
 Grafdigger's Cage
 Halimar Depths
+Higure, the Still Wind
+Hydroelectric Specimen // Hydroelectric Laboratory
+Ingenious Infiltrator
 Negate
 Ninja of the Deep Hours
 Opposition Agent
@@ -73,9 +76,6 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
-Higure, the Still Wind
-Hydroelectric Specimen // Hydroelectric Laboratory
-Ingenious Infiltrator
 Ink-Eyes, Servant of Oni
 Island
 Kaito, Bane of Nightmares

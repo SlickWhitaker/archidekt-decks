@@ -35,14 +35,13 @@ Island
 Jenny, Generated Anomaly
 Judoon Enforcers
 Kate Stewart
-Lightning Greaves
-Martha Jones
-Mountain
 Ominous Cemetery
+Lightning Greaves
 Out of Time
 Path of Ancestry
 Plains
 Plains
+Martha Jones
 Port Town
 Prairie Stream
 Psychic Paper
@@ -91,6 +90,7 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
+Mountain
 Mountain
 Myriad Landscape
 Mystic Monastery

@@ -6,7 +6,6 @@ Anguished Unmaking
 Anointed Procession
 Arcane Signet
 Archivist of Oghma
-Arid Mesa
 Black Market Connections
 Blood Artist
 Blood Crypt
@@ -16,6 +15,9 @@ Bloodline Necromancer
 Bloodstained Mire
 Bloodthirsty Conqueror
 Bojuka Bog
+Boros Charm
+Captivating Vampire
+Caves of Koilos
 Champion of Dusk
 Charismatic Conqueror
 Chrome Mox
@@ -86,6 +88,4 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Boros Charm
-Captivating Vampire
-Caves of Koilos
+Arid Mesa
