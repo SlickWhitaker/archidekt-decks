@@ -52,14 +52,19 @@ Mana Vault
 Misty Rainforest
 Mountain
 Natural Order
-Veil of Summer
 Nature's Claim
 Nature's Lore
 Nykthos, Shrine to Nyx
 Old Gnawbone
 Orcish Lumberjack
-Verdant Catacombs
 Prismatic Vista
+Professional Face-Breaker
+Veil of Summer
+Railway Brawler
+Rhythm of the Wild
+Verdant Catacombs
+Rishkar's Expertise
+Rockfall Vale
 Wasteland
 Wheel of Misfortune
 Windswept Heath
@@ -67,16 +72,11 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Professional Face-Breaker
-Kibo, Uktabi Prince
-Railway Brawler
-Rhythm of the Wild
-Rishkar's Expertise
-Rockfall Vale
 Rootbound Crag
-Academy Manufactor
 Scalding Tarn
 Seedborn Muse
+Kibo, Uktabi Prince
+Academy Manufactor
 Selvala, Heart of the Wilds
 Shifting Woodland
 Skullclamp

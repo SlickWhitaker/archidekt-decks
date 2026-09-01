@@ -31,10 +31,11 @@ Fabled Passage
 Felidar Retreat
 Forest
 Grand Coliseum
-Heroic Intervention
 Guardian Project
 Halo Fountain
 Heroes in a Half Shell
+Heroic Intervention
+Hidden Hideout
 Hinterland Harbor
 Island
 Jetmir's Garden
@@ -90,4 +91,3 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Hidden Hideout

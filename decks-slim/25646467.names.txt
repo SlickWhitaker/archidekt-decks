@@ -60,9 +60,7 @@ Ragavan, Nimble Pilferer
 Rings of Brighthearth
 Ruby Medallion
 Rundvelt Hordemaster
-Valakut Exploration
 Shared Animosity
-Zealous Conscripts
 Skirk Fire Marshal
 Skirk Prospector
 Skullclamp
@@ -70,8 +68,10 @@ Sol Ring
 Squee, Dubious Monarch
 Staff of Domination
 Thornbite Staff
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-War Room
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+War Room
