@@ -36,40 +36,12 @@ Nazgûl
 Necroblossom Snarl
 Of Herbs and Stewed Rabbit
 Orchard Strider
-Overgrown Tomb
-Path of Ancestry
-Peregrin Took
-Pippin, Warden of Isengard
-Plains
-Prosperous Innkeeper
-Rapacious Guest
-Revive the Shire
 Rosie Cotton of South Lane
 Samwise Gamgee
 Sandsteppe Citadel
 Sanguine Bond
 Savvy Hunter
-Woodfall Primus
-Woodland Cemetery
 Scattered Groves
-Sam, Loyal Attendant
-Frodo, Adventurous Hobbit
-Academy Manufactor
-Anguished Unmaking
-Aragorn and Arwen, Wed
-Arcane Signet
-Ash Barrens
-Assemble the Entmoot
-Battle at the Bridge
-Bilbo, Birthday Celebrant
-Birds of Paradise
-Bretagard Stronghold
-Brushland
-Butterbur, Bree Innkeeper
-Canopy Vista
-Cauldron Familiar
-Chromatic Lantern
-Stardew Valley
 Shineshadow Snarl
 Shire Shirriff
 Shire Terrace
@@ -89,3 +61,31 @@ Trouble in Pairs
 Well of Lost Dreams
 Windswept Heath
 Witch's Oven
+Woodfall Primus
+Woodland Cemetery
+Sam, Loyal Attendant
+Frodo, Adventurous Hobbit
+Academy Manufactor
+Anguished Unmaking
+Aragorn and Arwen, Wed
+Arcane Signet
+Ash Barrens
+Assemble the Entmoot
+Battle at the Bridge
+Bilbo, Birthday Celebrant
+Birds of Paradise
+Bretagard Stronghold
+Brushland
+Butterbur, Bree Innkeeper
+Canopy Vista
+Cauldron Familiar
+Chromatic Lantern
+Stardew Valley
+Overgrown Tomb
+Path of Ancestry
+Peregrin Took
+Pippin, Warden of Isengard
+Plains
+Prosperous Innkeeper
+Rapacious Guest
+Revive the Shire

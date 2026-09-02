@@ -3,14 +3,9 @@ Goblin Bombardment
 Molten Echoes
 Urza's Incubator
 Anguished Unmaking
-Anointed Procession
-Arcane Signet
-Archivist of Oghma
-Arid Mesa
 Black Market Connections
 Blood Artist
 Blood Crypt
-Champion of Dusk
 Bloodghast
 Bloodletter of Aclazotz
 Bloodline Necromancer
@@ -20,6 +15,23 @@ Bojuka Bog
 Boros Charm
 Captivating Vampire
 Caves of Koilos
+Champion of Dusk
+Charismatic Conqueror
+Chrome Mox
+Command Tower
+Cordial Vampire
+Cruel Celebrant
+Damn
+Delney, Streetwise Lookout
+Demonic Tutor
+Dragonskull Summit
+Drana and Linvala
+Elenda, the Dusk Rose
+Esper Sentinel
+Exquisite Blood
+Flawless Maneuver
+Generous Gift
+Godless Shrine
 Herald's Horn
 Isolated Chapel
 Kalitas, Traitor of Ghet
@@ -73,19 +85,7 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Charismatic Conqueror
-Chrome Mox
-Command Tower
-Cordial Vampire
-Cruel Celebrant
-Damn
-Delney, Streetwise Lookout
-Demonic Tutor
-Dragonskull Summit
-Drana and Linvala
-Elenda, the Dusk Rose
-Esper Sentinel
-Exquisite Blood
-Flawless Maneuver
-Generous Gift
-Godless Shrine
+Anointed Procession
+Arcane Signet
+Archivist of Oghma
+Arid Mesa
