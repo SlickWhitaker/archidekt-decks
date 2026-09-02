@@ -48,10 +48,6 @@ Lightning Greaves
 Mana Echoes
 Marvin, Murderous Mimic
 Metallic Mimic
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-War Room
 Mogg War Marshal
 Moggcatcher
 Mountain
@@ -75,3 +71,7 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+War Room

@@ -17,7 +17,6 @@ Chittering Witch
 Chromatic Lantern
 Cinder Barrens
 Akul the Unrepentant
-Grave Titan
 Command Tower
 Deadly Dispute
 Descent into Avernus
@@ -31,6 +30,7 @@ Exotic Orchard
 Feed the Swarm
 Fellwar Stone
 Foreboding Ruins
+Grave Titan
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord

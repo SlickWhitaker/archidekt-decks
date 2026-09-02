@@ -275,20 +275,6 @@
       "text": "Flying, trample\nSacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn."
     },
     {
-      "name": "Grave Titan",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 6,
-      "type": "Creature — Giant",
-      "text": "Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens."
-    },
-    {
       "name": "Command Tower",
       "quantity": 1,
       "board": "main",
@@ -452,6 +438,20 @@
       "manaValue": 0,
       "type": "Land",
       "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
+    },
+    {
+      "name": "Grave Titan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Giant",
+      "text": "Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens."
     },
     {
       "name": "Haunted Ridge",

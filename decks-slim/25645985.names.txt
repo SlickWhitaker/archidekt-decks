@@ -23,6 +23,14 @@ Gilded Goose
 Gollum, Obsessed Stalker
 Gwaihir, Greatest of the Eagles
 Gyome, Master Chef
+Hithlain Rope
+Lotho, Corrupt Shirriff
+Many Partings
+Mentor of the Meek
+Merry, Warden of Isengard
+Mirkwood Bats
+Mortality Spear
+Murmuring Bosk
 Nature's Lore
 Nazgûl
 Necroblossom Snarl
@@ -55,12 +63,6 @@ The Gaffer
 The Shire
 Tireless Provisioner
 Toxic Deluge
-Trail of Crumbs
-Treebeard, Gracious Host
-Trouble in Pairs
-Well of Lost Dreams
-Windswept Heath
-Witch's Oven
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
@@ -81,11 +83,9 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Hithlain Rope
-Lotho, Corrupt Shirriff
-Many Partings
-Mentor of the Meek
-Merry, Warden of Isengard
-Mirkwood Bats
-Mortality Spear
-Murmuring Bosk
+Trail of Crumbs
+Treebeard, Gracious Host
+Trouble in Pairs
+Well of Lost Dreams
+Windswept Heath
+Witch's Oven

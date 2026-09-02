@@ -740,18 +740,6 @@
       "text": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
     },
     {
-      "name": "Takenuma, Abandoned Mire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Legendary Land",
-      "text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control."
-    },
-    {
       "name": "Razorkin Needlehead",
       "quantity": 1,
       "board": "main",
@@ -992,30 +980,16 @@
       "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. Activate only if you control a Swamp."
     },
     {
-      "name": "Scrawling Crawler",
+      "name": "Takenuma, Abandoned Mire",
       "quantity": 1,
       "board": "main",
       "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Creature Artifact — Construct Phyrexian",
-      "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
-    },
-    {
-      "name": "Valgavoth, Harrower of Souls",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Red",
+      "colorIdentity": [
         "Black"
       ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Elder Demon",
-      "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control."
     },
     {
       "name": "Talisman of Indulgence",
@@ -1191,6 +1165,32 @@
       "manaValue": 3,
       "type": "Legendary Creature — Goblin Warrior",
       "text": "Whenever a land enters, Zo-Zu deals 2 damage to that land's controller."
+    },
+    {
+      "name": "Scrawling Crawler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Creature Artifact — Construct Phyrexian",
+      "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
+    },
+    {
+      "name": "Valgavoth, Harrower of Souls",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Elder Demon",
+      "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
     }
   ]
 }

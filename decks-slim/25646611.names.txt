@@ -51,7 +51,6 @@ Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
-Takenuma, Abandoned Mire
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -70,8 +69,7 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
-Scrawling Crawler
-Valgavoth, Harrower of Souls
+Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
 The Lord of Pain
@@ -85,3 +83,5 @@ Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
+Scrawling Crawler
+Valgavoth, Harrower of Souls
