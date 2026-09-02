@@ -41,14 +41,7 @@ Migratory Route
 Mind Stone
 Mountain
 Murmuration
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
 Mystic Monastery
-Soulcatcher
-Academy Manufactor
-Cathars' Crusade
 Nesting Dovehawk
 Ornithopter of Paradise
 Path of Ancestry
@@ -77,6 +70,10 @@ Soulcatchers' Aerie
 Steam Vents
 Storm of Souls
 Sulfur Falls
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Sunscorched Divide
 Swords to Plowshares
 Temple of Enlightenment
@@ -90,3 +87,6 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Academy Manufactor
+Soulcatcher
+Cathars' Crusade

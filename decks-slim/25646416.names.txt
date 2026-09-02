@@ -60,6 +60,7 @@ Orcish Lumberjack
 Prismatic Vista
 Professional Face-Breaker
 Veil of Summer
+Verdant Catacombs
 Railway Brawler
 Rhythm of the Wild
 Rishkar's Expertise
@@ -67,7 +68,6 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
-Verdant Catacombs
 Wasteland
 Wheel of Misfortune
 Windswept Heath

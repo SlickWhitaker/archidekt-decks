@@ -177,20 +177,6 @@
       "text": "At the beginning of each of your main phases, if you haven't added mana with this ability this turn, you may add X mana of any one color, where X is the number of Islands target opponent controls."
     },
     {
-      "name": "Swords to Plowshares",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Exile target creature. Its controller gains life equal to its power."
-    },
-    {
       "name": "Noble Hierarch",
       "quantity": 1,
       "board": "main",
@@ -205,6 +191,20 @@
       "manaValue": 1,
       "type": "Creature — Human Druid",
       "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{T}: Add {G}, {W}, or {U}."
+    },
+    {
+      "name": "Swords to Plowshares",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Exile target creature. Its controller gains life equal to its power."
     },
     {
       "name": "Emiel the Blessed",
@@ -260,19 +260,6 @@
       "text": "({T}: Add {G} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     },
     {
-      "name": "Sea of Clouds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {U}."
-    },
-    {
       "name": "Bountiful Promenade",
       "quantity": 1,
       "board": "main",
@@ -284,6 +271,19 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {W}."
+    },
+    {
+      "name": "Sea of Clouds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {U}."
     },
     {
       "name": "Phyrexian Metamorph",

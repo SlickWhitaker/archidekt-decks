@@ -714,19 +714,6 @@
       "text": "Whenever this creature attacks or blocks, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice two Foods: Draw a card."
     },
     {
-      "name": "Scattered Groves",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Forest",
-      "text": "({T}: Add {G} or {W}.)\nThis land enters tapped.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-    },
-    {
       "name": "Woodfall Primus",
       "quantity": 1,
       "board": "main",
@@ -752,6 +739,19 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you control a Swamp or a Forest.\n{T}: Add {B} or {G}."
+    },
+    {
+      "name": "Scattered Groves",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Forest",
+      "text": "({T}: Add {G} or {W}.)\nThis land enters tapped.\nCycling {2} ({2}, Discard this card: Draw a card.)"
     },
     {
       "name": "Sam, Loyal Attendant",
