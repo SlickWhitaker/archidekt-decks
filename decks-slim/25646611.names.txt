@@ -26,6 +26,12 @@ Fellwar Stone
 Fiery Confluence
 Fire Covenant
 Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -45,6 +51,7 @@ Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
+Takenuma, Abandoned Mire
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -63,25 +70,18 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Takenuma, Abandoned Mire
+Scrawling Crawler
+Valgavoth, Harrower of Souls
 Talisman of Indulgence
 Terminate
 The Lord of Pain
 The Meathook Massacre
-Haunted Ridge
 The One Ring
 Torment of Hailfire
 Underworld Dreams
-Havoc Festival
 Urborg, Tomb of Yawgmoth
 Vial Smasher the Fierce
 Wheel of Misfortune
 Witch's Clinic
-Jet Medallion
 Wound Reflection
 Zo-Zu the Punisher
-Valgavoth, Harrower of Souls
-Scrawling Crawler

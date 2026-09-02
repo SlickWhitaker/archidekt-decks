@@ -15,6 +15,16 @@ Big Mother Mouser
 Blood Crypt
 Bloom Tender
 Branching Evolution
+Cathars' Crusade
+Chromatic Lantern
+Cinder Glade
+City of Brass
+Command Tower
+Cultivate
+Dimension X Pizzasaur
+Donatello, the Brains
+Doubling Season
+Dragonskull Summit
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -24,7 +34,6 @@ Hidden Hideout
 Hinterland Harbor
 Island
 Jetmir's Garden
-Cathars' Crusade
 Kami of Whispered Hopes
 Kindred Dominance
 Kodama's Reach
@@ -77,15 +86,6 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Chromatic Lantern
-Cinder Glade
-City of Brass
-Command Tower
-Cultivate
-Dimension X Pizzasaur
-Donatello, the Brains
-Doubling Season
-Dragonskull Summit
 Evolving Wilds
 Exotic Orchard
 Fabled Passage

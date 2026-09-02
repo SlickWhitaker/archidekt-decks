@@ -352,16 +352,6 @@
       "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
-      "name": "City of Brass",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "Whenever this land becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
-    },
-    {
       "name": "Grand Abolisher",
       "quantity": 1,
       "board": "main",
@@ -374,6 +364,16 @@
       "manaValue": 2,
       "type": "Creature — Human Cleric",
       "text": "During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments."
+    },
+    {
+      "name": "City of Brass",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "Whenever this land becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
     },
     {
       "name": "Venser, Shaper Savant",
@@ -1272,20 +1272,6 @@
       "text": "Flying\nWhen this creature enters, untap up to two lands.\nCycling {2} ({2}, Discard this card: Draw a card.)"
     },
     {
-      "name": "Somberwald Sage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Druid",
-      "text": "{T}: Add three mana of any one color. Spend this mana only to cast creature spells."
-    },
-    {
       "name": "Faeburrow Elder",
       "quantity": 1,
       "board": "main",
@@ -1300,6 +1286,20 @@
       "manaValue": 3,
       "type": "Creature — Druid Treefolk",
       "text": "Vigilance\nThis creature gets +1/+1 for each color among permanents you control.\n{T}: For each color among permanents you control, add one mana of that color."
+    },
+    {
+      "name": "Somberwald Sage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Druid",
+      "text": "{T}: Add three mana of any one color. Spend this mana only to cast creature spells."
     }
   ]
 }

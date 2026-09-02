@@ -23,8 +23,8 @@ Chulane, Teller of Tales
 Polluted Delta
 Hullbreaker Horror
 Command Tower
-City of Brass
 Grand Abolisher
+City of Brass
 Venser, Shaper Savant
 Peregrine Drake
 Kinnan, Bonder Prodigy
@@ -92,5 +92,5 @@ Forest
 Mystic Snake
 Temur Sabertooth
 Cloud of Faeries
-Somberwald Sage
 Faeburrow Elder
+Somberwald Sage

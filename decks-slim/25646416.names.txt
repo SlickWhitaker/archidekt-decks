@@ -57,18 +57,8 @@ Nature's Lore
 Nykthos, Shrine to Nyx
 Old Gnawbone
 Orcish Lumberjack
-Veil of Summer
 Prismatic Vista
 Professional Face-Breaker
-Verdant Catacombs
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
-Kibo, Uktabi Prince
 Railway Brawler
 Rhythm of the Wild
 Rishkar's Expertise
@@ -76,11 +66,11 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
-Academy Manufactor
 Selvala, Heart of the Wilds
 Shifting Woodland
 Skullclamp
 Sol Ring
+Veil of Summer
 Spire Garden
 Stomping Ground
 Strip Mine
@@ -88,7 +78,17 @@ Sylvan Library
 Terror of the Peaks
 The Great Henge
 The One Ring
+Verdant Catacombs
 The Ozolith
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
 Three Visits
+Kibo, Uktabi Prince
+Academy Manufactor
 Tooth and Nail
 Vandalblast

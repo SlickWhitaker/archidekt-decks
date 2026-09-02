@@ -36,6 +36,13 @@ Jubilant Skybonder
 Kindred Discovery
 Ledger Shredder
 Mabel, Heir to Cragflame
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
+Cathars' Crusade
 Martial Coup
 Migratory Route
 Mind Stone
@@ -52,14 +59,9 @@ Pollywog Prodigy
 Rally the Ranks
 Rapid Augmenter
 Rapid Hybridization
-Warren Warleader
-Watcher of the Spheres
 Reconnaissance Mission
-Zinnia, Valley's Voice
-Fiend Hunter
 Restless Anchorage
 Roaming Throne
-Soulcatcher
 Rose Room Treasurer
 Rugged Prairie
 Seachrome Coast
@@ -76,8 +78,6 @@ Steam Vents
 Storm of Souls
 Sulfur Falls
 Sunscorched Divide
-Academy Manufactor
-Cathars' Crusade
 Swords to Plowshares
 Temple of Enlightenment
 Temple of Triumph
