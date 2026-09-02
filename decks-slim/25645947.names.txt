@@ -12,6 +12,7 @@ Blood Artist
 Blood Crypt
 Bloodghast
 Bloodletter of Aclazotz
+Bloodline Necromancer
 Champion of Dusk
 Charismatic Conqueror
 Chrome Mox
@@ -82,7 +83,6 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Bloodline Necromancer
 Bloodstained Mire
 Bloodthirsty Conqueror
 Bojuka Bog

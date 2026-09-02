@@ -41,9 +41,16 @@ Migratory Route
 Mind Stone
 Mountain
 Murmuration
+Warren Warleader
+Watcher of the Spheres
 Mystic Monastery
+Zinnia, Valley's Voice
 Nesting Dovehawk
+Fiend Hunter
 Ornithopter of Paradise
+Soulcatcher
+Academy Manufactor
+Cathars' Crusade
 Path of Ancestry
 Path to Exile
 Plains
@@ -57,13 +64,6 @@ Restless Anchorage
 Roaming Throne
 Rose Room Treasurer
 Rugged Prairie
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
-Cathars' Crusade
 Seachrome Coast
 Season of the Burrow
 Selfless Spirit
