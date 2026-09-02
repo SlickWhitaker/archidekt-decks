@@ -6,9 +6,6 @@ Blackcleave Cliffs
 Blasphemous Act
 Blightstep Pathway // Searstep Pathway
 Blood Artist
-Blood Crypt
-Bloodchief Ascension
-Bloodletter of Aclazotz
 Bloodstained Mire
 Bloodthirsty Conqueror
 Cabal Coffers
@@ -85,3 +82,6 @@ Wound Reflection
 Zo-Zu the Punisher
 Scrawling Crawler
 Valgavoth, Harrower of Souls
+Blood Crypt
+Bloodchief Ascension
+Bloodletter of Aclazotz

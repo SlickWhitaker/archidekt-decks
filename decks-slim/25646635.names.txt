@@ -64,7 +64,6 @@ Opposition Agent
 Orcish Bowmasters
 Ornithopter
 Otawara, Soaring City
-Sink into Stupor // Soporific Springs
 Pact of Negation
 Phyrexian Walker
 Polluted Delta
@@ -77,14 +76,7 @@ Scroll Rack
 Sensei's Divining Top
 Shizo, Death's Storehouse
 Silver-Fur Master
-Thieving Skydiver
-Thousand-Faced Shadow
-Throat Slitter
-Underground River
-Vampiric Tutor
-Walker of Secret Ways
-Watery Grave
-Yuriko, the Tiger's Shadow
+Sink into Stupor // Soporific Springs
 Skullsnatcher
 Slither Blade
 Snow-Covered Island
@@ -96,3 +88,11 @@ Swamp
 Temporal Trespass
 Tetsuko Umezawa, Fugitive
 Thassa's Oracle
+Watery Grave
+Thieving Skydiver
+Thousand-Faced Shadow
+Throat Slitter
+Underground River
+Vampiric Tutor
+Yuriko, the Tiger's Shadow
+Walker of Secret Ways

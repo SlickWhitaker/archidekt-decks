@@ -47,14 +47,14 @@ Phyrexian Reclamation
 Psychosis Crawler
 Quest for the Nihil Stone
 Rankle, Master of Pranks
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
 Rankle's Prank
 Rotting Rats
 Sangromancer
 Sepulchral Primordial
 Shrieking Affliction
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not
 Sign in Blood
 Smallpox
 Sol Ring

@@ -55,6 +55,10 @@ Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Rose Room Treasurer
 Rugged Prairie
 Seachrome Coast
@@ -62,18 +66,12 @@ Season of the Burrow
 Selfless Spirit
 Shared Animosity
 Shivan Reef
+Soulcatcher
 Skullclamp
 Skyclave Apparition
 Skycloud Expanse
 Sol Ring
 Soulcatchers' Aerie
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
-Cathars' Crusade
 Steam Vents
 Storm of Souls
 Sulfur Falls
@@ -81,6 +79,8 @@ Sunscorched Divide
 Swords to Plowshares
 Temple of Enlightenment
 Temple of Triumph
+Academy Manufactor
+Cathars' Crusade
 Terramorphic Expanse
 Tetsuko Umezawa, Fugitive
 Thriving Bluff

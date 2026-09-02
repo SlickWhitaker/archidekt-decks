@@ -87,6 +87,20 @@
       "text": "Exile target nonland permanent. You lose 3 life."
     },
     {
+      "name": "Anointed Procession",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
+    },
+    {
       "name": "Black Market Connections",
       "quantity": 1,
       "board": "main",
@@ -1175,20 +1189,6 @@
       "manaValue": 6,
       "type": "Legendary Creature — Knight Vampire",
       "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
-    },
-    {
-      "name": "Anointed Procession",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
     },
     {
       "name": "Arcane Signet",
