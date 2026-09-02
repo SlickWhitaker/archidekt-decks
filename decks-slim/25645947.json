@@ -101,6 +101,40 @@
       "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
     },
     {
+      "name": "Arcane Signet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Archivist of Oghma",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Cleric Halfling",
+      "text": "Flash\nWhenever an opponent searches their library, you gain 1 life and draw a card."
+    },
+    {
+      "name": "Arid Mesa",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
+    },
+    {
       "name": "Black Market Connections",
       "quantity": 1,
       "board": "main",
@@ -218,49 +252,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped.\nWhen this land enters, exile target player's graveyard.\n{T}: Add {B}."
-    },
-    {
-      "name": "Boros Charm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Red"
-      ],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Choose one —\n• Boros Charm deals 4 damage to target player or planeswalker.\n• Permanents you control gain indestructible until end of turn.\n• Target creature gains double strike until end of turn."
-    },
-    {
-      "name": "Captivating Vampire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Vampire",
-      "text": "Other Vampire creatures you control get +1/+1.\nTap five untapped Vampires you control: Gain control of target creature. It becomes a Vampire in addition to its other types."
-    },
-    {
-      "name": "Caves of Koilos",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. This land deals 1 damage to you."
     },
     {
       "name": "Champion of Dusk",
@@ -1191,38 +1182,47 @@
       "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
     },
     {
-      "name": "Arcane Signet",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add one mana of any color in your commander's color identity."
-    },
-    {
-      "name": "Archivist of Oghma",
+      "name": "Boros Charm",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "White"
+        "White",
+        "Red"
       ],
       "colorIdentity": [
-        "White"
+        "White",
+        "Red"
       ],
       "manaValue": 2,
-      "type": "Creature — Cleric Halfling",
-      "text": "Flash\nWhenever an opponent searches their library, you gain 1 life and draw a card."
+      "type": "Instant",
+      "text": "Choose one —\n• Boros Charm deals 4 damage to target player or planeswalker.\n• Permanents you control gain indestructible until end of turn.\n• Target creature gains double strike until end of turn."
     },
     {
-      "name": "Arid Mesa",
+      "name": "Captivating Vampire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Vampire",
+      "text": "Other Vampire creatures you control get +1/+1.\nTap five untapped Vampires you control: Gain control of target creature. It becomes a Vampire in addition to its other types."
+    },
+    {
+      "name": "Caves of Koilos",
       "quantity": 1,
       "board": "main",
       "colors": [],
-      "colorIdentity": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
       "manaValue": 0,
       "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. This land deals 1 damage to you."
     }
   ]
 }

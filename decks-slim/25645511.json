@@ -275,22 +275,6 @@
       "text": "Flying, trample\nSacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn."
     },
     {
-      "name": "Dreadbore",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Destroy target creature or planeswalker."
-    },
-    {
       "name": "Command Tower",
       "quantity": 1,
       "board": "main",
@@ -340,6 +324,35 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}."
+    },
+    {
+      "name": "Dreadbore",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Destroy target creature or planeswalker."
+    },
+    {
+      "name": "Drossforge Bridge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Artifact Land",
+      "text": "This land enters tapped.\nIndestructible\n{T}: Add {B} or {R}."
     },
     {
       "name": "Grave Titan",
@@ -1061,19 +1074,6 @@
       "manaValue": 2,
       "type": "Creature — Human Rogue Ally",
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
-    },
-    {
-      "name": "Drossforge Bridge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Artifact Land",
-      "text": "This land enters tapped.\nIndestructible\n{T}: Add {B} or {R}."
     },
     {
       "name": "Endrek Sahr, Master Breeder",

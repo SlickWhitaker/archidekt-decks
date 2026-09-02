@@ -9,24 +9,12 @@ Assassin's Trophy
 Aura Shards
 Baxter, Fly in the Ointment
 Beast Whisperer
+Beastmaster Ascension
+Big Apple, 3 a.m.
+Big Mother Mouser
 Blood Crypt
 Bloom Tender
 Branching Evolution
-Cathars' Crusade
-Chromatic Lantern
-Cinder Glade
-City of Brass
-Command Tower
-Cultivate
-Dimension X Pizzasaur
-Donatello, the Brains
-Doubling Season
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -36,6 +24,7 @@ Hidden Hideout
 Hinterland Harbor
 Island
 Jetmir's Garden
+Cathars' Crusade
 Kami of Whispered Hopes
 Kindred Dominance
 Kodama's Reach
@@ -88,6 +77,17 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Beastmaster Ascension
-Big Apple, 3 a.m.
-Big Mother Mouser
+Chromatic Lantern
+Cinder Glade
+City of Brass
+Command Tower
+Cultivate
+Dimension X Pizzasaur
+Donatello, the Brains
+Doubling Season
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
