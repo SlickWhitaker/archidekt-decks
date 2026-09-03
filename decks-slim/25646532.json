@@ -799,44 +799,6 @@
       "text": "({T}: Add {B}.)"
     },
     {
-      "name": "Geth's Grimoire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Artifact — Book",
-      "text": "Whenever an opponent discards a card, you may draw a card."
-    },
-    {
-      "name": "Tinybones, Trinket Thief",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Skeleton Rogue",
-      "text": "At the beginning of each end step, if an opponent discarded a card this turn, you draw a card and you lose 1 life.\n{4}{B}{B}: Each opponent with no cards in hand loses 10 life."
-    },
-    {
-      "name": "Waste Not",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.\nWhenever an opponent discards a land card, add {B}{B}.\nWhenever an opponent discards a noncreature, nonland card, draw a card."
-    },
-    {
       "name": "Syphon Mind",
       "quantity": 1,
       "board": "main",
@@ -891,6 +853,44 @@
       "manaValue": 2,
       "type": "Legendary Creature — Skeleton Rogue",
       "text": "Whenever an opponent discards a card, exile it from their graveyard with a stash counter on it.\nDuring your turn, you may play cards you don't own with stash counters on them from exile, and mana of any type can be spent to cast those spells.\n{3}{B}, {T}: Each opponent discards a card. Activate only as a sorcery."
+    },
+    {
+      "name": "Geth's Grimoire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Artifact — Book",
+      "text": "Whenever an opponent discards a card, you may draw a card."
+    },
+    {
+      "name": "Tinybones, Trinket Thief",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Skeleton Rogue",
+      "text": "At the beginning of each end step, if an opponent discarded a card this turn, you draw a card and you lose 1 life.\n{4}{B}{B}: Each opponent with no cards in hand loses 10 life."
+    },
+    {
+      "name": "Waste Not",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.\nWhenever an opponent discards a land card, add {B}{B}.\nWhenever an opponent discards a noncreature, nonland card, draw a card."
     },
     {
       "name": "Unearth",

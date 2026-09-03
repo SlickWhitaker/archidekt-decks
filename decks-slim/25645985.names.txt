@@ -29,6 +29,8 @@ Many Partings
 Mentor of the Meek
 Merry, Warden of Isengard
 Mirkwood Bats
+Mortality Spear
+Murmuring Bosk
 Nature's Lore
 Nazgûl
 Necroblossom Snarl
@@ -48,25 +50,6 @@ Sandsteppe Citadel
 Sanguine Bond
 Savvy Hunter
 Scattered Groves
-Shineshadow Snarl
-Shire Shirriff
-Shire Terrace
-Skullclamp
-Sol Ring
-Sunpetal Grove
-Swamp
-Swords to Plowshares
-The Battle of Bywater
-The Gaffer
-The Shire
-Tireless Provisioner
-Toxic Deluge
-Trail of Crumbs
-Treebeard, Gracious Host
-Trouble in Pairs
-Well of Lost Dreams
-Windswept Heath
-Witch's Oven
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
@@ -87,5 +70,22 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Mortality Spear
-Murmuring Bosk
+Shineshadow Snarl
+Shire Shirriff
+Shire Terrace
+Skullclamp
+Sol Ring
+Sunpetal Grove
+Swamp
+Swords to Plowshares
+The Battle of Bywater
+The Gaffer
+The Shire
+Tireless Provisioner
+Toxic Deluge
+Trail of Crumbs
+Treebeard, Gracious Host
+Trouble in Pairs
+Well of Lost Dreams
+Windswept Heath
+Witch's Oven

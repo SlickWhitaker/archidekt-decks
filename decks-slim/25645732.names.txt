@@ -47,6 +47,8 @@ Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
 Mask of Memory
+Mithril Coat
+Mossfire Valley
 Path of Ancestry
 Path to Exile
 Plains
@@ -61,8 +63,6 @@ Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
-Mithril Coat
-Mossfire Valley
 Sephiroth, Fallen Hero
 Sheltered Thicket
 Sigarda's Aid
@@ -82,19 +82,19 @@ Swiftfoot Boots
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
+Mountain
 Tifa, Martial Artist
+Mountain
 Tifa's Limit Break
 Ultimate Magic: Holy
+Mountain
 Unfinished Business
 Vandalblast
 Wood Elves
 Yuffie, Materia Hunter
-Zack Fair
-Sword of Forge and Frontier
-Cloud, Ex-SOLDIER
-Enlightened Tutor
-Mountain
-Mountain
-Mountain
 Nature's Lore
 Nature's Will
+Sword of Forge and Frontier
+Zack Fair
+Cloud, Ex-SOLDIER
+Enlightened Tutor
