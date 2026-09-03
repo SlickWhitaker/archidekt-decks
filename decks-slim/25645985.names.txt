@@ -65,10 +65,6 @@ Tireless Provisioner
 Toxic Deluge
 Trail of Crumbs
 Treebeard, Gracious Host
-Trouble in Pairs
-Well of Lost Dreams
-Windswept Heath
-Witch's Oven
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
@@ -85,7 +81,11 @@ Birds of Paradise
 Bretagard Stronghold
 Brushland
 Butterbur, Bree Innkeeper
-Stardew Valley
 Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
+Stardew Valley
+Trouble in Pairs
+Well of Lost Dreams
+Windswept Heath
+Witch's Oven

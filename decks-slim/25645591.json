@@ -32,187 +32,6 @@
       "text": "{1}, Sacrifice this creature: Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
     },
     {
-      "name": "Cavern of Souls",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
-    },
-    {
-      "name": "Chain Reaction",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield."
-    },
-    {
-      "name": "Atarka, World Render",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 7,
-      "type": "Legendary Creature — Dragon",
-      "text": "Flying, trample\nWhenever a Dragon you control attacks, it gains double strike until end of turn."
-    },
-    {
-      "name": "Arcane Signet",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add one mana of any color in your commander's color identity."
-    },
-    {
-      "name": "Balefire Dragon",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 7,
-      "type": "Creature — Dragon",
-      "text": "Flying\nWhenever this creature deals combat damage to a player, it deals that much damage to each creature that player controls."
-    },
-    {
-      "name": "Beast Within",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
-    },
-    {
-      "name": "Blasphemous Act",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 9,
-      "type": "Sorcery",
-      "text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature."
-    },
-    {
-      "name": "Bonders' Enclave",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{3}, {T}: Draw a card. Activate only if you control a creature with power 4 or greater."
-    },
-    {
-      "name": "Chaos Warp",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield."
-    },
-    {
-      "name": "Cinder Glade",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Mountain Forest",
-      "text": "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands."
-    },
-    {
-      "name": "Command Tower",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add one mana of any color in your commander's color identity."
-    },
-    {
-      "name": "Crucible of Fire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Dragon creatures you control get +3/+3."
-    },
-    {
-      "name": "Cultivate",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
-    },
-    {
-      "name": "Curse of Opulence",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 1,
-      "type": "Enchantment — Aura Curse",
-      "text": "Enchant player\nWhenever enchanted player is attacked, create a Gold token. Each opponent attacking that player does the same. (A Gold token is an artifact with \"Sacrifice this token: Add one mana of any color.\")"
-    },
-    {
       "name": "Draconic Disciple",
       "quantity": 1,
       "board": "main",
@@ -1029,6 +848,187 @@
       "manaValue": 5,
       "type": "Creature — Dragon",
       "text": "Flying\nWhenever a Dragon you control is dealt damage, it deals that much damage to any target that isn't a Dragon."
+    },
+    {
+      "name": "Cavern of Souls",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
+    },
+    {
+      "name": "Chain Reaction",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield."
+    },
+    {
+      "name": "Atarka, World Render",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green",
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 7,
+      "type": "Legendary Creature — Dragon",
+      "text": "Flying, trample\nWhenever a Dragon you control attacks, it gains double strike until end of turn."
+    },
+    {
+      "name": "Arcane Signet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Balefire Dragon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 7,
+      "type": "Creature — Dragon",
+      "text": "Flying\nWhenever this creature deals combat damage to a player, it deals that much damage to each creature that player controls."
+    },
+    {
+      "name": "Beast Within",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
+    },
+    {
+      "name": "Blasphemous Act",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 9,
+      "type": "Sorcery",
+      "text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature."
+    },
+    {
+      "name": "Bonders' Enclave",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{3}, {T}: Draw a card. Activate only if you control a creature with power 4 or greater."
+    },
+    {
+      "name": "Chaos Warp",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield."
+    },
+    {
+      "name": "Cinder Glade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Mountain Forest",
+      "text": "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "Command Tower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Crucible of Fire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Dragon creatures you control get +3/+3."
+    },
+    {
+      "name": "Cultivate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
+    },
+    {
+      "name": "Curse of Opulence",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment — Aura Curse",
+      "text": "Enchant player\nWhenever enchanted player is attacked, create a Gold token. Each opponent attacking that player does the same. (A Gold token is an artifact with \"Sacrifice this token: Add one mana of any color.\")"
     }
   ]
 }

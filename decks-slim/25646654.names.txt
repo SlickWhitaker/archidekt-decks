@@ -43,6 +43,10 @@ Mountain
 Murmuration
 Mystic Monastery
 Nesting Dovehawk
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Ornithopter of Paradise
 Path of Ancestry
 Path to Exile
@@ -61,12 +65,15 @@ Seachrome Coast
 Season of the Burrow
 Selfless Spirit
 Shared Animosity
+Soulcatcher
 Shivan Reef
+Academy Manufactor
 Skullclamp
 Skyclave Apparition
 Skycloud Expanse
 Sol Ring
 Soulcatchers' Aerie
+Cathars' Crusade
 Steam Vents
 Storm of Souls
 Sulfur Falls
@@ -83,10 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Soulcatcher
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
