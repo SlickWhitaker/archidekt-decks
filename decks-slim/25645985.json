@@ -434,36 +434,6 @@
       "text": "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life."
     },
     {
-      "name": "Mortality Spear",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Instant",
-      "text": "This spell costs {2} less to cast if you gained life this turn.\nDestroy target nonland permanent."
-    },
-    {
-      "name": "Murmuring Bosk",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Black",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Forest",
-      "text": "({T}: Add {G}.)\nAs this land enters, you may reveal a Treefolk card from your hand. If you don't, this land enters tapped.\n{T}: Add {W} or {B}. This land deals 1 damage to you."
-    },
-    {
       "name": "Nature's Lore",
       "quantity": 1,
       "board": "main",
@@ -965,22 +935,6 @@
       "text": "{T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
     },
     {
-      "name": "Sam, Loyal Attendant",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "White",
-        "Green"
-      ],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Peasant Halfling",
-      "text": "Partner with Frodo, Adventurous Hobbit (When this creature enters, target player may put Frodo into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nActivated abilities of Foods you control cost {1} less to activate."
-    },
-    {
       "name": "Woodfall Primus",
       "quantity": 1,
       "board": "main",
@@ -1006,6 +960,38 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you control a Swamp or a Forest.\n{T}: Add {B} or {G}."
+    },
+    {
+      "name": "Sam, Loyal Attendant",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Peasant Halfling",
+      "text": "Partner with Frodo, Adventurous Hobbit (When this creature enters, target player may put Frodo into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nActivated abilities of Foods you control cost {1} less to activate."
+    },
+    {
+      "name": "Frodo, Adventurous Hobbit",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Scout Halfling",
+      "text": "Partner with Sam, Loyal Attendant\nVigilance\nWhenever Frodo attacks, if you gained 3 or more life this turn, the Ring tempts you. Then if Frodo is your Ring-bearer and the Ring has tempted you two or more times this game, draw a card."
     },
     {
       "name": "Academy Manufactor",
@@ -1219,20 +1205,34 @@
       "text": "{T}: Add {C}.\n{2}, {T}, Tap an untapped creature you control: Create a Food token.\n{3}, {T}: Choose target permanent you control. Draw a card, then another player of your choice may gain control of that permanent. Activate only as a sorcery."
     },
     {
-      "name": "Frodo, Adventurous Hobbit",
+      "name": "Mortality Spear",
       "quantity": 1,
-      "board": "commander",
+      "board": "main",
       "colors": [
-        "White",
+        "Green",
         "Black"
       ],
       "colorIdentity": [
-        "White",
-        "Black"
+        "Black",
+        "Green"
       ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Scout Halfling",
-      "text": "Partner with Sam, Loyal Attendant\nVigilance\nWhenever Frodo attacks, if you gained 3 or more life this turn, the Ring tempts you. Then if Frodo is your Ring-bearer and the Ring has tempted you two or more times this game, draw a card."
+      "manaValue": 4,
+      "type": "Instant",
+      "text": "This spell costs {2} less to cast if you gained life this turn.\nDestroy target nonland permanent."
+    },
+    {
+      "name": "Murmuring Bosk",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Forest",
+      "text": "({T}: Add {G}.)\nAs this land enters, you may reveal a Treefolk card from your hand. If you don't, this land enters tapped.\n{T}: Add {W} or {B}. This land deals 1 damage to you."
     }
   ]
 }

@@ -29,8 +29,6 @@ Many Partings
 Mentor of the Meek
 Merry, Warden of Isengard
 Mirkwood Bats
-Mortality Spear
-Murmuring Bosk
 Nature's Lore
 Nazgûl
 Necroblossom Snarl
@@ -69,9 +67,10 @@ Trouble in Pairs
 Well of Lost Dreams
 Windswept Heath
 Witch's Oven
-Sam, Loyal Attendant
 Woodfall Primus
 Woodland Cemetery
+Sam, Loyal Attendant
+Frodo, Adventurous Hobbit
 Academy Manufactor
 Anguished Unmaking
 Aragorn and Arwen, Wed
@@ -88,4 +87,5 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Frodo, Adventurous Hobbit
+Mortality Spear
+Murmuring Bosk

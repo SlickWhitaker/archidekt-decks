@@ -561,24 +561,6 @@
       "text": "As this land enters, you may reveal a Mountain or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {R} or {W}."
     },
     {
-      "name": "Cloud, Ex-SOLDIER",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "White",
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "White",
-        "Red",
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Soldier Mercenary",
-      "text": "Haste\nWhen Cloud enters, attach up to one target Equipment you control to it.\nWhenever Cloud attacks, draw a card for each equipped attacking creature you control. Then if Cloud has power 7 or greater, create two Treasure tokens."
-    },
-    {
       "name": "Gongaga, Reactor Town",
       "quantity": 1,
       "board": "main",
@@ -785,16 +767,6 @@
       "text": "Vigilance, trample\nOther modified creatures you control have vigilance and trample. (Equipment, Auras you control, and counters are modifications.)\nCosmo Memory — When Red XIII enters, return target Aura or Equipment card from your graveyard to your hand."
     },
     {
-      "name": "Ring of the Lucii",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Legendary Artifact",
-      "text": "{T}: Add {C}{C}.\n{2}, {T}, Pay 1 life: Tap target nonland permanent."
-    },
-    {
       "name": "Rogue's Passage",
       "quantity": 1,
       "board": "main",
@@ -852,6 +824,29 @@
       "manaValue": 0,
       "type": "Land — Desert",
       "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
+    },
+    {
+      "name": "Mithril Coat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
+    },
+    {
+      "name": "Mossfire Valley",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{1}, {T}: Add {R}{G}."
     },
     {
       "name": "Sephiroth, Fallen Hero",
@@ -1219,27 +1214,36 @@
       "text": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}"
     },
     {
-      "name": "Mithril Coat",
+      "name": "Cloud, Ex-SOLDIER",
       "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Legendary Artifact — Equipment",
-      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
-    },
-    {
-      "name": "Mossfire Valley",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
+      "board": "commander",
+      "colors": [
+        "White",
+        "Green",
+        "Red"
+      ],
       "colorIdentity": [
+        "White",
         "Red",
         "Green"
       ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{1}, {T}: Add {R}{G}."
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Soldier Mercenary",
+      "text": "Haste\nWhen Cloud enters, attach up to one target Equipment you control to it.\nWhenever Cloud attacks, draw a card for each equipped attacking creature you control. Then if Cloud has power 7 or greater, create two Treasure tokens."
+    },
+    {
+      "name": "Enlightened Tutor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
     },
     {
       "name": "Mountain",
