@@ -18,6 +18,20 @@ Command Tower
 Deadly Rollick
 Deflecting Swat
 Descent into Avernus
+Dragonskull Summit
+Everlasting Torment
+Exquisite Blood
+Feed the Swarm
+Fellwar Stone
+Fiery Confluence
+Fire Covenant
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -32,16 +46,13 @@ Obosh, the Preypiercer
 Opposition Agent
 Orcish Bowmasters
 Painful Quandary
-Phyrexian Arena
-Polluted Bonds
-Prismatic Vista
-Rakdos Charm
-Rampaging Ferocidon
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
+Phyrexian Arena
 Shadowblood Ridge
 Sheoldred, the Apocalypse
+Polluted Bonds
 Sheoldred's Edict
 Shivan Gorge
 Smoldering Marsh
@@ -69,19 +80,8 @@ Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
-Scrawling Crawler
+Prismatic Vista
+Rakdos Charm
+Rampaging Ferocidon
 Valgavoth, Harrower of Souls
-Dragonskull Summit
-Everlasting Torment
-Exquisite Blood
-Feed the Swarm
-Fellwar Stone
-Fiery Confluence
-Fire Covenant
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
+Scrawling Crawler

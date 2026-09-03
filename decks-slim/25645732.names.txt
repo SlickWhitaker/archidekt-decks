@@ -41,27 +41,23 @@ Forest
 Fortified Village
 Furycalm Snarl
 Cloud, Ex-SOLDIER
+Gongaga, Reactor Town
+Hard-Won Jitte
+Hellkite Tyrant
+Iron Hills Blacksmith
+Kíli the Resourceful
 Path of Ancestry
 Path to Exile
 Plains
 Plains
-Gongaga, Reactor Town
 Plains
-Hard-Won Jitte
 Professional Face-Breaker
-Hellkite Tyrant
-Iron Hills Blacksmith
 Puresteel Paladin
-Kíli the Resourceful
-Lightning Greaves
-Mask of Memory
-Mithril Coat
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
+Radiant Grove
+Red XIII, Proud Warrior
+Ring of the Lucii
+Rogue's Passage
+Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
@@ -93,8 +89,12 @@ Wood Elves
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
-Radiant Grove
-Red XIII, Proud Warrior
-Ring of the Lucii
-Rogue's Passage
-Rootbound Crag
+Lightning Greaves
+Mask of Memory
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will
