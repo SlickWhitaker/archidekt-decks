@@ -579,6 +579,16 @@
       "text": "Haste\nWhen Cloud enters, attach up to one target Equipment you control to it.\nWhenever Cloud attacks, draw a card for each equipped attacking creature you control. Then if Cloud has power 7 or greater, create two Treasure tokens."
     },
     {
+      "name": "Path of Ancestry",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    },
+    {
       "name": "Gongaga, Reactor Town",
       "quantity": 1,
       "board": "main",
@@ -648,154 +658,111 @@
       "text": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, you may pay {0} rather than pay the equip cost of the first equip ability you activate each turn.\nWhenever another Dwarf or Equipment you control enters, draw a card. This ability triggers only once each turn."
     },
     {
-      "name": "Path of Ancestry",
+      "name": "Lightning Greaves",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
+    },
+    {
+      "name": "Mask of Memory",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+    },
+    {
+      "name": "Mithril Coat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
+    },
+    {
+      "name": "Mossfire Valley",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
       "manaValue": 0,
       "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+      "text": "{1}, {T}: Add {R}{G}."
     },
     {
-      "name": "Path to Exile",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
-    },
-    {
-      "name": "Plains",
+      "name": "Mountain",
       "quantity": 1,
       "board": "main",
       "colors": [],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Plains",
-      "text": "({T}: Add {W}.)"
-    },
-    {
-      "name": "Plains",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Plains",
-      "text": "({T}: Add {W}.)"
-    },
-    {
-      "name": "Plains",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Plains",
-      "text": "({T}: Add {W}.)"
-    },
-    {
-      "name": "Professional Face-Breaker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
       "colorIdentity": [
         "Red"
       ],
-      "manaValue": 3,
-      "type": "Creature — Human Warrior",
-      "text": "Menace\nWhenever one or more creatures you control deal combat damage to a player, create a Treasure token.\nSacrifice a Treasure: Exile the top card of your library. You may play that card this turn."
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
     },
     {
-      "name": "Puresteel Paladin",
+      "name": "Mountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Mountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Nature's Lore",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "White"
+        "Green"
       ],
       "colorIdentity": [
-        "White"
+        "Green"
       ],
       "manaValue": 2,
-      "type": "Creature — Human Knight",
-      "text": "Whenever an Equipment you control enters, you may draw a card.\nMetalcraft — Equipment you control have equip {0} as long as you control three or more artifacts."
+      "type": "Sorcery",
+      "text": "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
     },
     {
-      "name": "Radiant Grove",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Forest",
-      "text": "({T}: Add {G} or {W}.)\nThis land enters tapped."
-    },
-    {
-      "name": "Red XIII, Proud Warrior",
+      "name": "Nature's Will",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red",
         "Green"
       ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Beast Warrior",
-      "text": "Vigilance, trample\nOther modified creatures you control have vigilance and trample. (Equipment, Auras you control, and counters are modifications.)\nCosmo Memory — When Red XIII enters, return target Aura or Equipment card from your graveyard to your hand."
-    },
-    {
-      "name": "Ring of the Lucii",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
+      "colorIdentity": [
+        "Green"
+      ],
       "manaValue": 4,
-      "type": "Legendary Artifact",
-      "text": "{T}: Add {C}{C}.\n{2}, {T}, Pay 1 life: Tap target nonland permanent."
-    },
-    {
-      "name": "Rogue's Passage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."
-    },
-    {
-      "name": "Rootbound Crag",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}."
+      "type": "Enchantment",
+      "text": "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control."
     },
     {
       "name": "Rugged Prairie",
@@ -1199,37 +1166,134 @@
       "text": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}"
     },
     {
-      "name": "Lightning Greaves",
+      "name": "Path to Exile",
       "quantity": 1,
       "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
     },
     {
-      "name": "Mask of Memory",
+      "name": "Plains",
       "quantity": 1,
       "board": "main",
       "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Plains",
+      "text": "({T}: Add {W}.)"
     },
     {
-      "name": "Mithril Coat",
+      "name": "Plains",
       "quantity": 1,
       "board": "main",
       "colors": [],
-      "colorIdentity": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Plains",
+      "text": "({T}: Add {W}.)"
+    },
+    {
+      "name": "Plains",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Plains",
+      "text": "({T}: Add {W}.)"
+    },
+    {
+      "name": "Professional Face-Breaker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
       "manaValue": 3,
-      "type": "Legendary Artifact — Equipment",
-      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
+      "type": "Creature — Human Warrior",
+      "text": "Menace\nWhenever one or more creatures you control deal combat damage to a player, create a Treasure token.\nSacrifice a Treasure: Exile the top card of your library. You may play that card this turn."
     },
     {
-      "name": "Mossfire Valley",
+      "name": "Puresteel Paladin",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Human Knight",
+      "text": "Whenever an Equipment you control enters, you may draw a card.\nMetalcraft — Equipment you control have equip {0} as long as you control three or more artifacts."
+    },
+    {
+      "name": "Radiant Grove",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Forest",
+      "text": "({T}: Add {G} or {W}.)\nThis land enters tapped."
+    },
+    {
+      "name": "Red XIII, Proud Warrior",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Beast Warrior",
+      "text": "Vigilance, trample\nOther modified creatures you control have vigilance and trample. (Equipment, Auras you control, and counters are modifications.)\nCosmo Memory — When Red XIII enters, return target Aura or Equipment card from your graveyard to your hand."
+    },
+    {
+      "name": "Ring of the Lucii",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Legendary Artifact",
+      "text": "{T}: Add {C}{C}.\n{2}, {T}, Pay 1 life: Tap target nonland permanent."
+    },
+    {
+      "name": "Rogue's Passage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."
+    },
+    {
+      "name": "Rootbound Crag",
       "quantity": 1,
       "board": "main",
       "colors": [],
@@ -1239,71 +1303,7 @@
       ],
       "manaValue": 0,
       "type": "Land",
-      "text": "{1}, {T}: Add {R}{G}."
-    },
-    {
-      "name": "Mountain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
-    },
-    {
-      "name": "Mountain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
-    },
-    {
-      "name": "Mountain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
-    },
-    {
-      "name": "Nature's Lore",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Nature's Will",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control."
+      "text": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}."
     }
   ]
 }

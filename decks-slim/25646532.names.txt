@@ -48,6 +48,9 @@ Psychosis Crawler
 Quest for the Nihil Stone
 Rankle, Master of Pranks
 Rankle's Prank
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not
 Rotting Rats
 Sangromancer
 Sepulchral Primordial
@@ -68,6 +71,3 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
