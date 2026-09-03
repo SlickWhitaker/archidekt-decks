@@ -23,7 +23,15 @@ Descent into Avernus
 Dragonskull Summit
 Dreadbore
 Drossforge Bridge
+Endrek Sahr, Master Breeder
+Etali, Primal Storm
+Evolving Wilds
+Exotic Orchard
+Feed the Swarm
+Fellwar Stone
+Foreboding Ruins
 Grave Titan
+Pitiless Plunderer
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
@@ -45,15 +53,6 @@ Orca, Siege Demon
 Overseer of the Damned
 Pathrazer of Ulamog
 Phyrexian Triniform
-Pitiless Plunderer
-Rakdos Carnarium
-Rakdos Charm
-Rakdos Signet
-Rakdos, Lord of Riots
-Rakdos, Patron of Chaos
-Razaketh, the Foulblooded
-Reanimate
-Rune-Scarred Demon
 Scavenger Grounds
 Sepulchral Primordial
 Shadowblood Ridge
@@ -77,10 +76,11 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
-Endrek Sahr, Master Breeder
-Etali, Primal Storm
-Evolving Wilds
-Exotic Orchard
-Feed the Swarm
-Fellwar Stone
-Foreboding Ruins
+Rakdos Carnarium
+Rakdos Charm
+Rakdos Signet
+Rakdos, Lord of Riots
+Rakdos, Patron of Chaos
+Razaketh, the Foulblooded
+Reanimate
+Rune-Scarred Demon

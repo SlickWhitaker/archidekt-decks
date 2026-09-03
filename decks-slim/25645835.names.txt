@@ -38,10 +38,6 @@ Kate Stewart
 Lightning Greaves
 Martha Jones
 Mountain
-Mountain
-Myriad Landscape
-Mystic Monastery
-Nanogene Conversion
 Ominous Cemetery
 Out of Time
 Path of Ancestry
@@ -62,10 +58,10 @@ Sally Sparrow
 Sea of Clouds
 Sol Ring
 Sonic Screwdriver
-Stormcarved Coast
 Spectator Seating
 Star Whale
 Storm-Kiln Artist
+Stormcarved Coast
 Strionic Resonator
 Sunbaked Canyon
 Sundown Pass
@@ -77,14 +73,7 @@ Teferi's Protection
 Temple of Enlightenment
 The Day of the Doctor
 The Eleventh Doctor
-Time Beetle
-Training Center
 The Eleventh Hour
-Trenzalore Clocktower
-War Room
-Wibbly-wobbly, Timey-wimey
-Wilfred Mott
-The Tenth Doctor
 The Face of Boe
 The Girl in the Fireplace
 The Moment
@@ -95,3 +84,14 @@ The Parting of the Ways
 The War Doctor
 The Wedding of River Song
 Thespian's Stage
+Time Beetle
+Training Center
+Trenzalore Clocktower
+War Room
+Wibbly-wobbly, Timey-wimey
+Wilfred Mott
+The Tenth Doctor
+Mountain
+Myriad Landscape
+Mystic Monastery
+Nanogene Conversion

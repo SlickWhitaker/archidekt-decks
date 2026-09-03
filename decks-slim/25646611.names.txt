@@ -39,6 +39,13 @@ Lightning Greaves
 Luxury Suite
 Mayhem Devil
 Mogis, God of Slaughter
+Mountain
+Necropotence
+Ob Nixilis, Captive Kingpin
+Obosh, the Preypiercer
+Opposition Agent
+Orcish Bowmasters
+Painful Quandary
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -73,13 +80,6 @@ Wound Reflection
 Zo-Zu the Punisher
 Scrawling Crawler
 Valgavoth, Harrower of Souls
-Mountain
-Necropotence
-Ob Nixilis, Captive Kingpin
-Obosh, the Preypiercer
-Opposition Agent
-Orcish Bowmasters
-Painful Quandary
 Phyrexian Arena
 Polluted Bonds
 Prismatic Vista

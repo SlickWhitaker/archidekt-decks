@@ -1,4 +1,18 @@
 Cankerbloom
+Cavern of Souls
+Chain Reaction
+Atarka, World Render
+Arcane Signet
+Balefire Dragon
+Beast Within
+Blasphemous Act
+Bonders' Enclave
+Chaos Warp
+Cinder Glade
+Command Tower
+Crucible of Fire
+Cultivate
+Curse of Opulence
 Draconic Disciple
 Dragon Mage
 Dragon Tempest
@@ -60,17 +74,3 @@ Urza's Incubator
 Vandalblast
 Verix Bladewing
 Wrathful Red Dragon
-Cavern of Souls
-Chain Reaction
-Atarka, World Render
-Arcane Signet
-Balefire Dragon
-Beast Within
-Blasphemous Act
-Bonders' Enclave
-Chaos Warp
-Cinder Glade
-Command Tower
-Crucible of Fire
-Cultivate
-Curse of Opulence
