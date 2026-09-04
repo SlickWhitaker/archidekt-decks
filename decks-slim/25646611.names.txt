@@ -26,7 +26,6 @@ Fellwar Stone
 Fiery Confluence
 Fire Covenant
 Florian, Voldaren Scion
-Foreboding Ruins
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -80,6 +79,7 @@ Wound Reflection
 Zo-Zu the Punisher
 Scrawling Crawler
 Valgavoth, Harrower of Souls
+Foreboding Ruins
 Furnace of Rath
 Graven Cairns
 Haunted Ridge

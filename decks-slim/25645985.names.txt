@@ -59,19 +59,10 @@ Sunpetal Grove
 Swamp
 Swords to Plowshares
 The Battle of Bywater
-The Gaffer
-The Shire
-Tireless Provisioner
-Toxic Deluge
-Trail of Crumbs
-Treebeard, Gracious Host
-Trouble in Pairs
-Well of Lost Dreams
-Windswept Heath
-Witch's Oven
-Sam, Loyal Attendant
 Woodfall Primus
 Woodland Cemetery
+Sam, Loyal Attendant
+Frodo, Adventurous Hobbit
 Academy Manufactor
 Anguished Unmaking
 Aragorn and Arwen, Wed
@@ -88,4 +79,13 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Frodo, Adventurous Hobbit
+The Gaffer
+The Shire
+Tireless Provisioner
+Toxic Deluge
+Trail of Crumbs
+Treebeard, Gracious Host
+Trouble in Pairs
+Well of Lost Dreams
+Windswept Heath
+Witch's Oven

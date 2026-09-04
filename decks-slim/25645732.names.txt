@@ -41,14 +41,11 @@ Forest
 Fortified Village
 Furycalm Snarl
 Path of Ancestry
-Path to Exile
-Plains
 Gongaga, Reactor Town
 Hard-Won Jitte
 Hellkite Tyrant
 Iron Hills Blacksmith
 Kíli the Resourceful
-Plains
 Lightning Greaves
 Mask of Memory
 Mithril Coat
@@ -91,6 +88,9 @@ Zack Fair
 Sword of Forge and Frontier
 Cloud, Ex-SOLDIER
 Enlightened Tutor
+Path to Exile
+Plains
+Plains
 Plains
 Professional Face-Breaker
 Puresteel Paladin

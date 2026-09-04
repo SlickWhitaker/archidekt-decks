@@ -29,7 +29,12 @@ Evolving Wilds
 Exotic Orchard
 Feed the Swarm
 Fellwar Stone
+Foreboding Ruins
 Grave Titan
+Pitiless Plunderer
+Rakdos Carnarium
+Rakdos Charm
+Rakdos Signet
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
@@ -51,15 +56,6 @@ Orca, Siege Demon
 Overseer of the Damned
 Pathrazer of Ulamog
 Phyrexian Triniform
-Pitiless Plunderer
-Rakdos Carnarium
-Rakdos Charm
-Rakdos Signet
-Rakdos, Lord of Riots
-Rakdos, Patron of Chaos
-Razaketh, the Foulblooded
-Reanimate
-Rune-Scarred Demon
 Scavenger Grounds
 Sepulchral Primordial
 Shadowblood Ridge
@@ -83,4 +79,8 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
-Foreboding Ruins
+Rakdos, Lord of Riots
+Rakdos, Patron of Chaos
+Razaketh, the Foulblooded
+Reanimate
+Rune-Scarred Demon

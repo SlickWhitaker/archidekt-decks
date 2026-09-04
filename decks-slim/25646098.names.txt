@@ -28,6 +28,8 @@ Dragonskull Summit
 Evolving Wilds
 Exotic Orchard
 Fabled Passage
+Felidar Retreat
+Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -66,19 +68,12 @@ Skullclamp
 Sodden Verdure
 Sol Ring
 Spire Garden
+Swamp
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
 Sunken Hollow
 Super Combo
-Swamp
-Swan Song
-Swords to Plowshares
-Teferi's Protection
-Tempestra, Dame of Games
-Thriving Isle
-Tireless Provisioner
-Tocasia's Welcome
 Turtle Lair
 Unbreakable Formation
 Undergrowth Stadium
@@ -89,5 +84,10 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Felidar Retreat
-Forest
+Swan Song
+Swords to Plowshares
+Teferi's Protection
+Tempestra, Dame of Games
+Thriving Isle
+Tireless Provisioner
+Tocasia's Welcome

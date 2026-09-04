@@ -28,18 +28,22 @@ Fell the Profane // Fell Mire
 Fierce Guardianship
 Flare of Denial
 Flare of Malice
-Flusterstorm
 Negate
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
 Ornithopter
 Otawara, Soaring City
+Flusterstorm
+Force of Despair
+Force of Will
 Pact of Negation
 Phyrexian Walker
+Gingerbrute
 Polluted Delta
 Ponder
 Prosperous Thief
+Gloomlake Verge
 Sakashima's Student
 Satoru Umezawa
 Satoru, the Infiltrator
@@ -67,10 +71,6 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
-Force of Despair
-Force of Will
-Gingerbrute
-Gloomlake Verge
 Grafdigger's Cage
 Halimar Depths
 Higure, the Still Wind

@@ -66,10 +66,21 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
+Veil of Summer
 Selvala, Heart of the Wilds
+Verdant Catacombs
 Shifting Woodland
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
 Skullclamp
 Sol Ring
+Kibo, Uktabi Prince
+Academy Manufactor
 Spire Garden
 Stomping Ground
 Strip Mine
@@ -81,14 +92,3 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
-Kibo, Uktabi Prince
-Academy Manufactor
