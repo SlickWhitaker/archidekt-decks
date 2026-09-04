@@ -38,7 +38,6 @@ Gamble
 Genesis Wave
 Greater Good
 Green Sun's Zenith
-Veil of Summer
 Hardened Scales
 Hellkite Tyrant
 Heroic Intervention
@@ -82,6 +81,7 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
 Verdant Catacombs
 Wasteland
 Wheel of Misfortune

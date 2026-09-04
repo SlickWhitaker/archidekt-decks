@@ -35,10 +35,6 @@ Jacked Rabbit
 Jubilant Skybonder
 Kindred Discovery
 Ledger Shredder
-Mabel, Heir to Cragflame
-Martial Coup
-Migratory Route
-Mind Stone
 Warren Warleader
 Watcher of the Spheres
 Zinnia, Valley's Voice
@@ -46,6 +42,10 @@ Fiend Hunter
 Soulcatcher
 Academy Manufactor
 Cathars' Crusade
+Mabel, Heir to Cragflame
+Martial Coup
+Migratory Route
+Mind Stone
 Mountain
 Murmuration
 Mystic Monastery
