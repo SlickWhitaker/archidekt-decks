@@ -237,6 +237,20 @@
       "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
+      "name": "Deadly Rollick",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nExile target creature."
+    },
+    {
       "name": "Kaervek the Merciless",
       "quantity": 1,
       "board": "main",
@@ -957,20 +971,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Elder Demon",
       "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
-    },
-    {
-      "name": "Deadly Rollick",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Instant",
-      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nExile target creature."
     },
     {
       "name": "Deflecting Swat",

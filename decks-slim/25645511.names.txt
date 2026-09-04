@@ -21,6 +21,7 @@ Command Tower
 Deadly Dispute
 Descent into Avernus
 Dragonskull Summit
+Grave Titan
 Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
@@ -28,7 +29,8 @@ Etali, Primal Storm
 Evolving Wilds
 Exotic Orchard
 Feed the Swarm
-Grave Titan
+Fellwar Stone
+Foreboding Ruins
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
@@ -82,5 +84,3 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
-Fellwar Stone
-Foreboding Ruins

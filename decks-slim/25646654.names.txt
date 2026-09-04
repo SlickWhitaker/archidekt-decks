@@ -39,6 +39,13 @@ Mabel, Heir to Cragflame
 Martial Coup
 Migratory Route
 Mind Stone
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Soulcatcher
+Academy Manufactor
+Cathars' Crusade
 Mountain
 Murmuration
 Mystic Monastery
@@ -83,10 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
-Cathars' Crusade

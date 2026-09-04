@@ -38,6 +38,7 @@ Gamble
 Genesis Wave
 Greater Good
 Green Sun's Zenith
+Veil of Summer
 Hardened Scales
 Hellkite Tyrant
 Heroic Intervention
@@ -55,7 +56,6 @@ Natural Order
 Nature's Claim
 Nature's Lore
 Nykthos, Shrine to Nyx
-Veil of Summer
 Old Gnawbone
 Orcish Lumberjack
 Prismatic Vista
@@ -66,17 +66,9 @@ Rishkar's Expertise
 Rockfall Vale
 Rootbound Crag
 Scalding Tarn
-Verdant Catacombs
 Seedborn Muse
 Selvala, Heart of the Wilds
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
 Shifting Woodland
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Skullclamp
 Sol Ring
 Spire Garden
@@ -90,5 +82,13 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
 Kibo, Uktabi Prince
 Academy Manufactor

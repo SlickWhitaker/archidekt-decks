@@ -57,6 +57,7 @@ Mistrise Village
 Misty Rainforest
 Mole Man, Moloid Master
 Mystic Sanctuary
+Nezahal, Primal Tide
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -71,7 +72,6 @@ Splendid Reclamation
 Springheart Nantuko
 Summon: Titan
 Swan Song
-Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
 The Unagi of Kyoshi Island
@@ -93,4 +93,4 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-Nezahal, Primal Tide
+Thassa's Oracle

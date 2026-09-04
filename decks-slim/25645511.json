@@ -326,6 +326,20 @@
       "text": "This land enters tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}."
     },
     {
+      "name": "Grave Titan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Giant",
+      "text": "Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens."
+    },
+    {
       "name": "Dreadbore",
       "quantity": 1,
       "board": "main",
@@ -417,18 +431,27 @@
       "text": "Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value."
     },
     {
-      "name": "Grave Titan",
+      "name": "Fellwar Stone",
       "quantity": 1,
       "board": "main",
-      "colors": [
-        "Black"
-      ],
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+      "name": "Foreboding Ruins",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
       "colorIdentity": [
-        "Black"
+        "Black",
+        "Red"
       ],
-      "manaValue": 6,
-      "type": "Creature — Giant",
-      "text": "Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens."
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
     },
     {
       "name": "Haunted Ridge",
@@ -1136,29 +1159,6 @@
       "manaValue": 2,
       "type": "Creature — Human Rogue Ally",
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
-    },
-    {
-      "name": "Fellwar Stone",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
-    },
-    {
-      "name": "Foreboding Ruins",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
     }
   ]
 }
