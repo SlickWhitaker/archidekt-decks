@@ -39,9 +39,6 @@ Lightning Greaves
 Martha Jones
 Mountain
 Mountain
-Myriad Landscape
-Mystic Monastery
-Nanogene Conversion
 Ominous Cemetery
 Out of Time
 Path of Ancestry
@@ -54,7 +51,6 @@ Raugrin Triome
 Regenerations Restored
 Rhystic Study
 RMS Titanic
-Sonic Screwdriver
 Rogue's Passage
 Rory Williams
 Rotating Fireplace
@@ -62,6 +58,10 @@ Run for Your Life
 Sally Sparrow
 Sea of Clouds
 Sol Ring
+Sonic Screwdriver
+Spectator Seating
+Star Whale
+Storm-Kiln Artist
 Stormcarved Coast
 Strionic Resonator
 Sunbaked Canyon
@@ -92,6 +92,6 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Spectator Seating
-Star Whale
-Storm-Kiln Artist
+Myriad Landscape
+Mystic Monastery
+Nanogene Conversion

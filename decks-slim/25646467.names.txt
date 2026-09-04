@@ -31,6 +31,11 @@ Goblin Sharpshooter
 Goblin Trashmaster
 Goblin Warchief
 Heat Shimmer
+Goro-Goro, Disciple of Ryusei
+Great Train Heist
+Grenzo, Havoc Raiser
+Hanweir Battlements
+Hazoret's Monument
 Hobgoblin Bandit Lord
 Illusionist's Bracers
 Impact Tremors
@@ -44,6 +49,10 @@ Mana Echoes
 Marvin, Murderous Mimic
 Metallic Mimic
 Mogg War Marshal
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+War Room
 Moggcatcher
 Mountain
 Muxus, Goblin Grandee
@@ -66,12 +75,3 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-War Room
-Goro-Goro, Disciple of Ryusei
-Great Train Heist
-Grenzo, Havoc Raiser
-Hanweir Battlements
-Hazoret's Monument

@@ -42,13 +42,6 @@ Mind Stone
 Mountain
 Murmuration
 Mystic Monastery
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
-Cathars' Crusade
 Nesting Dovehawk
 Ornithopter of Paradise
 Path of Ancestry
@@ -90,3 +83,10 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Academy Manufactor
+Fiend Hunter
+Soulcatcher
+Cathars' Crusade
