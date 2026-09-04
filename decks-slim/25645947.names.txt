@@ -20,8 +20,6 @@ Boros Charm
 Captivating Vampire
 Caves of Koilos
 Champion of Dusk
-Charismatic Conqueror
-Chrome Mox
 Herald's Horn
 Isolated Chapel
 Kalitas, Traitor of Ghet
@@ -29,6 +27,7 @@ Legion Lieutenant
 Legion's Landing // Adanto, the First Fort
 Living Death
 Luxury Suite
+Charismatic Conqueror
 Marsh Flats
 Minas Tirith
 Mondrak, Glory Dominus
@@ -75,6 +74,7 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
+Chrome Mox
 Command Tower
 Cordial Vampire
 Cruel Celebrant

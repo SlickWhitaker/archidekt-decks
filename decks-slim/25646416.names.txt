@@ -43,23 +43,12 @@ Hellkite Tyrant
 Heroic Intervention
 Jeska's Will
 Karplusan Forest
-Veil of Summer
 Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
 Krosan Grip
 Lightning Greaves
 Llanowar Elves
 Mana Vault
-Verdant Catacombs
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
-Kibo, Uktabi Prince
-Academy Manufactor
 Misty Rainforest
 Mountain
 Natural Order
@@ -72,12 +61,23 @@ Prismatic Vista
 Professional Face-Breaker
 Railway Brawler
 Rhythm of the Wild
+Veil of Summer
 Rishkar's Expertise
 Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
 Selvala, Heart of the Wilds
+Zealous Conscripts
+Kibo, Uktabi Prince
+Academy Manufactor
 Shifting Woodland
 Skullclamp
 Sol Ring

@@ -57,18 +57,15 @@ Mistrise Village
 Misty Rainforest
 Mole Man, Moloid Master
 Mystic Sanctuary
+Nezahal, Primal Tide
 Noxious Revival
+Sol Ring
+Splendid Reclamation
+Springheart Nantuko
 Oakhollow Village
 Polluted Delta
 Pond Prophet
 Rejuvenating Springs
-Riverchurn Monument
-Rogue's Passage
-Shifting Woodland
-Snapcaster Mage
-Sol Ring
-Splendid Reclamation
-Springheart Nantuko
 Summon: Titan
 Swan Song
 Thassa's Oracle
@@ -93,4 +90,7 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-Nezahal, Primal Tide
+Riverchurn Monument
+Rogue's Passage
+Shifting Woodland
+Snapcaster Mage

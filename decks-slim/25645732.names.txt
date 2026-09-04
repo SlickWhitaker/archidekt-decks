@@ -41,14 +41,6 @@ Forest
 Fortified Village
 Furycalm Snarl
 Gongaga, Reactor Town
-Hard-Won Jitte
-Hellkite Tyrant
-Iron Hills Blacksmith
-Kíli the Resourceful
-Lightning Greaves
-Mask of Memory
-Mithril Coat
-Mossfire Valley
 Path of Ancestry
 Path to Exile
 Plains
@@ -79,12 +71,20 @@ Sungrass Prairie
 Sunpetal Grove
 Sunscorched Divide
 Swiftfoot Boots
+Hard-Won Jitte
+Hellkite Tyrant
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
+Iron Hills Blacksmith
 Tifa, Martial Artist
+Kíli the Resourceful
 Tifa's Limit Break
+Lightning Greaves
 Ultimate Magic: Holy
+Mask of Memory
+Mithril Coat
+Mossfire Valley
 Mountain
 Mountain
 Mountain
