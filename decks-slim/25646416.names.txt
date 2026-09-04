@@ -43,12 +43,23 @@ Hellkite Tyrant
 Heroic Intervention
 Jeska's Will
 Karplusan Forest
+Veil of Summer
 Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
 Krosan Grip
 Lightning Greaves
 Llanowar Elves
 Mana Vault
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Kibo, Uktabi Prince
+Academy Manufactor
 Misty Rainforest
 Mountain
 Natural Order
@@ -81,14 +92,3 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
-Kibo, Uktabi Prince
-Academy Manufactor

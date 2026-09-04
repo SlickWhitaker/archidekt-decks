@@ -39,6 +39,7 @@ Mind Stone
 Mindlash Sliver
 Necrogen Mists
 Necrogoyf
+Geth's Grimoire
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
 Oppression
@@ -61,9 +62,6 @@ Syphon Mind
 The Raven Man
 Tinybones Joins Up
 Tinybones, Bauble Burglar
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
 Unearth
 Virus Beetle
 War Room
@@ -71,3 +69,5 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
+Waste Not
+Tinybones, Trinket Thief

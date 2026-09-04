@@ -30,6 +30,10 @@ Flawless Maneuver
 Glacial Fortress
 Impact Tremors
 Island
+Izzet Signet
+Jacked Rabbit
+Jubilant Skybonder
+Kindred Discovery
 Warren Warleader
 Watcher of the Spheres
 Zinnia, Valley's Voice
@@ -37,10 +41,6 @@ Fiend Hunter
 Soulcatcher
 Academy Manufactor
 Cathars' Crusade
-Izzet Signet
-Jacked Rabbit
-Jubilant Skybonder
-Kindred Discovery
 Ledger Shredder
 Mabel, Heir to Cragflame
 Martial Coup

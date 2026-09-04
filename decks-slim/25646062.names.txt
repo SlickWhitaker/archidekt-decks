@@ -74,6 +74,7 @@ The Ozolith
 Thieving Skydiver
 Tishana's Tidebinder
 Triumph of the Hordes
+Hakbal of the Surging Soul
 Tropical Island
 Unclaimed Territory
 Vineglimmer Snarl
@@ -82,4 +83,3 @@ Wanderwine Prophets
 Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
-Hakbal of the Surging Soul
