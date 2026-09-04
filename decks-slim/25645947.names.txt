@@ -10,6 +10,7 @@ Arid Mesa
 Black Market Connections
 Blood Artist
 Blood Crypt
+Champion of Dusk
 Bloodghast
 Bloodletter of Aclazotz
 Bloodline Necromancer
@@ -19,7 +20,6 @@ Bojuka Bog
 Boros Charm
 Captivating Vampire
 Caves of Koilos
-Champion of Dusk
 Herald's Horn
 Isolated Chapel
 Kalitas, Traitor of Ghet
@@ -27,7 +27,6 @@ Legion Lieutenant
 Legion's Landing // Adanto, the First Fort
 Living Death
 Luxury Suite
-Charismatic Conqueror
 Marsh Flats
 Minas Tirith
 Mondrak, Glory Dominus
@@ -74,6 +73,7 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
+Charismatic Conqueror
 Chrome Mox
 Command Tower
 Cordial Vampire

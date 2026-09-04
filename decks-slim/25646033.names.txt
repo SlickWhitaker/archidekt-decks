@@ -59,13 +59,13 @@ Mole Man, Moloid Master
 Mystic Sanctuary
 Nezahal, Primal Tide
 Noxious Revival
-Sol Ring
-Splendid Reclamation
-Springheart Nantuko
 Oakhollow Village
 Polluted Delta
 Pond Prophet
 Rejuvenating Springs
+Sol Ring
+Splendid Reclamation
+Springheart Nantuko
 Summon: Titan
 Swan Song
 Thassa's Oracle

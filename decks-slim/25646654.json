@@ -612,20 +612,6 @@
       "text": "This land enters tapped.\n{T}: Add {U}, {R}, or {W}."
     },
     {
-      "name": "Nesting Dovehawk",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Bird",
-      "text": "Flying\nAt the beginning of combat on your turn, populate. (Create a token that's a copy of a creature token you control.)\nWhenever a creature token you control enters, put a +1/+1 counter on this creature."
-    },
-    {
       "name": "Warren Warleader",
       "quantity": 1,
       "board": "main",
@@ -724,6 +710,20 @@
       "manaValue": 5,
       "type": "Enchantment",
       "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
+    },
+    {
+      "name": "Nesting Dovehawk",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Bird",
+      "text": "Flying\nAt the beginning of combat on your turn, populate. (Create a token that's a copy of a creature token you control.)\nWhenever a creature token you control enters, put a +1/+1 counter on this creature."
     },
     {
       "name": "Ornithopter of Paradise",

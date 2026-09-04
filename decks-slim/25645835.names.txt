@@ -54,6 +54,7 @@ Raugrin Triome
 Regenerations Restored
 Rhystic Study
 RMS Titanic
+Sonic Screwdriver
 Rogue's Passage
 Rory Williams
 Rotating Fireplace
@@ -61,10 +62,6 @@ Run for Your Life
 Sally Sparrow
 Sea of Clouds
 Sol Ring
-Sonic Screwdriver
-Spectator Seating
-Star Whale
-Storm-Kiln Artist
 Stormcarved Coast
 Strionic Resonator
 Sunbaked Canyon
@@ -73,13 +70,6 @@ Talisman of Conviction
 Talisman of Creativity
 Talisman of Progress
 TARDIS
-Time Beetle
-Training Center
-Trenzalore Clocktower
-War Room
-Wibbly-wobbly, Timey-wimey
-Wilfred Mott
-The Tenth Doctor
 Teferi's Protection
 Temple of Enlightenment
 The Day of the Doctor
@@ -95,3 +85,13 @@ The Parting of the Ways
 The War Doctor
 The Wedding of River Song
 Thespian's Stage
+Time Beetle
+Training Center
+Trenzalore Clocktower
+War Room
+Wibbly-wobbly, Timey-wimey
+Wilfred Mott
+The Tenth Doctor
+Spectator Seating
+Star Whale
+Storm-Kiln Artist

@@ -811,44 +811,6 @@
       "text": "({G/P} can be paid with either {G} or 2 life.)\nPut target card from a graveyard on top of its owner's library."
     },
     {
-      "name": "Sol Ring",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
-    },
-    {
-      "name": "Splendid Reclamation",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Return all land cards from your graveyard to the battlefield tapped."
-    },
-    {
-      "name": "Springheart Nantuko",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Creature Enchantment — Monk Insect",
-      "text": "Bestow {1}{G}\nEnchanted creature gets +1/+1.\nLandfall — Whenever a land you control enters, you may pay {1}{G} if this permanent is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token."
-    },
-    {
       "name": "Oakhollow Village",
       "quantity": 1,
       "board": "main",
@@ -898,6 +860,44 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {U}."
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Splendid Reclamation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Return all land cards from your graveyard to the battlefield tapped."
+    },
+    {
+      "name": "Springheart Nantuko",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature Enchantment — Monk Insect",
+      "text": "Bestow {1}{G}\nEnchanted creature gets +1/+1.\nLandfall — Whenever a land you control enters, you may pay {1}{G} if this permanent is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token."
     },
     {
       "name": "Summon: Titan",

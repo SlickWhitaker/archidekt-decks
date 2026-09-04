@@ -176,6 +176,20 @@
       "text": "({T}: Add {B} or {R}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     },
     {
+      "name": "Champion of Dusk",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Knight Vampire",
+      "text": "When this creature enters, you draw X cards and you lose X life, where X is the number of Vampires you control."
+    },
+    {
       "name": "Bloodghast",
       "quantity": 1,
       "board": "main",
@@ -297,20 +311,6 @@
       "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. This land deals 1 damage to you."
     },
     {
-      "name": "Champion of Dusk",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Knight Vampire",
-      "text": "When this creature enters, you draw X cards and you lose X life, where X is the number of Vampires you control."
-    },
-    {
       "name": "Herald's Horn",
       "quantity": 1,
       "board": "main",
@@ -403,20 +403,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {B} or {R}."
-    },
-    {
-      "name": "Charismatic Conqueror",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Vampire Soldier",
-      "text": "Vigilance\nWhenever an artifact or creature an opponent controls enters untapped, they may tap that permanent. If they don't, you create a 1/1 white Vampire creature token with lifelink."
     },
     {
       "name": "Marsh Flats",
@@ -1016,6 +1002,20 @@
       "manaValue": 6,
       "type": "Legendary Creature — Knight Vampire",
       "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
+    },
+    {
+      "name": "Charismatic Conqueror",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Vampire Soldier",
+      "text": "Vigilance\nWhenever an artifact or creature an opponent controls enters untapped, they may tap that permanent. If they don't, you create a 1/1 white Vampire creature token with lifelink."
     },
     {
       "name": "Chrome Mox",

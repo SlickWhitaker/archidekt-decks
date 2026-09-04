@@ -34,6 +34,20 @@ Ghostly Prison
 Gilraen, Dúnedain Protector
 Glacial Fortress
 Grasp of Fate
+Grey Host Reinforcements
+Herald's Horn
+Horn of Gondor
+Island
+Keeper of Keys
+Lossarnach Captain
+Lost to Legend
+Mirror Entity
+Mountain
+Oath of Eorl
+Palace Jailer
+Path of Ancestry
+Path to Exile
+Plains
 Supreme Verdict
 Swords to Plowshares
 Talisman of Conviction
@@ -54,20 +68,6 @@ Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
-Grey Host Reinforcements
-Herald's Horn
-Horn of Gondor
-Island
-Keeper of Keys
-Lossarnach Captain
-Lost to Legend
-Mirror Entity
-Mountain
-Oath of Eorl
-Palace Jailer
-Path of Ancestry
-Path to Exile
-Plains
 Port Town
 Prairie Stream
 Prince Imrahil the Fair
