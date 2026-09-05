@@ -41,6 +41,12 @@ Forest
 Fortified Village
 Furycalm Snarl
 Gongaga, Reactor Town
+Hard-Won Jitte
+Hellkite Tyrant
+Iron Hills Blacksmith
+Kíli the Resourceful
+Lightning Greaves
+Mask of Memory
 Path of Ancestry
 Path to Exile
 Plains
@@ -85,12 +91,6 @@ Zack Fair
 Sword of Forge and Frontier
 Cloud, Ex-SOLDIER
 Enlightened Tutor
-Hard-Won Jitte
-Hellkite Tyrant
-Iron Hills Blacksmith
-Kíli the Resourceful
-Lightning Greaves
-Mask of Memory
 Mithril Coat
 Mossfire Valley
 Mountain

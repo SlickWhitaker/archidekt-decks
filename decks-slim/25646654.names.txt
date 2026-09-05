@@ -44,13 +44,6 @@ Murmuration
 Mystic Monastery
 Nesting Dovehawk
 Ornithopter of Paradise
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Soulcatcher
-Academy Manufactor
-Cathars' Crusade
 Path of Ancestry
 Path to Exile
 Plains
@@ -90,3 +83,10 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Warren Warleader
+Watcher of the Spheres
+Fiend Hunter
+Zinnia, Valley's Voice
+Soulcatcher
+Academy Manufactor
+Cathars' Crusade

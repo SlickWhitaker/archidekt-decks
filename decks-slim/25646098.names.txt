@@ -72,6 +72,7 @@ Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
 Sunken Hollow
+Super Combo
 Swamp
 Swan Song
 Swords to Plowshares
@@ -80,7 +81,6 @@ Tempestra, Dame of Games
 Thriving Isle
 Tireless Provisioner
 Tocasia's Welcome
-Super Combo
 Arcade Cabinet
 Turtle Lair
 Unbreakable Formation

@@ -16,6 +16,21 @@ Castle Locthwain
 Chaos Warp
 Command Tower
 Deadly Rollick
+Deflecting Swat
+Dragonskull Summit
+Everlasting Torment
+Exquisite Blood
+Feed the Swarm
+Fellwar Stone
+Fiery Confluence
+Fire Covenant
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -34,11 +49,15 @@ Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
+Takenuma, Abandoned Mire
 Razorkin Needlehead
 Repercussion
+Talisman of Indulgence
 Roiling Vortex
+Terminate
 Shadowblood Ridge
 Sheoldred, the Apocalypse
+The Lord of Pain
 Sheoldred's Edict
 Shivan Gorge
 Smoldering Marsh
@@ -51,10 +70,11 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
-Takenuma, Abandoned Mire
-Talisman of Indulgence
-Terminate
-The Lord of Pain
+Scrawling Crawler
+Valgavoth, Harrower of Souls
+All Will Be One
+Fate Unraveler
+Blood Seeker
 The Meathook Massacre
 The One Ring
 Torment of Hailfire
@@ -65,23 +85,3 @@ Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
-Scrawling Crawler
-Valgavoth, Harrower of Souls
-All Will Be One
-Fate Unraveler
-Blood Seeker
-Deflecting Swat
-Dragonskull Summit
-Everlasting Torment
-Exquisite Blood
-Feed the Swarm
-Fellwar Stone
-Fiery Confluence
-Fire Covenant
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion

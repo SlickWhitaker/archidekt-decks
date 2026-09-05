@@ -101,40 +101,6 @@
       "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
     },
     {
-      "name": "Arcane Signet",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add one mana of any color in your commander's color identity."
-    },
-    {
-      "name": "Archivist of Oghma",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Cleric Halfling",
-      "text": "Flash\nWhenever an opponent searches their library, you gain 1 life and draw a card."
-    },
-    {
-      "name": "Arid Mesa",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
-    },
-    {
       "name": "Black Market Connections",
       "quantity": 1,
       "board": "main",
@@ -599,22 +565,6 @@
       "text": "Legion's Landing: When Legion's Landing enters, create a 1/1 white Vampire creature token with lifelink.\nWhen you attack with three or more creatures, transform Legion's Landing. | Adanto, the First Fort: (Transforms from Legion's Landing.)\n{T}: Add {W}.\n{2}{W}, {T}: Create a 1/1 white Vampire creature token with lifelink."
     },
     {
-      "name": "Olivia, Crimson Bride",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Legendary Creature — Vampire Noble",
-      "text": "Flying, haste\nWhenever Olivia attacks, return target creature card from your graveyard to the battlefield tapped and attacking. It gains \"When you don't control a legendary Vampire, exile this creature.\""
-    },
-    {
       "name": "Living Death",
       "quantity": 1,
       "board": "main",
@@ -730,6 +680,22 @@
       "manaValue": 1,
       "type": "Creature — Cat",
       "text": "First strike, lifelink\nAscend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)\nAt the beginning of your end step, if you gained life this turn, create a 1/1 white Cat creature token. Then if you have the city's blessing, for each token you control that entered this turn, create a token that's a copy of it."
+    },
+    {
+      "name": "Olivia, Crimson Bride",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Vampire Noble",
+      "text": "Flying, haste\nWhenever Olivia attacks, return target creature card from your graveyard to the battlefield tapped and attacking. It gains \"When you don't control a legendary Vampire, exile this creature.\""
     },
     {
       "name": "Path of Ancestry",
@@ -1223,6 +1189,40 @@
       "manaValue": 6,
       "type": "Legendary Creature — Knight Vampire",
       "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
+    },
+    {
+      "name": "Arcane Signet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Archivist of Oghma",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Cleric Halfling",
+      "text": "Flash\nWhenever an opponent searches their library, you gain 1 life and draw a card."
+    },
+    {
+      "name": "Arid Mesa",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
     }
   ]
 }
