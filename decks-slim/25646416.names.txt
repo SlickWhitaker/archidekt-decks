@@ -17,7 +17,6 @@ Chaos Warp
 Chord of Calling
 Chrome Mox
 Cinder Glade
-Collector Ouphe
 Command Tower
 Commercial District
 Copperline Gorge
@@ -35,7 +34,6 @@ Force of Vigor
 Forest
 Fyndhorn Elves
 Gamble
-Genesis Wave
 Greater Good
 Green Sun's Zenith
 Hardened Scales
@@ -83,7 +81,6 @@ Tooth and Nail
 Vandalblast
 Veil of Summer
 Verdant Catacombs
-Kibo, Uktabi Prince
 Wasteland
 Wheel of Misfortune
 Windswept Heath
@@ -91,4 +88,7 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Academy Manufactor
+Kibo, Uktabi Prince
+Beast Within
+Abrade
+Ancient Grudge

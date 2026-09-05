@@ -47,6 +47,9 @@ Phyrexian Reclamation
 Psychosis Crawler
 Quest for the Nihil Stone
 Rankle, Master of Pranks
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not
 Rankle's Prank
 Rotting Rats
 Sangromancer
@@ -68,6 +71,3 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not

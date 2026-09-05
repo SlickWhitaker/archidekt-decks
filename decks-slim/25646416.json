@@ -253,20 +253,6 @@
       "text": "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands."
     },
     {
-      "name": "Collector Ouphe",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Ouphe",
-      "text": "Activated abilities of artifacts can't be activated."
-    },
-    {
       "name": "Command Tower",
       "quantity": 1,
       "board": "main",
@@ -494,20 +480,6 @@
       "manaValue": 1,
       "type": "Sorcery",
       "text": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle."
-    },
-    {
-      "name": "Genesis Wave",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard."
     },
     {
       "name": "Greater Good",
@@ -1114,21 +1086,6 @@
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
     },
     {
-      "name": "Kibo, Uktabi Prince",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Monkey Noble",
-      "text": "{T}: Each player creates a colorless artifact token named Banana with \"{T}, Sacrifice this token: Add {R} or {G}. You gain 2 life.\"\nWhenever an artifact an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on each creature you control that's an Ape or a Monkey.\nWhenever Kibo attacks, defending player sacrifices an artifact of their choice."
-    },
-    {
       "name": "Wasteland",
       "quantity": 1,
       "board": "main",
@@ -1211,14 +1168,62 @@
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
-      "name": "Academy Manufactor",
+      "name": "Kibo, Uktabi Prince",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Monkey Noble",
+      "text": "{T}: Each player creates a colorless artifact token named Banana with \"{T}, Sacrifice this token: Add {R} or {G}. You gain 2 life.\"\nWhenever an artifact an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on each creature you control that's an Ape or a Monkey.\nWhenever Kibo attacks, defending player sacrifices an artifact of their choice."
+    },
+    {
+      "name": "Beast Within",
       "quantity": 1,
       "board": "main",
-      "colors": [],
-      "colorIdentity": [],
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
       "manaValue": 3,
-      "type": "Creature Artifact — Assembly-Worker",
-      "text": "If you would create a Clue, Food, or Treasure token, instead create one of each."
+      "type": "Instant",
+      "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
+    },
+    {
+      "name": "Abrade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Choose one —\n• Abrade deals 3 damage to target creature.\n• Destroy target artifact."
+    },
+    {
+      "name": "Ancient Grudge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Destroy target artifact.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
     }
   ]
 }

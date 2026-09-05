@@ -35,20 +35,16 @@ Esper Sentinel
 Exquisite Blood
 Flawless Maneuver
 Generous Gift
+Godless Shrine
 Herald's Horn
 Isolated Chapel
 Kalitas, Traitor of Ghet
-Legion Lieutenant
 Legion's Landing // Adanto, the First Fort
+Legion Lieutenant
 Living Death
 Luxury Suite
 Marsh Flats
 Minas Tirith
-Mondrak, Glory Dominus
-Mountain
-Necropotence
-Nomad Outpost
-Ocelot Pride
 Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
@@ -88,4 +84,8 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Godless Shrine
+Mondrak, Glory Dominus
+Mountain
+Necropotence
+Nomad Outpost
+Ocelot Pride

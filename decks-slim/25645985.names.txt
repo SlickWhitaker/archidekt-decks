@@ -33,6 +33,18 @@ Mortality Spear
 Murmuring Bosk
 Nature's Lore
 Nazgûl
+Necroblossom Snarl
+Of Herbs and Stewed Rabbit
+Orchard Strider
+Overgrown Tomb
+Path of Ancestry
+Peregrin Took
+Pippin, Warden of Isengard
+Plains
+Prosperous Innkeeper
+Rapacious Guest
+Revive the Shire
+Woodfall Primus
 Rosie Cotton of South Lane
 Samwise Gamgee
 Sandsteppe Citadel
@@ -58,8 +70,6 @@ Trouble in Pairs
 Well of Lost Dreams
 Windswept Heath
 Witch's Oven
-Woodfall Primus
-Woodland Cemetery
 Sam, Loyal Attendant
 Frodo, Adventurous Hobbit
 Academy Manufactor
@@ -78,14 +88,4 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Necroblossom Snarl
-Of Herbs and Stewed Rabbit
-Orchard Strider
-Overgrown Tomb
-Path of Ancestry
-Peregrin Took
-Pippin, Warden of Isengard
-Plains
-Prosperous Innkeeper
-Rapacious Guest
-Revive the Shire
+Woodland Cemetery

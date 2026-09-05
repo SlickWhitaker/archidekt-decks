@@ -40,21 +40,21 @@ Forest
 Forest
 Fortified Village
 Furycalm Snarl
+Path of Ancestry
 Gongaga, Reactor Town
 Hard-Won Jitte
 Hellkite Tyrant
 Iron Hills Blacksmith
-Path of Ancestry
-Path to Exile
-Plains
-Plains
-Plains
-Professional Face-Breaker
-Puresteel Paladin
-Radiant Grove
-Red XIII, Proud Warrior
-Rogue's Passage
-Rootbound Crag
+Kíli the Resourceful
+Lightning Greaves
+Mask of Memory
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
@@ -88,13 +88,13 @@ Zack Fair
 Sword of Forge and Frontier
 Cloud, Ex-SOLDIER
 Enlightened Tutor
-Kíli the Resourceful
-Lightning Greaves
-Mask of Memory
-Mithril Coat
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
+Path to Exile
+Plains
+Plains
+Plains
+Professional Face-Breaker
+Puresteel Paladin
+Radiant Grove
+Red XIII, Proud Warrior
+Rogue's Passage
+Rootbound Crag

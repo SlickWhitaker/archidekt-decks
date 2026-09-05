@@ -22,12 +22,19 @@ City of Brass
 Command Tower
 Cultivate
 Dimension X Pizzasaur
+Donatello, the Brains
+Doubling Season
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
+Heroic Intervention
 Grand Coliseum
 Guardian Project
 Halo Fountain
 Heroes in a Half Shell
-Heroic Intervention
-Hidden Hideout
 Hinterland Harbor
 Island
 Jetmir's Garden
@@ -83,11 +90,4 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Donatello, the Brains
-Doubling Season
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
+Hidden Hideout
