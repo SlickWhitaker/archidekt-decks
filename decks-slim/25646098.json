@@ -1130,16 +1130,6 @@
       "text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Ninja or Turtle spell.\n{3}, {T}: Target Ninja or Turtle can't be blocked this turn."
     },
     {
-      "name": "Arcade Cabinet",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "When this artifact enters, put a +1/+1 counter on each of up to four target creatures.\n{2}, {T}, Sacrifice a token: Double the number of each kind of counter on target creature."
-    },
-    {
       "name": "Unbreakable Formation",
       "quantity": 1,
       "board": "main",
@@ -1202,6 +1192,16 @@
       "manaValue": 6,
       "type": "Creature — Elemental Incarnation",
       "text": "Trample\nIf damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.\nWhen Vigor is put into a graveyard from anywhere, shuffle it into its owner's library."
+    },
+    {
+      "name": "Arcade Cabinet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "When this artifact enters, put a +1/+1 counter on each of up to four target creatures.\n{2}, {T}, Sacrifice a token: Double the number of each kind of counter on target creature."
     },
     {
       "name": "Michelangelo, the Heart",

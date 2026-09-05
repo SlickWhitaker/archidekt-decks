@@ -1197,6 +1197,20 @@
       "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
     },
     {
+      "name": "Abrade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Choose one —\n• Abrade deals 3 damage to target creature.\n• Destroy target artifact."
+    },
+    {
       "name": "Ancient Grudge",
       "quantity": 1,
       "board": "main",
@@ -1210,20 +1224,6 @@
       "manaValue": 2,
       "type": "Instant",
       "text": "Destroy target artifact.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-    },
-    {
-      "name": "Abrade",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Choose one —\n• Abrade deals 3 damage to target creature.\n• Destroy target artifact."
     }
   ]
 }
