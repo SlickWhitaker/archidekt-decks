@@ -54,22 +54,13 @@ Mountain
 Natural Order
 Nature's Claim
 Nature's Lore
-Veil of Summer
 Nykthos, Shrine to Nyx
 Old Gnawbone
 Orcish Lumberjack
 Prismatic Vista
 Professional Face-Breaker
-Verdant Catacombs
-Wasteland
 Railway Brawler
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
 Rhythm of the Wild
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Rishkar's Expertise
 Rockfall Vale
 Rootbound Crag
@@ -89,6 +80,15 @@ The One Ring
 The Ozolith
 Three Visits
 Tooth and Nail
-Kibo, Uktabi Prince
-Academy Manufactor
 Vandalblast
+Veil of Summer
+Verdant Catacombs
+Kibo, Uktabi Prince
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Academy Manufactor

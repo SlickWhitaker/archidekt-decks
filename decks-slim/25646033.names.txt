@@ -66,9 +66,6 @@ Rejuvenating Springs
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
-Riverchurn Monument
-Rogue's Passage
-Shifting Woodland
 Summon: Titan
 Swan Song
 Thassa's Oracle
@@ -93,4 +90,7 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Riverchurn Monument
+Rogue's Passage
+Shifting Woodland
 Snapcaster Mage

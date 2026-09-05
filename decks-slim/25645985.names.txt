@@ -33,17 +33,6 @@ Mortality Spear
 Murmuring Bosk
 Nature's Lore
 Nazgûl
-Necroblossom Snarl
-Of Herbs and Stewed Rabbit
-Orchard Strider
-Overgrown Tomb
-Path of Ancestry
-Peregrin Took
-Pippin, Warden of Isengard
-Plains
-Prosperous Innkeeper
-Rapacious Guest
-Revive the Shire
 Rosie Cotton of South Lane
 Samwise Gamgee
 Sandsteppe Citadel
@@ -89,3 +78,14 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
+Necroblossom Snarl
+Of Herbs and Stewed Rabbit
+Orchard Strider
+Overgrown Tomb
+Path of Ancestry
+Peregrin Took
+Pippin, Warden of Isengard
+Plains
+Prosperous Innkeeper
+Rapacious Guest
+Revive the Shire
