@@ -617,52 +617,6 @@
       "text": "At the beginning of your end step, create a Treasure token for each creature that died this turn. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
     },
     {
-      "name": "Mind Stone",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card."
-    },
-    {
-      "name": "Morbid Opportunist",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Rogue",
-      "text": "Whenever one or more other creatures die, draw a card. This ability triggers only once each turn."
-    },
-    {
-      "name": "Mountain",
-      "quantity": 8,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
-    },
-    {
-      "name": "Myriad Landscape",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
-    },
-    {
       "name": "Pitiless Plunderer",
       "quantity": 1,
       "board": "main",
@@ -675,20 +629,6 @@
       "manaValue": 4,
       "type": "Creature — Human Pirate",
       "text": "Whenever another creature you control dies, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
-    },
-    {
-      "name": "Night's Whisper",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "You draw two cards and lose 2 life."
     },
     {
       "name": "Rakdos Carnarium",
@@ -1109,6 +1049,66 @@
       "manaValue": 2,
       "type": "Creature — Human Rogue Ally",
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
+    },
+    {
+      "name": "Mind Stone",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card."
+    },
+    {
+      "name": "Morbid Opportunist",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Rogue",
+      "text": "Whenever one or more other creatures die, draw a card. This ability triggers only once each turn."
+    },
+    {
+      "name": "Mountain",
+      "quantity": 8,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Myriad Landscape",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Night's Whisper",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "You draw two cards and lose 2 life."
     },
     {
       "name": "Orca, Siege Demon",

@@ -59,13 +59,6 @@ Shivan Gorge
 Smoldering Marsh
 Sol Ring
 Spellshock
-Spinerock Knoll
-Spiteful Visions
-Sulfuric Vortex
-Sulfurous Springs
-Swamp
-Syr Konrad, the Grim
-Tainted Peak
 Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
@@ -77,11 +70,18 @@ Underworld Dreams
 Urborg, Tomb of Yawgmoth
 Vial Smasher the Fierce
 Wheel of Misfortune
+Spinerock Knoll
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
-Scrawling Crawler
+Spiteful Visions
+Sulfuric Vortex
+Sulfurous Springs
+Swamp
+Syr Konrad, the Grim
+Tainted Peak
 Valgavoth, Harrower of Souls
+Scrawling Crawler
 All Will Be One
 Fate Unraveler
 Blood Seeker

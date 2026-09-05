@@ -47,23 +47,14 @@ Krosan Grip
 Lightning Greaves
 Llanowar Elves
 Mana Vault
-Veil of Summer
 Misty Rainforest
 Mountain
 Natural Order
 Nature's Claim
-Verdant Catacombs
 Nature's Lore
-Wasteland
 Nykthos, Shrine to Nyx
-Wheel of Misfortune
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
 Old Gnawbone
-Yavimaya, Cradle of Growth
 Orcish Lumberjack
-Zealous Conscripts
 Prismatic Vista
 Professional Face-Breaker
 Railway Brawler
@@ -73,11 +64,7 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
-Kibo, Uktabi Prince
-Beast Within
-Abrade
 Selvala, Heart of the Wilds
-Ancient Grudge
 Shifting Woodland
 Skullclamp
 Sol Ring
@@ -92,3 +79,16 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Wheel of Misfortune
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Kibo, Uktabi Prince
+Beast Within
+Abrade
+Ancient Grudge
