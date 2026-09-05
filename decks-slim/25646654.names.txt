@@ -32,9 +32,6 @@ Impact Tremors
 Island
 Izzet Signet
 Jacked Rabbit
-Jubilant Skybonder
-Kindred Discovery
-Ledger Shredder
 Warren Warleader
 Watcher of the Spheres
 Zinnia, Valley's Voice
@@ -42,6 +39,9 @@ Fiend Hunter
 Soulcatcher
 Academy Manufactor
 Cathars' Crusade
+Jubilant Skybonder
+Kindred Discovery
+Ledger Shredder
 Mabel, Heir to Cragflame
 Martial Coup
 Migratory Route

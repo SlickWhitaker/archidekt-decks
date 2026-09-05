@@ -64,14 +64,14 @@ Polluted Delta
 Pond Prophet
 Rejuvenating Springs
 Riverchurn Monument
-Rogue's Passage
-Shifting Woodland
-Snapcaster Mage
 Sol Ring
 Splendid Reclamation
+Rogue's Passage
 Springheart Nantuko
+Shifting Woodland
 Summon: Titan
 Swan Song
+Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
 The Unagi of Kyoshi Island
@@ -93,4 +93,4 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-Thassa's Oracle
+Snapcaster Mage

@@ -52,6 +52,9 @@ Rotting Rats
 Sangromancer
 Sepulchral Primordial
 Shrieking Affliction
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not
 Sign in Blood
 Smallpox
 Sol Ring
@@ -68,6 +71,3 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
