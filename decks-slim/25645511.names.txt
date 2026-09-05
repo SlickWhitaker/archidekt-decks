@@ -61,26 +61,26 @@ Rakdos, Patron of Chaos
 Razaketh, the Foulblooded
 Reanimate
 Rune-Scarred Demon
-Scavenger Grounds
-Sepulchral Primordial
-Shadowblood Ridge
-Siege-Gang Lieutenant
-Sol Ring
-Song of Totentanz
-Sulfurous Springs
-Swamp
 Swiftfoot Boots
 Tainted Peak
 Talisman of Indulgence
 Temple of Malice
+Scavenger Grounds
 Terminate
+Sepulchral Primordial
 The Balrog of Moria
+Shadowblood Ridge
+Siege-Gang Lieutenant
+Sol Ring
 The Balrog, Durin's Bane
-Toxic Deluge
-Tramway Station
+Song of Totentanz
+Sulfurous Springs
+Swamp
 Unexpected Windfall
 Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
+Toxic Deluge
+Tramway Station

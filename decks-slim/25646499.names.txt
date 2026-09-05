@@ -65,13 +65,6 @@ Sunset Revelry
 Supreme Verdict
 Swords to Plowshares
 Talisman of Conviction
-Verge Rangers
-Village Bell-Ringer
-Visions of Glory
-Wayfarer's Bauble
-Weathered Wayfarer
-Windbrisk Heights
-Zealous Conscripts
 Talisman of Progress
 Taunt from the Rampart
 Terramorphic Expanse
@@ -82,3 +75,10 @@ Throne of the High City
 Tranquil Cove
 Unbreakable Formation
 Vanquisher's Banner
+Verge Rangers
+Village Bell-Ringer
+Visions of Glory
+Wayfarer's Bauble
+Weathered Wayfarer
+Windbrisk Heights
+Zealous Conscripts
