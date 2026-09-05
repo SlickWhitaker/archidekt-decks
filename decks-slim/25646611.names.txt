@@ -17,7 +17,6 @@ Chaos Warp
 Command Tower
 Deadly Rollick
 Deflecting Swat
-Descent into Avernus
 Dragonskull Summit
 Everlasting Torment
 Exquisite Blood
@@ -85,3 +84,4 @@ Scrawling Crawler
 Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
+Blood Seeker

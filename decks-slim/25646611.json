@@ -265,20 +265,6 @@
       "text": "If you control a commander, you may cast this spell without paying its mana cost.\nYou may choose new targets for target spell or ability."
     },
     {
-      "name": "Descent into Avernus",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "At the beginning of your upkeep, put two descent counters on this enchantment. Then each player creates X Treasure tokens and this enchantment deals X damage to each player, where X is the number of descent counters on this enchantment."
-    },
-    {
       "name": "Dragonskull Summit",
       "quantity": 1,
       "board": "main",
@@ -1191,6 +1177,20 @@
       "manaValue": 4,
       "type": "Creature Enchantment — Hag",
       "text": "Whenever an opponent draws a card, this creature deals 1 damage to that player."
+    },
+    {
+      "name": "Blood Seeker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Vampire Shaman",
+      "text": "Whenever a creature an opponent controls enters, you may have that player lose 1 life."
     }
   ]
 }
