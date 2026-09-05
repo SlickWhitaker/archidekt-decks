@@ -263,20 +263,6 @@
       "text": "Equipped creature gets +3/+2.\nWhenever equipped creature deals combat damage to a player, draw a card, then you may cast a spell from your hand with mana value less than or equal to that damage without paying its mana cost.\nEquip {2}"
     },
     {
-      "name": "Cait Sith, Fortune Teller",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature Artifact — Cat Moogle",
-      "text": "Lucky Slots — At the beginning of combat on your turn, scry 1, then exile the top card of your library. You may play that card this turn. When you exile a card this way, target creature you control gets +X/+0 until end of turn, where X is that card's mana value."
-    },
-    {
       "name": "Canopy Vista",
       "quantity": 1,
       "board": "main",
@@ -541,16 +527,6 @@
       "text": "As this land enters, you may reveal a Mountain or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {R} or {W}."
     },
     {
-      "name": "Path of Ancestry",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
-    },
-    {
       "name": "Gongaga, Reactor Town",
       "quantity": 1,
       "board": "main",
@@ -713,6 +689,146 @@
       "text": "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control."
     },
     {
+      "name": "Path of Ancestry",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    },
+    {
+      "name": "Path to Exile",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Plains",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Plains",
+      "text": "({T}: Add {W}.)"
+    },
+    {
+      "name": "Plains",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Plains",
+      "text": "({T}: Add {W}.)"
+    },
+    {
+      "name": "Plains",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Plains",
+      "text": "({T}: Add {W}.)"
+    },
+    {
+      "name": "Professional Face-Breaker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Warrior",
+      "text": "Menace\nWhenever one or more creatures you control deal combat damage to a player, create a Treasure token.\nSacrifice a Treasure: Exile the top card of your library. You may play that card this turn."
+    },
+    {
+      "name": "Puresteel Paladin",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Human Knight",
+      "text": "Whenever an Equipment you control enters, you may draw a card.\nMetalcraft — Equipment you control have equip {0} as long as you control three or more artifacts."
+    },
+    {
+      "name": "Radiant Grove",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Forest",
+      "text": "({T}: Add {G} or {W}.)\nThis land enters tapped."
+    },
+    {
+      "name": "Red XIII, Proud Warrior",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Beast Warrior",
+      "text": "Vigilance, trample\nOther modified creatures you control have vigilance and trample. (Equipment, Auras you control, and counters are modifications.)\nCosmo Memory — When Red XIII enters, return target Aura or Equipment card from your graveyard to your hand."
+    },
+    {
+      "name": "Rogue's Passage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."
+    },
+    {
+      "name": "Rootbound Crag",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}."
+    },
+    {
       "name": "Rugged Prairie",
       "quantity": 1,
       "board": "main",
@@ -861,20 +977,6 @@
       "manaValue": 2,
       "type": "Creature — Artificer Kor",
       "text": "When this creature enters, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\n{1}{W}, {T}: You may put an Equipment card from your hand onto the battlefield."
-    },
-    {
-      "name": "Summon: Esper Ramuh",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Creature Enchantment — Wizard Saga",
-      "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Judgment Bolt — This creature deals damage equal to the number of noncreature, nonland cards in your graveyard to target creature an opponent controls.\nII, III — Wizards you control get +1/+0 until end of turn."
     },
     {
       "name": "Summon: Kujata",
@@ -1180,7 +1282,7 @@
       "text": "Living weapon\nIndestructible\nEquipped creature gets +5/+5 and has first strike, trample, indestructible, haste, and \"Whenever this creature deals combat damage to a creature, exile that creature.\"\nEquip {7}"
     },
     {
-      "name": "Path to Exile",
+      "name": "Armored Skyhunter",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1189,62 +1291,12 @@
       "colorIdentity": [
         "White"
       ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+      "manaValue": 4,
+      "type": "Creature — Knight Cat",
+      "text": "Flying\nWhenever this creature attacks, look at the top six cards of your library. You may put an Aura or Equipment card from among them onto the battlefield. If an Equipment is put onto the battlefield this way, you may attach it to a creature you control. Put the rest of those cards on the bottom of your library in a random order."
     },
     {
-      "name": "Plains",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Plains",
-      "text": "({T}: Add {W}.)"
-    },
-    {
-      "name": "Plains",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Plains",
-      "text": "({T}: Add {W}.)"
-    },
-    {
-      "name": "Plains",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Plains",
-      "text": "({T}: Add {W}.)"
-    },
-    {
-      "name": "Professional Face-Breaker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Warrior",
-      "text": "Menace\nWhenever one or more creatures you control deal combat damage to a player, create a Treasure token.\nSacrifice a Treasure: Exile the top card of your library. You may play that card this turn."
-    },
-    {
-      "name": "Puresteel Paladin",
+      "name": "Sram, Senior Edificer",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1254,60 +1306,8 @@
         "White"
       ],
       "manaValue": 2,
-      "type": "Creature — Human Knight",
-      "text": "Whenever an Equipment you control enters, you may draw a card.\nMetalcraft — Equipment you control have equip {0} as long as you control three or more artifacts."
-    },
-    {
-      "name": "Radiant Grove",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Forest",
-      "text": "({T}: Add {G} or {W}.)\nThis land enters tapped."
-    },
-    {
-      "name": "Red XIII, Proud Warrior",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Beast Warrior",
-      "text": "Vigilance, trample\nOther modified creatures you control have vigilance and trample. (Equipment, Auras you control, and counters are modifications.)\nCosmo Memory — When Red XIII enters, return target Aura or Equipment card from your graveyard to your hand."
-    },
-    {
-      "name": "Rogue's Passage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."
-    },
-    {
-      "name": "Rootbound Crag",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}."
+      "type": "Legendary Creature — Advisor Dwarf",
+      "text": "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
     }
   ]
 }

@@ -35,14 +35,6 @@ Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
 Hordeling Outburst
-Infernal Grasp
-It That Betrays
-Jet Medallion
-Krenko, Mob Boss
-Krenko, Tin Street Kingpin
-Krenko's Command
-Lagomos, Hand of Hatred
-Mahadi, Emporium Master
 Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
@@ -75,6 +67,14 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
+Infernal Grasp
+It That Betrays
+Jet Medallion
+Krenko, Mob Boss
+Krenko, Tin Street Kingpin
+Krenko's Command
+Lagomos, Hand of Hatred
+Mahadi, Emporium Master
 Mind Stone
 Morbid Opportunist
 Mountain

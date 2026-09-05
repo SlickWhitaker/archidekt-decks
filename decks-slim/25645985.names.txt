@@ -50,7 +50,21 @@ Sandsteppe Citadel
 Sanguine Bond
 Savvy Hunter
 Scattered Groves
+Shineshadow Snarl
+Shire Shirriff
+Shire Terrace
+Skullclamp
+Sol Ring
+Sunpetal Grove
+Swamp
+Swords to Plowshares
+The Battle of Bywater
+The Gaffer
+The Shire
+Tireless Provisioner
+Toxic Deluge
 Woodfall Primus
+Trail of Crumbs
 Woodland Cemetery
 Sam, Loyal Attendant
 Frodo, Adventurous Hobbit
@@ -70,20 +84,6 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Shineshadow Snarl
-Shire Shirriff
-Shire Terrace
-Skullclamp
-Sol Ring
-Sunpetal Grove
-Swamp
-Swords to Plowshares
-The Battle of Bywater
-The Gaffer
-The Shire
-Tireless Provisioner
-Toxic Deluge
-Trail of Crumbs
 Treebeard, Gracious Host
 Trouble in Pairs
 Well of Lost Dreams

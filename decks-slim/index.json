@@ -97,8 +97,8 @@
       "namesFile": "25645732.names.txt",
       "cardsFile": "25645732.cards.jsonl",
       "metaFile": "25645732.meta.json",
-      "fullBytes": 309709,
-      "analysisBytes": 32666,
+      "fullBytes": 309513,
+      "analysisBytes": 32470,
       "reductionPercent": 89.5
     },
     {
@@ -481,8 +481,8 @@
       "namesFile": "25646654.names.txt",
       "cardsFile": "25646654.cards.jsonl",
       "metaFile": "25646654.meta.json",
-      "fullBytes": 281814,
-      "analysisBytes": 27878,
+      "fullBytes": 282032,
+      "analysisBytes": 27958,
       "reductionPercent": 90.1
     },
     {

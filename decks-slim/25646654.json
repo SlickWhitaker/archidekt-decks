@@ -1210,20 +1210,6 @@
       "text": "When this creature enters, you may exile another target creature.\nWhen this creature leaves the battlefield, return the exiled card to the battlefield under its owner's control."
     },
     {
-      "name": "Soulcatcher",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Soldier Bird",
-      "text": "Flying\nWhenever a creature with flying dies, put a +1/+1 counter on this creature."
-    },
-    {
       "name": "Academy Manufactor",
       "quantity": 1,
       "board": "main",
@@ -1246,6 +1232,16 @@
       "manaValue": 5,
       "type": "Enchantment",
       "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
+    },
+    {
+      "name": "Helm of the Host",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Legendary Artifact — Equipment",
+      "text": "At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary. That token gains haste.\nEquip {5}"
     }
   ]
 }

@@ -16,7 +16,6 @@ Bruenor Battlehammer
 Brushland
 Bugenhagen, Wise Elder
 Buster Sword
-Cait Sith, Fortune Teller
 Canopy Vista
 Capital City
 Chaos Warp
@@ -38,7 +37,6 @@ Forest
 Forest
 Fortified Village
 Furycalm Snarl
-Path of Ancestry
 Gongaga, Reactor Town
 Hellkite Tyrant
 Iron Hills Blacksmith
@@ -52,6 +50,17 @@ Mountain
 Mountain
 Nature's Lore
 Nature's Will
+Path of Ancestry
+Path to Exile
+Plains
+Plains
+Plains
+Professional Face-Breaker
+Puresteel Paladin
+Radiant Grove
+Red XIII, Proud Warrior
+Rogue's Passage
+Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
@@ -64,7 +73,6 @@ Sol Ring
 Sphere Grid
 Spire of Industry
 Stoneforge Mystic
-Summon: Esper Ramuh
 Summon: Kujata
 Summoning Materia
 Sungrass Prairie
@@ -88,13 +96,5 @@ Enlightened Tutor
 The Reaver Cleaver
 Sword of Feast and Famine
 Kaldra Compleat
-Path to Exile
-Plains
-Plains
-Plains
-Professional Face-Breaker
-Puresteel Paladin
-Radiant Grove
-Red XIII, Proud Warrior
-Rogue's Passage
-Rootbound Crag
+Armored Skyhunter
+Sram, Senior Edificer
