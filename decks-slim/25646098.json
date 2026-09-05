@@ -431,20 +431,6 @@
       "text": "({T}: Add {G}.)"
     },
     {
-      "name": "Heroic Intervention",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Permanents you control gain hexproof and indestructible until end of turn."
-    },
-    {
       "name": "Grand Coliseum",
       "quantity": 1,
       "board": "main",
@@ -503,6 +489,30 @@
       "manaValue": 5,
       "type": "Legendary Creature — Mutant Ninja Turtle",
       "text": "Vigilance, menace, trample, haste\nWhenever one or more Mutants, Ninjas, and/or Turtles you control deal combat damage to a player, put a +1/+1 counter on each of those creatures and draw a card."
+    },
+    {
+      "name": "Heroic Intervention",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Permanents you control gain hexproof and indestructible until end of turn."
+    },
+    {
+      "name": "Hidden Hideout",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity.\n{2}, {T}: Target creature you control with a counter on it gains lifelink until end of turn."
     },
     {
       "name": "Hinterland Harbor",
@@ -962,46 +972,6 @@
       "text": "This creature enters with X +1/+1 counters on it.\n{2}{G}, Remove a +1/+1 counter from this creature: Destroy target artifact or enchantment."
     },
     {
-      "name": "Stomping Ground",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Mountain Forest",
-      "text": "({T}: Add {R} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
-    },
-    {
-      "name": "Sunken Hollow",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue",
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Land — Island Swamp",
-      "text": "({T}: Add {U} or {B}.)\nThis land enters tapped unless you control two or more basic lands."
-    },
-    {
-      "name": "Super Combo",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Replicate {2} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nTarget creature you control deals damage equal to its power to target creature an opponent controls."
-    },
-    {
       "name": "Swamp",
       "quantity": 2,
       "board": "main",
@@ -1108,6 +1078,19 @@
       "manaValue": 3,
       "type": "Enchantment",
       "text": "Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn."
+    },
+    {
+      "name": "Stomping Ground",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Mountain Forest",
+      "text": "({T}: Add {R} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     },
     {
       "name": "Turtle Lair",
@@ -1240,14 +1223,31 @@
       "text": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.\n{3}{G}{G}: Double the number of +1/+1 counters on each creature you control."
     },
     {
-      "name": "Hidden Hideout",
+      "name": "Sunken Hollow",
       "quantity": 1,
       "board": "main",
       "colors": [],
-      "colorIdentity": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
       "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity.\n{2}, {T}: Target creature you control with a counter on it gains lifelink until end of turn."
+      "type": "Land — Island Swamp",
+      "text": "({T}: Add {U} or {B}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "Super Combo",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Replicate {2} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nTarget creature you control deals damage equal to its power to target creature an opponent controls."
     }
   ]
 }

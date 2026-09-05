@@ -30,11 +30,12 @@ Exotic Orchard
 Fabled Passage
 Felidar Retreat
 Forest
-Heroic Intervention
 Grand Coliseum
 Guardian Project
 Halo Fountain
 Heroes in a Half Shell
+Heroic Intervention
+Hidden Hideout
 Hinterland Harbor
 Island
 Jetmir's Garden
@@ -69,9 +70,6 @@ Sol Ring
 Spire Garden
 Splinter, the Mentor
 Steelbane Hydra
-Stomping Ground
-Sunken Hollow
-Super Combo
 Swamp
 Swan Song
 Swords to Plowshares
@@ -80,6 +78,7 @@ Tempestra, Dame of Games
 Thriving Isle
 Tireless Provisioner
 Tocasia's Welcome
+Stomping Ground
 Turtle Lair
 Unbreakable Formation
 Undergrowth Stadium
@@ -90,4 +89,5 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Hidden Hideout
+Sunken Hollow
+Super Combo
