@@ -28,8 +28,6 @@ Etali, Primal Storm
 Evolving Wilds
 Exotic Orchard
 Feed the Swarm
-Fellwar Stone
-Foreboding Ruins
 Grave Titan
 Haunted Ridge
 Hero's Downfall
@@ -61,26 +59,28 @@ Rakdos, Patron of Chaos
 Razaketh, the Foulblooded
 Reanimate
 Rune-Scarred Demon
+Scavenger Grounds
+Sepulchral Primordial
+Shadowblood Ridge
+Siege-Gang Lieutenant
+Sol Ring
+Song of Totentanz
+Sulfurous Springs
+Swamp
 Swiftfoot Boots
 Tainted Peak
 Talisman of Indulgence
 Temple of Malice
-Scavenger Grounds
 Terminate
-Sepulchral Primordial
 The Balrog of Moria
-Shadowblood Ridge
-Siege-Gang Lieutenant
-Sol Ring
 The Balrog, Durin's Bane
-Song of Totentanz
-Sulfurous Springs
-Swamp
+Toxic Deluge
+Tramway Station
 Unexpected Windfall
 Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
-Toxic Deluge
-Tramway Station
+Fellwar Stone
+Foreboding Ruins

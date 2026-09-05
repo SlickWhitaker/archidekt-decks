@@ -41,6 +41,7 @@ Isolated Chapel
 Kalitas, Traitor of Ghet
 Legion Lieutenant
 Legion's Landing // Adanto, the First Fort
+Olivia, Crimson Bride
 Living Death
 Luxury Suite
 Marsh Flats
@@ -50,7 +51,6 @@ Mountain
 Necropotence
 Nomad Outpost
 Ocelot Pride
-Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
 Patriarch's Bidding

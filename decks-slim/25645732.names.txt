@@ -41,19 +41,6 @@ Forest
 Fortified Village
 Furycalm Snarl
 Gongaga, Reactor Town
-Hard-Won Jitte
-Hellkite Tyrant
-Iron Hills Blacksmith
-Kíli the Resourceful
-Lightning Greaves
-Mask of Memory
-Mithril Coat
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
 Path of Ancestry
 Path to Exile
 Plains
@@ -76,8 +63,6 @@ Slayers' Stronghold
 Sol Ring
 Sphere Grid
 Spire of Industry
-Sword of Sinew and Steel
-Sword of the Animist
 Stoneforge Mystic
 Summon: Esper Ramuh
 Summon: Kujata
@@ -86,10 +71,12 @@ Sungrass Prairie
 Sunpetal Grove
 Sunscorched Divide
 Swiftfoot Boots
+Sword of Sinew and Steel
+Sword of the Animist
+Swords to Plowshares
 Tifa, Martial Artist
 Tifa's Limit Break
 Ultimate Magic: Holy
-Swords to Plowshares
 Unfinished Business
 Vandalblast
 Wood Elves
@@ -98,3 +85,16 @@ Zack Fair
 Sword of Forge and Frontier
 Cloud, Ex-SOLDIER
 Enlightened Tutor
+Hard-Won Jitte
+Hellkite Tyrant
+Iron Hills Blacksmith
+Kíli the Resourceful
+Lightning Greaves
+Mask of Memory
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will

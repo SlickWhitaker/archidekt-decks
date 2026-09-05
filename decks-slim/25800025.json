@@ -352,6 +352,20 @@
       "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
+      "name": "Grand Abolisher",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Human Cleric",
+      "text": "During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments."
+    },
+    {
       "name": "City of Brass",
       "quantity": 1,
       "board": "main",
@@ -374,20 +388,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Wizard",
       "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Venser enters, return target spell or permanent to its owner's hand."
-    },
-    {
-      "name": "Grand Abolisher",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Human Cleric",
-      "text": "During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments."
     },
     {
       "name": "Peregrine Drake",

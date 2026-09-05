@@ -417,29 +417,6 @@
       "text": "Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value."
     },
     {
-      "name": "Fellwar Stone",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
-    },
-    {
-      "name": "Foreboding Ruins",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
-    },
-    {
       "name": "Grave Titan",
       "quantity": 1,
       "board": "main",
@@ -857,6 +834,106 @@
       "text": "Flying\nWhen this creature enters, search your library for a card, put it into your hand, then shuffle."
     },
     {
+      "name": "Scavenger Grounds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land — Desert",
+      "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
+    },
+    {
+      "name": "Sepulchral Primordial",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 7,
+      "type": "Creature — Avatar",
+      "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhen this creature enters, for each opponent, you may put up to one target creature card from that player's graveyard onto the battlefield under your control."
+    },
+    {
+      "name": "Shadowblood Ridge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{1}, {T}: Add {B}{R}."
+    },
+    {
+      "name": "Siege-Gang Lieutenant",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Goblin",
+      "text": "Lieutenant — At the beginning of combat on your turn, if you control your commander, create two 1/1 red Goblin creature tokens. Those tokens gain haste until end of turn.\n{2}, Sacrifice a Goblin: This creature deals 1 damage to any target."
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Song of Totentanz",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Create X 1/1 black Rat creature tokens with \"This token can't block.\" Creatures you control gain haste until end of turn."
+    },
+    {
+      "name": "Sulfurous Springs",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This land deals 1 damage to you."
+    },
+    {
+      "name": "Swamp",
+      "quantity": 8,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Swamp",
+      "text": "({T}: Add {B}.)"
+    },
+    {
       "name": "Swiftfoot Boots",
       "quantity": 1,
       "board": "main",
@@ -906,16 +983,6 @@
       "text": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {B} or {R}."
     },
     {
-      "name": "Scavenger Grounds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land — Desert",
-      "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
-    },
-    {
       "name": "Terminate",
       "quantity": 1,
       "board": "main",
@@ -930,20 +997,6 @@
       "manaValue": 2,
       "type": "Instant",
       "text": "Destroy target creature. It can't be regenerated."
-    },
-    {
-      "name": "Sepulchral Primordial",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 7,
-      "type": "Creature — Avatar",
-      "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhen this creature enters, for each opponent, you may put up to one target creature card from that player's graveyard onto the battlefield under your control."
     },
     {
       "name": "The Balrog of Moria",
@@ -962,43 +1015,6 @@
       "text": "Trample, haste\nWhen The Balrog of Moria dies, you may exile it. When you do, for each opponent, exile up to one target creature that player controls.\nCycling {3}{R} ({3}{R}, Discard this card: Draw a card.)\nWhen you cycle this card, create two Treasure tokens."
     },
     {
-      "name": "Shadowblood Ridge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{1}, {T}: Add {B}{R}."
-    },
-    {
-      "name": "Siege-Gang Lieutenant",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Goblin",
-      "text": "Lieutenant — At the beginning of combat on your turn, if you control your commander, create two 1/1 red Goblin creature tokens. Those tokens gain haste until end of turn.\n{2}, Sacrifice a Goblin: This creature deals 1 damage to any target."
-    },
-    {
-      "name": "Sol Ring",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
-    },
-    {
       "name": "The Balrog, Durin's Bane",
       "quantity": 1,
       "board": "main",
@@ -1015,21 +1031,21 @@
       "text": "This spell costs {1} less to cast for each permanent sacrificed this turn.\nHaste\nThe Balrog can't be blocked except by legendary creatures.\nWhen The Balrog dies, destroy target artifact or creature an opponent controls."
     },
     {
-      "name": "Song of Totentanz",
+      "name": "Toxic Deluge",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Red"
+        "Black"
       ],
       "colorIdentity": [
-        "Red"
+        "Black"
       ],
-      "manaValue": 1,
+      "manaValue": 3,
       "type": "Sorcery",
-      "text": "Create X 1/1 black Rat creature tokens with \"This token can't block.\" Creatures you control gain haste until end of turn."
+      "text": "As an additional cost to cast this spell, pay X life.\nAll creatures get -X/-X until end of turn."
     },
     {
-      "name": "Sulfurous Springs",
+      "name": "Tramway Station",
       "quantity": 1,
       "board": "main",
       "colors": [],
@@ -1039,19 +1055,7 @@
       ],
       "manaValue": 0,
       "type": "Land",
-      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This land deals 1 damage to you."
-    },
-    {
-      "name": "Swamp",
-      "quantity": 8,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Swamp",
-      "text": "({T}: Add {B}.)"
+      "text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{2}{B}{R}, {T}, Sacrifice this land: Draw a card."
     },
     {
       "name": "Unexpected Windfall",
@@ -1134,21 +1138,17 @@
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
     },
     {
-      "name": "Toxic Deluge",
+      "name": "Fellwar Stone",
       "quantity": 1,
       "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "As an additional cost to cast this spell, pay X life.\nAll creatures get -X/-X until end of turn."
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
     },
     {
-      "name": "Tramway Station",
+      "name": "Foreboding Ruins",
       "quantity": 1,
       "board": "main",
       "colors": [],
@@ -1158,7 +1158,7 @@
       ],
       "manaValue": 0,
       "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{2}{B}{R}, {T}, Sacrifice this land: Draw a card."
+      "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
     }
   ]
 }
