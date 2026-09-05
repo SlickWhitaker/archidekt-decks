@@ -1135,20 +1135,6 @@
       "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
     },
     {
-      "name": "All Will Be One",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever you put one or more counters on a permanent or player, this enchantment deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls."
-    },
-    {
       "name": "Valgavoth, Harrower of Souls",
       "quantity": 1,
       "board": "commander",
@@ -1163,6 +1149,20 @@
       "manaValue": 4,
       "type": "Legendary Creature — Elder Demon",
       "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
+    },
+    {
+      "name": "All Will Be One",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever you put one or more counters on a permanent or player, this enchantment deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls."
     },
     {
       "name": "Fate Unraveler",
