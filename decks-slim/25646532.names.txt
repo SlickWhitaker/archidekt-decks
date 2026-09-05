@@ -52,9 +52,6 @@ Rotting Rats
 Sangromancer
 Sepulchral Primordial
 Shrieking Affliction
-Geth's Grimoire
-Tinybones, Trinket Thief
-Waste Not
 Sign in Blood
 Smallpox
 Sol Ring
@@ -69,5 +66,8 @@ Virus Beetle
 War Room
 Wheel of Torture
 Will of the Abzan
+Geth's Grimoire
+Tinybones, Trinket Thief
+Waste Not
 Withering Torment
 Words of Waste

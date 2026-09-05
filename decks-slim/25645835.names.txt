@@ -31,6 +31,17 @@ Idris, Soul of the TARDIS
 Inspiring Refrain
 Irrigated Farmland
 Island
+Island
+Jenny, Generated Anomaly
+Judoon Enforcers
+Kate Stewart
+Lightning Greaves
+Martha Jones
+Mountain
+Mountain
+Myriad Landscape
+Mystic Monastery
+Nanogene Conversion
 Ominous Cemetery
 Out of Time
 Path of Ancestry
@@ -48,8 +59,6 @@ Rory Williams
 Rotating Fireplace
 Run for Your Life
 Sally Sparrow
-Sea of Clouds
-Sol Ring
 Sonic Screwdriver
 Spectator Seating
 Star Whale
@@ -84,14 +93,5 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Island
-Jenny, Generated Anomaly
-Judoon Enforcers
-Kate Stewart
-Lightning Greaves
-Martha Jones
-Mountain
-Mountain
-Myriad Landscape
-Mystic Monastery
-Nanogene Conversion
+Sea of Clouds
+Sol Ring

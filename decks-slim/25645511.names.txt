@@ -30,10 +30,11 @@ Exotic Orchard
 Feed the Swarm
 Fellwar Stone
 Foreboding Ruins
+Grave Titan
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
-Grave Titan
+Hordeling Outburst
 Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
@@ -66,7 +67,6 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
-Hordeling Outburst
 Infernal Grasp
 It That Betrays
 Jet Medallion

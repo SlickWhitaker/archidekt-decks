@@ -25,13 +25,6 @@ Feed the Swarm
 Fellwar Stone
 Fiery Confluence
 Fire Covenant
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -46,6 +39,11 @@ Obosh, the Preypiercer
 Opposition Agent
 Orcish Bowmasters
 Painful Quandary
+Phyrexian Arena
+Polluted Bonds
+Prismatic Vista
+Rakdos Charm
+Rampaging Ferocidon
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -80,8 +78,10 @@ Wound Reflection
 Zo-Zu the Punisher
 Scrawling Crawler
 Valgavoth, Harrower of Souls
-Phyrexian Arena
-Polluted Bonds
-Prismatic Vista
-Rakdos Charm
-Rampaging Ferocidon
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion

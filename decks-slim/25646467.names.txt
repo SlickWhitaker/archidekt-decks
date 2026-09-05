@@ -50,11 +50,6 @@ Metallic Mimic
 Mogg War Marshal
 Moggcatcher
 Mountain
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-War Room
-Arena of Glory
 Muxus, Goblin Grandee
 Outpost Siege
 Pashalik Mons
@@ -75,3 +70,8 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+War Room
+Arena of Glory

@@ -440,6 +440,20 @@
       "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
     },
     {
+      "name": "Grave Titan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Giant",
+      "text": "Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens."
+    },
+    {
       "name": "Haunted Ridge",
       "quantity": 1,
       "board": "main",
@@ -481,18 +495,18 @@
       "text": "Convoke\nFlying\nWhen this creature enters, search your library for a card, exile it face down, then shuffle. For as long as that card remains exiled, you may play it.\nSpells you cast from exile have convoke."
     },
     {
-      "name": "Grave Titan",
+      "name": "Hordeling Outburst",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Black"
+        "Red"
       ],
       "colorIdentity": [
-        "Black"
+        "Red"
       ],
-      "manaValue": 6,
-      "type": "Creature — Giant",
-      "text": "Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens."
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Create three 1/1 red Goblin creature tokens."
     },
     {
       "name": "Pitiless Plunderer",
@@ -927,20 +941,6 @@
       "manaValue": 2,
       "type": "Creature — Human Rogue Ally",
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
-    },
-    {
-      "name": "Hordeling Outburst",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Create three 1/1 red Goblin creature tokens."
     },
     {
       "name": "Infernal Grasp",

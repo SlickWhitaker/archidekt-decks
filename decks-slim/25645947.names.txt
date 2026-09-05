@@ -19,6 +19,7 @@ Bojuka Bog
 Boros Charm
 Captivating Vampire
 Caves of Koilos
+Herald's Horn
 Champion of Dusk
 Charismatic Conqueror
 Chrome Mox
@@ -36,9 +37,6 @@ Exquisite Blood
 Flawless Maneuver
 Generous Gift
 Godless Shrine
-Herald's Horn
-Isolated Chapel
-Kalitas, Traitor of Ghet
 Legion Lieutenant
 Legion's Landing // Adanto, the First Fort
 Living Death
@@ -89,3 +87,5 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
+Isolated Chapel
+Kalitas, Traitor of Ghet

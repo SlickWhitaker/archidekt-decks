@@ -376,101 +376,6 @@
       "text": "As an additional cost to cast this spell, pay X life.\nFire Covenant deals X damage divided as you choose among any number of target creatures."
     },
     {
-      "name": "Florian, Voldaren Scion",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Vampire Noble",
-      "text": "First strike\nAt the beginning of each of your postcombat main phases, look at the top X cards of your library, where X is the total amount of life your opponents lost this turn. Exile one of those cards and put the rest on the bottom of your library in a random order. You may play the exiled card this turn."
-    },
-    {
-      "name": "Foreboding Ruins",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
-    },
-    {
-      "name": "Furnace of Rath",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
-    },
-    {
-      "name": "Graven Cairns",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}."
-    },
-    {
-      "name": "Haunted Ridge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {B} or {R}."
-    },
-    {
-      "name": "Havoc Festival",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Enchantment",
-      "text": "Players can't gain life.\nAt the beginning of each player's upkeep, that player loses half their life, rounded up."
-    },
-    {
-      "name": "Jet Medallion",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "Black spells you cast cost {1} less to cast."
-    },
-    {
       "name": "Kaervek the Merciless",
       "quantity": 1,
       "board": "main",
@@ -670,6 +575,74 @@
       "manaValue": 5,
       "type": "Enchantment",
       "text": "Whenever an opponent casts a spell, that player loses 5 life unless they discard a card."
+    },
+    {
+      "name": "Phyrexian Arena",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "At the beginning of your upkeep, you draw a card and you lose 1 life."
+    },
+    {
+      "name": "Polluted Bonds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever a land an opponent controls enters, that player loses 2 life and you gain 2 life."
+    },
+    {
+      "name": "Prismatic Vista",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Rakdos Charm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Choose one —\n• Exile target player's graveyard.\n• Destroy target artifact.\n• Each creature deals 1 damage to its controller."
+    },
+    {
+      "name": "Rampaging Ferocidon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Dinosaur",
+      "text": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
     },
     {
       "name": "Razorkin Needlehead",
@@ -1125,45 +1098,7 @@
       "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
     },
     {
-      "name": "Phyrexian Arena",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "At the beginning of your upkeep, you draw a card and you lose 1 life."
-    },
-    {
-      "name": "Polluted Bonds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever a land an opponent controls enters, that player loses 2 life and you gain 2 life."
-    },
-    {
-      "name": "Prismatic Vista",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Rakdos Charm",
+      "name": "Florian, Voldaren Scion",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1174,12 +1109,25 @@
         "Black",
         "Red"
       ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Choose one —\n• Exile target player's graveyard.\n• Destroy target artifact.\n• Each creature deals 1 damage to its controller."
+      "manaValue": 3,
+      "type": "Legendary Creature — Vampire Noble",
+      "text": "First strike\nAt the beginning of each of your postcombat main phases, look at the top X cards of your library, where X is the total amount of life your opponents lost this turn. Exile one of those cards and put the rest on the bottom of your library in a random order. You may play the exiled card this turn."
     },
     {
-      "name": "Rampaging Ferocidon",
+      "name": "Foreboding Ruins",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
+    },
+    {
+      "name": "Furnace of Rath",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1188,9 +1136,61 @@
       "colorIdentity": [
         "Red"
       ],
-      "manaValue": 3,
-      "type": "Creature — Dinosaur",
-      "text": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
+    },
+    {
+      "name": "Graven Cairns",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}."
+    },
+    {
+      "name": "Haunted Ridge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {B} or {R}."
+    },
+    {
+      "name": "Havoc Festival",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Enchantment",
+      "text": "Players can't gain life.\nAt the beginning of each player's upkeep, that player loses half their life, rounded up."
+    },
+    {
+      "name": "Jet Medallion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "Black spells you cast cost {1} less to cast."
     }
   ]
 }
