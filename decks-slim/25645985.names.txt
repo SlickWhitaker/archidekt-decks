@@ -57,20 +57,10 @@ Skullclamp
 Sol Ring
 Sunpetal Grove
 Swamp
-Swords to Plowshares
-The Battle of Bywater
-The Gaffer
-The Shire
-Tireless Provisioner
-Toxic Deluge
-Trail of Crumbs
-Treebeard, Gracious Host
-Trouble in Pairs
-Well of Lost Dreams
-Windswept Heath
-Witch's Oven
 Woodfall Primus
 Woodland Cemetery
+Swords to Plowshares
+The Battle of Bywater
 Sam, Loyal Attendant
 Frodo, Adventurous Hobbit
 Academy Manufactor
@@ -89,3 +79,13 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
+The Gaffer
+The Shire
+Tireless Provisioner
+Toxic Deluge
+Trail of Crumbs
+Treebeard, Gracious Host
+Trouble in Pairs
+Well of Lost Dreams
+Windswept Heath
+Witch's Oven

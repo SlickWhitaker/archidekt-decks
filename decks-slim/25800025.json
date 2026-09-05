@@ -300,6 +300,16 @@
       "text": "({U/P} can be paid with either {U} or 2 life.)\nYou may have this creature enter as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types."
     },
     {
+      "name": "Polluted Delta",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
+    },
+    {
       "name": "Chulane, Teller of Tales",
       "quantity": 1,
       "board": "main",
@@ -316,16 +326,6 @@
       "manaValue": 5,
       "type": "Legendary Creature — Human Druid",
       "text": "Vigilance\nWhenever you cast a creature spell, draw a card, then you may put a land card from your hand onto the battlefield.\n{3}, {T}: Return target creature you control to its owner's hand."
-    },
-    {
-      "name": "Polluted Delta",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
     },
     {
       "name": "Hullbreaker Horror",
@@ -352,20 +352,6 @@
       "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
-      "name": "Grand Abolisher",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Human Cleric",
-      "text": "During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments."
-    },
-    {
       "name": "City of Brass",
       "quantity": 1,
       "board": "main",
@@ -388,6 +374,20 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Wizard",
       "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Venser enters, return target spell or permanent to its owner's hand."
+    },
+    {
+      "name": "Grand Abolisher",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Human Cleric",
+      "text": "During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments."
     },
     {
       "name": "Peregrine Drake",

@@ -757,146 +757,6 @@
       "text": "Proliferate, then choose any number of permanents you control that had a counter put on them this way. Those permanents phase out. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there. Treat phased-out permanents and anything attached to them as though they don't exist until their controller's next turn.)"
     },
     {
-      "name": "Roaming Throne",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Creature Artifact — Golem",
-      "text": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time."
-    },
-    {
-      "name": "Savor the Moment",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Take an extra turn after this one. Skip the untap step of that turn."
-    },
-    {
-      "name": "Secluded Courtyard",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type."
-    },
-    {
-      "name": "Simic Ascendancy",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "{1}{G}{U}: Put a +1/+1 counter on target creature you control.\nWhenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on this enchantment.\nAt the beginning of your upkeep, if this enchantment has twenty or more growth counters on it, you win the game."
-    },
-    {
-      "name": "Simic Growth Chamber",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {G}{U}."
-    },
-    {
-      "name": "Singer of Swift Rivers",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Merfolk Shaman",
-      "text": "Flash\nWhen this creature enters, put a shield counter on another target creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)\nYou may cast Merfolk spells as though they had flash."
-    },
-    {
-      "name": "Sodden Verdure",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Island Forest",
-      "text": "({T}: Add {G} or {U}.)\nThis land enters tapped unless you control two or more basic lands."
-    },
-    {
-      "name": "Sol Ring",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
-    },
-    {
-      "name": "Spell Pierce",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Counter target noncreature spell unless its controller pays {2}."
-    },
-    {
-      "name": "Starting Town",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land — Town",
-      "text": "This land enters tapped unless it's your first, second, or third turn of the game.\n{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color."
-    },
-    {
-      "name": "Stubborn Denial",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Counter target noncreature spell unless its controller pays {1}.\nFerocious — If you control a creature with power 4 or greater, counter that spell instead."
-    },
-    {
       "name": "Summon: Leviathan",
       "quantity": 1,
       "board": "main",
@@ -1129,6 +989,146 @@
       "manaValue": 4,
       "type": "Legendary Creature — Scout Merfolk",
       "text": "At the beginning of combat on your turn, each Merfolk creature you control explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the exploring creature, then put the card back or put it into your graveyard.)\nWhenever Hakbal attacks, you may put a land card from your hand onto the battlefield. If you don't, draw a card."
+    },
+    {
+      "name": "Roaming Throne",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Creature Artifact — Golem",
+      "text": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time."
+    },
+    {
+      "name": "Savor the Moment",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Take an extra turn after this one. Skip the untap step of that turn."
+    },
+    {
+      "name": "Secluded Courtyard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type."
+    },
+    {
+      "name": "Simic Ascendancy",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "{1}{G}{U}: Put a +1/+1 counter on target creature you control.\nWhenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on this enchantment.\nAt the beginning of your upkeep, if this enchantment has twenty or more growth counters on it, you win the game."
+    },
+    {
+      "name": "Simic Growth Chamber",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {G}{U}."
+    },
+    {
+      "name": "Singer of Swift Rivers",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Merfolk Shaman",
+      "text": "Flash\nWhen this creature enters, put a shield counter on another target creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)\nYou may cast Merfolk spells as though they had flash."
+    },
+    {
+      "name": "Sodden Verdure",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Forest",
+      "text": "({T}: Add {G} or {U}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Spell Pierce",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Counter target noncreature spell unless its controller pays {2}."
+    },
+    {
+      "name": "Starting Town",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land — Town",
+      "text": "This land enters tapped unless it's your first, second, or third turn of the game.\n{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color."
+    },
+    {
+      "name": "Stubborn Denial",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Counter target noncreature spell unless its controller pays {1}.\nFerocious — If you control a creature with power 4 or greater, counter that spell instead."
     }
   ]
 }

@@ -47,13 +47,6 @@ Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
 Mask of Memory
-Mithril Coat
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
 Path of Ancestry
 Path to Exile
 Plains
@@ -98,3 +91,10 @@ Zack Fair
 Sword of Forge and Frontier
 Cloud, Ex-SOLDIER
 Enlightened Tutor
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will
