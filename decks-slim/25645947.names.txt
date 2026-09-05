@@ -4,6 +4,9 @@ Molten Echoes
 Urza's Incubator
 Anguished Unmaking
 Anointed Procession
+Arcane Signet
+Archivist of Oghma
+Arid Mesa
 Black Market Connections
 Blood Artist
 Blood Crypt
@@ -86,6 +89,3 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Arcane Signet
-Archivist of Oghma
-Arid Mesa

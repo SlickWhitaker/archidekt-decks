@@ -40,6 +40,11 @@ It That Betrays
 Jet Medallion
 Krenko, Mob Boss
 Krenko, Tin Street Kingpin
+Krenko's Command
+Lagomos, Hand of Hatred
+Mahadi, Emporium Master
+Mind Stone
+Morbid Opportunist
 Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
@@ -72,11 +77,6 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
-Krenko's Command
-Lagomos, Hand of Hatred
-Mahadi, Emporium Master
-Mind Stone
-Morbid Opportunist
 Mountain
 Myriad Landscape
 Night's Whisper

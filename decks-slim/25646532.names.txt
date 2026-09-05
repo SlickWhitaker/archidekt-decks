@@ -4,7 +4,6 @@ Arcane Signet
 Archfiend of Ifnir
 Arterial Flow
 Asylum Visitor
-Bag of Holding
 Bandit's Talent
 Boggart Trawler // Boggart Bog
 Bojuka Bog
@@ -71,3 +70,4 @@ Words of Waste
 Geth's Grimoire
 Tinybones, Trinket Thief
 Waste Not
+Lightning Greaves

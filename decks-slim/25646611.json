@@ -712,18 +712,6 @@
       "text": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
     },
     {
-      "name": "Takenuma, Abandoned Mire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Legendary Land",
-      "text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control."
-    },
-    {
       "name": "Razorkin Needlehead",
       "quantity": 1,
       "board": "main",
@@ -752,19 +740,6 @@
       "text": "Whenever a creature is dealt damage, this enchantment deals that much damage to that creature's controller."
     },
     {
-      "name": "Talisman of Indulgence",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This artifact deals 1 damage to you."
-    },
-    {
       "name": "Roiling Vortex",
       "quantity": 1,
       "board": "main",
@@ -777,22 +752,6 @@
       "manaValue": 2,
       "type": "Enchantment",
       "text": "At the beginning of each player's upkeep, this enchantment deals 1 damage to them.\nWhenever a player casts a spell, if no mana was spent to cast that spell, this enchantment deals 5 damage to that player.\n{R}: Your opponents can't gain life this turn."
-    },
-    {
-      "name": "Terminate",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Destroy target creature. It can't be regenerated."
     },
     {
       "name": "Shadowblood Ridge",
@@ -820,22 +779,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Praetor Phyrexian",
       "text": "Deathtouch\nWhenever you draw a card, you gain 2 life.\nWhenever an opponent draws a card, they lose 2 life."
-    },
-    {
-      "name": "The Lord of Pain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Assassin",
-      "text": "Menace\nYour opponents can't gain life.\nWhenever a player casts their first spell each turn, choose another target player. The Lord of Pain deals damage equal to that spell's mana value to the chosen player."
     },
     {
       "name": "Sheoldred's Edict",
@@ -995,19 +938,34 @@
       "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. Activate only if you control a Swamp."
     },
     {
-      "name": "Scrawling Crawler",
+      "name": "Takenuma, Abandoned Mire",
       "quantity": 1,
       "board": "main",
       "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Creature Artifact — Construct Phyrexian",
-      "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control."
     },
     {
-      "name": "Valgavoth, Harrower of Souls",
+      "name": "Talisman of Indulgence",
       "quantity": 1,
-      "board": "commander",
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This artifact deals 1 damage to you."
+    },
+    {
+      "name": "Terminate",
+      "quantity": 1,
+      "board": "main",
       "colors": [
         "Red",
         "Black"
@@ -1016,51 +974,25 @@
         "Black",
         "Red"
       ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Elder Demon",
-      "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Destroy target creature. It can't be regenerated."
     },
     {
-      "name": "All Will Be One",
+      "name": "The Lord of Pain",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Red"
+        "Red",
+        "Black"
       ],
       "colorIdentity": [
+        "Black",
         "Red"
       ],
       "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever you put one or more counters on a permanent or player, this enchantment deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls."
-    },
-    {
-      "name": "Fate Unraveler",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Creature Enchantment — Hag",
-      "text": "Whenever an opponent draws a card, this creature deals 1 damage to that player."
-    },
-    {
-      "name": "Blood Seeker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Vampire Shaman",
-      "text": "Whenever a creature an opponent controls enters, you may have that player lose 1 life."
+      "type": "Legendary Creature — Human Assassin",
+      "text": "Menace\nYour opponents can't gain life.\nWhenever a player casts their first spell each turn, choose another target player. The Lord of Pain deals damage equal to that spell's mana value to the chosen player."
     },
     {
       "name": "The Meathook Massacre",
@@ -1191,6 +1123,74 @@
       "manaValue": 3,
       "type": "Legendary Creature — Goblin Warrior",
       "text": "Whenever a land enters, Zo-Zu deals 2 damage to that land's controller."
+    },
+    {
+      "name": "Scrawling Crawler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Creature Artifact — Construct Phyrexian",
+      "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
+    },
+    {
+      "name": "Valgavoth, Harrower of Souls",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Elder Demon",
+      "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
+    },
+    {
+      "name": "All Will Be One",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever you put one or more counters on a permanent or player, this enchantment deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls."
+    },
+    {
+      "name": "Fate Unraveler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature Enchantment — Hag",
+      "text": "Whenever an opponent draws a card, this creature deals 1 damage to that player."
+    },
+    {
+      "name": "Blood Seeker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Vampire Shaman",
+      "text": "Whenever a creature an opponent controls enters, you may have that player lose 1 life."
     }
   ]
 }

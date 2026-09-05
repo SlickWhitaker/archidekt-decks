@@ -49,15 +49,11 @@ Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
-Takenuma, Abandoned Mire
 Razorkin Needlehead
 Repercussion
-Talisman of Indulgence
 Roiling Vortex
-Terminate
 Shadowblood Ridge
 Sheoldred, the Apocalypse
-The Lord of Pain
 Sheoldred's Edict
 Shivan Gorge
 Smoldering Marsh
@@ -70,11 +66,10 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
-Scrawling Crawler
-Valgavoth, Harrower of Souls
-All Will Be One
-Fate Unraveler
-Blood Seeker
+Takenuma, Abandoned Mire
+Talisman of Indulgence
+Terminate
+The Lord of Pain
 The Meathook Massacre
 The One Ring
 Torment of Hailfire
@@ -85,3 +80,8 @@ Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
+Scrawling Crawler
+Valgavoth, Harrower of Souls
+All Will Be One
+Fate Unraveler
+Blood Seeker

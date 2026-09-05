@@ -50,9 +50,10 @@ Plains
 Port Town
 Prairie Stream
 Psychic Paper
+Raugrin Triome
+Regenerations Restored
 Rhystic Study
 RMS Titanic
-Raugrin Triome
 Rogue's Passage
 Rory Williams
 Rotating Fireplace
@@ -72,6 +73,13 @@ Talisman of Conviction
 Talisman of Creativity
 Talisman of Progress
 TARDIS
+Time Beetle
+Training Center
+Trenzalore Clocktower
+War Room
+Wibbly-wobbly, Timey-wimey
+Wilfred Mott
+The Tenth Doctor
 Teferi's Protection
 Temple of Enlightenment
 The Day of the Doctor
@@ -87,11 +95,3 @@ The Parting of the Ways
 The War Doctor
 The Wedding of River Song
 Thespian's Stage
-Time Beetle
-Training Center
-Trenzalore Clocktower
-War Room
-Wibbly-wobbly, Timey-wimey
-Wilfred Mott
-The Tenth Doctor
-Regenerations Restored

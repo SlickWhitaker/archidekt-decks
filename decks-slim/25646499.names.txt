@@ -52,8 +52,17 @@ Port Town
 Prairie Stream
 Prince Imrahil the Fair
 Riders of Rohan
-Supreme Verdict
 Rogue's Passage
+Sacred Foundry
+Secluded Courtyard
+Selfless Squire
+Shared Animosity
+Skullclamp
+Sol Ring
+Steam Vents
+Sulfur Falls
+Sunset Revelry
+Supreme Verdict
 Swords to Plowshares
 Talisman of Conviction
 Talisman of Progress
@@ -73,12 +82,3 @@ Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
-Sacred Foundry
-Secluded Courtyard
-Selfless Squire
-Shared Animosity
-Skullclamp
-Sol Ring
-Steam Vents
-Sulfur Falls
-Sunset Revelry

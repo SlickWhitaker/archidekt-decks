@@ -40,6 +40,7 @@ Forest
 Forest
 Fortified Village
 Furycalm Snarl
+Path of Ancestry
 Gongaga, Reactor Town
 Hard-Won Jitte
 Hellkite Tyrant
@@ -47,17 +48,13 @@ Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
 Mask of Memory
-Path of Ancestry
-Path to Exile
-Plains
-Plains
-Plains
-Professional Face-Breaker
-Puresteel Paladin
-Radiant Grove
-Red XIII, Proud Warrior
-Rogue's Passage
-Rootbound Crag
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
@@ -69,7 +66,9 @@ Slayers' Stronghold
 Sol Ring
 Sphere Grid
 Spire of Industry
+Path to Exile
 Stoneforge Mystic
+Plains
 Summon: Esper Ramuh
 Summon: Kujata
 Summoning Materia
@@ -77,24 +76,25 @@ Sungrass Prairie
 Sunpetal Grove
 Sunscorched Divide
 Swiftfoot Boots
+Plains
+Plains
+Professional Face-Breaker
+Puresteel Paladin
+Radiant Grove
+Red XIII, Proud Warrior
+Rogue's Passage
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
 Tifa, Martial Artist
 Tifa's Limit Break
 Ultimate Magic: Holy
-Unfinished Business
-Vandalblast
-Wood Elves
-Yuffie, Materia Hunter
+Rootbound Crag
 Zack Fair
 Sword of Forge and Frontier
 Cloud, Ex-SOLDIER
 Enlightened Tutor
-Mithril Coat
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
+Unfinished Business
+Vandalblast
+Wood Elves
+Yuffie, Materia Hunter
