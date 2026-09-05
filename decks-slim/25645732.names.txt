@@ -1,14 +1,12 @@
 Forge Anew
 Hammer of Nazahn
 Steelshaper's Gift
-Sting, the Glinting Dagger
 Aerith, Last Ancient
 Arcane Signet
 Austere Command
 Avalanche of Sector 7
 Barret Wallace
 Barret, Avalanche Leader
-Basilisk Collar
 Battlefield Forge
 Bilbo's Gambit
 Blasphemous Act
@@ -41,7 +39,6 @@ Forest
 Fortified Village
 Furycalm Snarl
 Gongaga, Reactor Town
-Hard-Won Jitte
 Hellkite Tyrant
 Iron Hills Blacksmith
 Kíli the Resourceful
@@ -98,3 +95,6 @@ Zack Fair
 Sword of Forge and Frontier
 Cloud, Ex-SOLDIER
 Enlightened Tutor
+The Reaver Cleaver
+Sword of Feast and Famine
+Kaldra Compleat

@@ -57,16 +57,6 @@
       "text": "Search your library for an Equipment card, reveal that card, put it into your hand, then shuffle."
     },
     {
-      "name": "Sting, the Glinting Dagger",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Legendary Artifact — Equipment",
-      "text": "Equipped creature gets +1/+1 and has haste.\nAt the beginning of each combat, untap equipped creature.\nEquipped creature has first strike as long as it's blocking or blocked by a Goblin or Orc.\nEquip {2}"
-    },
-    {
       "name": "Aerith, Last Ancient",
       "quantity": 1,
       "board": "main",
@@ -149,16 +139,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Rebel",
       "text": "Reach\nAvalanche! — Whenever an Equipment you control enters, create a 2/2 red Rebel creature token.\nAt the beginning of combat on your turn, attach up to one target Equipment you control to target Rebel you control."
-    },
-    {
-      "name": "Basilisk Collar",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
     },
     {
       "name": "Battlefield Forge",
@@ -572,20 +552,6 @@
       "manaValue": 0,
       "type": "Land — Town",
       "text": "This land enters tapped.\n{T}: Add {R} or {G}."
-    },
-    {
-      "name": "Hard-Won Jitte",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature has double strike.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
     },
     {
       "name": "Hellkite Tyrant",
@@ -1308,6 +1274,40 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
+    },
+    {
+      "name": "The Reaver Cleaver",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Equipped creature gets +1/+1 and has trample and \"Whenever this creature deals combat damage to a player or planeswalker, create that many Treasure tokens.\"\nEquip {3}"
+    },
+    {
+      "name": "Sword of Feast and Famine",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +2/+2 and has protection from black and from green.\nWhenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.\nEquip {2}"
+    },
+    {
+      "name": "Kaldra Compleat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 7,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Living weapon\nIndestructible\nEquipped creature gets +5/+5 and has first strike, trample, indestructible, haste, and \"Whenever this creature deals combat damage to a creature, exile that creature.\"\nEquip {7}"
     }
   ]
 }

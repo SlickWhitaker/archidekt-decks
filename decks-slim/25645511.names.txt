@@ -47,12 +47,8 @@ Mind Stone
 Morbid Opportunist
 Mountain
 Myriad Landscape
-Night's Whisper
-Orca, Siege Demon
-Overseer of the Damned
-Pathrazer of Ulamog
-Phyrexian Triniform
 Pitiless Plunderer
+Night's Whisper
 Rakdos Carnarium
 Rakdos Charm
 Rakdos Signet
@@ -84,3 +80,7 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
+Orca, Siege Demon
+Overseer of the Damned
+Pathrazer of Ulamog
+Phyrexian Triniform

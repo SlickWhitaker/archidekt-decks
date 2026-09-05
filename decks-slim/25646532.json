@@ -297,16 +297,6 @@
       "text": "When this creature enters, each opponent discards a card."
     },
     {
-      "name": "Emergence Zone",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this land: You may cast spells this turn as though they had flash."
-    },
-    {
       "name": "Entropic Battlecruiser",
       "quantity": 1,
       "board": "main",
@@ -945,20 +935,6 @@
       "text": "Whenever an opponent discards a card, you may draw a card."
     },
     {
-      "name": "Tinybones, Trinket Thief",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Skeleton Rogue",
-      "text": "At the beginning of each end step, if an opponent discarded a card this turn, you draw a card and you lose 1 life.\n{4}{B}{B}: Each opponent with no cards in hand loses 10 life."
-    },
-    {
       "name": "Waste Not",
       "quantity": 1,
       "board": "main",
@@ -981,6 +957,30 @@
       "manaValue": 2,
       "type": "Artifact — Equipment",
       "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
+    },
+    {
+      "name": "Tinybones, Trinket Thief",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Skeleton Rogue",
+      "text": "At the beginning of each end step, if an opponent discarded a card this turn, you draw a card and you lose 1 life.\n{4}{B}{B}: Each opponent with no cards in hand loses 10 life."
+    },
+    {
+      "name": "Scavenger Grounds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land — Desert",
+      "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
     }
   ]
 }

@@ -19,7 +19,6 @@ Dauthi Voidwalker
 Defile
 Delirium Skeins
 Elderfang Disciple
-Emergence Zone
 Entropic Battlecruiser
 Feed the Swarm
 Fell the Profane // Fell Mire
@@ -68,6 +67,7 @@ Will of the Abzan
 Withering Torment
 Words of Waste
 Geth's Grimoire
-Tinybones, Trinket Thief
 Waste Not
 Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds
