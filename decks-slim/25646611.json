@@ -682,36 +682,6 @@
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle."
     },
     {
-      "name": "Rakdos Charm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Choose one —\n• Exile target player's graveyard.\n• Destroy target artifact.\n• Each creature deals 1 damage to its controller."
-    },
-    {
-      "name": "Rampaging Ferocidon",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Dinosaur",
-      "text": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
-    },
-    {
       "name": "Razorkin Needlehead",
       "quantity": 1,
       "board": "main",
@@ -738,6 +708,22 @@
       "manaValue": 3,
       "type": "Enchantment",
       "text": "Whenever a creature is dealt damage, this enchantment deals that much damage to that creature's controller."
+    },
+    {
+      "name": "Rakdos Charm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Choose one —\n• Exile target player's graveyard.\n• Destroy target artifact.\n• Each creature deals 1 damage to its controller."
     },
     {
       "name": "Roiling Vortex",
@@ -1125,6 +1111,30 @@
       "text": "Whenever a land enters, Zo-Zu deals 2 damage to that land's controller."
     },
     {
+      "name": "Rampaging Ferocidon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Dinosaur",
+      "text": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
+    },
+    {
+      "name": "Scrawling Crawler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Creature Artifact — Construct Phyrexian",
+      "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
+    },
+    {
       "name": "Valgavoth, Harrower of Souls",
       "quantity": 1,
       "board": "commander",
@@ -1181,16 +1191,6 @@
       "manaValue": 2,
       "type": "Creature — Vampire Shaman",
       "text": "Whenever a creature an opponent controls enters, you may have that player lose 1 life."
-    },
-    {
-      "name": "Scrawling Crawler",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Creature Artifact — Construct Phyrexian",
-      "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
     }
   ]
 }

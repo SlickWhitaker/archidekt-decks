@@ -47,10 +47,9 @@ Orcish Bowmasters
 Painful Quandary
 Polluted Bonds
 Prismatic Vista
-Rakdos Charm
-Rampaging Ferocidon
 Razorkin Needlehead
 Repercussion
+Rakdos Charm
 Roiling Vortex
 Shadowblood Ridge
 Sheoldred, the Apocalypse
@@ -80,8 +79,9 @@ Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
+Rampaging Ferocidon
+Scrawling Crawler
 Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
 Blood Seeker
-Scrawling Crawler

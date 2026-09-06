@@ -45,11 +45,13 @@ Living Death
 Luxury Suite
 Marsh Flats
 Minas Tirith
-Olivia, Crimson Bride
+Mondrak, Glory Dominus
+Mountain
+Necropotence
+Nomad Outpost
+Ocelot Pride
 Path of Ancestry
-Path to Exile
-Patriarch's Bidding
-Phyrexian Altar
+Olivia, Crimson Bride
 Plains
 Razaketh, the Foulblooded
 Reconnaissance
@@ -84,8 +86,6 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Mondrak, Glory Dominus
-Mountain
-Necropotence
-Nomad Outpost
-Ocelot Pride
+Path to Exile
+Patriarch's Bidding
+Phyrexian Altar

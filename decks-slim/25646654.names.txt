@@ -47,6 +47,13 @@ Ornithopter of Paradise
 Path of Ancestry
 Path to Exile
 Plains
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Plumecreed Escort
 Pollywog Prodigy
 Rally the Ranks
@@ -61,13 +68,6 @@ Seachrome Coast
 Season of the Burrow
 Selfless Spirit
 Shared Animosity
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Shivan Reef
 Skullclamp
 Skyclave Apparition

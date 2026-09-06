@@ -400,20 +400,6 @@
       "text": "{T}: Add {C}.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G}."
     },
     {
-      "name": "Force of Vigor",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Instant",
-      "text": "If it's not your turn, you may exile a green card from your hand rather than pay this spell's mana cost.\nDestroy up to two target artifacts and/or enchantments."
-    },
-    {
       "name": "Forest",
       "quantity": 6,
       "board": "main",
@@ -1153,20 +1139,6 @@
       "text": "Whenever an artifact is put into an opponent's graveyard from the battlefield, you may draw a card."
     },
     {
-      "name": "Gorilla Shaman",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Ape Shaman",
-      "text": "{X}{X}{1}: Destroy target noncreature artifact with mana value X."
-    },
-    {
       "name": "Taurean Mauler",
       "quantity": 1,
       "board": "main",
@@ -1179,6 +1151,20 @@
       "manaValue": 3,
       "type": "Creature — Shapeshifter",
       "text": "Changeling (This card is every creature type.)\nWhenever an opponent casts a spell, you may put a +1/+1 counter on this creature."
+    },
+    {
+      "name": "Gorilla Shaman",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Ape Shaman",
+      "text": "{X}{X}{1}: Destroy target noncreature artifact with mana value X."
     },
     {
       "name": "Inspiring Call",
@@ -1217,6 +1203,20 @@
       "manaValue": 5,
       "type": "Creature — Ape Shaman",
       "text": "Whenever you cast a creature spell, choose one —\n• Destroy target artifact or enchantment.\n• Look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.\n• You gain 4 life."
+    },
+    {
+      "name": "Yavimaya Steelcrusher",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Warrior Ape",
+      "text": "Enlist (As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)\n{1}, Sacrifice this creature: Destroy target artifact."
     }
   ]
 }

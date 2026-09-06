@@ -28,7 +28,6 @@ Exploration
 Fauna Shaman
 Finale of Devastation
 Fire-Lit Thicket
-Force of Vigor
 Forest
 Fyndhorn Elves
 Gamble
@@ -87,8 +86,9 @@ Kibo, Uktabi Prince
 Kogla, the Titan Ape
 Scrounging Bandar
 Viridian Revel
-Gorilla Shaman
 Taurean Mauler
+Gorilla Shaman
 Inspiring Call
 Liquimetal Coating
 Silverback Elder
+Yavimaya Steelcrusher
