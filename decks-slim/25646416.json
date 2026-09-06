@@ -138,20 +138,6 @@
       "text": "{T}: Add {G}.\nChannel — {1}{G}, Discard this card: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control."
     },
     {
-      "name": "Burgeoning",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Enchantment",
-      "text": "Whenever an opponent plays a land, you may put a land card from your hand onto the battlefield."
-    },
-    {
       "name": "Carpet of Flowers",
       "quantity": 1,
       "board": "main",
@@ -663,20 +649,6 @@
       "text": "As an additional cost to cast this spell, sacrifice a green creature.\nSearch your library for a green creature card, put it onto the battlefield, then shuffle."
     },
     {
-      "name": "Nature's Claim",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Destroy target artifact or enchantment. Its controller gains 4 life."
-    },
-    {
       "name": "Nature's Lore",
       "quantity": 1,
       "board": "main",
@@ -738,20 +710,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Professional Face-Breaker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Warrior",
-      "text": "Menace\nWhenever one or more creatures you control deal combat damage to a player, create a Treasure token.\nSacrifice a Treasure: Exile the top card of your library. You may play that card this turn."
     },
     {
       "name": "Railway Brawler",
@@ -1219,6 +1177,48 @@
       "manaValue": 2,
       "type": "Creature — Cat Monkey",
       "text": "This creature enters with two +1/+1 counters on it.\nAt the beginning of your upkeep, you may move any number of +1/+1 counters from this creature onto another target creature."
+    },
+    {
+      "name": "Viridian Revel",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever an artifact is put into an opponent's graveyard from the battlefield, you may draw a card."
+    },
+    {
+      "name": "Gorilla Shaman",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Ape Shaman",
+      "text": "{X}{X}{1}: Destroy target noncreature artifact with mana value X."
+    },
+    {
+      "name": "Taurean Mauler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Shapeshifter",
+      "text": "Changeling (This card is every creature type.)\nWhenever an opponent casts a spell, you may put a +1/+1 counter on this creature."
     }
   ]
 }

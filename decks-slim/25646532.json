@@ -925,6 +925,16 @@
       "text": "{1}: The next time you would draw a card this turn, each opponent discards a card instead."
     },
     {
+      "name": "Geth's Grimoire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Artifact — Book",
+      "text": "Whenever an opponent discards a card, you may draw a card."
+    },
+    {
       "name": "Waste Not",
       "quantity": 1,
       "board": "main",
@@ -937,16 +947,6 @@
       "manaValue": 2,
       "type": "Enchantment",
       "text": "Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.\nWhenever an opponent discards a land card, add {B}{B}.\nWhenever an opponent discards a noncreature, nonland card, draw a card."
-    },
-    {
-      "name": "Geth's Grimoire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Artifact — Book",
-      "text": "Whenever an opponent discards a card, you may draw a card."
     },
     {
       "name": "Lightning Greaves",

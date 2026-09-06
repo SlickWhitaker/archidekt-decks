@@ -24,8 +24,13 @@ Dragonskull Summit
 Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
-Grave Titan
 Etali, Primal Storm
+Evolving Wilds
+Exotic Orchard
+Feed the Swarm
+Fellwar Stone
+Foreboding Ruins
+Grave Titan
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
@@ -79,8 +84,3 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
-Evolving Wilds
-Exotic Orchard
-Feed the Swarm
-Fellwar Stone
-Foreboding Ruins
