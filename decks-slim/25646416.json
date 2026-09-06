@@ -102,20 +102,6 @@
       "text": "Flying\n{T}: Add one mana of any color."
     },
     {
-      "name": "Birthing Pod",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Artifact",
-      "text": "({G/P} can be paid with either {G} or 2 life.)\n{1}{G/P}, {T}, Sacrifice a creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery."
-    },
-    {
       "name": "Bloodstained Mire",
       "quantity": 1,
       "board": "main",
@@ -522,20 +508,6 @@
       "manaValue": 1,
       "type": "Enchantment",
       "text": "If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead."
-    },
-    {
-      "name": "Hellkite Tyrant",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Creature — Dragon",
-      "text": "Flying, trample\nWhenever this creature deals combat damage to a player, gain control of all artifacts that player controls.\nAt the beginning of your upkeep, if you control twenty or more artifacts, you win the game."
     },
     {
       "name": "Heroic Intervention",
@@ -1096,20 +1068,6 @@
       "text": "{T}: Add {C}.\n{T}, Sacrifice this land: Destroy target nonbasic land."
     },
     {
-      "name": "Wheel of Misfortune",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Each player secretly chooses a number 0 or greater, then all players reveal those numbers simultaneously and determine the highest and lowest numbers revealed this way. Wheel of Misfortune deals damage equal to the highest number to each player who chose that number. Each player who didn't choose the lowest number discards their hand, then draws seven cards."
-    },
-    {
       "name": "Windswept Heath",
       "quantity": 1,
       "board": "main",
@@ -1168,6 +1126,58 @@
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
+      "name": "Beast Within",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
+    },
+    {
+      "name": "Uktabi Orangutan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Ape",
+      "text": "When this creature enters, destroy target artifact."
+    },
+    {
+      "name": "Liquimetal Torque",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Target nonland permanent becomes an artifact in addition to its other types until end of turn."
+    },
+    {
+      "name": "Gearbane Orangutan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Ape",
+      "text": "Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature."
+    },
+    {
       "name": "Kibo, Uktabi Prince",
       "quantity": 1,
       "board": "commander",
@@ -1183,7 +1193,7 @@
       "text": "{T}: Each player creates a colorless artifact token named Banana with \"{T}, Sacrifice this token: Add {R} or {G}. You gain 2 life.\"\nWhenever an artifact an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on each creature you control that's an Ape or a Monkey.\nWhenever Kibo attacks, defending player sacrifices an artifact of their choice."
     },
     {
-      "name": "Beast Within",
+      "name": "Kogla, the Titan Ape",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1192,38 +1202,23 @@
       "colorIdentity": [
         "Green"
       ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
+      "manaValue": 6,
+      "type": "Legendary Creature — Ape",
+      "text": "When Kogla enters, it fights up to one target creature you don't control.\nWhenever Kogla attacks, destroy target artifact or enchantment defending player controls.\n{1}{G}: Return target Human you control to its owner's hand. Kogla gains indestructible until end of turn."
     },
     {
-      "name": "Abrade",
+      "name": "Scrounging Bandar",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Red"
+        "Green"
       ],
       "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Choose one —\n• Abrade deals 3 damage to target creature.\n• Destroy target artifact."
-    },
-    {
-      "name": "Ancient Grudge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red",
         "Green"
       ],
       "manaValue": 2,
-      "type": "Instant",
-      "text": "Destroy target artifact.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+      "type": "Creature — Cat Monkey",
+      "text": "This creature enters with two +1/+1 counters on it.\nAt the beginning of your upkeep, you may move any number of +1/+1 counters from this creature onto another target creature."
     }
   ]
 }

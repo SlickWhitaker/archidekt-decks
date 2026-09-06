@@ -5,7 +5,6 @@ Arena of Glory
 Arid Mesa
 Bala Ged Recovery // Bala Ged Sanctuary
 Birds of Paradise
-Birthing Pod
 Bloodstained Mire
 Bloom Tender
 Boseiju, Who Endures
@@ -37,7 +36,6 @@ Gamble
 Greater Good
 Green Sun's Zenith
 Hardened Scales
-Hellkite Tyrant
 Heroic Intervention
 Jeska's Will
 Karplusan Forest
@@ -82,13 +80,15 @@ Vandalblast
 Veil of Summer
 Verdant Catacombs
 Wasteland
-Wheel of Misfortune
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Kibo, Uktabi Prince
 Beast Within
-Abrade
-Ancient Grudge
+Uktabi Orangutan
+Liquimetal Torque
+Gearbane Orangutan
+Kibo, Uktabi Prince
+Kogla, the Titan Ape
+Scrounging Bandar

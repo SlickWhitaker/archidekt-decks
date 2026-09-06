@@ -48,17 +48,10 @@ Path of Ancestry
 Path to Exile
 Plains
 Plumecreed Escort
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
 Pollywog Prodigy
 Rally the Ranks
 Rapid Augmenter
 Rapid Hybridization
-Cathars' Crusade
-Helm of the Host
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
@@ -82,6 +75,13 @@ Swords to Plowshares
 Temple of Enlightenment
 Temple of Triumph
 Terramorphic Expanse
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Tetsuko Umezawa, Fugitive
 Thriving Bluff
 Thriving Heath
