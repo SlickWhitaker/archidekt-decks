@@ -75,13 +75,6 @@ Swords to Plowshares
 Temple of Enlightenment
 Temple of Triumph
 Terramorphic Expanse
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Tetsuko Umezawa, Fugitive
 Thriving Bluff
 Thriving Heath
@@ -90,3 +83,10 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host

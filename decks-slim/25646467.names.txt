@@ -52,6 +52,11 @@ Moggcatcher
 Mountain
 Muxus, Goblin Grandee
 Outpost Siege
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+War Room
+Arena of Glory
 Pashalik Mons
 Professional Face-Breaker
 Purphoros, God of the Forge
@@ -70,8 +75,3 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-War Room
-Arena of Glory
