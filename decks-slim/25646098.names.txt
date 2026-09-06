@@ -64,6 +64,10 @@ Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
@@ -83,11 +87,7 @@ Undergrowth Stadium
 Vernal Fen
 Vibrant Cityscape
 Vigor
-Arcade Cabinet
 Michelangelo, the Heart
-Leonardo, the Balance
+Arcade Cabinet
 Bristly Bill, Spine Sower
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden
+Leonardo, the Balance

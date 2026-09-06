@@ -41,6 +41,10 @@ Migratory Route
 Mind Stone
 Mountain
 Murmuration
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Mystic Monastery
 Nesting Dovehawk
 Ornithopter of Paradise
@@ -48,21 +52,17 @@ Path of Ancestry
 Path to Exile
 Plains
 Plumecreed Escort
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Pollywog Prodigy
 Rally the Ranks
 Rapid Augmenter
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
 Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
 Rose Room Treasurer
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Rugged Prairie
 Seachrome Coast
 Season of the Burrow

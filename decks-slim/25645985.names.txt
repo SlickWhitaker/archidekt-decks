@@ -45,11 +45,13 @@ Prosperous Innkeeper
 Rapacious Guest
 Revive the Shire
 Rosie Cotton of South Lane
-Woodfall Primus
-Woodland Cemetery
 Samwise Gamgee
 Sandsteppe Citadel
 Sanguine Bond
+Savvy Hunter
+Scattered Groves
+Woodfall Primus
+Woodland Cemetery
 Sam, Loyal Attendant
 Frodo, Adventurous Hobbit
 Academy Manufactor
@@ -68,8 +70,6 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Savvy Hunter
-Scattered Groves
 Shineshadow Snarl
 Shire Shirriff
 Shire Terrace

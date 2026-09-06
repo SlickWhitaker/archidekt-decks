@@ -14,11 +14,6 @@ Bloodghast
 Bloodletter of Aclazotz
 Bloodline Necromancer
 Bloodstained Mire
-Bloodthirsty Conqueror
-Bojuka Bog
-Boros Charm
-Captivating Vampire
-Caves of Koilos
 Champion of Dusk
 Charismatic Conqueror
 Chrome Mox
@@ -89,3 +84,8 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
+Bloodthirsty Conqueror
+Bojuka Bog
+Boros Charm
+Captivating Vampire
+Caves of Koilos

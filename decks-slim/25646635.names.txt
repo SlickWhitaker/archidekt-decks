@@ -54,6 +54,10 @@ Morphic Pool
 Mothdust Changeling
 Muddle the Mixture
 Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Nanogene Conversion
+Nashi, Moon Sage's Scion
 Negate
 Ninja of the Deep Hours
 Opposition Agent
@@ -67,12 +71,8 @@ Ponder
 Prosperous Thief
 Sakashima's Student
 Satoru Umezawa
-Satoru, the Infiltrator
-Scroll Rack
-Sensei's Divining Top
-Shizo, Death's Storehouse
-Silver-Fur Master
 Sink into Stupor // Soporific Springs
+Satoru, the Infiltrator
 Skullsnatcher
 Slither Blade
 Snow-Covered Island
@@ -81,18 +81,18 @@ Snuff Out
 Spectral Sailor
 Starting Town
 Swamp
+Scroll Rack
 Temporal Trespass
 Tetsuko Umezawa, Fugitive
 Thassa's Oracle
+Sensei's Divining Top
+Shizo, Death's Storehouse
 Thieving Skydiver
 Thousand-Faced Shadow
 Throat Slitter
+Silver-Fur Master
 Underground River
 Vampiric Tutor
 Walker of Secret Ways
-Watery Grave
 Yuriko, the Tiger's Shadow
-Mystic Sanctuary
-Mystical Tutor
-Nanogene Conversion
-Nashi, Moon Sage's Scion
+Watery Grave
