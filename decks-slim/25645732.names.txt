@@ -30,6 +30,14 @@ Colossus Hammer
 Command Tower
 Exotic Orchard
 Farseek
+Fire-Lit Thicket
+Firion, Wild Rose Warrior
+Forest
+Forest
+Forest
+Fortified Village
+Furycalm Snarl
+Path of Ancestry
 Gongaga, Reactor Town
 Hellkite Tyrant
 Iron Hills Blacksmith
@@ -43,17 +51,6 @@ Mountain
 Mountain
 Nature's Lore
 Nature's Will
-Path of Ancestry
-Path to Exile
-Plains
-Plains
-Plains
-Professional Face-Breaker
-Puresteel Paladin
-Radiant Grove
-Red XIII, Proud Warrior
-Rogue's Passage
-Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
@@ -91,10 +88,13 @@ Sword of Feast and Famine
 Kaldra Compleat
 Armored Skyhunter
 Sram, Senior Edificer
-Fire-Lit Thicket
-Firion, Wild Rose Warrior
-Forest
-Forest
-Forest
-Fortified Village
-Furycalm Snarl
+Path to Exile
+Plains
+Plains
+Plains
+Professional Face-Breaker
+Puresteel Paladin
+Radiant Grove
+Red XIII, Proud Warrior
+Rogue's Passage
+Rootbound Crag

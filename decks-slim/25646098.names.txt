@@ -61,8 +61,6 @@ Plaza of Heroes
 Raffine's Tower
 Raphael, the Muscle
 Rat King, Pale Piper
-Splinter, the Mentor
-Steelbane Hydra
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
@@ -70,6 +68,11 @@ Skullclamp
 Sodden Verdure
 Sol Ring
 Spire Garden
+Splinter, the Mentor
+Steelbane Hydra
+Stomping Ground
+Sunken Hollow
+Super Combo
 Swamp
 Swan Song
 Swords to Plowshares
@@ -78,16 +81,13 @@ Tempestra, Dame of Games
 Thriving Isle
 Tireless Provisioner
 Tocasia's Welcome
+Arcade Cabinet
 Turtle Lair
 Unbreakable Formation
 Undergrowth Stadium
 Vernal Fen
 Vibrant Cityscape
 Vigor
-Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Stomping Ground
-Sunken Hollow
-Super Combo
