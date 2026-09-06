@@ -418,45 +418,6 @@
       "text": "{T}: Add {C}.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}."
     },
     {
-      "name": "Haunted Ridge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {B} or {R}."
-    },
-    {
-      "name": "Havoc Festival",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Enchantment",
-      "text": "Players can't gain life.\nAt the beginning of each player's upkeep, that player loses half their life, rounded up."
-    },
-    {
-      "name": "Jet Medallion",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "Black spells you cast cost {1} less to cast."
-    },
-    {
       "name": "Kaervek the Merciless",
       "quantity": 1,
       "board": "main",
@@ -489,6 +450,19 @@
       "text": "When Kardur enters, until your next turn, creatures your opponents control attack each combat if able and attack a player other than you if able.\nWhenever an attacking creature dies, each opponent loses 1 life and you gain 1 life."
     },
     {
+      "name": "Haunted Ridge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {B} or {R}."
+    },
+    {
       "name": "Kederekt Parasite",
       "quantity": 1,
       "board": "main",
@@ -511,6 +485,22 @@
       "manaValue": 2,
       "type": "Artifact — Equipment",
       "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
+    },
+    {
+      "name": "Havoc Festival",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Enchantment",
+      "text": "Players can't gain life.\nAt the beginning of each player's upkeep, that player loses half their life, rounded up."
     },
     {
       "name": "Luxury Suite",
@@ -540,6 +530,16 @@
       "manaValue": 3,
       "type": "Creature — Devil",
       "text": "Whenever a player sacrifices a permanent, this creature deals 1 damage to any target."
+    },
+    {
+      "name": "Jet Medallion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "Black spells you cast cost {1} less to cast."
     },
     {
       "name": "Mogis, God of Slaughter",
@@ -1135,22 +1135,6 @@
       "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
     },
     {
-      "name": "Valgavoth, Harrower of Souls",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Elder Demon",
-      "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
-    },
-    {
       "name": "All Will Be One",
       "quantity": 1,
       "board": "main",
@@ -1177,6 +1161,22 @@
       "manaValue": 4,
       "type": "Creature Enchantment — Hag",
       "text": "Whenever an opponent draws a card, this creature deals 1 damage to that player."
+    },
+    {
+      "name": "Valgavoth, Harrower of Souls",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Elder Demon",
+      "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
     },
     {
       "name": "Blood Seeker",

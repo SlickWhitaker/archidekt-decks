@@ -28,15 +28,15 @@ Florian, Voldaren Scion
 Foreboding Ruins
 Furnace of Rath
 Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
+Haunted Ridge
 Kederekt Parasite
 Lightning Greaves
+Havoc Festival
 Luxury Suite
 Mayhem Devil
+Jet Medallion
 Mogis, God of Slaughter
 Mountain
 Necropotence
@@ -81,7 +81,7 @@ Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Scrawling Crawler
-Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
+Valgavoth, Harrower of Souls
 Blood Seeker

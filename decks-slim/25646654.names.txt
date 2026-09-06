@@ -48,10 +48,17 @@ Path of Ancestry
 Path to Exile
 Plains
 Plumecreed Escort
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
 Pollywog Prodigy
 Rally the Ranks
 Rapid Augmenter
 Rapid Hybridization
+Cathars' Crusade
+Helm of the Host
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
@@ -83,10 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Zinnia, Valley's Voice
-Warren Warleader
-Watcher of the Spheres
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host

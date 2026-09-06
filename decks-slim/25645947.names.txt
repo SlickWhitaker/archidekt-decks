@@ -48,11 +48,10 @@ Minas Tirith
 Mondrak, Glory Dominus
 Mountain
 Necropotence
+Nomad Outpost
+Ocelot Pride
 Olivia, Crimson Bride
 Path of Ancestry
-Path to Exile
-Patriarch's Bidding
-Phyrexian Altar
 Plains
 Razaketh, the Foulblooded
 Reconnaissance
@@ -87,5 +86,6 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Nomad Outpost
-Ocelot Pride
+Path to Exile
+Patriarch's Bidding
+Phyrexian Altar
