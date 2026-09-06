@@ -1,6 +1,8 @@
 Grolnok, the Omnivore
 Academy Ruins
 Aesi, Tyrant of Gyre Strait
+An Offer You Can't Refuse
+Ancient Greenwarden
 Arcane Denial
 Arcane Signet
 Azusa, Lost but Seeking
@@ -92,5 +94,3 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-An Offer You Can't Refuse
-Ancient Greenwarden

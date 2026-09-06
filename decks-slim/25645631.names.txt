@@ -48,9 +48,6 @@ Magmakin Artillerist
 Malcolm, Keen-Eyed Navigator
 Mana Vault
 Marauding Mako
-Sol Ring
-Spirebluff Canal
-Steam Vents
 Mistrise Village
 Monument to Endurance
 Mountain
@@ -71,6 +68,13 @@ Rogue's Passage
 Scalding Tarn
 Scrounging Skyray
 Shivan Reef
+Sol Ring
+Spirebluff Canal
+Steam Vents
+Stormcarved Coast
+Stubborn Denial
+Sulfur Falls
+Surly Badgersaur
 Swan Song
 Swiftfoot Boots
 Talisman of Creativity
@@ -87,7 +91,3 @@ Windfall
 Wonder
 Wooded Foothills
 Captain Howler, Sea Scourge
-Stormcarved Coast
-Stubborn Denial
-Sulfur Falls
-Surly Badgersaur
