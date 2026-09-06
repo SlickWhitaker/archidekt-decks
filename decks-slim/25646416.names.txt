@@ -64,31 +64,31 @@ Stomping Ground
 Strip Mine
 Sylvan Library
 Terror of the Peaks
+Veil of Summer
 The Great Henge
 The One Ring
 The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Veil of Summer
-Verdant Catacombs
-Uktabi Orangutan
 Wasteland
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
+Verdant Catacombs
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Liquimetal Torque
 Beast Within
+Liquimetal Torque
 Gearbane Orangutan
 Kibo, Uktabi Prince
+Uktabi Orangutan
 Kogla, the Titan Ape
 Scrounging Bandar
 Viridian Revel
 Gorilla Shaman
-Taurean Mauler
 Inspiring Call
-Liquimetal Coating
+Taurean Mauler
 Silverback Elder
 Yavimaya Steelcrusher
+Liquimetal Coating

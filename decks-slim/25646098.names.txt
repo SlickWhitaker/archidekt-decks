@@ -60,10 +60,13 @@ Plains
 Plaza of Heroes
 Raffine's Tower
 Raphael, the Muscle
-Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
@@ -87,7 +90,4 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden
+Rat King, Pale Piper
