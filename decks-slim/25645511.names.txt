@@ -39,6 +39,19 @@ Infernal Grasp
 It That Betrays
 Jet Medallion
 Krenko, Mob Boss
+Krenko, Tin Street Kingpin
+Krenko's Command
+Lagomos, Hand of Hatred
+Mahadi, Emporium Master
+Mind Stone
+Morbid Opportunist
+Mountain
+Myriad Landscape
+Night's Whisper
+Orca, Siege Demon
+Overseer of the Damned
+Pathrazer of Ulamog
+Phyrexian Triniform
 Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
@@ -66,21 +79,8 @@ The Balrog, Durin's Bane
 Toxic Deluge
 Tramway Station
 Unexpected Windfall
+Bloodghast
+Zulaport Cutthroat
 Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
-Bloodghast
-Zulaport Cutthroat
-Krenko, Tin Street Kingpin
-Krenko's Command
-Lagomos, Hand of Hatred
-Mahadi, Emporium Master
-Mind Stone
-Morbid Opportunist
-Mountain
-Myriad Landscape
-Night's Whisper
-Orca, Siege Demon
-Overseer of the Damned
-Pathrazer of Ulamog
-Phyrexian Triniform

@@ -48,10 +48,6 @@ Path of Ancestry
 Path to Exile
 Plains
 Plumecreed Escort
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
 Pollywog Prodigy
 Rally the Ranks
 Rapid Augmenter
@@ -65,6 +61,13 @@ Seachrome Coast
 Season of the Burrow
 Selfless Spirit
 Shared Animosity
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Shivan Reef
 Skullclamp
 Skyclave Apparition
@@ -72,9 +75,6 @@ Skycloud Expanse
 Sol Ring
 Soulcatchers' Aerie
 Steam Vents
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Storm of Souls
 Sulfur Falls
 Sunscorched Divide

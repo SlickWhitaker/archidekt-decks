@@ -42,9 +42,15 @@ Mountain
 Necropotence
 Ob Nixilis, Captive Kingpin
 Obosh, the Preypiercer
+Opposition Agent
+Orcish Bowmasters
+Painful Quandary
+Polluted Bonds
+Prismatic Vista
+Rakdos Charm
+Rampaging Ferocidon
 Razorkin Needlehead
 Repercussion
-Opposition Agent
 Roiling Vortex
 Shadowblood Ridge
 Sheoldred, the Apocalypse
@@ -74,14 +80,8 @@ Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
-Orcish Bowmasters
-Scrawling Crawler
 Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
 Blood Seeker
-Painful Quandary
-Polluted Bonds
-Prismatic Vista
-Rakdos Charm
-Rampaging Ferocidon
+Scrawling Crawler
