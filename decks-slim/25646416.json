@@ -962,6 +962,20 @@
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
     },
     {
+      "name": "Uktabi Orangutan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Ape",
+      "text": "When this creature enters, destroy target artifact."
+    },
+    {
       "name": "Wasteland",
       "quantity": 1,
       "board": "main",
@@ -1030,6 +1044,16 @@
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
+      "name": "Liquimetal Torque",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Target nonland permanent becomes an artifact in addition to its other types until end of turn."
+    },
+    {
       "name": "Beast Within",
       "quantity": 1,
       "board": "main",
@@ -1044,20 +1068,6 @@
       "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
     },
     {
-      "name": "Uktabi Orangutan",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Ape",
-      "text": "When this creature enters, destroy target artifact."
-    },
-    {
       "name": "Gearbane Orangutan",
       "quantity": 1,
       "board": "main",
@@ -1070,16 +1080,6 @@
       "manaValue": 3,
       "type": "Creature — Ape",
       "text": "Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature."
-    },
-    {
-      "name": "Liquimetal Torque",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add {C}.\n{T}: Target nonland permanent becomes an artifact in addition to its other types until end of turn."
     },
     {
       "name": "Kibo, Uktabi Prince",

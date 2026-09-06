@@ -40,11 +40,14 @@ Martial Coup
 Migratory Route
 Mind Stone
 Mountain
-Murmuration
 Warren Warleader
 Watcher of the Spheres
 Zinnia, Valley's Voice
 Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
+Murmuration
 Mystic Monastery
 Nesting Dovehawk
 Ornithopter of Paradise
@@ -52,9 +55,6 @@ Path of Ancestry
 Path to Exile
 Plains
 Plumecreed Escort
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Pollywog Prodigy
 Rally the Ranks
 Rapid Augmenter

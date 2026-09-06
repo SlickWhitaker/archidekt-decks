@@ -72,7 +72,6 @@ Swiftfoot Boots
 Sword of Fire and Ice
 The Ozolith
 Thieving Skydiver
-Hakbal of the Surging Soul
 Tishana's Tidebinder
 Triumph of the Hordes
 Tropical Island
@@ -83,3 +82,4 @@ Wanderwine Prophets
 Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
+Hakbal of the Surging Soul
