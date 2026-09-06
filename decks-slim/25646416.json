@@ -1084,20 +1084,6 @@
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
-      "name": "Uktabi Orangutan",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Ape",
-      "text": "When this creature enters, destroy target artifact."
-    },
-    {
       "name": "Beast Within",
       "quantity": 1,
       "board": "main",
@@ -1110,6 +1096,20 @@
       "manaValue": 3,
       "type": "Instant",
       "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
+    },
+    {
+      "name": "Uktabi Orangutan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Ape",
+      "text": "When this creature enters, destroy target artifact."
     },
     {
       "name": "Liquimetal Torque",

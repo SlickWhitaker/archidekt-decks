@@ -24,6 +24,13 @@ Feed the Swarm
 Fellwar Stone
 Fiery Confluence
 Fire Covenant
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -42,10 +49,13 @@ Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
+Takenuma, Abandoned Mire
 Razorkin Needlehead
 Repercussion
+Talisman of Indulgence
 Roiling Vortex
 Shadowblood Ridge
+Terminate
 Sheoldred, the Apocalypse
 Sheoldred's Edict
 Shivan Gorge
@@ -54,16 +64,13 @@ Sol Ring
 Spellshock
 Spinerock Knoll
 Spiteful Visions
+The Lord of Pain
 Sulfuric Vortex
 Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
-Tainted Peak
-Takenuma, Abandoned Mire
-Talisman of Indulgence
-Terminate
-The Lord of Pain
 The Meathook Massacre
+Tainted Peak
 The One Ring
 Torment of Hailfire
 Underworld Dreams
@@ -73,15 +80,8 @@ Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
-Scrawling Crawler
 Valgavoth, Harrower of Souls
+Scrawling Crawler
 All Will Be One
 Fate Unraveler
 Blood Seeker
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
