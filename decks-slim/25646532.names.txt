@@ -42,11 +42,6 @@ Nezumi Shortfang // Stabwhisker the Odious
 Oppression
 Painful Quandary
 Phyrexian Reclamation
-Geth's Grimoire
-Waste Not
-Lightning Greaves
-Tinybones, Trinket Thief
-Scavenger Grounds
 Psychosis Crawler
 Quest for the Nihil Stone
 Rankle, Master of Pranks
@@ -71,3 +66,8 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
+Geth's Grimoire
+Waste Not
+Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds

@@ -10,8 +10,8 @@ Flusterstorm
 Neoform
 Pact of Negation
 Carpet of Flowers
-Noble Hierarch
 Swords to Plowshares
+Noble Hierarch
 Emiel the Blessed
 Hallowed Fountain
 Otawara, Soaring City
@@ -19,8 +19,8 @@ Temple Garden
 Bountiful Promenade
 Sea of Clouds
 Phyrexian Metamorph
-Chulane, Teller of Tales
 Polluted Delta
+Chulane, Teller of Tales
 Hullbreaker Horror
 Command Tower
 Grand Abolisher

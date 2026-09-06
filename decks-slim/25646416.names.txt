@@ -36,13 +36,23 @@ Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Jeska's Will
+Veil of Summer
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
 Lightning Greaves
+Verdant Catacombs
 Llanowar Elves
+Wasteland
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
 Mana Vault
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Beast Within
 Misty Rainforest
+Uktabi Orangutan
 Mountain
 Natural Order
 Nature's Lore
@@ -56,6 +66,18 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
+Liquimetal Torque
+Gearbane Orangutan
+Kibo, Uktabi Prince
+Kogla, the Titan Ape
+Scrounging Bandar
+Viridian Revel
+Gorilla Shaman
+Taurean Mauler
+Inspiring Call
+Liquimetal Coating
+Silverback Elder
+Yavimaya Steelcrusher
 Selvala, Heart of the Wilds
 Skullclamp
 Sol Ring
@@ -70,25 +92,3 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
-Beast Within
-Uktabi Orangutan
-Liquimetal Torque
-Gearbane Orangutan
-Kibo, Uktabi Prince
-Kogla, the Titan Ape
-Scrounging Bandar
-Viridian Revel
-Taurean Mauler
-Gorilla Shaman
-Inspiring Call
-Liquimetal Coating
-Silverback Elder
-Yavimaya Steelcrusher
