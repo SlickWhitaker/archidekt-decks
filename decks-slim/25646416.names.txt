@@ -40,16 +40,16 @@ Heroic Intervention
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
-Veil of Summer
 Lightning Greaves
 Llanowar Elves
 Misty Rainforest
-Verdant Catacombs
 Mountain
 Natural Order
 Nature's Lore
+Veil of Summer
 Nykthos, Shrine to Nyx
 Old Gnawbone
+Verdant Catacombs
 Wasteland
 Windswept Heath
 Wooded Foothills
@@ -59,16 +59,27 @@ Zealous Conscripts
 Orcish Lumberjack
 Prismatic Vista
 Railway Brawler
+Beast Within
 Rhythm of the Wild
 Rockfall Vale
+Uktabi Orangutan
+Liquimetal Torque
+Gearbane Orangutan
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
 Selvala, Heart of the Wilds
 Skullclamp
+Kibo, Uktabi Prince
+Kogla, the Titan Ape
+Scrounging Bandar
+Viridian Revel
 Sol Ring
+Gorilla Shaman
+Taurean Mauler
+Inspiring Call
+Liquimetal Coating
 Spire Garden
-Beast Within
 Stomping Ground
 Strip Mine
 Sylvan Library
@@ -76,19 +87,8 @@ Terror of the Peaks
 The Great Henge
 The One Ring
 The Ozolith
+Silverback Elder
 Three Visits
+Yavimaya Steelcrusher
 Tooth and Nail
 Vandalblast
-Uktabi Orangutan
-Gearbane Orangutan
-Liquimetal Torque
-Kibo, Uktabi Prince
-Kogla, the Titan Ape
-Scrounging Bandar
-Viridian Revel
-Gorilla Shaman
-Taurean Mauler
-Inspiring Call
-Liquimetal Coating
-Silverback Elder
-Yavimaya Steelcrusher
