@@ -51,8 +51,14 @@ Mist-Syndicate Naga
 Mistblade Shinobi
 Moon-Circuit Hacker
 Morphic Pool
-Negate
 Mothdust Changeling
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Nanogene Conversion
+Nashi, Moon Sage's Scion
+Negate
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
@@ -90,9 +96,3 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
-Muddle the Mixture
-Mystic Remora
-Mystic Sanctuary
-Mystical Tutor
-Nanogene Conversion
-Nashi, Moon Sage's Scion

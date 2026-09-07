@@ -38,11 +38,14 @@ Forest
 Fortified Village
 Furycalm Snarl
 Path of Ancestry
+Path to Exile
+Plains
 Gongaga, Reactor Town
 Hellkite Tyrant
 Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
+Plains
 Mask of Memory
 Mithril Coat
 Mossfire Valley
@@ -88,9 +91,6 @@ Sword of Feast and Famine
 Kaldra Compleat
 Armored Skyhunter
 Sram, Senior Edificer
-Path to Exile
-Plains
-Plains
 Plains
 Professional Face-Breaker
 Puresteel Paladin

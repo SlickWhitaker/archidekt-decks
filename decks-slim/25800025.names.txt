@@ -19,8 +19,8 @@ Temple Garden
 Bountiful Promenade
 Sea of Clouds
 Phyrexian Metamorph
-Chulane, Teller of Tales
 Polluted Delta
+Chulane, Teller of Tales
 Hullbreaker Horror
 Command Tower
 Grand Abolisher
@@ -52,8 +52,8 @@ Scalding Tarn
 Rhystic Study
 Worldly Tutor
 Walking Ballista
-Mana Confluence
 Faerie Mastermind
+Mana Confluence
 Swan Song
 Boseiju, Who Endures
 Fierce Guardianship
@@ -78,10 +78,10 @@ Rejuvenating Springs
 Intruder Alarm
 Verdant Catacombs
 Phantasmal Image
+Garruk's Uprising
 Chakram Retriever
 Helga, Skittish Seer
 Blinking Spirit
-Garruk's Uprising
 Beast Whisperer
 Inga and Esika
 Great Oak Guardian

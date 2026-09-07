@@ -31,8 +31,12 @@ Demonic Tutor
 Dragonskull Summit
 Drana and Linvala
 Elenda, the Dusk Rose
-Herald's Horn
 Esper Sentinel
+Exquisite Blood
+Flawless Maneuver
+Generous Gift
+Godless Shrine
+Herald's Horn
 Isolated Chapel
 Kalitas, Traitor of Ghet
 Legion Lieutenant
@@ -42,11 +46,8 @@ Luxury Suite
 Marsh Flats
 Minas Tirith
 Mondrak, Glory Dominus
-Mountain
-Necropotence
-Nomad Outpost
-Ocelot Pride
 Olivia, Crimson Bride
+Mountain
 Path of Ancestry
 Path to Exile
 Patriarch's Bidding
@@ -85,7 +86,6 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Exquisite Blood
-Flawless Maneuver
-Generous Gift
-Godless Shrine
+Necropotence
+Nomad Outpost
+Ocelot Pride

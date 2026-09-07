@@ -1210,16 +1210,6 @@
       "text": "When this creature enters, you may exile another target creature.\nWhen this creature leaves the battlefield, return the exiled card to the battlefield under its owner's control."
     },
     {
-      "name": "Academy Manufactor",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Creature Artifact — Assembly-Worker",
-      "text": "If you would create a Clue, Food, or Treasure token, instead create one of each."
-    },
-    {
       "name": "Cathars' Crusade",
       "quantity": 1,
       "board": "main",
@@ -1232,6 +1222,16 @@
       "manaValue": 5,
       "type": "Enchantment",
       "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
+    },
+    {
+      "name": "Academy Manufactor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Creature Artifact — Assembly-Worker",
+      "text": "If you would create a Clue, Food, or Treasure token, instead create one of each."
     },
     {
       "name": "Helm of the Host",
