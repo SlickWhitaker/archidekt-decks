@@ -38,7 +38,7 @@ Forest
 Forest
 Fortified Village
 Furycalm Snarl
-Path of Ancestry
+Stoneforge Mystic
 Gongaga, Reactor Town
 Iron Hills Blacksmith
 Kíli the Resourceful
@@ -51,6 +51,17 @@ Mountain
 Mountain
 Nature's Lore
 Nature's Will
+Path of Ancestry
+Path to Exile
+Plains
+Plains
+Plains
+Professional Face-Breaker
+Puresteel Paladin
+Radiant Grove
+Red XIII, Proud Warrior
+Rogue's Passage
+Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
@@ -62,13 +73,6 @@ Slayers' Stronghold
 Sol Ring
 Sphere Grid
 Spire of Industry
-Stoneforge Mystic
-Summon: Kujata
-Summoning Materia
-Sungrass Prairie
-Sunpetal Grove
-Sunscorched Divide
-Swiftfoot Boots
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
@@ -88,13 +92,9 @@ Sword of Feast and Famine
 Kaldra Compleat
 Armored Skyhunter
 Sram, Senior Edificer
-Path to Exile
-Plains
-Plains
-Plains
-Professional Face-Breaker
-Puresteel Paladin
-Radiant Grove
-Red XIII, Proud Warrior
-Rogue's Passage
-Rootbound Crag
+Summon: Kujata
+Summoning Materia
+Sungrass Prairie
+Sunpetal Grove
+Sunscorched Divide
+Swiftfoot Boots

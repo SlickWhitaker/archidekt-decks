@@ -688,40 +688,6 @@
       "text": "When this creature enters, you may exile another target creature.\nWhen this creature leaves the battlefield, return the exiled card to the battlefield under its owner's control."
     },
     {
-      "name": "Academy Manufactor",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Creature Artifact — Assembly-Worker",
-      "text": "If you would create a Clue, Food, or Treasure token, instead create one of each."
-    },
-    {
-      "name": "Cathars' Crusade",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
-    },
-    {
-      "name": "Helm of the Host",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Legendary Artifact — Equipment",
-      "text": "At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary. That token gains haste.\nEquip {5}"
-    },
-    {
       "name": "Ornithopter of Paradise",
       "quantity": 1,
       "board": "main",
@@ -877,6 +843,16 @@
       "text": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time."
     },
     {
+      "name": "Academy Manufactor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Creature Artifact — Assembly-Worker",
+      "text": "If you would create a Clue, Food, or Treasure token, instead create one of each."
+    },
+    {
       "name": "Rose Room Treasurer",
       "quantity": 1,
       "board": "main",
@@ -889,6 +865,30 @@
       "manaValue": 4,
       "type": "Creature — Warrior Ogre",
       "text": "Alliance — Whenever another creature you control enters, create a Treasure token if this is the first or second time this ability has resolved this turn. Otherwise, you may pay {X}. When you do, this creature deals X damage to any target."
+    },
+    {
+      "name": "Cathars' Crusade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
+    },
+    {
+      "name": "Helm of the Host",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Legendary Artifact — Equipment",
+      "text": "At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary. That token gains haste.\nEquip {5}"
     },
     {
       "name": "Rugged Prairie",

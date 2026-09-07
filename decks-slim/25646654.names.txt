@@ -47,9 +47,6 @@ Warren Warleader
 Watcher of the Spheres
 Zinnia, Valley's Voice
 Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Ornithopter of Paradise
 Path of Ancestry
 Path to Exile
@@ -62,7 +59,10 @@ Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
+Academy Manufactor
 Rose Room Treasurer
+Cathars' Crusade
+Helm of the Host
 Rugged Prairie
 Seachrome Coast
 Season of the Burrow

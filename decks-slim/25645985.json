@@ -654,79 +654,6 @@
       "text": "When Rosie Cotton enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nWhenever you create a token, put a +1/+1 counter on target creature you control other than Rosie Cotton."
     },
     {
-      "name": "Samwise Gamgee",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Green"
-      ],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Peasant Halfling",
-      "text": "Whenever another nontoken creature you control enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice three Foods: Return target historic card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)"
-    },
-    {
-      "name": "Sandsteppe Citadel",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Black",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {W}, {B}, or {G}."
-    },
-    {
-      "name": "Sanguine Bond",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever you gain life, target opponent loses that much life."
-    },
-    {
-      "name": "Savvy Hunter",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Warrior",
-      "text": "Whenever this creature attacks or blocks, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice two Foods: Draw a card."
-    },
-    {
-      "name": "Scattered Groves",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Forest",
-      "text": "({T}: Add {G} or {W}.)\nThis land enters tapped.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-    },
-    {
       "name": "Woodfall Primus",
       "quantity": 1,
       "board": "main",
@@ -995,6 +922,79 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}.\n{2}, {T}, Tap an untapped creature you control: Create a Food token.\n{3}, {T}: Choose target permanent you control. Draw a card, then another player of your choice may gain control of that permanent. Activate only as a sorcery."
+    },
+    {
+      "name": "Samwise Gamgee",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Peasant Halfling",
+      "text": "Whenever another nontoken creature you control enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice three Foods: Return target historic card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)"
+    },
+    {
+      "name": "Sandsteppe Citadel",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {W}, {B}, or {G}."
+    },
+    {
+      "name": "Sanguine Bond",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever you gain life, target opponent loses that much life."
+    },
+    {
+      "name": "Savvy Hunter",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Warrior",
+      "text": "Whenever this creature attacks or blocks, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice two Foods: Draw a card."
+    },
+    {
+      "name": "Scattered Groves",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Forest",
+      "text": "({T}: Add {G} or {W}.)\nThis land enters tapped.\nCycling {2} ({2}, Discard this card: Draw a card.)"
     },
     {
       "name": "Shineshadow Snarl",
