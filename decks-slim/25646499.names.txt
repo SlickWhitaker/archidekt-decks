@@ -1,3 +1,5 @@
+Adeline, Resplendent Cathar
+Teferi's Protection
 Éowyn, Shieldmaiden
 Aragorn, King of Gondor
 Arcane Signet
@@ -16,7 +18,6 @@ Command Tower
 Coppercoat Vanguard
 Court of Ire
 Crown of Gondor
-Denethor, Stone Seer
 Door of Destinies
 Earthquake
 Éomer, King of Rohan
@@ -46,8 +47,6 @@ Mountain
 Oath of Eorl
 Palace Jailer
 Path of Ancestry
-Path to Exile
-Plains
 Supreme Verdict
 Swords to Plowshares
 Talisman of Conviction
@@ -68,6 +67,8 @@ Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
+Path to Exile
+Plains
 Port Town
 Prairie Stream
 Prince Imrahil the Fair
@@ -75,7 +76,6 @@ Riders of Rohan
 Rogue's Passage
 Sacred Foundry
 Secluded Courtyard
-Selfless Squire
 Shared Animosity
 Skullclamp
 Sol Ring

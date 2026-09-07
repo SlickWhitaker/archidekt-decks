@@ -64,6 +64,7 @@ The Shire
 Tireless Provisioner
 Toxic Deluge
 Trail of Crumbs
+Treebeard, Gracious Host
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
@@ -84,7 +85,6 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Treebeard, Gracious Host
 Trouble in Pairs
 Well of Lost Dreams
 Windswept Heath

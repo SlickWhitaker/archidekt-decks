@@ -1,3 +1,7 @@
+Grunn, the Lonely King
+Kird Ape
+Kogla and Yidaro
+Simian Simulacrum
 Aggravated Assault
 Ancient Tomb
 Arcane Signet
@@ -8,12 +12,10 @@ Birds of Paradise
 Bloodstained Mire
 Bloom Tender
 Boseiju, Who Endures
-Carpet of Flowers
 Castle Garenbrig
 Cavern of Souls
 Chaos Warp
 Chord of Calling
-Chrome Mox
 Cinder Glade
 Command Tower
 Commercial District
@@ -35,19 +37,25 @@ Greater Good
 Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
-Jeska's Will
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
+Veil of Summer
 Lightning Greaves
 Llanowar Elves
-Mana Vault
 Misty Rainforest
+Verdant Catacombs
 Mountain
 Natural Order
 Nature's Lore
 Nykthos, Shrine to Nyx
 Old Gnawbone
+Wasteland
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
 Orcish Lumberjack
 Prismatic Vista
 Railway Brawler
@@ -60,6 +68,7 @@ Selvala, Heart of the Wilds
 Skullclamp
 Sol Ring
 Spire Garden
+Beast Within
 Stomping Ground
 Strip Mine
 Sylvan Library
@@ -70,25 +79,16 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
-Beast Within
 Uktabi Orangutan
+Gearbane Orangutan
 Liquimetal Torque
 Kibo, Uktabi Prince
 Kogla, the Titan Ape
 Scrounging Bandar
-Gearbane Orangutan
 Viridian Revel
 Gorilla Shaman
-Inspiring Call
 Taurean Mauler
+Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher

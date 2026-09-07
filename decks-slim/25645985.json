@@ -905,6 +905,22 @@
       "text": "When this enchantment enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nWhenever you sacrifice a Food, you may pay {1}. If you do, look at the top two cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
     },
     {
+      "name": "Treebeard, Gracious Host",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Treefolk",
+      "text": "Trample, ward {2}\nWhen Treebeard enters, create two Food tokens.\nWhenever you gain life, put that many +1/+1 counters on target Halfling or Treefolk."
+    },
+    {
       "name": "Woodfall Primus",
       "quantity": 1,
       "board": "main",
@@ -1173,22 +1189,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}.\n{2}, {T}, Tap an untapped creature you control: Create a Food token.\n{3}, {T}: Choose target permanent you control. Draw a card, then another player of your choice may gain control of that permanent. Activate only as a sorcery."
-    },
-    {
-      "name": "Treebeard, Gracious Host",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Green"
-      ],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Treefolk",
-      "text": "Trample, ward {2}\nWhen Treebeard enters, create two Food tokens.\nWhenever you gain life, put that many +1/+1 counters on target Halfling or Treefolk."
     },
     {
       "name": "Trouble in Pairs",
