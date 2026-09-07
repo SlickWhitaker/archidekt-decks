@@ -34,6 +34,10 @@ Izzet Signet
 Jacked Rabbit
 Jubilant Skybonder
 Kindred Discovery
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Ledger Shredder
 Mabel, Heir to Cragflame
 Martial Coup
@@ -41,6 +45,9 @@ Migratory Route
 Mind Stone
 Mountain
 Murmuration
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Mystic Monastery
 Nesting Dovehawk
 Ornithopter of Paradise
@@ -55,15 +62,8 @@ Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
 Rose Room Treasurer
 Rugged Prairie
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Seachrome Coast
 Season of the Burrow
 Selfless Spirit

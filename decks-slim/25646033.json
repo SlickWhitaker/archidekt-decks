@@ -862,20 +862,6 @@
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {U}."
     },
     {
-      "name": "Riverchurn Monument",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)\nExhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)"
-    },
-    {
       "name": "Sol Ring",
       "quantity": 1,
       "board": "main",
@@ -898,6 +884,20 @@
       "manaValue": 4,
       "type": "Sorcery",
       "text": "Return all land cards from your graveyard to the battlefield tapped."
+    },
+    {
+      "name": "Riverchurn Monument",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)\nExhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)"
     },
     {
       "name": "Springheart Nantuko",

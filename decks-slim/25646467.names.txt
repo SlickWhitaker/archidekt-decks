@@ -48,17 +48,12 @@ Mana Echoes
 Marvin, Murderous Mimic
 Metallic Mimic
 Mogg War Marshal
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 Moggcatcher
 Mountain
 Muxus, Goblin Grandee
 Outpost Siege
 Pashalik Mons
 Professional Face-Breaker
-War Room
-Arena of Glory
 Purphoros, God of the Forge
 Ragavan, Nimble Pilferer
 Rings of Brighthearth
@@ -75,3 +70,8 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+War Room
+Arena of Glory
