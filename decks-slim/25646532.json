@@ -611,6 +611,16 @@
       "text": "{1}{B}, Pay 2 life: Return target creature card from your graveyard to your hand."
     },
     {
+      "name": "Psychosis Crawler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 5,
+      "type": "Creature Artifact — Horror Phyrexian",
+      "text": "Psychosis Crawler's power and toughness are each equal to the number of cards in your hand.\nWhenever you draw a card, each opponent loses 1 life."
+    },
+    {
       "name": "Geth's Grimoire",
       "quantity": 1,
       "board": "main",
@@ -659,26 +669,6 @@
       "text": "At the beginning of each end step, if an opponent discarded a card this turn, you draw a card and you lose 1 life.\n{4}{B}{B}: Each opponent with no cards in hand loses 10 life."
     },
     {
-      "name": "Scavenger Grounds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land — Desert",
-      "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
-    },
-    {
-      "name": "Psychosis Crawler",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 5,
-      "type": "Creature Artifact — Horror Phyrexian",
-      "text": "Psychosis Crawler's power and toughness are each equal to the number of cards in your hand.\nWhenever you draw a card, each opponent loses 1 life."
-    },
-    {
       "name": "Quest for the Nihil Stone",
       "quantity": 1,
       "board": "main",
@@ -719,6 +709,16 @@
       "manaValue": 4,
       "type": "Sorcery",
       "text": "Choose one or more —\n• Each player discards two cards.\n• Each player loses 4 life.\n• Each player sacrifices two creatures of their choice."
+    },
+    {
+      "name": "Scavenger Grounds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land — Desert",
+      "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
     },
     {
       "name": "Rotting Rats",

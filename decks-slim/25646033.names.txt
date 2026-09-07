@@ -64,12 +64,11 @@ Polluted Delta
 Pond Prophet
 Rejuvenating Springs
 Riverchurn Monument
-Rogue's Passage
-Shifting Woodland
-Snapcaster Mage
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
+Rogue's Passage
+Shifting Woodland
 Summon: Titan
 Swan Song
 Thassa's Oracle
@@ -94,3 +93,4 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Snapcaster Mage

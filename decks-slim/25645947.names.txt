@@ -29,13 +29,6 @@ Damn
 Delney, Streetwise Lookout
 Demonic Tutor
 Dragonskull Summit
-Drana and Linvala
-Elenda, the Dusk Rose
-Esper Sentinel
-Exquisite Blood
-Flawless Maneuver
-Generous Gift
-Godless Shrine
 Herald's Horn
 Isolated Chapel
 Kalitas, Traitor of Ghet
@@ -46,8 +39,11 @@ Luxury Suite
 Marsh Flats
 Minas Tirith
 Mondrak, Glory Dominus
-Olivia, Crimson Bride
 Mountain
+Necropotence
+Nomad Outpost
+Ocelot Pride
+Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
 Patriarch's Bidding
@@ -86,6 +82,10 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Necropotence
-Nomad Outpost
-Ocelot Pride
+Drana and Linvala
+Elenda, the Dusk Rose
+Esper Sentinel
+Exquisite Blood
+Flawless Maneuver
+Generous Gift
+Godless Shrine

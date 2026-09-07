@@ -55,8 +55,15 @@ Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Rose Room Treasurer
 Rugged Prairie
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Seachrome Coast
 Season of the Burrow
 Selfless Spirit
@@ -83,10 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Cathars' Crusade
-Academy Manufactor
-Helm of the Host
