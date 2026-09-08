@@ -5,10 +5,6 @@ Black Market Connections
 Blackcleave Cliffs
 Blasphemous Act
 Blightstep Pathway // Searstep Pathway
-Blood Artist
-Blood Crypt
-Bloodchief Ascension
-Bloodletter of Aclazotz
 Bloodstained Mire
 Bloodthirsty Conqueror
 Cabal Coffers
@@ -23,10 +19,17 @@ Exquisite Blood
 Feed the Swarm
 Fellwar Stone
 Fiery Confluence
+Fire Covenant
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
-Fire Covenant
 Lightning Greaves
 Luxury Suite
 Mayhem Devil
@@ -78,10 +81,7 @@ Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
 Blood Seeker
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
+Blood Artist
+Blood Crypt
+Bloodchief Ascension
+Bloodletter of Aclazotz
