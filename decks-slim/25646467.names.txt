@@ -51,9 +51,6 @@ Metallic Mimic
 Mogg War Marshal
 Moggcatcher
 Mountain
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 Muxus, Goblin Grandee
 Pashalik Mons
 Professional Face-Breaker
@@ -65,11 +62,14 @@ Rundvelt Hordemaster
 Shared Animosity
 Skirk Fire Marshal
 Skirk Prospector
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+War Room
+Arena of Glory
 Skullclamp
 Sol Ring
 Squee, Dubious Monarch
-War Room
-Arena of Glory
 Staff of Domination
 Thornbite Staff
 Thousand-Year Elixir

@@ -57,9 +57,17 @@ Sheoldred, the Apocalypse
 Sheoldred's Edict
 Shivan Gorge
 Smoldering Marsh
+Sol Ring
+Spellshock
+Spinerock Knoll
+Spiteful Visions
+Sulfuric Vortex
+Sulfurous Springs
+Swamp
+Syr Konrad, the Grim
+Tainted Peak
 Takenuma, Abandoned Mire
 Talisman of Indulgence
-Sol Ring
 Terminate
 The Lord of Pain
 The Meathook Massacre
@@ -77,11 +85,3 @@ Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
 Blood Seeker
-Spellshock
-Spinerock Knoll
-Spiteful Visions
-Sulfuric Vortex
-Sulfurous Springs
-Swamp
-Syr Konrad, the Grim
-Tainted Peak

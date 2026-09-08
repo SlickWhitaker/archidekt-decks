@@ -405,32 +405,6 @@
       "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
     },
     {
-      "name": "Felidar Retreat",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Landfall — Whenever a land you control enters, choose one —\n• Create a 2/2 white Cat Beast creature token.\n• Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn."
-    },
-    {
-      "name": "Forest",
-      "quantity": 4,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Forest",
-      "text": "({T}: Add {G}.)"
-    },
-    {
       "name": "Grand Coliseum",
       "quantity": 1,
       "board": "main",
@@ -856,6 +830,32 @@
       "text": "Menace\nWhenever Rat King or another nontoken creature you control leaves the battlefield, create a 1/1 black Rat creature token.\n{2}, Sacrifice a token: Draw a card."
     },
     {
+      "name": "Felidar Retreat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Landfall — Whenever a land you control enters, choose one —\n• Create a 2/2 white Cat Beast creature token.\n• Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn."
+    },
+    {
+      "name": "Forest",
+      "quantity": 4,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
+    },
+    {
       "name": "Splinter, the Mentor",
       "quantity": 1,
       "board": "main",
@@ -868,6 +868,20 @@
       "manaValue": 2,
       "type": "Legendary Creature — Rat Mutant Ninja",
       "text": "Menace\nWhenever Splinter or another nontoken creature you control leaves the battlefield, create a Mutagen token.\nPartner—Character select (You can have two commanders if both have this ability.)"
+    },
+    {
+      "name": "Steelbane Hydra",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Hydra Turtle",
+      "text": "This creature enters with X +1/+1 counters on it.\n{2}{G}, Remove a +1/+1 counter from this creature: Destroy target artifact or enchantment."
     },
     {
       "name": "Reflecting Pool",
@@ -956,20 +970,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {R} or {G}."
-    },
-    {
-      "name": "Steelbane Hydra",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Hydra Turtle",
-      "text": "This creature enters with X +1/+1 counters on it.\n{2}{G}, Remove a +1/+1 counter from this creature: Destroy target artifact or enchantment."
     },
     {
       "name": "Swamp",
@@ -1167,6 +1167,33 @@
       "text": "({T}: Add {R} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     },
     {
+      "name": "Sunken Hollow",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Swamp",
+      "text": "({T}: Add {U} or {B}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "Super Combo",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Replicate {2} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nTarget creature you control deals damage equal to its power to target creature an opponent controls."
+    },
+    {
       "name": "Arcade Cabinet",
       "quantity": 1,
       "board": "main",
@@ -1221,33 +1248,6 @@
       "manaValue": 2,
       "type": "Legendary Creature — Druid Plant",
       "text": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.\n{3}{G}{G}: Double the number of +1/+1 counters on each creature you control."
-    },
-    {
-      "name": "Sunken Hollow",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue",
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Land — Island Swamp",
-      "text": "({T}: Add {U} or {B}.)\nThis land enters tapped unless you control two or more basic lands."
-    },
-    {
-      "name": "Super Combo",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Replicate {2} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nTarget creature you control deals damage equal to its power to target creature an opponent controls."
     }
   ]
 }

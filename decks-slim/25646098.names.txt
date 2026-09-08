@@ -28,8 +28,6 @@ Dragonskull Summit
 Evolving Wilds
 Exotic Orchard
 Fabled Passage
-Felidar Retreat
-Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -61,7 +59,10 @@ Plaza of Heroes
 Raffine's Tower
 Raphael, the Muscle
 Rat King, Pale Piper
+Felidar Retreat
+Forest
 Splinter, the Mentor
+Steelbane Hydra
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
@@ -69,7 +70,6 @@ Skullclamp
 Sodden Verdure
 Sol Ring
 Spire Garden
-Steelbane Hydra
 Swamp
 Swan Song
 Swords to Plowshares
@@ -85,9 +85,9 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Stomping Ground
+Sunken Hollow
+Super Combo
 Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Sunken Hollow
-Super Combo
