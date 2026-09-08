@@ -15,6 +15,21 @@ Big Mother Mouser
 Blood Crypt
 Bloom Tender
 Branching Evolution
+Cathars' Crusade
+Chromatic Lantern
+Cinder Glade
+City of Brass
+Command Tower
+Cultivate
+Dimension X Pizzasaur
+Donatello, the Brains
+Doubling Season
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -46,6 +61,7 @@ Plaza of Heroes
 Raffine's Tower
 Raphael, the Muscle
 Rat King, Pale Piper
+Splinter, the Mentor
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
@@ -53,11 +69,7 @@ Skullclamp
 Sodden Verdure
 Sol Ring
 Spire Garden
-Splinter, the Mentor
 Steelbane Hydra
-Stomping Ground
-Sunken Hollow
-Super Combo
 Swamp
 Swan Song
 Swords to Plowshares
@@ -72,22 +84,10 @@ Undergrowth Stadium
 Vernal Fen
 Vibrant Cityscape
 Vigor
+Stomping Ground
 Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Cathars' Crusade
-Chromatic Lantern
-Cinder Glade
-City of Brass
-Command Tower
-Cultivate
-Dimension X Pizzasaur
-Donatello, the Brains
-Doubling Season
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
+Sunken Hollow
+Super Combo

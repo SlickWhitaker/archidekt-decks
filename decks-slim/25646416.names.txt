@@ -51,23 +51,33 @@ Old Gnawbone
 Orcish Lumberjack
 Prismatic Vista
 Railway Brawler
-Veil of Summer
 Rhythm of the Wild
 Rockfall Vale
 Rootbound Crag
-Verdant Catacombs
 Scalding Tarn
 Seedborn Muse
 Selvala, Heart of the Wilds
 Skullclamp
 Sol Ring
 Spire Garden
+Stomping Ground
+Strip Mine
+Sylvan Library
+Terror of the Peaks
+Veil of Summer
+The Great Henge
+The One Ring
+The Ozolith
+Verdant Catacombs
+Three Visits
 Wasteland
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
+Tooth and Nail
 Yavimaya, Cradle of Growth
 Zealous Conscripts
+Vandalblast
 Beast Within
 Uktabi Orangutan
 Liquimetal Torque
@@ -82,13 +92,3 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
-Stomping Ground
-Strip Mine
-Sylvan Library
-Terror of the Peaks
-The Great Henge
-The One Ring
-The Ozolith
-Three Visits
-Tooth and Nail
-Vandalblast

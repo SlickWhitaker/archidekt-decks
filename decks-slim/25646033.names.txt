@@ -51,9 +51,15 @@ Long River Lurker
 Lotus Cobra
 Mana Confluence
 Mana Drain
+Mesmeric Orb
+Millikin
+Mistrise Village
+Misty Rainforest
+Mole Man, Moloid Master
+Mystic Sanctuary
+Nezahal, Primal Tide
 Noxious Revival
 Oakhollow Village
-Mesmeric Orb
 Polluted Delta
 Pond Prophet
 Rejuvenating Springs
@@ -88,9 +94,3 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-Millikin
-Mistrise Village
-Misty Rainforest
-Mole Man, Moloid Master
-Mystic Sanctuary
-Nezahal, Primal Tide
