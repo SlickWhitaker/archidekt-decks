@@ -60,7 +60,6 @@ Selvala, Heart of the Wilds
 Skullclamp
 Sol Ring
 Spire Garden
-Veil of Summer
 Stomping Ground
 Strip Mine
 Sylvan Library
@@ -69,15 +68,16 @@ The Great Henge
 The One Ring
 The Ozolith
 Three Visits
-Verdant Catacombs
 Tooth and Nail
+Vandalblast
+Veil of Summer
+Verdant Catacombs
 Wasteland
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Vandalblast
 Beast Within
 Uktabi Orangutan
 Liquimetal Torque
@@ -88,7 +88,7 @@ Scrounging Bandar
 Viridian Revel
 Gorilla Shaman
 Taurean Mauler
+Inspiring Call
 Liquimetal Coating
 Silverback Elder
-Inspiring Call
 Yavimaya Steelcrusher

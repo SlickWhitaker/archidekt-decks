@@ -332,6 +332,20 @@
       "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
     },
     {
+      "name": "Fiery Confluence",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Choose three. You may choose the same mode more than once.\n• Fiery Confluence deals 1 damage to each creature.\n• Fiery Confluence deals 2 damage to each opponent.\n• Destroy target artifact."
+    },
+    {
       "name": "Kaervek the Merciless",
       "quantity": 1,
       "board": "main",
@@ -376,6 +390,22 @@
       "manaValue": 1,
       "type": "Creature — Horror",
       "text": "Whenever an opponent draws a card, if you control a red permanent, you may have this creature deal 1 damage to that player."
+    },
+    {
+      "name": "Fire Covenant",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "As an additional cost to cast this spell, pay X life.\nFire Covenant deals X damage divided as you choose among any number of target creatures."
     },
     {
       "name": "Lightning Greaves",
@@ -1066,36 +1096,6 @@
       "manaValue": 2,
       "type": "Creature — Vampire Shaman",
       "text": "Whenever a creature an opponent controls enters, you may have that player lose 1 life."
-    },
-    {
-      "name": "Fiery Confluence",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Choose three. You may choose the same mode more than once.\n• Fiery Confluence deals 1 damage to each creature.\n• Fiery Confluence deals 2 damage to each opponent.\n• Destroy target artifact."
-    },
-    {
-      "name": "Fire Covenant",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "As an additional cost to cast this spell, pay X life.\nFire Covenant deals X damage divided as you choose among any number of target creatures."
     },
     {
       "name": "Florian, Voldaren Scion",

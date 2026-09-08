@@ -38,6 +38,13 @@ Ledger Shredder
 Mabel, Heir to Cragflame
 Martial Coup
 Migratory Route
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Mind Stone
 Mountain
 Murmuration
@@ -51,13 +58,6 @@ Plumecreed Escort
 Pollywog Prodigy
 Rally the Ranks
 Rapid Augmenter
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage

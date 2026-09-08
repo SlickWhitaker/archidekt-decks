@@ -57,7 +57,6 @@ Mystic Remora
 Mystic Sanctuary
 Mystical Tutor
 Nanogene Conversion
-Nashi, Moon Sage's Scion
 Negate
 Ninja of the Deep Hours
 Opposition Agent
@@ -73,6 +72,9 @@ Sakashima's Student
 Satoru Umezawa
 Satoru, the Infiltrator
 Scroll Rack
+Sensei's Divining Top
+Shizo, Death's Storehouse
+Silver-Fur Master
 Sink into Stupor // Soporific Springs
 Skullsnatcher
 Slither Blade
@@ -93,6 +95,4 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
-Sensei's Divining Top
-Shizo, Death's Storehouse
-Silver-Fur Master
+Nashi, Moon Sage's Scion

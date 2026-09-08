@@ -34,6 +34,9 @@ Liliana's Triumph
 Megrim
 Mind Rake
 Mind Stone
+Mindlash Sliver
+Necrogen Mists
+Necrogoyf
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
 Oppression
@@ -65,9 +68,6 @@ Withering Torment
 Words of Waste
 Geth's Grimoire
 Waste Not
-Lightning Greaves
 Tinybones, Trinket Thief
+Lightning Greaves
 Scavenger Grounds
-Mindlash Sliver
-Necrogen Mists
-Necrogoyf

@@ -22,9 +22,11 @@ Everlasting Torment
 Exquisite Blood
 Feed the Swarm
 Fellwar Stone
+Fiery Confluence
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
+Fire Covenant
 Lightning Greaves
 Luxury Suite
 Mayhem Devil
@@ -76,8 +78,6 @@ Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
 Blood Seeker
-Fiery Confluence
-Fire Covenant
 Florian, Voldaren Scion
 Foreboding Ruins
 Furnace of Rath
