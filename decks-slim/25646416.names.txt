@@ -34,7 +34,6 @@ Forest
 Fyndhorn Elves
 Gamble
 Greater Good
-Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -56,19 +55,10 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
-Veil of Summer
 Selvala, Heart of the Wilds
 Skullclamp
 Sol Ring
-Verdant Catacombs
-Wasteland
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Spire Garden
-Beast Within
 Stomping Ground
 Strip Mine
 Sylvan Library
@@ -79,6 +69,16 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Beast Within
+Green Sun's Zenith
 Liquimetal Torque
 Uktabi Orangutan
 Gearbane Orangutan

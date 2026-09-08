@@ -35,6 +35,13 @@ Jacked Rabbit
 Jubilant Skybonder
 Kindred Discovery
 Ledger Shredder
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Mabel, Heir to Cragflame
 Martial Coup
 Migratory Route
@@ -83,10 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Helm of the Host
-Cathars' Crusade

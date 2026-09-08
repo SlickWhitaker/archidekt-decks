@@ -1,4 +1,3 @@
-Uugguu, the Omniplasm
 Adrix and Nev, Twincasters
 Aeve, Progenitor Ooze
 Altar of Dementia
@@ -13,13 +12,11 @@ Breeding Pool
 Cavern of Souls
 Chronicle of Victory
 Clever Impersonator
-Clone
 Coat of Arms
 Command Tower
 Consuming Blob
 Copycrook
 Deathcap Glade
-Door of Destinies
 Doubling Season
 Dreamroot Cascade
 Drowned Catacomb
@@ -33,14 +30,12 @@ Gluttonous Slime
 Greater Good
 Green Slime
 Hinterland Harbor
-Idol of Oblivion
 Infinite Reflection
 Island
 Lightning Greaves
 Llanowar Wastes
 Machine God's Effigy
 Malleable Impostor
-Manaplasm
 March of the World Ooze
 Metallic Mimic
 Mimeoplasm, Revered One
@@ -68,7 +63,6 @@ Predator Ooze
 Prime Speaker Vannifar
 Ravenous Slime
 Rejuvenating Springs
-Renegade Doppelganger
 Roaming Throne
 Shipwreck Marsh
 Slick Imitator
@@ -81,7 +75,6 @@ Swamp
 Talisman of Curiosity
 Talisman of Dominance
 Talisman of Resilience
-Temperamental Oozewagg
 The Mimeoplasm
 The Soul Stone
 Three Tree City
@@ -95,3 +88,10 @@ Watery Grave
 Woodland Cemetery
 Yavimaya, Cradle of Growth
 Zagoth Triome
+Kindred Discovery
+Saw in Half
+Animate Dead
+Heroic Intervention
+Uugguu, the Omniplasm
+Chthonian Nightmare
+Phyrexian Metamorph

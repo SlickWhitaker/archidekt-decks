@@ -65,10 +65,9 @@ Pond Prophet
 Rejuvenating Springs
 Riverchurn Monument
 Rogue's Passage
-Shifting Woodland
-Snapcaster Mage
 Sol Ring
 Splendid Reclamation
+Shifting Woodland
 Springheart Nantuko
 Summon: Titan
 Swan Song
@@ -94,3 +93,4 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Snapcaster Mage

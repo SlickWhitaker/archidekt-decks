@@ -20,7 +20,6 @@ Cool but Rude
 Cyclonic Rift
 Dack Fayden
 Deflecting Swat
-Demand Answers
 Dualcaster Mage
 Exotic Orchard
 Faithless Looting
@@ -53,13 +52,11 @@ Monument to Endurance
 Mountain
 Mystic Remora
 Otawara, Soaring City
-Pinnacle Monk // Mystic Peak
 Pongify
 Prismari Command
 Professional Face-Breaker
 Rapid Hybridization
 Reality Shift
-Reliquary Tower
 Rhystic Study
 Rielle, the Everwise
 Riverglide Pathway // Lavaglide Pathway
@@ -74,7 +71,6 @@ Steam Vents
 Stormcarved Coast
 Stubborn Denial
 Sulfur Falls
-Surly Badgersaur
 Swan Song
 Swiftfoot Boots
 Talisman of Creativity
@@ -90,4 +86,8 @@ Twinflame
 Windfall
 Wonder
 Wooded Foothills
+Jeska's Will
 Captain Howler, Sea Scourge
+Currency Converter
+Teferi's Ageless Insight
+Fiery Islet
