@@ -27,6 +27,13 @@ Exotic Orchard
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Glacial Fortress
 Impact Tremors
 Island
@@ -35,13 +42,6 @@ Jacked Rabbit
 Jubilant Skybonder
 Kindred Discovery
 Ledger Shredder
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Mabel, Heir to Cragflame
 Martial Coup
 Migratory Route
