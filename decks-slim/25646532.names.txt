@@ -24,7 +24,6 @@ Feed the Swarm
 Fell the Profane // Fell Mire
 Geier Reach Sanitarium
 Go for the Throat
-Nezumi Informant
 Hecteyes
 Infernal Grasp
 Languish
@@ -35,18 +34,11 @@ Liliana's Triumph
 Megrim
 Mind Rake
 Mind Stone
-Mindlash Sliver
-Necrogen Mists
-Necrogoyf
-Geth's Grimoire
+Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
 Oppression
 Painful Quandary
 Phyrexian Reclamation
-Waste Not
-Lightning Greaves
-Tinybones, Trinket Thief
-Scavenger Grounds
 Psychosis Crawler
 Quest for the Nihil Stone
 Rankle, Master of Pranks
@@ -71,3 +63,11 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
+Geth's Grimoire
+Waste Not
+Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds
+Mindlash Sliver
+Necrogen Mists
+Necrogoyf

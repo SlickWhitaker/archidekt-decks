@@ -38,19 +38,7 @@ Forest
 Forest
 Fortified Village
 Furycalm Snarl
-Stoneforge Mystic
 Gongaga, Reactor Town
-Iron Hills Blacksmith
-Kíli the Resourceful
-Lightning Greaves
-Mask of Memory
-Mithril Coat
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
 Path of Ancestry
 Path to Exile
 Plains
@@ -73,28 +61,40 @@ Slayers' Stronghold
 Sol Ring
 Sphere Grid
 Spire of Industry
-Sword of Sinew and Steel
-Sword of the Animist
-Swords to Plowshares
-Tifa, Martial Artist
-Tifa's Limit Break
-Ultimate Magic: Holy
-Unfinished Business
-Vandalblast
-Wood Elves
-Yuffie, Materia Hunter
-Zack Fair
-Sword of Forge and Frontier
-Cloud, Ex-SOLDIER
-Enlightened Tutor
-The Reaver Cleaver
-Sword of Feast and Famine
-Kaldra Compleat
-Armored Skyhunter
-Sram, Senior Edificer
+Iron Hills Blacksmith
+Kíli the Resourceful
+Stoneforge Mystic
 Summon: Kujata
 Summoning Materia
 Sungrass Prairie
 Sunpetal Grove
 Sunscorched Divide
 Swiftfoot Boots
+Lightning Greaves
+Mask of Memory
+Sword of Sinew and Steel
+Sword of the Animist
+Swords to Plowshares
+Tifa, Martial Artist
+Tifa's Limit Break
+Ultimate Magic: Holy
+Mithril Coat
+Unfinished Business
+Vandalblast
+Wood Elves
+Yuffie, Materia Hunter
+Zack Fair
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will
+Cloud, Ex-SOLDIER
+Enlightened Tutor
+Sword of Forge and Frontier
+The Reaver Cleaver
+Sword of Feast and Famine
+Kaldra Compleat
+Armored Skyhunter
+Sram, Senior Edificer

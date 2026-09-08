@@ -5,6 +5,8 @@ Urza's Incubator
 Anguished Unmaking
 Anointed Procession
 Arcane Signet
+Archivist of Oghma
+Arid Mesa
 Black Market Connections
 Blood Artist
 Blood Crypt
@@ -26,6 +28,9 @@ Cruel Celebrant
 Damn
 Delney, Streetwise Lookout
 Demonic Tutor
+Herald's Horn
+Isolated Chapel
+Kalitas, Traitor of Ghet
 Dragonskull Summit
 Drana and Linvala
 Elenda, the Dusk Rose
@@ -33,10 +38,6 @@ Esper Sentinel
 Exquisite Blood
 Flawless Maneuver
 Generous Gift
-Godless Shrine
-Herald's Horn
-Isolated Chapel
-Kalitas, Traitor of Ghet
 Legion Lieutenant
 Legion's Landing // Adanto, the First Fort
 Living Death
@@ -87,5 +88,4 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Archivist of Oghma
-Arid Mesa
+Godless Shrine

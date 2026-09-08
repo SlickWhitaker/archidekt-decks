@@ -111,6 +111,30 @@
       "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
+      "name": "Archivist of Oghma",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Cleric Halfling",
+      "text": "Flash\nWhenever an opponent searches their library, you gain 1 life and draw a card."
+    },
+    {
+      "name": "Arid Mesa",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
+    },
+    {
       "name": "Black Market Connections",
       "quantity": 1,
       "board": "main",
@@ -394,6 +418,43 @@
       "text": "Search your library for a card, put that card into your hand, then shuffle."
     },
     {
+      "name": "Herald's Horn",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "As this artifact enters, choose a creature type.\nCreature spells you cast of the chosen type cost {1} less to cast.\nAt the beginning of your upkeep, look at the top card of your library. If it's a creature card of the chosen type, you may reveal it and put it into your hand."
+    },
+    {
+      "name": "Isolated Chapel",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B}."
+    },
+    {
+      "name": "Kalitas, Traitor of Ghet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Vampire Warrior",
+      "text": "Lifelink\nIf a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.\n{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas."
+    },
+    {
       "name": "Dragonskull Summit",
       "quantity": 1,
       "board": "main",
@@ -493,56 +554,6 @@
       "manaValue": 3,
       "type": "Instant",
       "text": "Destroy target permanent. Its controller creates a 3/3 green Elephant creature token."
-    },
-    {
-      "name": "Godless Shrine",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Swamp",
-      "text": "({T}: Add {W} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
-    },
-    {
-      "name": "Herald's Horn",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "As this artifact enters, choose a creature type.\nCreature spells you cast of the chosen type cost {1} less to cast.\nAt the beginning of your upkeep, look at the top card of your library. If it's a creature card of the chosen type, you may reveal it and put it into your hand."
-    },
-    {
-      "name": "Isolated Chapel",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B}."
-    },
-    {
-      "name": "Kalitas, Traitor of Ghet",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Vampire Warrior",
-      "text": "Lifelink\nIf a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.\n{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas."
     },
     {
       "name": "Legion Lieutenant",
@@ -1201,28 +1212,17 @@
       "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
     },
     {
-      "name": "Archivist of Oghma",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Cleric Halfling",
-      "text": "Flash\nWhenever an opponent searches their library, you gain 1 life and draw a card."
-    },
-    {
-      "name": "Arid Mesa",
+      "name": "Godless Shrine",
       "quantity": 1,
       "board": "main",
       "colors": [],
-      "colorIdentity": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
       "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
+      "type": "Land — Plains Swamp",
+      "text": "({T}: Add {W} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     }
   ]
 }
