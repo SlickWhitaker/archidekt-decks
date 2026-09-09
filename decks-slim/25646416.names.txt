@@ -47,16 +47,24 @@ Mountain
 Natural Order
 Nature's Lore
 Veil of Summer
+Nykthos, Shrine to Nyx
 Verdant Catacombs
+Old Gnawbone
 Wasteland
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Nykthos, Shrine to Nyx
+Orcish Lumberjack
+Prismatic Vista
+Railway Brawler
+Rhythm of the Wild
+Rockfall Vale
+Rootbound Crag
+Scalding Tarn
+Seedborn Muse
 Beast Within
-Old Gnawbone
 Uktabi Orangutan
 Liquimetal Torque
 Gearbane Orangutan
@@ -70,14 +78,6 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
-Orcish Lumberjack
-Prismatic Vista
-Railway Brawler
-Rhythm of the Wild
-Rockfall Vale
-Rootbound Crag
-Scalding Tarn
-Seedborn Muse
 Selvala, Heart of the Wilds
 Skullclamp
 Sol Ring

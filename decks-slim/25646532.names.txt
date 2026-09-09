@@ -46,6 +46,11 @@ Psychosis Crawler
 Quest for the Nihil Stone
 Rankle, Master of Pranks
 Rankle's Prank
+Geth's Grimoire
+Waste Not
+Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds
 Rotting Rats
 Sangromancer
 Sepulchral Primordial
@@ -58,12 +63,7 @@ Swamp
 Syphon Mind
 The Raven Man
 Tinybones Joins Up
-Geth's Grimoire
 Tinybones, Bauble Burglar
-Waste Not
-Lightning Greaves
-Tinybones, Trinket Thief
-Scavenger Grounds
 Unearth
 Virus Beetle
 War Room
