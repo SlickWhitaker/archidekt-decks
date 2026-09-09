@@ -17,20 +17,12 @@ Chittering Witch
 Chromatic Lantern
 Cinder Barrens
 Akul the Unrepentant
+Dreadbore
 Command Tower
 Deadly Dispute
 Descent into Avernus
 Dragonskull Summit
 Grave Titan
-Dreadbore
-Drossforge Bridge
-Endrek Sahr, Master Breeder
-Etali, Primal Storm
-Evolving Wilds
-Exotic Orchard
-Feed the Swarm
-Fellwar Stone
-Foreboding Ruins
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
@@ -84,3 +76,11 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
+Drossforge Bridge
+Endrek Sahr, Master Breeder
+Etali, Primal Storm
+Evolving Wilds
+Exotic Orchard
+Feed the Swarm
+Fellwar Stone
+Foreboding Ruins

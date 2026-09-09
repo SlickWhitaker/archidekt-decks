@@ -2,6 +2,7 @@ Grunn, the Lonely King
 Kird Ape
 Kogla and Yidaro
 Simian Simulacrum
+Veil of Summer
 Aggravated Assault
 Ancient Tomb
 Arcane Signet
@@ -70,7 +71,6 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Veil of Summer
 Verdant Catacombs
 Wasteland
 Windswept Heath

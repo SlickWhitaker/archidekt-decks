@@ -1,12 +1,6 @@
+Anguished Unmaking
 Academy Manufactor
 Adrix and Nev, Twincasters
-Anguished Unmaking
-Anim Pakal, Thousandth Moon
-April O'Neil, Live on the Scene
-Arcane Signet
-Ash Barrens
-Assassin's Trophy
-Aura Shards
 Baxter, Fly in the Ointment
 Beast Whisperer
 Beastmaster Ascension
@@ -32,14 +26,14 @@ Felidar Retreat
 Forest
 Grand Coliseum
 Guardian Project
+Halo Fountain
+Heroes in a Half Shell
 Heroic Intervention
 Hidden Hideout
 Hinterland Harbor
 Island
-Halo Fountain
 Jetmir's Garden
 Kami of Whispered Hopes
-Heroes in a Half Shell
 Kindred Dominance
 Kodama's Reach
 Lita, Little Orphan Amphibian
@@ -91,3 +85,9 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
+Anim Pakal, Thousandth Moon
+April O'Neil, Live on the Scene
+Arcane Signet
+Ash Barrens
+Assassin's Trophy
+Aura Shards

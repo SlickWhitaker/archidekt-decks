@@ -1,7 +1,6 @@
 Academy Ruins
 Aesi, Tyrant of Gyre Strait
 An Offer You Can't Refuse
-Ancient Greenwarden
 Arcane Denial
 Arcane Signet
 Azusa, Lost but Seeking
@@ -94,3 +93,4 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
+Ancient Greenwarden
