@@ -260,19 +260,6 @@
       "text": "({T}: Add {G} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     },
     {
-      "name": "Bountiful Promenade",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {W}."
-    },
-    {
       "name": "Sea of Clouds",
       "quantity": 1,
       "board": "main",
@@ -316,6 +303,19 @@
       "manaValue": 5,
       "type": "Legendary Creature — Human Druid",
       "text": "Vigilance\nWhenever you cast a creature spell, draw a card, then you may put a land card from your hand onto the battlefield.\n{3}, {T}: Return target creature you control to its owner's hand."
+    },
+    {
+      "name": "Bountiful Promenade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {W}."
     },
     {
       "name": "Polluted Delta",

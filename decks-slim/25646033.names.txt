@@ -1,4 +1,3 @@
-Grolnok, the Omnivore
 Academy Ruins
 Aesi, Tyrant of Gyre Strait
 An Offer You Can't Refuse
@@ -21,7 +20,6 @@ Eternal Witness
 Exotic Orchard
 Exploration
 Fabled Passage
-Faerie Mastermind
 Fanatic of Rhonas
 Fauna Shaman
 Field of the Dead
@@ -38,7 +36,6 @@ Hedge Shredder
 Hedron Crab
 High Market
 Hinterland Harbor
-Hydroid Krasis
 Icetill Explorer
 Into the Flood Maw
 Island
@@ -55,9 +52,7 @@ Mesmeric Orb
 Millikin
 Mistrise Village
 Misty Rainforest
-Mole Man, Moloid Master
 Mystic Sanctuary
-Nezahal, Primal Tide
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -75,7 +70,6 @@ Swan Song
 Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
-The Unagi of Kyoshi Island
 Thought Scour
 Tishana's Tidebinder
 Turbulent Wilderness
@@ -85,7 +79,6 @@ Veil of Summer
 Venser, Shaper Savant
 Verdant Catacombs
 Visions of Beyond
-Wan Shi Tong, Librarian
 Waterlogged Grove
 Wilderness Reclamation
 Willowrush Verge
@@ -94,3 +87,10 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Grolnok, the Omnivore
+Maskwood Nexus
+Spore Frog
+Clifftop Lookout
+Poison Dart Frog
+Froghemoth
+Valley Mightcaller
