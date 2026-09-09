@@ -28,6 +28,20 @@
       "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
+      "name": "Archfiend of Despair",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 8,
+      "type": "Creature — Demon",
+      "text": "Flying\nYour opponents can't gain life.\nAt the beginning of each end step, each opponent loses life equal to the life that player lost this turn. (Damage causes loss of life.)"
+    },
+    {
       "name": "Bloodstained Mire",
       "quantity": 1,
       "board": "main",
@@ -988,88 +1002,6 @@
       "text": "Whenever a land enters, Zo-Zu deals 2 damage to that land's controller."
     },
     {
-      "name": "Scrawling Crawler",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Creature Artifact — Construct Phyrexian",
-      "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
-    },
-    {
-      "name": "Valgavoth, Harrower of Souls",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Elder Demon",
-      "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
-    },
-    {
-      "name": "All Will Be One",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever you put one or more counters on a permanent or player, this enchantment deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls."
-    },
-    {
-      "name": "Fate Unraveler",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Creature Enchantment — Hag",
-      "text": "Whenever an opponent draws a card, this creature deals 1 damage to that player."
-    },
-    {
-      "name": "Blood Seeker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Vampire Shaman",
-      "text": "Whenever a creature an opponent controls enters, you may have that player lose 1 life."
-    },
-    {
-      "name": "Archfiend of Despair",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 8,
-      "type": "Creature — Demon",
-      "text": "Flying\nYour opponents can't gain life.\nAt the beginning of each end step, each opponent loses life equal to the life that player lost this turn. (Damage causes loss of life.)"
-    },
-    {
       "name": "Baleful Mastery",
       "quantity": 1,
       "board": "main",
@@ -1096,6 +1028,16 @@
       "manaValue": 3,
       "type": "Enchantment",
       "text": "At the beginning of your first main phase, choose one or more —\n• Sell Contraband — Create a Treasure token. You lose 1 life.\n• Buy Information — Draw a card. You lose 2 life.\n• Hire a Mercenary — Create a 3/2 colorless Shapeshifter creature token with changeling. You lose 3 life. (It is every creature type.)"
+    },
+    {
+      "name": "Scrawling Crawler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Creature Artifact — Construct Phyrexian",
+      "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
     },
     {
       "name": "Blackcleave Cliffs",
@@ -1191,6 +1133,64 @@
       "manaValue": 4,
       "type": "Creature — Vampire Demon",
       "text": "Flying\nIf an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.)"
+    },
+    {
+      "name": "Valgavoth, Harrower of Souls",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Elder Demon",
+      "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
+    },
+    {
+      "name": "All Will Be One",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever you put one or more counters on a permanent or player, this enchantment deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls."
+    },
+    {
+      "name": "Fate Unraveler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature Enchantment — Hag",
+      "text": "Whenever an opponent draws a card, this creature deals 1 damage to that player."
+    },
+    {
+      "name": "Blood Seeker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Vampire Shaman",
+      "text": "Whenever a creature an opponent controls enters, you may have that player lose 1 life."
     }
   ]
 }

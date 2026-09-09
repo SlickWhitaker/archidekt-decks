@@ -60,6 +60,20 @@
       "text": "Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
     },
     {
+      "name": "Ancient Greenwarden",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Elemental",
+      "text": "Reach (This creature can block creatures with flying.)\nYou may play lands from your graveyard.\nIf a land entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
+    },
+    {
       "name": "Arcane Denial",
       "quantity": 1,
       "board": "main",
@@ -1094,6 +1108,20 @@
       "text": "Sacrifice a land: You gain 2 life."
     },
     {
+      "name": "Spore Frog",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Frog",
+      "text": "Sacrifice this creature: Prevent all combat damage that would be dealt this turn."
+    },
+    {
       "name": "Grolnok, the Omnivore",
       "quantity": 1,
       "board": "commander",
@@ -1120,20 +1148,6 @@
       "text": "Creatures you control are every creature type. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.\n{3}, {T}: Create a 2/2 blue Shapeshifter creature token with changeling. (It is every creature type.)"
     },
     {
-      "name": "Spore Frog",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Frog",
-      "text": "Sacrifice this creature: Prevent all combat damage that would be dealt this turn."
-    },
-    {
       "name": "Clifftop Lookout",
       "quantity": 1,
       "board": "main",
@@ -1148,20 +1162,6 @@
       "text": "Reach\nWhen this creature enters, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield tapped and the rest on the bottom of your library in a random order."
     },
     {
-      "name": "Poison Dart Frog",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Frog",
-      "text": "Reach\n{T}: Add one mana of any color.\n{2}: This creature gains deathtouch until end of turn."
-    },
-    {
       "name": "Froghemoth",
       "quantity": 1,
       "board": "main",
@@ -1174,6 +1174,20 @@
       "manaValue": 5,
       "type": "Creature — Horror Frog",
       "text": "Trample, haste\nWhenever this creature deals combat damage to a player, exile up to that many target cards from their graveyard. Put a +1/+1 counter on this creature for each creature card exiled this way. You gain 1 life for each noncreature card exiled this way."
+    },
+    {
+      "name": "Poison Dart Frog",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Frog",
+      "text": "Reach\n{T}: Add one mana of any color.\n{2}: This creature gains deathtouch until end of turn."
     },
     {
       "name": "Valley Mightcaller",
@@ -1240,20 +1254,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
-    },
-    {
-      "name": "Ancient Greenwarden",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 6,
-      "type": "Creature — Elemental",
-      "text": "Reach (This creature can block creatures with flying.)\nYou may play lands from your graveyard.\nIf a land entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
     }
   ]
 }

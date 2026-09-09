@@ -1,6 +1,7 @@
 Academy Ruins
 Aesi, Tyrant of Gyre Strait
 An Offer You Can't Refuse
+Ancient Greenwarden
 Arcane Denial
 Arcane Signet
 Azusa, Lost but Seeking
@@ -82,15 +83,14 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Spore Frog
 Grolnok, the Omnivore
 Maskwood Nexus
-Spore Frog
 Clifftop Lookout
-Poison Dart Frog
 Froghemoth
+Poison Dart Frog
 Valley Mightcaller
 Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
-Ancient Greenwarden

@@ -2,10 +2,12 @@ Impact Tremors
 Goblin Bombardment
 Molten Echoes
 Urza's Incubator
-Anguished Unmaking
 Black Market Connections
-Blood Artist
-Blood Crypt
+Anguished Unmaking
+Anointed Procession
+Arcane Signet
+Archivist of Oghma
+Arid Mesa
 Bloodghast
 Bloodletter of Aclazotz
 Bloodline Necromancer
@@ -85,7 +87,5 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Anointed Procession
-Arcane Signet
-Archivist of Oghma
-Arid Mesa
+Blood Artist
+Blood Crypt

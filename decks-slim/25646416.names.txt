@@ -2,7 +2,6 @@ Grunn, the Lonely King
 Kird Ape
 Kogla and Yidaro
 Simian Simulacrum
-Veil of Summer
 Aggravated Assault
 Ancient Tomb
 Arcane Signet
@@ -34,8 +33,6 @@ Fire-Lit Thicket
 Forest
 Fyndhorn Elves
 Gamble
-Greater Good
-Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -71,6 +68,7 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
 Verdant Catacombs
 Wasteland
 Windswept Heath
@@ -92,3 +90,5 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
+Greater Good
+Green Sun's Zenith

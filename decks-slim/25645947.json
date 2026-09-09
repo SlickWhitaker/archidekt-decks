@@ -71,6 +71,20 @@
       "text": "As this artifact enters, choose a creature type.\nCreature spells of the chosen type cost {2} less to cast."
     },
     {
+      "name": "Black Market Connections",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "At the beginning of your first main phase, choose one or more —\n• Sell Contraband — Create a Treasure token. You lose 1 life.\n• Buy Information — Draw a card. You lose 2 life.\n• Hire a Mercenary — Create a 3/2 colorless Shapeshifter creature token with changeling. You lose 3 life. (It is every creature type.)"
+    },
+    {
       "name": "Anguished Unmaking",
       "quantity": 1,
       "board": "main",
@@ -87,45 +101,52 @@
       "text": "Exile target nonland permanent. You lose 3 life."
     },
     {
-      "name": "Black Market Connections",
+      "name": "Anointed Procession",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Black"
+        "White"
       ],
       "colorIdentity": [
-        "Black"
+        "White"
       ],
-      "manaValue": 3,
+      "manaValue": 4,
       "type": "Enchantment",
-      "text": "At the beginning of your first main phase, choose one or more —\n• Sell Contraband — Create a Treasure token. You lose 1 life.\n• Buy Information — Draw a card. You lose 2 life.\n• Hire a Mercenary — Create a 3/2 colorless Shapeshifter creature token with changeling. You lose 3 life. (It is every creature type.)"
+      "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
     },
     {
-      "name": "Blood Artist",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Vampire",
-      "text": "Whenever this creature or another creature dies, target player loses 1 life and you gain 1 life."
-    },
-    {
-      "name": "Blood Crypt",
+      "name": "Arcane Signet",
       "quantity": 1,
       "board": "main",
       "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Archivist of Oghma",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
       ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Cleric Halfling",
+      "text": "Flash\nWhenever an opponent searches their library, you gain 1 life and draw a card."
+    },
+    {
+      "name": "Arid Mesa",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
       "manaValue": 0,
-      "type": "Land — Swamp Mountain",
-      "text": "({T}: Add {B} or {R}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
     },
     {
       "name": "Bloodghast",
@@ -1177,52 +1198,31 @@
       "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
     },
     {
-      "name": "Anointed Procession",
+      "name": "Blood Artist",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "White"
+        "Black"
       ],
       "colorIdentity": [
-        "White"
+        "Black"
       ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
+      "manaValue": 2,
+      "type": "Creature — Vampire",
+      "text": "Whenever this creature or another creature dies, target player loses 1 life and you gain 1 life."
     },
     {
-      "name": "Arcane Signet",
+      "name": "Blood Crypt",
       "quantity": 1,
       "board": "main",
       "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add one mana of any color in your commander's color identity."
-    },
-    {
-      "name": "Archivist of Oghma",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
       "colorIdentity": [
-        "White"
+        "Black",
+        "Red"
       ],
-      "manaValue": 2,
-      "type": "Creature — Cleric Halfling",
-      "text": "Flash\nWhenever an opponent searches their library, you gain 1 life and draw a card."
-    },
-    {
-      "name": "Arid Mesa",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
       "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
+      "type": "Land — Swamp Mountain",
+      "text": "({T}: Add {B} or {R}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     }
   ]
 }
