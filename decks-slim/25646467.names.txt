@@ -1,6 +1,5 @@
 Chrome Mox
 Ashnod's Altar
-Krenko, Mob Boss
 Goblin Bombardment
 Aggravated Assault
 Anger
@@ -17,7 +16,6 @@ Coat of Arms
 Conspicuous Snoop
 Deflecting Swat
 Den of the Bugbear
-Echoing Assault
 Fury
 Gamble
 Gemstone Caverns
@@ -48,11 +46,6 @@ Lightning Greaves
 Mana Echoes
 Marvin, Murderous Mimic
 Metallic Mimic
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-War Room
-Arena of Glory
 Mogg War Marshal
 Moggcatcher
 Mountain
@@ -75,3 +68,11 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
+Valakut Exploration
+Zealous Conscripts
+War Room
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+Arena of Glory
+Sokenzan, Crucible of Defiance
+Krenko, Mob Boss
+Goblin Piledriver

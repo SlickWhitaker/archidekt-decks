@@ -31,8 +31,6 @@ Fauna Shaman
 Finale of Devastation
 Fire-Lit Thicket
 Forest
-Fyndhorn Elves
-Gamble
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -90,5 +88,7 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
+Fyndhorn Elves
+Gamble
 Greater Good
 Green Sun's Zenith

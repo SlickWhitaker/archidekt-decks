@@ -1,5 +1,14 @@
 Arcane Signet
 Archfiend of Despair
+Baleful Mastery
+Black Market Connections
+Blackcleave Cliffs
+Blasphemous Act
+Blightstep Pathway // Searstep Pathway
+Blood Artist
+Blood Crypt
+Bloodchief Ascension
+Bloodletter of Aclazotz
 Bloodstained Mire
 Bloodthirsty Conqueror
 Cabal Coffers
@@ -56,7 +65,6 @@ Sulfuric Vortex
 Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
-Tainted Peak
 Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
@@ -68,20 +76,12 @@ Underworld Dreams
 Urborg, Tomb of Yawgmoth
 Vial Smasher the Fierce
 Wheel of Misfortune
+Tainted Peak
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
-Baleful Mastery
-Black Market Connections
-Scrawling Crawler
-Blackcleave Cliffs
-Blasphemous Act
-Blightstep Pathway // Searstep Pathway
-Blood Artist
-Blood Crypt
-Bloodchief Ascension
-Bloodletter of Aclazotz
 Valgavoth, Harrower of Souls
+Scrawling Crawler
 All Will Be One
 Fate Unraveler
 Blood Seeker

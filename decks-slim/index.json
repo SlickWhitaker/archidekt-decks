@@ -329,9 +329,9 @@
       "namesFile": "25646467.names.txt",
       "cardsFile": "25646467.cards.jsonl",
       "metaFile": "25646467.meta.json",
-      "fullBytes": 244736,
-      "analysisBytes": 26294,
-      "reductionPercent": 89.3
+      "fullBytes": 247615,
+      "analysisBytes": 26624,
+      "reductionPercent": 89.2
     },
     {
       "id": 25646499,
