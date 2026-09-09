@@ -34,6 +34,7 @@ Forest
 Fyndhorn Elves
 Gamble
 Greater Good
+Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -77,9 +78,8 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Green Sun's Zenith
-Uktabi Orangutan
 Beast Within
+Uktabi Orangutan
 Liquimetal Torque
 Gearbane Orangutan
 Kibo, Uktabi Prince

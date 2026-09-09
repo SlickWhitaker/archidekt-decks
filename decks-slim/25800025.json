@@ -1082,24 +1082,6 @@
       "text": "Partner with Chakram Slinger (When this creature enters, target player may put Chakram Slinger into their hand from their library, then shuffle.)\nWhenever you cast a spell during your turn, untap target creature."
     },
     {
-      "name": "Helga, Skittish Seer",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "White",
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Druid Frog",
-      "text": "Whenever you cast a creature spell with mana value 4 or greater, you draw a card, gain 1 life, and put a +1/+1 counter on Helga.\n{T}: Add X mana of any one color, where X is Helga's power. Spend this mana only to cast creature spells with mana value 4 or greater or creature spells with {X} in their mana costs."
-    },
-    {
       "name": "Blinking Spirit",
       "quantity": 1,
       "board": "main",
@@ -1156,20 +1138,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human God",
       "text": "Creatures you control have vigilance and \"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.\"\nWhenever you cast a creature spell, if three or more mana from creatures was spent to cast it, draw a card."
-    },
-    {
-      "name": "Great Oak Guardian",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 6,
-      "type": "Creature — Treefolk",
-      "text": "Flash (You may cast this spell any time you could cast an instant.)\nReach\nWhen this creature enters, creatures target player controls get +2/+2 until end of turn. Untap them."
     },
     {
       "name": "Kiora's Follower",
@@ -1300,6 +1268,38 @@
       "manaValue": 3,
       "type": "Creature — Human Druid",
       "text": "{T}: Add three mana of any one color. Spend this mana only to cast creature spells."
+    },
+    {
+      "name": "Shrieking Drake",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Drake",
+      "text": "Flying\nWhen this creature enters, return a creature you control to its owner's hand."
+    },
+    {
+      "name": "Helga, Skittish Seer",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Druid Frog",
+      "text": "Whenever you cast a creature spell with mana value 4 or greater, you draw a card, gain 1 life, and put a +1/+1 counter on Helga.\n{T}: Add X mana of any one color, where X is Helga's power. Spend this mana only to cast creature spells with mana value 4 or greater or creature spells with {X} in their mana costs."
     }
   ]
 }

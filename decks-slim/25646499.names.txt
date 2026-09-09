@@ -55,6 +55,13 @@ Prince Imrahil the Fair
 Riders of Rohan
 Rogue's Passage
 Sacred Foundry
+Secluded Courtyard
+Shared Animosity
+Skullclamp
+Sol Ring
+Steam Vents
+Sulfur Falls
+Sunset Revelry
 Supreme Verdict
 Swords to Plowshares
 Talisman of Conviction
@@ -63,11 +70,6 @@ Taunt from the Rampart
 Terramorphic Expanse
 The Mountain-king's Return
 Théoden, King of Rohan
-Thought Vessel
-Throne of the High City
-Tranquil Cove
-Unbreakable Formation
-Vanquisher's Banner
 Verge Rangers
 Village Bell-Ringer
 Visions of Glory
@@ -75,10 +77,8 @@ Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
-Secluded Courtyard
-Shared Animosity
-Skullclamp
-Sol Ring
-Steam Vents
-Sulfur Falls
-Sunset Revelry
+Thought Vessel
+Throne of the High City
+Tranquil Cove
+Unbreakable Formation
+Vanquisher's Banner

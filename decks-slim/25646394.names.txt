@@ -1,11 +1,9 @@
-Jaws, Relentless Predator
 Abrade
 Academy Manufactor
 Aggravated Assault
 Ancient Copper Dragon
 Arcane Signet
 Arena of Glory
-Basilisk Collar
 Big Score
 Blasphemous Act
 Bolt Bend
@@ -20,7 +18,6 @@ Cursed Mirror
 Deflecting Swat
 Demand Answers
 Descent into Avernus
-Extraplanar Lens
 Generous Plunderer
 Goblin Engineer
 Goblin Welder
@@ -38,7 +35,6 @@ Meltdown
 Mines of Moria
 Mithril Coat
 Mountain
-Nettlecyst
 Nuka-Cola Vending Machine
 Ojer Axonil, Deepest Might // Temple of Power
 Pain Distributor
@@ -46,10 +42,8 @@ Professional Face-Breaker
 Reckless Endeavor
 Reckless Fireweaver
 Rogue's Passage
-Rose, Cutthroat Raider
 Ruby Medallion
 Scavenger Grounds
-Seize the Spoils
 Shinka, the Bloodsoaked Keep
 Skullclamp
 Sneak Attack
@@ -57,7 +51,6 @@ Sol Ring
 Solphim, Mayhem Dominus
 Swashbuckler Extraordinaire
 Swiftfoot Boots
-Tarrian's Soulcleaver
 The Fire Crystal
 The Reaver Cleaver
 Torbran, Thane of Red Fell
@@ -70,4 +63,14 @@ War Room
 Wayfarer's Bauble
 Wheel of Misfortune
 Xorn
-Guardian Idol
+Weftstalker Ardent
+Mana Vault
+Monument to Endurance
+Reckless Handling
+Inspiring Statuary
+Clock of Omens
+Arcbound Ravager
+Urza's Saga
+Valakut, the Molten Pinnacle
+Jaws, Relentless Predator
+Artist's Talent

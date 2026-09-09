@@ -27,13 +27,6 @@ Exotic Orchard
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Glacial Fortress
 Impact Tremors
 Island
@@ -90,3 +83,10 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Academy Manufactor
+Fiend Hunter
+Cathars' Crusade
+Helm of the Host

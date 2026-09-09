@@ -79,12 +79,10 @@ Intruder Alarm
 Verdant Catacombs
 Phantasmal Image
 Chakram Retriever
-Helga, Skittish Seer
 Blinking Spirit
 Garruk's Uprising
 Beast Whisperer
 Inga and Esika
-Great Oak Guardian
 Kiora's Follower
 Saryth, the Viper's Fang
 Foundation Breaker
@@ -94,3 +92,5 @@ Temur Sabertooth
 Cloud of Faeries
 Faeburrow Elder
 Somberwald Sage
+Shrieking Drake
+Helga, Skittish Seer
