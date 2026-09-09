@@ -54,6 +54,11 @@ Sign in Blood
 Smallpox
 Sol Ring
 Springleaf Drum
+Geth's Grimoire
+Waste Not
+Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds
 Swamp
 Syphon Mind
 The Raven Man
@@ -66,8 +71,3 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
-Geth's Grimoire
-Waste Not
-Lightning Greaves
-Tinybones, Trinket Thief
-Scavenger Grounds

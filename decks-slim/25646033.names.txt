@@ -59,7 +59,6 @@ Polluted Delta
 Pond Prophet
 Rejuvenating Springs
 Riverchurn Monument
-Rogue's Passage
 Shifting Woodland
 Snapcaster Mage
 Sol Ring
@@ -70,11 +69,8 @@ Swan Song
 Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
-Thought Scour
 Tishana's Tidebinder
-Turbulent Wilderness
 Uro, Titan of Nature's Wrath
-Valley Floodcaller
 Veil of Summer
 Venser, Shaper Savant
 Verdant Catacombs
@@ -94,3 +90,7 @@ Clifftop Lookout
 Poison Dart Frog
 Froghemoth
 Valley Mightcaller
+Clement, the Worrywort
+Boseiju, Who Endures
+Beast Within
+Cavern of Souls

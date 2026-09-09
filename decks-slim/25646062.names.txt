@@ -4,7 +4,6 @@ Arcane Signet
 Attuma, Atlantean Warlord
 Branching Evolution
 Breeding Pool
-Coat of Arms
 Command Tower
 Counterspell
 Cyclonic Rift
@@ -26,7 +25,6 @@ Harmonized Crescendo
 Herald of Secret Streams
 Hinterland Harbor
 Inspiring Call
-Irma, Part-Time Mutant
 Island
 Karn's Bastion
 Kindred Discovery
@@ -52,13 +50,9 @@ Rapid Hybridization
 Realmwalker
 Reflections of Littjara
 Rejuvenating Springs
-Reliquary Tower
 Ripples of Potential
 Roaming Throne
-Savor the Moment
 Secluded Courtyard
-Simic Ascendancy
-Simic Growth Chamber
 Singer of Swift Rivers
 Sodden Verdure
 Sol Ring
@@ -69,7 +63,6 @@ Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
 Swiftfoot Boots
-Sword of Fire and Ice
 The Ozolith
 Thieving Skydiver
 Tishana's Tidebinder
@@ -82,4 +75,11 @@ Wanderwine Prophets
 Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
+Aether Vial
+Otawara, Soaring City
+Silvergill Adept
+Boseiju, Who Endures
 Hakbal of the Surging Soul
+Fierce Guardianship
+Cryptolith Rite
+Merfolk Mistbinder

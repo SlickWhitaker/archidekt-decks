@@ -35,7 +35,6 @@ Fyndhorn Elves
 Gamble
 Greater Good
 Green Sun's Zenith
-Veil of Summer
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -71,6 +70,7 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
 Verdant Catacombs
 Wasteland
 Windswept Heath

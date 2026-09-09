@@ -1,7 +1,5 @@
-Afterlife from the Loam
 Agadeem's Awakening // Agadeem, the Undercrypt
 An Offer You Can't Refuse
-Arcane Signet
 Boggart Trawler // Boggart Bog
 Brainstorm
 Cephalid Coliseum
@@ -21,7 +19,6 @@ Demonic Consultation
 Dig Through Time
 Dismember
 Dokuchi Silencer
-Draco
 Drowned Catacomb
 Fallen Shinobi
 Fell the Profane // Fell Mire
@@ -31,11 +28,9 @@ Flare of Malice
 Flusterstorm
 Force of Despair
 Force of Will
-Gingerbrute
 Gloomlake Verge
 Grafdigger's Cage
 Halimar Depths
-Higure, the Still Wind
 Hydroelectric Specimen // Hydroelectric Laboratory
 Ingenious Infiltrator
 Ink-Eyes, Servant of Oni
@@ -58,7 +53,6 @@ Mystic Sanctuary
 Mystical Tutor
 Nanogene Conversion
 Nashi, Moon Sage's Scion
-Negate
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
@@ -82,17 +76,23 @@ Slither Blade
 Snow-Covered Island
 Snow-Covered Swamp
 Snuff Out
-Spectral Sailor
 Starting Town
 Swamp
 Temporal Trespass
 Tetsuko Umezawa, Fugitive
 Thassa's Oracle
-Watery Grave
 Thieving Skydiver
 Thousand-Faced Shadow
 Throat Slitter
 Underground River
 Vampiric Tutor
 Walker of Secret Ways
+Watery Grave
 Yuriko, the Tiger's Shadow
+Demonic Tutor
+Sol Ring
+Faerie Seer
+Force of Negation
+Treasure Cruise
+Shadow of Mortality
+Temporal Mastery
