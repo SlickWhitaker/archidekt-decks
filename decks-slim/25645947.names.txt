@@ -35,6 +35,7 @@ Esper Sentinel
 Exquisite Blood
 Flawless Maneuver
 Generous Gift
+Godless Shrine
 Herald's Horn
 Isolated Chapel
 Kalitas, Traitor of Ghet
@@ -88,4 +89,3 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
-Godless Shrine
