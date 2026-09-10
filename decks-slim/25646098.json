@@ -686,20 +686,6 @@
       "text": "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life."
     },
     {
-      "name": "Mona Lisa, Science Geek",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Mutant Lizard",
-      "text": "Reach\n{T}: Add X mana of any one color, where X is Mona Lisa's power."
-    },
-    {
       "name": "Ozolith, the Shattered Spire",
       "quantity": 1,
       "board": "main",
@@ -1194,6 +1180,20 @@
       "manaValue": 2,
       "type": "Legendary Creature — Druid Plant",
       "text": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.\n{3}{G}{G}: Double the number of +1/+1 counters on each creature you control."
+    },
+    {
+      "name": "Mona Lisa, Science Geek",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Mutant Lizard",
+      "text": "Reach\n{T}: Add X mana of any one color, where X is Mona Lisa's power."
     },
     {
       "name": "Mondrak, Glory Dominus",

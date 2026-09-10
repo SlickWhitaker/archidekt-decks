@@ -66,13 +66,13 @@ Squee, Dubious Monarch
 Staff of Domination
 Thornbite Staff
 Thousand-Year Elixir
-Valakut Exploration
 Torbran, Thane of Red Fell
-Zealous Conscripts
 Urza's Incubator
+Valakut Exploration
+Zealous Conscripts
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-Arena of Glory
 War Room
 Sokenzan, Crucible of Defiance
 Krenko, Mob Boss
+Arena of Glory
 Goblin Piledriver

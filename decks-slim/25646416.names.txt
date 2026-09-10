@@ -35,18 +35,39 @@ Fyndhorn Elves
 Gamble
 Greater Good
 Green Sun's Zenith
-Veil of Summer
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
+Veil of Summer
 Lightning Greaves
+Verdant Catacombs
+Wasteland
+Windswept Heath
 Llanowar Elves
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
 Misty Rainforest
 Mountain
 Natural Order
 Nature's Lore
+Beast Within
+Uktabi Orangutan
+Liquimetal Torque
+Gearbane Orangutan
+Kibo, Uktabi Prince
+Kogla, the Titan Ape
+Scrounging Bandar
+Viridian Revel
+Gorilla Shaman
+Taurean Mauler
+Inspiring Call
+Liquimetal Coating
+Silverback Elder
+Yavimaya Steelcrusher
 Nykthos, Shrine to Nyx
 Old Gnawbone
 Orcish Lumberjack
@@ -71,24 +92,3 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Verdant Catacombs
-Wasteland
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
-Beast Within
-Uktabi Orangutan
-Liquimetal Torque
-Gearbane Orangutan
-Kibo, Uktabi Prince
-Kogla, the Titan Ape
-Scrounging Bandar
-Viridian Revel
-Gorilla Shaman
-Taurean Mauler
-Inspiring Call
-Liquimetal Coating
-Silverback Elder
-Yavimaya Steelcrusher
