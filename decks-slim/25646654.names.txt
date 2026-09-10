@@ -30,6 +30,13 @@ Flawless Maneuver
 Glacial Fortress
 Impact Tremors
 Island
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Izzet Signet
 Jacked Rabbit
 Jubilant Skybonder
@@ -43,13 +50,6 @@ Mountain
 Murmuration
 Mystic Monastery
 Nesting Dovehawk
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Ornithopter of Paradise
 Path of Ancestry
 Path to Exile

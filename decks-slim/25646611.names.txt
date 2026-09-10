@@ -16,12 +16,6 @@ Castle Locthwain
 Chaos Warp
 Command Tower
 Deadly Rollick
-Deflecting Swat
-Dragonskull Summit
-Everlasting Torment
-Exquisite Blood
-Feed the Swarm
-Fellwar Stone
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -76,6 +70,12 @@ Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
 Blood Seeker
+Deflecting Swat
+Dragonskull Summit
+Everlasting Torment
+Exquisite Blood
+Feed the Swarm
+Fellwar Stone
 Fiery Confluence
 Fire Covenant
 Florian, Voldaren Scion

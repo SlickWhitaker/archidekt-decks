@@ -33,12 +33,11 @@ Fire-Lit Thicket
 Forest
 Fyndhorn Elves
 Gamble
-Greater Good
-Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
+Greater Good
 Kodama of the West Tree
 Lightning Greaves
 Llanowar Elves
@@ -92,3 +91,4 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
+Green Sun's Zenith

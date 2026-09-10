@@ -472,34 +472,6 @@
       "text": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle."
     },
     {
-      "name": "Greater Good",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
-    },
-    {
-      "name": "Green Sun's Zenith",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Search your library for a green creature card with mana value X or less, put it onto the battlefield, then shuffle. Shuffle Green Sun's Zenith into its owner's library."
-    },
-    {
       "name": "Hardened Scales",
       "quantity": 1,
       "board": "main",
@@ -553,6 +525,20 @@
       "manaValue": 5,
       "type": "Legendary Creature — Goblin Shaman",
       "text": "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step."
+    },
+    {
+      "name": "Greater Good",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
     },
     {
       "name": "Kodama of the West Tree",
@@ -1225,6 +1211,20 @@
       "manaValue": 2,
       "type": "Creature — Warrior Ape",
       "text": "Enlist (As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)\n{1}, Sacrifice this creature: Destroy target artifact."
+    },
+    {
+      "name": "Green Sun's Zenith",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Search your library for a green creature card with mana value X or less, put it onto the battlefield, then shuffle. Shuffle Green Sun's Zenith into its owner's library."
     }
   ]
 }
