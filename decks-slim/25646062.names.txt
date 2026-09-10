@@ -74,6 +74,7 @@ Vodalian Hexcatcher
 Wanderwine Prophets
 Wilderness Reclamation
 Wooded Foothills
+Zegana, Utopian Speaker
 Aether Vial
 Otawara, Soaring City
 Silvergill Adept
@@ -82,4 +83,3 @@ Hakbal of the Surging Soul
 Fierce Guardianship
 Cryptolith Rite
 Merfolk Mistbinder
-Zegana, Utopian Speaker

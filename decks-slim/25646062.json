@@ -1012,6 +1012,22 @@
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle."
     },
     {
+      "name": "Zegana, Utopian Speaker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Wizard Merfolk",
+      "text": "When Zegana enters, if you control another creature with a +1/+1 counter on it, draw a card.\n{4}{G}{U}: Adapt 4. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)\nEach creature you control with a +1/+1 counter on it has trample."
+    },
+    {
       "name": "Aether Vial",
       "quantity": 1,
       "board": "main",
@@ -1118,22 +1134,6 @@
       "manaValue": 2,
       "type": "Creature — Merfolk Shaman",
       "text": "Other Merfolk you control get +1/+1."
-    },
-    {
-      "name": "Zegana, Utopian Speaker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Wizard Merfolk",
-      "text": "When Zegana enters, if you control another creature with a +1/+1 counter on it, draw a card.\n{4}{G}{U}: Adapt 4. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)\nEach creature you control with a +1/+1 counter on it has trample."
     }
   ]
 }

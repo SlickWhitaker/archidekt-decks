@@ -41,6 +41,8 @@ Migratory Route
 Mind Stone
 Mountain
 Murmuration
+Mystic Monastery
+Nesting Dovehawk
 Warren Warleader
 Watcher of the Spheres
 Zinnia, Valley's Voice
@@ -48,8 +50,6 @@ Fiend Hunter
 Academy Manufactor
 Cathars' Crusade
 Helm of the Host
-Mystic Monastery
-Nesting Dovehawk
 Ornithopter of Paradise
 Path of Ancestry
 Path to Exile

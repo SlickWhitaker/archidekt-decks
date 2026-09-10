@@ -53,12 +53,19 @@ Mystic Sanctuary
 Mystical Tutor
 Nanogene Conversion
 Nashi, Moon Sage's Scion
-Pact of Negation
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
 Ornithopter
 Otawara, Soaring City
+Pact of Negation
+Phyrexian Walker
+Polluted Delta
+Ponder
+Prosperous Thief
+Sakashima's Student
+Satoru Umezawa
+Satoru, the Infiltrator
 Sink into Stupor // Soporific Springs
 Skullsnatcher
 Slither Blade
@@ -77,7 +84,9 @@ Underground River
 Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
+Scroll Rack
 Yuriko, the Tiger's Shadow
+Sensei's Divining Top
 Demonic Tutor
 Sol Ring
 Faerie Seer
@@ -85,14 +94,5 @@ Force of Negation
 Treasure Cruise
 Shadow of Mortality
 Temporal Mastery
-Phyrexian Walker
-Polluted Delta
-Ponder
-Prosperous Thief
-Sakashima's Student
-Satoru Umezawa
-Satoru, the Infiltrator
-Scroll Rack
-Sensei's Divining Top
 Shizo, Death's Storehouse
 Silver-Fur Master
