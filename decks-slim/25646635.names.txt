@@ -33,50 +33,7 @@ Grafdigger's Cage
 Halimar Depths
 Hydroelectric Specimen // Hydroelectric Laboratory
 Ingenious Infiltrator
-Ninja of the Deep Hours
-Opposition Agent
-Orcish Bowmasters
-Ornithopter
-Otawara, Soaring City
-Pact of Negation
-Phyrexian Walker
-Polluted Delta
-Ponder
 Ink-Eyes, Servant of Oni
-Prosperous Thief
-Sakashima's Student
-Satoru Umezawa
-Satoru, the Infiltrator
-Scroll Rack
-Sensei's Divining Top
-Shizo, Death's Storehouse
-Silver-Fur Master
-Sink into Stupor // Soporific Springs
-Skullsnatcher
-Slither Blade
-Snow-Covered Island
-Snow-Covered Swamp
-Snuff Out
-Starting Town
-Swamp
-Temporal Trespass
-Tetsuko Umezawa, Fugitive
-Thassa's Oracle
-Thieving Skydiver
-Thousand-Faced Shadow
-Throat Slitter
-Underground River
-Vampiric Tutor
-Walker of Secret Ways
-Watery Grave
-Yuriko, the Tiger's Shadow
-Demonic Tutor
-Sol Ring
-Faerie Seer
-Force of Negation
-Treasure Cruise
-Shadow of Mortality
-Temporal Mastery
 Island
 Kaito, Bane of Nightmares
 Lim-Dûl's Vault
@@ -96,3 +53,46 @@ Mystic Sanctuary
 Mystical Tutor
 Nanogene Conversion
 Nashi, Moon Sage's Scion
+Pact of Negation
+Ninja of the Deep Hours
+Opposition Agent
+Orcish Bowmasters
+Ornithopter
+Otawara, Soaring City
+Sink into Stupor // Soporific Springs
+Skullsnatcher
+Slither Blade
+Snow-Covered Island
+Snow-Covered Swamp
+Snuff Out
+Starting Town
+Swamp
+Temporal Trespass
+Tetsuko Umezawa, Fugitive
+Thassa's Oracle
+Thieving Skydiver
+Thousand-Faced Shadow
+Throat Slitter
+Underground River
+Vampiric Tutor
+Walker of Secret Ways
+Watery Grave
+Phyrexian Walker
+Polluted Delta
+Ponder
+Yuriko, the Tiger's Shadow
+Prosperous Thief
+Sakashima's Student
+Demonic Tutor
+Satoru Umezawa
+Satoru, the Infiltrator
+Scroll Rack
+Sensei's Divining Top
+Shizo, Death's Storehouse
+Silver-Fur Master
+Faerie Seer
+Sol Ring
+Temporal Mastery
+Force of Negation
+Treasure Cruise
+Shadow of Mortality

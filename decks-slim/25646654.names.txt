@@ -30,13 +30,6 @@ Flawless Maneuver
 Glacial Fortress
 Impact Tremors
 Island
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Izzet Signet
 Jacked Rabbit
 Jubilant Skybonder
@@ -90,3 +83,10 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host

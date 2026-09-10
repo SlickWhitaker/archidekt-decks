@@ -1237,6 +1237,20 @@
       "text": "Permanents you control gain hexproof and indestructible until end of turn."
     },
     {
+      "name": "Chthonian Nightmare",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "When this enchantment enters, you get {E}{E}{E} (three energy counters).\nPay X {E}, Sacrifice a creature, Return this enchantment to its owner's hand: Return target creature card with mana value X from your graveyard to the battlefield. Activate only as a sorcery."
+    },
+    {
       "name": "Uugguu, the Omniplasm",
       "quantity": 1,
       "board": "commander",
@@ -1253,20 +1267,6 @@
       "manaValue": 3,
       "type": "Legendary Creature — Ooze",
       "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
-    },
-    {
-      "name": "Chthonian Nightmare",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "When this enchantment enters, you get {E}{E}{E} (three energy counters).\nPay X {E}, Sacrifice a creature, Return this enchantment to its owner's hand: Return target creature card with mana value X from your graveyard to the battlefield. Activate only as a sorcery."
     },
     {
       "name": "Phyrexian Metamorph",

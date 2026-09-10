@@ -68,18 +68,7 @@ Summon: Titan
 Swan Song
 Thassa's Oracle
 The Great Henge
-Grolnok, the Omnivore
-Maskwood Nexus
-Spore Frog
-Clifftop Lookout
 The Mycosynth Gardens
-Poison Dart Frog
-Froghemoth
-Valley Mightcaller
-Clement, the Worrywort
-Boseiju, Who Endures
-Beast Within
-Cavern of Souls
 Tishana's Tidebinder
 Uro, Titan of Nature's Wrath
 Veil of Summer
@@ -94,3 +83,14 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Grolnok, the Omnivore
+Maskwood Nexus
+Spore Frog
+Clifftop Lookout
+Poison Dart Frog
+Froghemoth
+Valley Mightcaller
+Clement, the Worrywort
+Boseiju, Who Endures
+Beast Within
+Cavern of Souls

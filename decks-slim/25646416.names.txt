@@ -33,11 +33,12 @@ Fire-Lit Thicket
 Forest
 Fyndhorn Elves
 Gamble
+Greater Good
+Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
-Greater Good
 Kodama of the West Tree
 Lightning Greaves
 Llanowar Elves
@@ -61,7 +62,9 @@ Sol Ring
 Spire Garden
 Stomping Ground
 Strip Mine
+Veil of Summer
 Sylvan Library
+Verdant Catacombs
 Terror of the Peaks
 The Great Henge
 The One Ring
@@ -69,8 +72,7 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Veil of Summer
-Verdant Catacombs
+Liquimetal Torque
 Wasteland
 Windswept Heath
 Wooded Foothills
@@ -79,7 +81,6 @@ Yavimaya, Cradle of Growth
 Zealous Conscripts
 Beast Within
 Uktabi Orangutan
-Liquimetal Torque
 Gearbane Orangutan
 Kibo, Uktabi Prince
 Kogla, the Titan Ape
@@ -91,4 +92,3 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
-Green Sun's Zenith
