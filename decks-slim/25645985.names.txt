@@ -60,6 +60,9 @@ Swamp
 Swords to Plowshares
 The Battle of Bywater
 The Gaffer
+The Shire
+Tireless Provisioner
+Toxic Deluge
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
@@ -80,9 +83,6 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-The Shire
-Tireless Provisioner
-Toxic Deluge
 Trail of Crumbs
 Treebeard, Gracious Host
 Trouble in Pairs

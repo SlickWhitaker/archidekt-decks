@@ -50,6 +50,10 @@ Plains
 Plumecreed Escort
 Pollywog Prodigy
 Rally the Ranks
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Rapid Augmenter
 Rapid Hybridization
 Reconnaissance Mission
@@ -71,6 +75,9 @@ Steam Vents
 Storm of Souls
 Sulfur Falls
 Sunscorched Divide
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Swords to Plowshares
 Temple of Enlightenment
 Temple of Triumph
@@ -83,10 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host

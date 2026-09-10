@@ -39,6 +39,9 @@ Lightning Greaves
 Martha Jones
 Mountain
 Mountain
+Myriad Landscape
+Mystic Monastery
+Nanogene Conversion
 Ominous Cemetery
 Out of Time
 Path of Ancestry
@@ -48,7 +51,6 @@ Port Town
 Prairie Stream
 Psychic Paper
 Raugrin Triome
-Regenerations Restored
 Rhystic Study
 RMS Titanic
 Rogue's Passage
@@ -92,6 +94,4 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Myriad Landscape
-Mystic Monastery
-Nanogene Conversion
+Regenerations Restored

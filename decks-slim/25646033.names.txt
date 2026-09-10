@@ -61,12 +61,10 @@ Rejuvenating Springs
 Riverchurn Monument
 Shifting Woodland
 Snapcaster Mage
+Summon: Titan
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
-Summon: Titan
-Swan Song
-Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
 Tishana's Tidebinder
@@ -94,3 +92,5 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
+Swan Song
+Thassa's Oracle

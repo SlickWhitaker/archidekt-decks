@@ -18,9 +18,6 @@ Chromatic Lantern
 Cinder Barrens
 Akul the Unrepentant
 Command Tower
-Deadly Dispute
-Descent into Avernus
-Dragonskull Summit
 Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
@@ -40,6 +37,18 @@ It That Betrays
 Jet Medallion
 Krenko, Mob Boss
 Krenko, Tin Street Kingpin
+Krenko's Command
+Lagomos, Hand of Hatred
+Mahadi, Emporium Master
+Mind Stone
+Morbid Opportunist
+Mountain
+Myriad Landscape
+Night's Whisper
+Orca, Siege Demon
+Overseer of the Damned
+Pathrazer of Ulamog
+Phyrexian Triniform
 Pitiless Plunderer
 Rakdos Carnarium
 Rakdos Charm
@@ -72,15 +81,6 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
-Krenko's Command
-Lagomos, Hand of Hatred
-Mahadi, Emporium Master
-Mind Stone
-Morbid Opportunist
-Mountain
-Myriad Landscape
-Night's Whisper
-Orca, Siege Demon
-Overseer of the Damned
-Pathrazer of Ulamog
-Phyrexian Triniform
+Deadly Dispute
+Descent into Avernus
+Dragonskull Summit
