@@ -53,8 +53,6 @@ Millikin
 Mistrise Village
 Misty Rainforest
 Mystic Sanctuary
-Sol Ring
-Splendid Reclamation
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -63,6 +61,9 @@ Rejuvenating Springs
 Riverchurn Monument
 Shifting Woodland
 Snapcaster Mage
+Sol Ring
+Splendid Reclamation
+Springheart Nantuko
 Summon: Titan
 Swan Song
 Thassa's Oracle
@@ -74,14 +75,6 @@ Veil of Summer
 Venser, Shaper Savant
 Verdant Catacombs
 Visions of Beyond
-Waterlogged Grove
-Wilderness Reclamation
-Willowrush Verge
-Windswept Heath
-Wooded Foothills
-World Shaper
-Yavimaya, Cradle of Growth
-Zuran Orb
 Grolnok, the Omnivore
 Maskwood Nexus
 Spore Frog
@@ -93,4 +86,11 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
-Springheart Nantuko
+Waterlogged Grove
+Wilderness Reclamation
+Willowrush Verge
+Windswept Heath
+Wooded Foothills
+World Shaper
+Yavimaya, Cradle of Growth
+Zuran Orb

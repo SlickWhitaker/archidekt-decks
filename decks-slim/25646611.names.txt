@@ -22,15 +22,6 @@ Everlasting Torment
 Exquisite Blood
 Feed the Swarm
 Fellwar Stone
-Fiery Confluence
-Fire Covenant
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -80,8 +71,17 @@ Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
-Valgavoth, Harrower of Souls
 Scrawling Crawler
+Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
 Blood Seeker
+Fiery Confluence
+Fire Covenant
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion

@@ -24,6 +24,7 @@ Empyrean Eagle
 Esior, Wardwing Familiar
 Evolving Wilds
 Exotic Orchard
+Warren Warleader
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
@@ -83,10 +84,9 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
 Zinnia, Valley's Voice
 Fiend Hunter
 Academy Manufactor
 Cathars' Crusade
 Helm of the Host
+Watcher of the Spheres

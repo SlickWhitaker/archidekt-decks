@@ -72,6 +72,7 @@ Witch's Oven
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
+Frodo, Adventurous Hobbit
 Academy Manufactor
 Anguished Unmaking
 Aragorn and Arwen, Wed
@@ -88,4 +89,3 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Frodo, Adventurous Hobbit
