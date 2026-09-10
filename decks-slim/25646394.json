@@ -875,16 +875,6 @@
       "text": "Whenever you discard a card, choose one that hasn't been chosen this turn —\n• Draw a card.\n• Create a Treasure token.\n• Each opponent loses 3 life."
     },
     {
-      "name": "Inspiring Statuary",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for {1}.)"
-    },
-    {
       "name": "Reckless Handling",
       "quantity": 1,
       "board": "main",
@@ -899,14 +889,14 @@
       "text": "Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, Reckless Handling deals 2 damage to each opponent."
     },
     {
-      "name": "Clock of Omens",
+      "name": "Inspiring Statuary",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
-      "manaValue": 4,
+      "manaValue": 3,
       "type": "Artifact",
-      "text": "Tap two untapped artifacts you control: Untap target artifact."
+      "text": "Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for {1}.)"
     },
     {
       "name": "Arcbound Ravager",
@@ -917,6 +907,16 @@
       "manaValue": 2,
       "type": "Creature Artifact — Beast",
       "text": "Sacrifice an artifact: Put a +1/+1 counter on this creature.\nModular 1 (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)"
+    },
+    {
+      "name": "Clock of Omens",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Artifact",
+      "text": "Tap two untapped artifacts you control: Untap target artifact."
     },
     {
       "name": "Urza's Saga",

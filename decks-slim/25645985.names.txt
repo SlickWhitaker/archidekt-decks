@@ -40,6 +40,10 @@ Overgrown Tomb
 Path of Ancestry
 Peregrin Took
 Pippin, Warden of Isengard
+Plains
+Prosperous Innkeeper
+Rapacious Guest
+Revive the Shire
 Rosie Cotton of South Lane
 Samwise Gamgee
 Sandsteppe Citadel
@@ -68,7 +72,6 @@ Witch's Oven
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
-Frodo, Adventurous Hobbit
 Academy Manufactor
 Anguished Unmaking
 Aragorn and Arwen, Wed
@@ -85,7 +88,4 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Plains
-Prosperous Innkeeper
-Rapacious Guest
-Revive the Shire
+Frodo, Adventurous Hobbit

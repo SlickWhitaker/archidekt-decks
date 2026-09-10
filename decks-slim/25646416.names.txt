@@ -40,21 +40,32 @@ Heroic Intervention
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
-Veil of Summer
 Lightning Greaves
-Verdant Catacombs
-Wasteland
-Windswept Heath
 Llanowar Elves
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Misty Rainforest
 Mountain
 Natural Order
 Nature's Lore
+Nykthos, Shrine to Nyx
+Old Gnawbone
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Orcish Lumberjack
 Beast Within
+Prismatic Vista
+Railway Brawler
+Rhythm of the Wild
+Rockfall Vale
+Rootbound Crag
+Scalding Tarn
+Seedborn Muse
+Selvala, Heart of the Wilds
 Uktabi Orangutan
 Liquimetal Torque
 Gearbane Orangutan
@@ -68,17 +79,6 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
-Nykthos, Shrine to Nyx
-Old Gnawbone
-Orcish Lumberjack
-Prismatic Vista
-Railway Brawler
-Rhythm of the Wild
-Rockfall Vale
-Rootbound Crag
-Scalding Tarn
-Seedborn Muse
-Selvala, Heart of the Wilds
 Skullclamp
 Sol Ring
 Spire Garden

@@ -723,6 +723,30 @@
       "text": "({T}: Add {U}.)\nThis land enters tapped unless you control three or more other Islands.\nWhen this land enters untapped, you may put target instant or sorcery card from your graveyard on top of your library."
     },
     {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Splendid Reclamation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Return all land cards from your graveyard to the battlefield tapped."
+    },
+    {
       "name": "Noxious Revival",
       "quantity": 1,
       "board": "main",
@@ -828,44 +852,6 @@
       "text": "Flash\nWhen this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"
     },
     {
-      "name": "Sol Ring",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
-    },
-    {
-      "name": "Splendid Reclamation",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Return all land cards from your graveyard to the battlefield tapped."
-    },
-    {
-      "name": "Springheart Nantuko",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Creature Enchantment — Monk Insect",
-      "text": "Bestow {1}{G}\nEnchanted creature gets +1/+1.\nLandfall — Whenever a land you control enters, you may pay {1}{G} if this permanent is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token."
-    },
-    {
       "name": "Summon: Titan",
       "quantity": 1,
       "board": "main",
@@ -892,6 +878,20 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
+    },
+    {
+      "name": "Thassa's Oracle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Wizard Merfolk",
+      "text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
     },
     {
       "name": "The Great Henge",
@@ -1242,18 +1242,18 @@
       "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
     },
     {
-      "name": "Thassa's Oracle",
+      "name": "Springheart Nantuko",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Blue"
+        "Green"
       ],
       "colorIdentity": [
-        "Blue"
+        "Green"
       ],
       "manaValue": 2,
-      "type": "Creature — Wizard Merfolk",
-      "text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
+      "type": "Creature Enchantment — Monk Insect",
+      "text": "Bestow {1}{G}\nEnchanted creature gets +1/+1.\nLandfall — Whenever a land you control enters, you may pay {1}{G} if this permanent is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token."
     }
   ]
 }
