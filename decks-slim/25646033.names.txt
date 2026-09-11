@@ -69,7 +69,11 @@ Swan Song
 Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
+Grolnok, the Omnivore
 Tishana's Tidebinder
+Maskwood Nexus
+Spore Frog
+Clifftop Lookout
 Uro, Titan of Nature's Wrath
 Veil of Summer
 Venser, Shaper Savant
@@ -77,16 +81,6 @@ Verdant Catacombs
 Visions of Beyond
 Waterlogged Grove
 Wilderness Reclamation
-Willowrush Verge
-Windswept Heath
-Wooded Foothills
-World Shaper
-Yavimaya, Cradle of Growth
-Zuran Orb
-Grolnok, the Omnivore
-Maskwood Nexus
-Spore Frog
-Clifftop Lookout
 Poison Dart Frog
 Froghemoth
 Valley Mightcaller
@@ -94,3 +88,9 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
+Willowrush Verge
+Windswept Heath
+Wooded Foothills
+World Shaper
+Yavimaya, Cradle of Growth
+Zuran Orb

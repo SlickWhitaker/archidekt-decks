@@ -24,7 +24,11 @@ Cultivate
 Dimension X Pizzasaur
 Donatello, the Brains
 Doubling Season
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
 Grand Coliseum
+Fabled Passage
 Guardian Project
 Halo Fountain
 Heroes in a Half Shell
@@ -85,9 +89,5 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
 Felidar Retreat
 Forest

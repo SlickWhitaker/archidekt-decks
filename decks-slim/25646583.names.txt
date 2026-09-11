@@ -11,6 +11,27 @@ Botanical Sanctum
 Breeding Pool
 Cavern of Souls
 Chronicle of Victory
+Clever Impersonator
+Coat of Arms
+Command Tower
+Consuming Blob
+Copycrook
+Deathcap Glade
+Doubling Season
+Dreamroot Cascade
+Drowned Catacomb
+Expanding Ooze
+Experiment Kraj
+Experiment One
+Forest
+Gelatinous Cube
+Glasspool Mimic // Glasspool Shore
+Gluttonous Slime
+Greater Good
+Green Slime
+Hinterland Harbor
+Infinite Reflection
+Island
 Lightning Greaves
 Llanowar Wastes
 Machine God's Effigy
@@ -74,24 +95,3 @@ Heroic Intervention
 Uugguu, the Omniplasm
 Chthonian Nightmare
 Phyrexian Metamorph
-Clever Impersonator
-Coat of Arms
-Command Tower
-Consuming Blob
-Copycrook
-Deathcap Glade
-Doubling Season
-Dreamroot Cascade
-Drowned Catacomb
-Expanding Ooze
-Experiment Kraj
-Experiment One
-Forest
-Gelatinous Cube
-Glasspool Mimic // Glasspool Shore
-Gluttonous Slime
-Greater Good
-Green Slime
-Hinterland Harbor
-Infinite Reflection
-Island

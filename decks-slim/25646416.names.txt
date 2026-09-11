@@ -54,13 +54,26 @@ Misty Rainforest
 Mountain
 Natural Order
 Nature's Lore
+Beast Within
+Uktabi Orangutan
+Liquimetal Torque
+Gearbane Orangutan
+Kibo, Uktabi Prince
+Kogla, the Titan Ape
+Scrounging Bandar
+Viridian Revel
+Gorilla Shaman
+Taurean Mauler
+Inspiring Call
+Liquimetal Coating
+Silverback Elder
+Yavimaya Steelcrusher
 Nykthos, Shrine to Nyx
 Old Gnawbone
 Orcish Lumberjack
 Prismatic Vista
 Railway Brawler
 Rhythm of the Wild
-Beast Within
 Rockfall Vale
 Rootbound Crag
 Scalding Tarn
@@ -79,16 +92,3 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Liquimetal Torque
-Uktabi Orangutan
-Gearbane Orangutan
-Kibo, Uktabi Prince
-Kogla, the Titan Ape
-Viridian Revel
-Scrounging Bandar
-Gorilla Shaman
-Taurean Mauler
-Inspiring Call
-Silverback Elder
-Liquimetal Coating
-Yavimaya Steelcrusher

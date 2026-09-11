@@ -42,17 +42,6 @@ Louisoix's Sacrifice
 Mana Drain
 Memnite
 Misdirection
-Mist-Syndicate Naga
-Mistblade Shinobi
-Moon-Circuit Hacker
-Morphic Pool
-Mothdust Changeling
-Muddle the Mixture
-Mystic Remora
-Mystic Sanctuary
-Mystical Tutor
-Nanogene Conversion
-Nashi, Moon Sage's Scion
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
@@ -60,6 +49,16 @@ Ornithopter
 Otawara, Soaring City
 Pact of Negation
 Phyrexian Walker
+Polluted Delta
+Ponder
+Prosperous Thief
+Sakashima's Student
+Satoru Umezawa
+Satoru, the Infiltrator
+Scroll Rack
+Sensei's Divining Top
+Shizo, Death's Storehouse
+Silver-Fur Master
 Sink into Stupor // Soporific Springs
 Skullsnatcher
 Slither Blade
@@ -79,20 +78,21 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
-Polluted Delta
-Ponder
-Prosperous Thief
 Demonic Tutor
 Sol Ring
-Sakashima's Student
-Satoru Umezawa
-Satoru, the Infiltrator
 Faerie Seer
 Force of Negation
 Treasure Cruise
 Shadow of Mortality
 Temporal Mastery
-Scroll Rack
-Sensei's Divining Top
-Shizo, Death's Storehouse
-Silver-Fur Master
+Mist-Syndicate Naga
+Mistblade Shinobi
+Moon-Circuit Hacker
+Morphic Pool
+Mothdust Changeling
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Nanogene Conversion
+Nashi, Moon Sage's Scion

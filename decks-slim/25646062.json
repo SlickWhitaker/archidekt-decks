@@ -486,6 +486,20 @@
       "text": "Other Merfolk creatures you control get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)"
     },
     {
+      "name": "Merfolk Sovereign",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Merfolk Noble",
+      "text": "Other Merfolk creatures you control get +1/+1.\n{T}: Target Merfolk creature can't be blocked this turn."
+    },
+    {
       "name": "Summon: Leviathan",
       "quantity": 1,
       "board": "main",
@@ -800,20 +814,6 @@
       "manaValue": 2,
       "type": "Creature — Merfolk Shaman",
       "text": "Other Merfolk you control get +1/+1."
-    },
-    {
-      "name": "Merfolk Sovereign",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Merfolk Noble",
-      "text": "Other Merfolk creatures you control get +1/+1.\n{T}: Target Merfolk creature can't be blocked this turn."
     },
     {
       "name": "Merrow Commerce",
