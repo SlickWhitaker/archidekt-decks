@@ -32,6 +32,12 @@ Command Tower
 Exotic Orchard
 Farseek
 Fire-Lit Thicket
+Firion, Wild Rose Warrior
+Forest
+Forest
+Forest
+Fortified Village
+Furycalm Snarl
 Gongaga, Reactor Town
 Iron Hills Blacksmith
 Kíli the Resourceful
@@ -56,17 +62,11 @@ Red XIII, Proud Warrior
 Rogue's Passage
 Rootbound Crag
 Rugged Prairie
+Sephiroth, Fallen Hero
 Sacred Peaks
 Scavenger Grounds
-Sephiroth, Fallen Hero
-Sheltered Thicket
-Sigarda's Aid
-Skullclamp
-Slayers' Stronghold
-Sol Ring
-Sphere Grid
-Spire of Industry
 Stoneforge Mystic
+Sheltered Thicket
 Summon: Kujata
 Summoning Materia
 Sungrass Prairie
@@ -92,9 +92,9 @@ Sword of Feast and Famine
 Kaldra Compleat
 Armored Skyhunter
 Sram, Senior Edificer
-Firion, Wild Rose Warrior
-Forest
-Forest
-Forest
-Fortified Village
-Furycalm Snarl
+Sigarda's Aid
+Skullclamp
+Slayers' Stronghold
+Sol Ring
+Sphere Grid
+Spire of Industry

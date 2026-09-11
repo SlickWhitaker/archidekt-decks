@@ -37,13 +37,6 @@ Kindred Discovery
 Ledger Shredder
 Mabel, Heir to Cragflame
 Martial Coup
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Migratory Route
 Mind Stone
 Mountain
@@ -54,6 +47,13 @@ Ornithopter of Paradise
 Path of Ancestry
 Path to Exile
 Plains
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Plumecreed Escort
 Pollywog Prodigy
 Rally the Ranks

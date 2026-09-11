@@ -42,6 +42,17 @@ Louisoix's Sacrifice
 Mana Drain
 Memnite
 Misdirection
+Mist-Syndicate Naga
+Mistblade Shinobi
+Moon-Circuit Hacker
+Morphic Pool
+Mothdust Changeling
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Nanogene Conversion
+Nashi, Moon Sage's Scion
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
@@ -85,14 +96,3 @@ Force of Negation
 Treasure Cruise
 Shadow of Mortality
 Temporal Mastery
-Mist-Syndicate Naga
-Mistblade Shinobi
-Moon-Circuit Hacker
-Morphic Pool
-Mothdust Changeling
-Muddle the Mixture
-Mystic Remora
-Mystic Sanctuary
-Mystical Tutor
-Nanogene Conversion
-Nashi, Moon Sage's Scion

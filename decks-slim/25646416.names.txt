@@ -40,34 +40,12 @@ Heroic Intervention
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Lightning Greaves
 Llanowar Elves
 Misty Rainforest
 Mountain
 Natural Order
 Nature's Lore
-Beast Within
-Uktabi Orangutan
-Liquimetal Torque
-Gearbane Orangutan
-Kibo, Uktabi Prince
-Kogla, the Titan Ape
-Scrounging Bandar
-Viridian Revel
-Gorilla Shaman
-Taurean Mauler
-Inspiring Call
-Liquimetal Coating
-Silverback Elder
-Yavimaya Steelcrusher
 Nykthos, Shrine to Nyx
 Old Gnawbone
 Orcish Lumberjack
@@ -92,3 +70,25 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Verdant Catacombs
+Veil of Summer
+Wasteland
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Kibo, Uktabi Prince
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Beast Within
+Uktabi Orangutan
+Liquimetal Torque
+Gearbane Orangutan
+Kogla, the Titan Ape
+Scrounging Bandar
+Viridian Revel
+Gorilla Shaman
+Taurean Mauler
+Inspiring Call
+Liquimetal Coating
+Silverback Elder
+Yavimaya Steelcrusher
