@@ -39,20 +39,6 @@ Merrow Harbinger
 Merrow Reejerey
 Metallic Mimic
 Misty Rainforest
-Mutavault
-Namor the Sub-Mariner
-Nicanzil, Current Conductor
-Path of Ancestry
-Ponder
-Pongify
-Raise the Palisade
-Rapid Hybridization
-Realmwalker
-Reflections of Littjara
-Rejuvenating Springs
-Ripples of Potential
-Roaming Throne
-Secluded Courtyard
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -75,11 +61,25 @@ Silvergill Adept
 Boseiju, Who Endures
 Hakbal of the Surging Soul
 Fierce Guardianship
+Cryptolith Rite
+Merfolk Mistbinder
+Mutavault
+Namor the Sub-Mariner
+Nicanzil, Current Conductor
+Path of Ancestry
+Ponder
+Pongify
+Raise the Palisade
+Rapid Hybridization
+Realmwalker
+Reflections of Littjara
+Rejuvenating Springs
+Ripples of Potential
+Roaming Throne
+Secluded Courtyard
 Singer of Swift Rivers
 Sodden Verdure
 Sol Ring
 Spell Pierce
 Starting Town
 Stubborn Denial
-Cryptolith Rite
-Merfolk Mistbinder

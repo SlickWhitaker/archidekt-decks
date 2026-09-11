@@ -51,11 +51,6 @@ Sangromancer
 Sepulchral Primordial
 Shrieking Affliction
 Sign in Blood
-Geth's Grimoire
-Waste Not
-Lightning Greaves
-Tinybones, Trinket Thief
-Scavenger Grounds
 Smallpox
 Sol Ring
 Springleaf Drum
@@ -66,6 +61,11 @@ Tinybones Joins Up
 Tinybones, Bauble Burglar
 Unearth
 Virus Beetle
+Geth's Grimoire
+Waste Not
+Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds
 War Room
 Wheel of Torture
 Will of the Abzan
