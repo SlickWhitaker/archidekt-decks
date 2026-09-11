@@ -47,14 +47,6 @@ Mana Echoes
 Marvin, Murderous Mimic
 Metallic Mimic
 Mogg War Marshal
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-War Room
-Arena of Glory
-Sokenzan, Crucible of Defiance
-Krenko, Mob Boss
-Goblin Piledriver
 Moggcatcher
 Mountain
 Muxus, Goblin Grandee
@@ -64,6 +56,14 @@ Purphoros, God of the Forge
 Ragavan, Nimble Pilferer
 Rings of Brighthearth
 Ruby Medallion
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+War Room
+Arena of Glory
+Sokenzan, Crucible of Defiance
+Krenko, Mob Boss
+Goblin Piledriver
 Rundvelt Hordemaster
 Shared Animosity
 Skirk Fire Marshal

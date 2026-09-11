@@ -58,12 +58,10 @@ Oakhollow Village
 Polluted Delta
 Pond Prophet
 Rejuvenating Springs
-Riverchurn Monument
-Shifting Woodland
-Snapcaster Mage
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
+Riverchurn Monument
 Summon: Titan
 Swan Song
 Thassa's Oracle
@@ -75,6 +73,14 @@ Veil of Summer
 Venser, Shaper Savant
 Verdant Catacombs
 Visions of Beyond
+Waterlogged Grove
+Wilderness Reclamation
+Willowrush Verge
+Windswept Heath
+Wooded Foothills
+World Shaper
+Yavimaya, Cradle of Growth
+Zuran Orb
 Grolnok, the Omnivore
 Maskwood Nexus
 Spore Frog
@@ -86,11 +92,5 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
-Waterlogged Grove
-Wilderness Reclamation
-Willowrush Verge
-Windswept Heath
-Wooded Foothills
-World Shaper
-Yavimaya, Cradle of Growth
-Zuran Orb
+Shifting Woodland
+Snapcaster Mage

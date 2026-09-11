@@ -458,6 +458,48 @@
       "text": "{T}: Add {G}."
     },
     {
+      "name": "Gamble",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle."
+    },
+    {
+      "name": "Greater Good",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
+    },
+    {
+      "name": "Green Sun's Zenith",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Search your library for a green creature card with mana value X or less, put it onto the battlefield, then shuffle. Shuffle Green Sun's Zenith into its owner's library."
+    },
+    {
       "name": "Hardened Scales",
       "quantity": 1,
       "board": "main",
@@ -996,20 +1038,6 @@
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
-      "name": "Beast Within",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
-    },
-    {
       "name": "Uktabi Orangutan",
       "quantity": 1,
       "board": "main",
@@ -1046,6 +1074,20 @@
       "manaValue": 3,
       "type": "Creature — Ape",
       "text": "Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature."
+    },
+    {
+      "name": "Beast Within",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
     },
     {
       "name": "Kibo, Uktabi Prince",
@@ -1183,48 +1225,6 @@
       "manaValue": 2,
       "type": "Creature — Warrior Ape",
       "text": "Enlist (As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)\n{1}, Sacrifice this creature: Destroy target artifact."
-    },
-    {
-      "name": "Gamble",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle."
-    },
-    {
-      "name": "Greater Good",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
-    },
-    {
-      "name": "Green Sun's Zenith",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Search your library for a green creature card with mana value X or less, put it onto the battlefield, then shuffle. Shuffle Green Sun's Zenith into its owner's library."
     }
   ]
 }

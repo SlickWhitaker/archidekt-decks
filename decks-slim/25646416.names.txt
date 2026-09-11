@@ -32,6 +32,9 @@ Finale of Devastation
 Fire-Lit Thicket
 Forest
 Fyndhorn Elves
+Gamble
+Greater Good
+Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -75,10 +78,10 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Beast Within
 Uktabi Orangutan
 Liquimetal Torque
 Gearbane Orangutan
+Beast Within
 Kibo, Uktabi Prince
 Kogla, the Titan Ape
 Scrounging Bandar
@@ -89,6 +92,3 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
-Gamble
-Greater Good
-Green Sun's Zenith

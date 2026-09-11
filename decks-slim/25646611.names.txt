@@ -22,17 +22,34 @@ Everlasting Torment
 Exquisite Blood
 Feed the Swarm
 Fellwar Stone
+Fiery Confluence
+Fire Covenant
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
 Kaervek the Merciless
 Kardur, Doomscourge
+Jet Medallion
 Kederekt Parasite
+Razorkin Needlehead
+Repercussion
+Roiling Vortex
+Shadowblood Ridge
+Sheoldred, the Apocalypse
 Lightning Greaves
 Luxury Suite
+Sheoldred's Edict
 Mayhem Devil
 Mogis, God of Slaughter
 Mountain
+Shivan Gorge
 Necropotence
 Ob Nixilis, Captive Kingpin
 Obosh, the Preypiercer
+Smoldering Marsh
 Opposition Agent
 Orcish Bowmasters
 Painful Quandary
@@ -40,23 +57,6 @@ Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
-Razorkin Needlehead
-Repercussion
-Roiling Vortex
-Shadowblood Ridge
-Sheoldred, the Apocalypse
-Sheoldred's Edict
-Shivan Gorge
-Smoldering Marsh
-Sol Ring
-Spellshock
-Spinerock Knoll
-Spiteful Visions
-Sulfuric Vortex
-Sulfurous Springs
-Swamp
-Syr Konrad, the Grim
-Tainted Peak
 Takenuma, Abandoned Mire
 Talisman of Indulgence
 Terminate
@@ -76,12 +76,12 @@ Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
 Blood Seeker
-Fiery Confluence
-Fire Covenant
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
+Sol Ring
+Spellshock
+Spinerock Knoll
+Spiteful Visions
+Sulfuric Vortex
+Sulfurous Springs
+Swamp
+Syr Konrad, the Grim
+Tainted Peak

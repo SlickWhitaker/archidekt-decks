@@ -24,7 +24,6 @@ Empyrean Eagle
 Esior, Wardwing Familiar
 Evolving Wilds
 Exotic Orchard
-Warren Warleader
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
@@ -72,6 +71,13 @@ Steam Vents
 Storm of Souls
 Sulfur Falls
 Sunscorched Divide
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Swords to Plowshares
 Temple of Enlightenment
 Temple of Triumph
@@ -84,9 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
-Watcher of the Spheres
