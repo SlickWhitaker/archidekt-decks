@@ -47,13 +47,6 @@ Ornithopter of Paradise
 Path of Ancestry
 Path to Exile
 Plains
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Plumecreed Escort
 Pollywog Prodigy
 Rally the Ranks
@@ -90,3 +83,10 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Zinnia, Valley's Voice
+Warren Warleader
+Watcher of the Spheres
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host

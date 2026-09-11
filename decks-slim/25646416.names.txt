@@ -38,6 +38,7 @@ Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
+Veil of Summer
 Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
 Lightning Greaves
@@ -71,12 +72,10 @@ Three Visits
 Tooth and Nail
 Vandalblast
 Verdant Catacombs
-Veil of Summer
 Wasteland
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
-Kibo, Uktabi Prince
 Yavimaya, Cradle of Growth
 Zealous Conscripts
 Beast Within
@@ -85,10 +84,11 @@ Liquimetal Torque
 Gearbane Orangutan
 Kogla, the Titan Ape
 Scrounging Bandar
+Kibo, Uktabi Prince
 Viridian Revel
-Gorilla Shaman
 Taurean Mauler
 Inspiring Call
+Gorilla Shaman
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher

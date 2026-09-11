@@ -541,6 +541,20 @@
       "text": "{T}: Add {C}.\n{T}: Add {R} or {G}. This land deals 1 damage to you."
     },
     {
+      "name": "Veil of Summer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
+    },
+    {
       "name": "Kiki-Jiki, Mirror Breaker",
       "quantity": 1,
       "board": "main",
@@ -956,20 +970,6 @@
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
     },
     {
-      "name": "Veil of Summer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
-    },
-    {
       "name": "Wasteland",
       "quantity": 1,
       "board": "main",
@@ -1012,21 +1012,6 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Search your library for a creature card, reveal it, then shuffle and put the card on top."
-    },
-    {
-      "name": "Kibo, Uktabi Prince",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Monkey Noble",
-      "text": "{T}: Each player creates a colorless artifact token named Banana with \"{T}, Sacrifice this token: Add {R} or {G}. You gain 2 life.\"\nWhenever an artifact an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on each creature you control that's an Ape or a Monkey.\nWhenever Kibo attacks, defending player sacrifices an artifact of their choice."
     },
     {
       "name": "Yavimaya, Cradle of Growth",
@@ -1133,6 +1118,21 @@
       "text": "This creature enters with two +1/+1 counters on it.\nAt the beginning of your upkeep, you may move any number of +1/+1 counters from this creature onto another target creature."
     },
     {
+      "name": "Kibo, Uktabi Prince",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Monkey Noble",
+      "text": "{T}: Each player creates a colorless artifact token named Banana with \"{T}, Sacrifice this token: Add {R} or {G}. You gain 2 life.\"\nWhenever an artifact an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on each creature you control that's an Ape or a Monkey.\nWhenever Kibo attacks, defending player sacrifices an artifact of their choice."
+    },
+    {
       "name": "Viridian Revel",
       "quantity": 1,
       "board": "main",
@@ -1145,20 +1145,6 @@
       "manaValue": 3,
       "type": "Enchantment",
       "text": "Whenever an artifact is put into an opponent's graveyard from the battlefield, you may draw a card."
-    },
-    {
-      "name": "Gorilla Shaman",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Ape Shaman",
-      "text": "{X}{X}{1}: Destroy target noncreature artifact with mana value X."
     },
     {
       "name": "Taurean Mauler",
@@ -1187,6 +1173,20 @@
       "manaValue": 3,
       "type": "Instant",
       "text": "Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)"
+    },
+    {
+      "name": "Gorilla Shaman",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Ape Shaman",
+      "text": "{X}{X}{1}: Destroy target noncreature artifact with mana value X."
     },
     {
       "name": "Liquimetal Coating",

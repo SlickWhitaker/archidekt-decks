@@ -39,17 +39,6 @@ Forest
 Fortified Village
 Furycalm Snarl
 Gongaga, Reactor Town
-Iron Hills Blacksmith
-Kíli the Resourceful
-Lightning Greaves
-Mask of Memory
-Mithril Coat
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
 Path of Ancestry
 Path to Exile
 Plains
@@ -62,11 +51,17 @@ Red XIII, Proud Warrior
 Rogue's Passage
 Rootbound Crag
 Rugged Prairie
-Sephiroth, Fallen Hero
 Sacred Peaks
 Scavenger Grounds
-Stoneforge Mystic
+Sephiroth, Fallen Hero
 Sheltered Thicket
+Sigarda's Aid
+Skullclamp
+Slayers' Stronghold
+Sol Ring
+Sphere Grid
+Spire of Industry
+Stoneforge Mystic
 Summon: Kujata
 Summoning Materia
 Sungrass Prairie
@@ -92,9 +87,14 @@ Sword of Feast and Famine
 Kaldra Compleat
 Armored Skyhunter
 Sram, Senior Edificer
-Sigarda's Aid
-Skullclamp
-Slayers' Stronghold
-Sol Ring
-Sphere Grid
-Spire of Industry
+Iron Hills Blacksmith
+Kíli the Resourceful
+Lightning Greaves
+Mask of Memory
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will
