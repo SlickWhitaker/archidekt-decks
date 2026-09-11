@@ -93,7 +93,10 @@
         "Red",
         "Blue"
       ],
-      "colorIdentity": [],
+      "colorIdentity": [
+        "Blue",
+        "Red"
+      ],
       "manaValue": 3,
       "type": "Artifact — Vehicle",
       "text": "Menace\nWhenever you attack, draw a card, then discard a card.\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"

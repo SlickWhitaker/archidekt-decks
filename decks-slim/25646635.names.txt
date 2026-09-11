@@ -60,16 +60,6 @@ Ornithopter
 Otawara, Soaring City
 Pact of Negation
 Phyrexian Walker
-Polluted Delta
-Ponder
-Prosperous Thief
-Sakashima's Student
-Satoru Umezawa
-Satoru, the Infiltrator
-Scroll Rack
-Sensei's Divining Top
-Shizo, Death's Storehouse
-Silver-Fur Master
 Sink into Stupor // Soporific Springs
 Skullsnatcher
 Slither Blade
@@ -89,10 +79,20 @@ Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
 Yuriko, the Tiger's Shadow
+Polluted Delta
+Ponder
+Prosperous Thief
 Demonic Tutor
 Sol Ring
+Sakashima's Student
+Satoru Umezawa
+Satoru, the Infiltrator
 Faerie Seer
 Force of Negation
 Treasure Cruise
 Shadow of Mortality
 Temporal Mastery
+Scroll Rack
+Sensei's Divining Top
+Shizo, Death's Storehouse
+Silver-Fur Master

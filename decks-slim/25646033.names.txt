@@ -58,10 +58,12 @@ Oakhollow Village
 Polluted Delta
 Pond Prophet
 Rejuvenating Springs
+Riverchurn Monument
+Shifting Woodland
+Snapcaster Mage
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
-Riverchurn Monument
 Summon: Titan
 Swan Song
 Thassa's Oracle
@@ -92,5 +94,3 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
-Shifting Woodland
-Snapcaster Mage

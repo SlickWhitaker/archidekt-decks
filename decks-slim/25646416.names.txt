@@ -40,6 +40,14 @@ Heroic Intervention
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
 Lightning Greaves
 Llanowar Elves
 Misty Rainforest
@@ -52,6 +60,7 @@ Orcish Lumberjack
 Prismatic Vista
 Railway Brawler
 Rhythm of the Wild
+Beast Within
 Rockfall Vale
 Rootbound Crag
 Scalding Tarn
@@ -70,25 +79,16 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
-Uktabi Orangutan
 Liquimetal Torque
+Uktabi Orangutan
 Gearbane Orangutan
-Beast Within
 Kibo, Uktabi Prince
 Kogla, the Titan Ape
-Scrounging Bandar
 Viridian Revel
+Scrounging Bandar
 Gorilla Shaman
 Taurean Mauler
 Inspiring Call
-Liquimetal Coating
 Silverback Elder
+Liquimetal Coating
 Yavimaya Steelcrusher
