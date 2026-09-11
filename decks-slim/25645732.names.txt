@@ -39,6 +39,10 @@ Forest
 Fortified Village
 Furycalm Snarl
 Gongaga, Reactor Town
+Iron Hills Blacksmith
+Kíli the Resourceful
+Lightning Greaves
+Mask of Memory
 Path of Ancestry
 Path to Exile
 Plains
@@ -87,10 +91,6 @@ Sword of Feast and Famine
 Kaldra Compleat
 Armored Skyhunter
 Sram, Senior Edificer
-Iron Hills Blacksmith
-Kíli the Resourceful
-Lightning Greaves
-Mask of Memory
 Mithril Coat
 Mossfire Valley
 Mountain

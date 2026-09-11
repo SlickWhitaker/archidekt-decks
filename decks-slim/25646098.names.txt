@@ -33,12 +33,13 @@ Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
-Heroes in a Half Shell
 Heroic Intervention
 Hidden Hideout
+Heroes in a Half Shell
 Hinterland Harbor
 Island
 Jetmir's Garden
+Ozolith, the Shattered Spire
 Kami of Whispered Hopes
 Kindred Dominance
 Kodama's Reach
@@ -54,14 +55,12 @@ Mountain
 Ninja Pizza
 Ojer Taq, Deepest Foundation // Temple of Civilization
 Reflecting Pool
-Ozolith, the Shattered Spire
-Parallel Lives
-Path of Ancestry
-Plains
-Plaza of Heroes
-Raffine's Tower
-Raphael, the Muscle
-Rat King, Pale Piper
+Rocco, Street Chef
+Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
@@ -85,9 +84,10 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Rocco, Street Chef
-Shellshock
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden
+Parallel Lives
+Path of Ancestry
+Plains
+Plaza of Heroes
+Raffine's Tower
+Raphael, the Muscle
+Rat King, Pale Piper

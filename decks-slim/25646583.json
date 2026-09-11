@@ -1209,20 +1209,6 @@
       "text": "Destroy target creature. If that creature dies this way, its controller creates two tokens that are copies of that creature, except their power is half that creature's power and their toughness is half that creature's toughness. Round up each time."
     },
     {
-      "name": "Heroic Intervention",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Permanents you control gain hexproof and indestructible until end of turn."
-    },
-    {
       "name": "Animate Dead",
       "quantity": 1,
       "board": "main",
@@ -1253,6 +1239,20 @@
       "manaValue": 3,
       "type": "Legendary Creature — Ooze",
       "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
+    },
+    {
+      "name": "Heroic Intervention",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Permanents you control gain hexproof and indestructible until end of turn."
     },
     {
       "name": "Chthonian Nightmare",
