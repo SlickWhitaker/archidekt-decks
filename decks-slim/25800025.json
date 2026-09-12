@@ -234,19 +234,6 @@
       "text": "{T}: Add {U}.\nChannel — {3}{U}, Discard this card: Return target artifact, creature, enchantment, or planeswalker to its owner's hand. This ability costs {1} less to activate for each legendary creature you control."
     },
     {
-      "name": "Hallowed Fountain",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Island",
-      "text": "({T}: Add {W} or {U}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
-    },
-    {
       "name": "Temple Garden",
       "quantity": 1,
       "board": "main",
@@ -258,6 +245,19 @@
       "manaValue": 0,
       "type": "Land — Plains Forest",
       "text": "({T}: Add {G} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Hallowed Fountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Island",
+      "text": "({T}: Add {W} or {U}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     },
     {
       "name": "Bountiful Promenade",
@@ -1082,20 +1082,6 @@
       "text": "Partner with Chakram Slinger (When this creature enters, target player may put Chakram Slinger into their hand from their library, then shuffle.)\nWhenever you cast a spell during your turn, untap target creature."
     },
     {
-      "name": "Garruk's Uprising",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card."
-    },
-    {
       "name": "Blinking Spirit",
       "quantity": 1,
       "board": "main",
@@ -1108,6 +1094,20 @@
       "manaValue": 4,
       "type": "Creature — Spirit",
       "text": "{0}: Return this creature to its owner's hand."
+    },
+    {
+      "name": "Garruk's Uprising",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card."
     },
     {
       "name": "Beast Whisperer",
@@ -1140,20 +1140,6 @@
       "text": "Creatures you control have vigilance and \"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.\"\nWhenever you cast a creature spell, if three or more mana from creatures was spent to cast it, draw a card."
     },
     {
-      "name": "Saryth, the Viper's Fang",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human Warlock",
-      "text": "Other tapped creatures you control have deathtouch.\nOther untapped creatures you control have hexproof.\n{1}, {T}: Untap another target creature or land you control."
-    },
-    {
       "name": "Kiora's Follower",
       "quantity": 1,
       "board": "main",
@@ -1168,6 +1154,20 @@
       "manaValue": 2,
       "type": "Creature — Merfolk",
       "text": "{T}: Untap another target permanent."
+    },
+    {
+      "name": "Saryth, the Viper's Fang",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Warlock",
+      "text": "Other tapped creatures you control have deathtouch.\nOther untapped creatures you control have hexproof.\n{1}, {T}: Untap another target creature or land you control."
     },
     {
       "name": "Foundation Breaker",

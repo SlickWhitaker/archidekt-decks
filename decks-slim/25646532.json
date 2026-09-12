@@ -499,20 +499,6 @@
       "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card."
     },
     {
-      "name": "Mindlash Sliver",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Sliver",
-      "text": "All Slivers have \"{1}, Sacrifice this permanent: Each player discards a card.\""
-    },
-    {
       "name": "Nezumi Informant",
       "quantity": 1,
       "board": "main",
@@ -953,6 +939,20 @@
       "manaValue": 0,
       "type": "Land — Desert",
       "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
+    },
+    {
+      "name": "Mindlash Sliver",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Sliver",
+      "text": "All Slivers have \"{1}, Sacrifice this permanent: Each player discards a card.\""
     },
     {
       "name": "Necrogen Mists",

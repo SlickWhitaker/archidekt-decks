@@ -25,6 +25,16 @@ Deflecting Swat
 Delighted Halfling
 Eldritch Evolution
 Elvish Mystic
+Eternal Witness
+Exploration
+Fauna Shaman
+Finale of Devastation
+Fire-Lit Thicket
+Forest
+Fyndhorn Elves
+Gamble
+Greater Good
+Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -37,7 +47,15 @@ Mountain
 Natural Order
 Nature's Lore
 Nykthos, Shrine to Nyx
+Veil of Summer
 Old Gnawbone
+Verdant Catacombs
+Wasteland
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
 Orcish Lumberjack
 Prismatic Vista
 Railway Brawler
@@ -46,11 +64,16 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
+Beast Within
 Selvala, Heart of the Wilds
 Skullclamp
 Sol Ring
 Spire Garden
 Stomping Ground
+Uktabi Orangutan
+Liquimetal Torque
+Gearbane Orangutan
+Kibo, Uktabi Prince
 Strip Mine
 Sylvan Library
 Terror of the Peaks
@@ -58,37 +81,14 @@ The Great Henge
 The One Ring
 The Ozolith
 Three Visits
-Tooth and Nail
-Vandalblast
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
-Beast Within
-Uktabi Orangutan
-Eternal Witness
-Exploration
-Fauna Shaman
-Finale of Devastation
-Fire-Lit Thicket
-Forest
-Fyndhorn Elves
-Liquimetal Torque
-Gearbane Orangutan
-Kibo, Uktabi Prince
 Kogla, the Titan Ape
 Scrounging Bandar
+Tooth and Nail
 Viridian Revel
-Gorilla Shaman
+Vandalblast
 Taurean Mauler
+Gorilla Shaman
 Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
-Gamble
-Greater Good
-Green Sun's Zenith

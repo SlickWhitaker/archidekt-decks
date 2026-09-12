@@ -44,15 +44,6 @@ Kishla Village
 Laboratory Maniac
 Life from the Loam
 Lilypad Village
-Long River Lurker
-Lotus Cobra
-Mana Confluence
-Mana Drain
-Mesmeric Orb
-Millikin
-Mistrise Village
-Misty Rainforest
-Mystic Sanctuary
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -86,10 +77,19 @@ Zuran Orb
 Grolnok, the Omnivore
 Maskwood Nexus
 Spore Frog
-Froghemoth
 Clifftop Lookout
 Poison Dart Frog
+Long River Lurker
+Lotus Cobra
+Mana Confluence
+Mana Drain
+Mesmeric Orb
+Millikin
+Mistrise Village
+Misty Rainforest
+Mystic Sanctuary
 Valley Mightcaller
+Froghemoth
 Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within

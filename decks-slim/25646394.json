@@ -841,6 +841,16 @@
       "text": "If you would create one or more Treasure tokens, instead create those tokens plus an additional Treasure token."
     },
     {
+      "name": "Mana Vault",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "This artifact doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap this artifact.\nAt the beginning of your draw step, if this artifact is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}."
+    },
+    {
       "name": "Weftstalker Ardent",
       "quantity": 1,
       "board": "main",
@@ -853,16 +863,6 @@
       "manaValue": 3,
       "type": "Creature — Artificer Drix",
       "text": "Whenever another creature or artifact you control enters, this creature deals 1 damage to each opponent.\nWarp {R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
-    },
-    {
-      "name": "Mana Vault",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "This artifact doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap this artifact.\nAt the beginning of your draw step, if this artifact is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}."
     },
     {
       "name": "Monument to Endurance",

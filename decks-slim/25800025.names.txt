@@ -14,8 +14,8 @@ Swords to Plowshares
 Noble Hierarch
 Emiel the Blessed
 Otawara, Soaring City
-Hallowed Fountain
 Temple Garden
+Hallowed Fountain
 Bountiful Promenade
 Sea of Clouds
 Phyrexian Metamorph
@@ -79,12 +79,12 @@ Intruder Alarm
 Verdant Catacombs
 Phantasmal Image
 Chakram Retriever
-Garruk's Uprising
 Blinking Spirit
+Garruk's Uprising
 Beast Whisperer
 Inga and Esika
-Saryth, the Viper's Fang
 Kiora's Follower
+Saryth, the Viper's Fang
 Foundation Breaker
 Forest
 Mystic Snake

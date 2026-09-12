@@ -25,9 +25,16 @@ Esior, Wardwing Familiar
 Evolving Wilds
 Exotic Orchard
 Fellwar Stone
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Ferrous Lake
 Flawless Maneuver
 Glacial Fortress
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Impact Tremors
 Island
 Izzet Signet
@@ -72,13 +79,6 @@ Storm of Souls
 Sulfur Falls
 Sunscorched Divide
 Swords to Plowshares
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Temple of Enlightenment
 Temple of Triumph
 Terramorphic Expanse

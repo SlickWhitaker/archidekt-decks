@@ -65,7 +65,6 @@ Sunset Revelry
 Supreme Verdict
 Swords to Plowshares
 Talisman of Conviction
-Talisman of Progress
 Verge Rangers
 Village Bell-Ringer
 Visions of Glory
@@ -73,6 +72,7 @@ Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
+Talisman of Progress
 Taunt from the Rampart
 Terramorphic Expanse
 The Mountain-king's Return
