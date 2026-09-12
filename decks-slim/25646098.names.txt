@@ -53,6 +53,7 @@ Mondrak, Glory Dominus
 Mountain
 Ninja Pizza
 Ojer Taq, Deepest Foundation // Temple of Civilization
+Reflecting Pool
 Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
@@ -62,13 +63,10 @@ Raffine's Tower
 Raphael, the Muscle
 Rat King, Pale Piper
 Splinter, the Mentor
-Reflecting Pool
-Rocco, Street Chef
-Shellshock
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden
+Steelbane Hydra
+Stomping Ground
+Sunken Hollow
+Super Combo
 Swamp
 Swan Song
 Swords to Plowshares
@@ -87,7 +85,9 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Steelbane Hydra
-Stomping Ground
-Sunken Hollow
-Super Combo
+Rocco, Street Chef
+Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden

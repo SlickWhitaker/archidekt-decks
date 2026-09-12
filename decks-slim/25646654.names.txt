@@ -35,13 +35,6 @@ Jacked Rabbit
 Jubilant Skybonder
 Kindred Discovery
 Ledger Shredder
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Mabel, Heir to Cragflame
 Martial Coup
 Migratory Route
@@ -79,6 +72,13 @@ Storm of Souls
 Sulfur Falls
 Sunscorched Divide
 Swords to Plowshares
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Temple of Enlightenment
 Temple of Triumph
 Terramorphic Expanse

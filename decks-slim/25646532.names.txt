@@ -35,8 +35,6 @@ Megrim
 Mind Rake
 Mind Stone
 Mindlash Sliver
-Necrogen Mists
-Necrogoyf
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
 Oppression
@@ -45,17 +43,12 @@ Phyrexian Reclamation
 Psychosis Crawler
 Quest for the Nihil Stone
 Rankle, Master of Pranks
-Geth's Grimoire
 Rankle's Prank
-Waste Not
 Rotting Rats
 Sangromancer
 Sepulchral Primordial
 Shrieking Affliction
 Sign in Blood
-Lightning Greaves
-Tinybones, Trinket Thief
-Scavenger Grounds
 Smallpox
 Sol Ring
 Springleaf Drum
@@ -71,3 +64,10 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
+Geth's Grimoire
+Waste Not
+Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds
+Necrogen Mists
+Necrogoyf

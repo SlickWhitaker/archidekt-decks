@@ -40,30 +40,6 @@ Merrow Reejerey
 Metallic Mimic
 Misty Rainforest
 Mutavault
-Summon: Leviathan
-Svyelun of Sea and Sky
-Swan Song
-Swiftfoot Boots
-The Ozolith
-Thieving Skydiver
-Tishana's Tidebinder
-Triumph of the Hordes
-Tropical Island
-Unclaimed Territory
-Vineglimmer Snarl
-Vodalian Hexcatcher
-Wanderwine Prophets
-Wilderness Reclamation
-Wooded Foothills
-Zegana, Utopian Speaker
-Aether Vial
-Otawara, Soaring City
-Silvergill Adept
-Boseiju, Who Endures
-Hakbal of the Surging Soul
-Fierce Guardianship
-Cryptolith Rite
-Merfolk Mistbinder
 Namor the Sub-Mariner
 Nicanzil, Current Conductor
 Path of Ancestry
@@ -83,3 +59,27 @@ Sol Ring
 Spell Pierce
 Starting Town
 Stubborn Denial
+Aether Vial
+Otawara, Soaring City
+Summon: Leviathan
+Svyelun of Sea and Sky
+Swan Song
+Swiftfoot Boots
+The Ozolith
+Thieving Skydiver
+Tishana's Tidebinder
+Triumph of the Hordes
+Tropical Island
+Unclaimed Territory
+Vineglimmer Snarl
+Vodalian Hexcatcher
+Wanderwine Prophets
+Wilderness Reclamation
+Wooded Foothills
+Zegana, Utopian Speaker
+Silvergill Adept
+Boseiju, Who Endures
+Hakbal of the Surging Soul
+Fierce Guardianship
+Cryptolith Rite
+Merfolk Mistbinder

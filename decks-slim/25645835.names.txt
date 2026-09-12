@@ -43,14 +43,6 @@ Myriad Landscape
 Mystic Monastery
 Nanogene Conversion
 Ominous Cemetery
-Out of Time
-Path of Ancestry
-Plains
-Plains
-Port Town
-Prairie Stream
-Psychic Paper
-Raugrin Triome
 Rhystic Study
 RMS Titanic
 Rogue's Passage
@@ -64,10 +56,16 @@ Sonic Screwdriver
 Spectator Seating
 Star Whale
 Storm-Kiln Artist
+Out of Time
+Path of Ancestry
+Plains
+Plains
 Stormcarved Coast
+Port Town
 Strionic Resonator
 Sunbaked Canyon
 Sundown Pass
+Prairie Stream
 Talisman of Conviction
 Talisman of Creativity
 Talisman of Progress
@@ -94,4 +92,6 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
+Psychic Paper
+Raugrin Triome
 Regenerations Restored
