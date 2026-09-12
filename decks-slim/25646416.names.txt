@@ -15,63 +15,6 @@ Boseiju, Who Endures
 Castle Garenbrig
 Cavern of Souls
 Chaos Warp
-Hardened Scales
-Heroic Intervention
-Karplusan Forest
-Kiki-Jiki, Mirror Breaker
-Kodama of the West Tree
-Lightning Greaves
-Llanowar Elves
-Misty Rainforest
-Mountain
-Natural Order
-Nature's Lore
-Nykthos, Shrine to Nyx
-Old Gnawbone
-Orcish Lumberjack
-Prismatic Vista
-Railway Brawler
-Rhythm of the Wild
-Rockfall Vale
-Rootbound Crag
-Scalding Tarn
-Seedborn Muse
-Selvala, Heart of the Wilds
-Skullclamp
-Sol Ring
-Spire Garden
-Stomping Ground
-Strip Mine
-Sylvan Library
-Terror of the Peaks
-The Great Henge
-The One Ring
-The Ozolith
-Three Visits
-Tooth and Nail
-Vandalblast
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
-Beast Within
-Uktabi Orangutan
-Liquimetal Torque
-Gearbane Orangutan
-Kibo, Uktabi Prince
-Kogla, the Titan Ape
-Scrounging Bandar
-Viridian Revel
-Gorilla Shaman
-Taurean Mauler
-Inspiring Call
-Liquimetal Coating
-Silverback Elder
-Yavimaya Steelcrusher
 Chord of Calling
 Cinder Glade
 Command Tower
@@ -92,3 +35,60 @@ Fyndhorn Elves
 Gamble
 Greater Good
 Green Sun's Zenith
+Hardened Scales
+Heroic Intervention
+Karplusan Forest
+Kiki-Jiki, Mirror Breaker
+Kodama of the West Tree
+Lightning Greaves
+Llanowar Elves
+Misty Rainforest
+Mountain
+Natural Order
+Nature's Lore
+Nykthos, Shrine to Nyx
+Old Gnawbone
+Orcish Lumberjack
+Veil of Summer
+Verdant Catacombs
+Prismatic Vista
+Railway Brawler
+Rhythm of the Wild
+Rockfall Vale
+Rootbound Crag
+Scalding Tarn
+Seedborn Muse
+Wasteland
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Selvala, Heart of the Wilds
+Skullclamp
+Sol Ring
+Spire Garden
+Stomping Ground
+Strip Mine
+Sylvan Library
+Beast Within
+Terror of the Peaks
+The Great Henge
+The One Ring
+The Ozolith
+Three Visits
+Tooth and Nail
+Vandalblast
+Liquimetal Torque
+Gearbane Orangutan
+Uktabi Orangutan
+Kibo, Uktabi Prince
+Kogla, the Titan Ape
+Scrounging Bandar
+Viridian Revel
+Gorilla Shaman
+Taurean Mauler
+Inspiring Call
+Liquimetal Coating
+Silverback Elder
+Yavimaya Steelcrusher

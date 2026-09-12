@@ -2,6 +2,11 @@ Academy Manufactor
 Adrix and Nev, Twincasters
 Anguished Unmaking
 Anim Pakal, Thousandth Moon
+April O'Neil, Live on the Scene
+Arcane Signet
+Ash Barrens
+Assassin's Trophy
+Aura Shards
 Baxter, Fly in the Ointment
 Beast Whisperer
 Beastmaster Ascension
@@ -56,6 +61,7 @@ Plaza of Heroes
 Raffine's Tower
 Raphael, the Muscle
 Rat King, Pale Piper
+Splinter, the Mentor
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
@@ -63,11 +69,6 @@ Skullclamp
 Sodden Verdure
 Sol Ring
 Spire Garden
-Splinter, the Mentor
-Steelbane Hydra
-Stomping Ground
-Sunken Hollow
-Super Combo
 Swamp
 Swan Song
 Swords to Plowshares
@@ -86,8 +87,7 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-April O'Neil, Live on the Scene
-Arcane Signet
-Ash Barrens
-Assassin's Trophy
-Aura Shards
+Steelbane Hydra
+Stomping Ground
+Sunken Hollow
+Super Combo

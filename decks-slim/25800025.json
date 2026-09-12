@@ -366,16 +366,6 @@
       "text": "During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments."
     },
     {
-      "name": "City of Brass",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "Whenever this land becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
-    },
-    {
       "name": "Venser, Shaper Savant",
       "quantity": 1,
       "board": "main",
@@ -388,6 +378,16 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Wizard",
       "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Venser enters, return target spell or permanent to its owner's hand."
+    },
+    {
+      "name": "City of Brass",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "Whenever this land becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color."
     },
     {
       "name": "Peregrine Drake",
