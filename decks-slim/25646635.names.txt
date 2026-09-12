@@ -68,26 +68,22 @@ Satoru Umezawa
 Satoru, the Infiltrator
 Scroll Rack
 Sensei's Divining Top
-Shizo, Death's Storehouse
-Silver-Fur Master
 Sink into Stupor // Soporific Springs
+Shizo, Death's Storehouse
 Skullsnatcher
 Slither Blade
 Snow-Covered Island
+Silver-Fur Master
 Snow-Covered Swamp
 Snuff Out
+Thieving Skydiver
 Starting Town
 Swamp
 Temporal Trespass
 Tetsuko Umezawa, Fugitive
 Thassa's Oracle
-Thieving Skydiver
-Thousand-Faced Shadow
-Throat Slitter
-Underground River
-Vampiric Tutor
-Walker of Secret Ways
 Watery Grave
+Thousand-Faced Shadow
 Yuriko, the Tiger's Shadow
 Demonic Tutor
 Sol Ring
@@ -96,3 +92,7 @@ Force of Negation
 Treasure Cruise
 Shadow of Mortality
 Temporal Mastery
+Throat Slitter
+Underground River
+Vampiric Tutor
+Walker of Secret Ways

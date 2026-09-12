@@ -2,11 +2,6 @@ Academy Manufactor
 Adrix and Nev, Twincasters
 Anguished Unmaking
 Anim Pakal, Thousandth Moon
-April O'Neil, Live on the Scene
-Arcane Signet
-Ash Barrens
-Assassin's Trophy
-Aura Shards
 Baxter, Fly in the Ointment
 Beast Whisperer
 Beastmaster Ascension
@@ -28,6 +23,8 @@ Dragonskull Summit
 Evolving Wilds
 Exotic Orchard
 Fabled Passage
+Felidar Retreat
+Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
@@ -89,5 +86,8 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Felidar Retreat
-Forest
+April O'Neil, Live on the Scene
+Arcane Signet
+Ash Barrens
+Assassin's Trophy
+Aura Shards

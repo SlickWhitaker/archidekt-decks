@@ -43,11 +43,6 @@ Mountain
 Murmuration
 Mystic Monastery
 Nesting Dovehawk
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
 Ornithopter of Paradise
 Path of Ancestry
 Path to Exile
@@ -60,6 +55,13 @@ Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Rose Room Treasurer
 Rugged Prairie
 Seachrome Coast
@@ -71,8 +73,6 @@ Skullclamp
 Skyclave Apparition
 Skycloud Expanse
 Sol Ring
-Cathars' Crusade
-Helm of the Host
 Soulcatchers' Aerie
 Steam Vents
 Storm of Souls

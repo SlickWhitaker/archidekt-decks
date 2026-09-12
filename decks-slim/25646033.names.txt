@@ -31,28 +31,6 @@ Geier Reach Sanitarium
 Glen Elendra Archmage
 Gossip's Talent
 Growth Spiral
-Harrow
-Hedge Shredder
-Hedron Crab
-High Market
-Hinterland Harbor
-Icetill Explorer
-Into the Flood Maw
-Island
-Jace, Wielder of Mysteries
-Kishla Village
-Laboratory Maniac
-Life from the Loam
-Lilypad Village
-Long River Lurker
-Lotus Cobra
-Mana Confluence
-Mana Drain
-Mesmeric Orb
-Millikin
-Mistrise Village
-Misty Rainforest
-Mystic Sanctuary
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -94,3 +72,25 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
+Harrow
+Hedge Shredder
+Hedron Crab
+High Market
+Hinterland Harbor
+Icetill Explorer
+Into the Flood Maw
+Island
+Jace, Wielder of Mysteries
+Kishla Village
+Laboratory Maniac
+Life from the Loam
+Lilypad Village
+Long River Lurker
+Lotus Cobra
+Mana Confluence
+Mana Drain
+Mesmeric Orb
+Millikin
+Mistrise Village
+Misty Rainforest
+Mystic Sanctuary

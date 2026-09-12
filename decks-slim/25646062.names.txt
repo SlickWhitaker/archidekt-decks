@@ -47,13 +47,6 @@ Ponder
 Pongify
 Raise the Palisade
 Rapid Hybridization
-Realmwalker
-Reflections of Littjara
-Rejuvenating Springs
-Ripples of Potential
-Roaming Throne
-Secluded Courtyard
-Singer of Swift Rivers
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -78,6 +71,13 @@ Hakbal of the Surging Soul
 Fierce Guardianship
 Cryptolith Rite
 Merfolk Mistbinder
+Realmwalker
+Reflections of Littjara
+Rejuvenating Springs
+Ripples of Potential
+Roaming Throne
+Secluded Courtyard
+Singer of Swift Rivers
 Sodden Verdure
 Sol Ring
 Spell Pierce

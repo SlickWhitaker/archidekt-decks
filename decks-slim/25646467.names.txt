@@ -62,17 +62,17 @@ Skirk Fire Marshal
 Skirk Prospector
 Valakut Exploration
 Zealous Conscripts
-Skullclamp
-Sol Ring
-Squee, Dubious Monarch
-Staff of Domination
-Thornbite Staff
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 War Room
 Arena of Glory
 Sokenzan, Crucible of Defiance
 Krenko, Mob Boss
 Goblin Piledriver
+Skullclamp
+Sol Ring
+Squee, Dubious Monarch
+Staff of Domination
+Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
