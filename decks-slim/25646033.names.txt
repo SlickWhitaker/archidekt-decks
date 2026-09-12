@@ -53,6 +53,7 @@ Millikin
 Mistrise Village
 Misty Rainforest
 Mystic Sanctuary
+Sol Ring
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -61,9 +62,6 @@ Rejuvenating Springs
 Riverchurn Monument
 Shifting Woodland
 Snapcaster Mage
-Sol Ring
-Splendid Reclamation
-Springheart Nantuko
 Summon: Titan
 Swan Song
 Thassa's Oracle
@@ -94,3 +92,5 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
+Splendid Reclamation
+Springheart Nantuko

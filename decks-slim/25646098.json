@@ -610,82 +610,6 @@
       "text": "Alliance — Whenever another creature you control enters, choose one that hasn't been chosen this turn.\n• Put a +1/+1 counter on Lita.\n• Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n• Scry 1."
     },
     {
-      "name": "Lotho, Corrupt Shirriff",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Black"
-      ],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Rogue Halfling",
-      "text": "Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
-    },
-    {
-      "name": "March of the Multitudes",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Green"
-      ],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreate X 1/1 white Soldier creature tokens with lifelink."
-    },
-    {
-      "name": "Michelangelo, Weirdness to 11",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Mutant Ninja Turtle",
-      "text": "When Michelangelo enters, create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")\nIf one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead."
-    },
-    {
-      "name": "Mikey & Leo, Chaos & Order",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Green"
-      ],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Mutant Ninja Turtle",
-      "text": "Whenever you put a counter on a creature you control, draw a card. This ability triggers only once each turn."
-    },
-    {
-      "name": "Mirkwood Bats",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Bat",
-      "text": "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life."
-    },
-    {
       "name": "Ozolith, the Shattered Spire",
       "quantity": 1,
       "board": "main",
@@ -1180,6 +1104,82 @@
       "manaValue": 2,
       "type": "Legendary Creature — Druid Plant",
       "text": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.\n{3}{G}{G}: Double the number of +1/+1 counters on each creature you control."
+    },
+    {
+      "name": "Lotho, Corrupt Shirriff",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Rogue Halfling",
+      "text": "Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "March of the Multitudes",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreate X 1/1 white Soldier creature tokens with lifelink."
+    },
+    {
+      "name": "Michelangelo, Weirdness to 11",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Mutant Ninja Turtle",
+      "text": "When Michelangelo enters, create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")\nIf one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead."
+    },
+    {
+      "name": "Mikey & Leo, Chaos & Order",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Mutant Ninja Turtle",
+      "text": "Whenever you put a counter on a creature you control, draw a card. This ability triggers only once each turn."
+    },
+    {
+      "name": "Mirkwood Bats",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Bat",
+      "text": "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life."
     },
     {
       "name": "Mona Lisa, Science Geek",
