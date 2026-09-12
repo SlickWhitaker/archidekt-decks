@@ -43,6 +43,10 @@ Mountain
 Murmuration
 Mystic Monastery
 Nesting Dovehawk
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Ornithopter of Paradise
 Path of Ancestry
 Path to Exile
@@ -55,6 +59,9 @@ Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Rose Room Treasurer
 Rugged Prairie
 Seachrome Coast
@@ -83,10 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host

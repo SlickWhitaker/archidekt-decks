@@ -1,4 +1,4 @@
-Grunn, the Lonely King
+Return of the Wildspeaker
 Kird Ape
 Kogla and Yidaro
 Simian Simulacrum
@@ -48,16 +48,7 @@ Natural Order
 Nature's Lore
 Nykthos, Shrine to Nyx
 Old Gnawbone
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Orcish Lumberjack
-Beast Within
 Prismatic Vista
 Railway Brawler
 Rhythm of the Wild
@@ -65,19 +56,6 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
-Uktabi Orangutan
-Liquimetal Torque
-Gearbane Orangutan
-Kibo, Uktabi Prince
-Kogla, the Titan Ape
-Scrounging Bandar
-Viridian Revel
-Gorilla Shaman
-Taurean Mauler
-Inspiring Call
-Liquimetal Coating
-Silverback Elder
-Yavimaya Steelcrusher
 Selvala, Heart of the Wilds
 Skullclamp
 Sol Ring
@@ -92,3 +70,25 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Beast Within
+Uktabi Orangutan
+Liquimetal Torque
+Gearbane Orangutan
+Kibo, Uktabi Prince
+Kogla, the Titan Ape
+Scrounging Bandar
+Viridian Revel
+Gorilla Shaman
+Taurean Mauler
+Inspiring Call
+Liquimetal Coating
+Silverback Elder
+Yavimaya Steelcrusher

@@ -43,6 +43,8 @@ Mana Drain
 Memnite
 Misdirection
 Mist-Syndicate Naga
+Mistblade Shinobi
+Moon-Circuit Hacker
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
@@ -86,8 +88,6 @@ Force of Negation
 Treasure Cruise
 Shadow of Mortality
 Temporal Mastery
-Mistblade Shinobi
-Moon-Circuit Hacker
 Morphic Pool
 Mothdust Changeling
 Muddle the Mixture
