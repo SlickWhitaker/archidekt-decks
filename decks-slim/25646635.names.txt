@@ -30,6 +30,19 @@ Force of Despair
 Force of Will
 Gloomlake Verge
 Grafdigger's Cage
+Halimar Depths
+Hydroelectric Specimen // Hydroelectric Laboratory
+Ingenious Infiltrator
+Ink-Eyes, Servant of Oni
+Island
+Kaito, Bane of Nightmares
+Lim-Dûl's Vault
+Lotus Petal
+Louisoix's Sacrifice
+Mana Drain
+Memnite
+Misdirection
+Mist-Syndicate Naga
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
@@ -39,7 +52,6 @@ Pact of Negation
 Phyrexian Walker
 Polluted Delta
 Ponder
-Halimar Depths
 Prosperous Thief
 Sakashima's Student
 Satoru Umezawa
@@ -74,18 +86,6 @@ Force of Negation
 Treasure Cruise
 Shadow of Mortality
 Temporal Mastery
-Hydroelectric Specimen // Hydroelectric Laboratory
-Ingenious Infiltrator
-Ink-Eyes, Servant of Oni
-Island
-Kaito, Bane of Nightmares
-Lim-Dûl's Vault
-Lotus Petal
-Louisoix's Sacrifice
-Mana Drain
-Memnite
-Misdirection
-Mist-Syndicate Naga
 Mistblade Shinobi
 Moon-Circuit Hacker
 Morphic Pool

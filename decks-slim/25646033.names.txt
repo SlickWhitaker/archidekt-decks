@@ -44,6 +44,15 @@ Kishla Village
 Laboratory Maniac
 Life from the Loam
 Lilypad Village
+Long River Lurker
+Lotus Cobra
+Mana Confluence
+Mana Drain
+Mesmeric Orb
+Millikin
+Mistrise Village
+Misty Rainforest
+Mystic Sanctuary
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -52,17 +61,16 @@ Rejuvenating Springs
 Riverchurn Monument
 Shifting Woodland
 Snapcaster Mage
+Summon: Titan
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
-Summon: Titan
-Swan Song
-Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
 Tishana's Tidebinder
 Uro, Titan of Nature's Wrath
 Veil of Summer
+Swan Song
 Venser, Shaper Savant
 Verdant Catacombs
 Visions of Beyond
@@ -79,18 +87,10 @@ Maskwood Nexus
 Spore Frog
 Clifftop Lookout
 Poison Dart Frog
-Long River Lurker
-Lotus Cobra
-Mana Confluence
-Mana Drain
-Mesmeric Orb
-Millikin
-Mistrise Village
-Misty Rainforest
-Mystic Sanctuary
-Valley Mightcaller
 Froghemoth
+Valley Mightcaller
 Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
+Thassa's Oracle

@@ -47,8 +47,8 @@ Mountain
 Natural Order
 Nature's Lore
 Nykthos, Shrine to Nyx
-Veil of Summer
 Old Gnawbone
+Veil of Summer
 Verdant Catacombs
 Wasteland
 Windswept Heath
@@ -57,6 +57,7 @@ Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
 Orcish Lumberjack
+Beast Within
 Prismatic Vista
 Railway Brawler
 Rhythm of the Wild
@@ -64,16 +65,24 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
-Beast Within
+Uktabi Orangutan
+Liquimetal Torque
+Gearbane Orangutan
+Kibo, Uktabi Prince
+Kogla, the Titan Ape
+Scrounging Bandar
+Viridian Revel
+Gorilla Shaman
+Taurean Mauler
+Inspiring Call
+Liquimetal Coating
+Silverback Elder
+Yavimaya Steelcrusher
 Selvala, Heart of the Wilds
 Skullclamp
 Sol Ring
 Spire Garden
 Stomping Ground
-Uktabi Orangutan
-Liquimetal Torque
-Gearbane Orangutan
-Kibo, Uktabi Prince
 Strip Mine
 Sylvan Library
 Terror of the Peaks
@@ -81,14 +90,5 @@ The Great Henge
 The One Ring
 The Ozolith
 Three Visits
-Kogla, the Titan Ape
-Scrounging Bandar
 Tooth and Nail
-Viridian Revel
 Vandalblast
-Taurean Mauler
-Gorilla Shaman
-Inspiring Call
-Liquimetal Coating
-Silverback Elder
-Yavimaya Steelcrusher

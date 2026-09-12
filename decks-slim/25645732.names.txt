@@ -85,6 +85,9 @@ Cloud, Ex-SOLDIER
 Enlightened Tutor
 The Reaver Cleaver
 Sword of Feast and Famine
+Kaldra Compleat
+Armored Skyhunter
+Sram, Senior Edificer
 Path to Exile
 Plains
 Plains
@@ -92,9 +95,6 @@ Plains
 Professional Face-Breaker
 Puresteel Paladin
 Radiant Grove
-Kaldra Compleat
 Red XIII, Proud Warrior
-Armored Skyhunter
-Sram, Senior Edificer
 Rogue's Passage
 Rootbound Crag
