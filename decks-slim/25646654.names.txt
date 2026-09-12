@@ -48,8 +48,6 @@ Watcher of the Spheres
 Zinnia, Valley's Voice
 Fiend Hunter
 Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Ornithopter of Paradise
 Path of Ancestry
 Path to Exile
@@ -73,6 +71,8 @@ Skullclamp
 Skyclave Apparition
 Skycloud Expanse
 Sol Ring
+Cathars' Crusade
+Helm of the Host
 Soulcatchers' Aerie
 Steam Vents
 Storm of Souls

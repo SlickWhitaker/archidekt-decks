@@ -163,20 +163,6 @@
       "text": "Counter target spell.\nAt the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the game."
     },
     {
-      "name": "Carpet of Flowers",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Enchantment",
-      "text": "At the beginning of each of your main phases, if you haven't added mana with this ability this turn, you may add X mana of any one color, where X is the number of Islands target opponent controls."
-    },
-    {
       "name": "Swords to Plowshares",
       "quantity": 1,
       "board": "main",
@@ -189,6 +175,20 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Exile target creature. Its controller gains life equal to its power."
+    },
+    {
+      "name": "Carpet of Flowers",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment",
+      "text": "At the beginning of each of your main phases, if you haven't added mana with this ability this turn, you may add X mana of any one color, where X is the number of Islands target opponent controls."
     },
     {
       "name": "Noble Hierarch",
