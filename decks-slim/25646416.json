@@ -918,20 +918,6 @@
       "text": "Search your library for a Forest card, put it onto the battlefield, then shuffle."
     },
     {
-      "name": "Veil of Summer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
-    },
-    {
       "name": "Tooth and Nail",
       "quantity": 1,
       "board": "main",
@@ -960,14 +946,18 @@
       "text": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
     },
     {
-      "name": "Wasteland",
+      "name": "Veil of Summer",
       "quantity": 1,
       "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{T}, Sacrifice this land: Destroy target nonbasic land."
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
     },
     {
       "name": "Verdant Catacombs",
@@ -978,6 +968,16 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Wasteland",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice this land: Destroy target nonbasic land."
     },
     {
       "name": "Windswept Heath",
@@ -1038,6 +1038,20 @@
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
+      "name": "Gearbane Orangutan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Ape",
+      "text": "Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature."
+    },
+    {
       "name": "Beast Within",
       "quantity": 1,
       "board": "main",
@@ -1074,20 +1088,6 @@
       "manaValue": 2,
       "type": "Artifact",
       "text": "{T}: Add {C}.\n{T}: Target nonland permanent becomes an artifact in addition to its other types until end of turn."
-    },
-    {
-      "name": "Gearbane Orangutan",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Ape",
-      "text": "Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature."
     },
     {
       "name": "Kibo, Uktabi Prince",
