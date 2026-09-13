@@ -33,8 +33,6 @@ Fire-Lit Thicket
 Forest
 Fyndhorn Elves
 Gamble
-Greater Good
-Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -53,7 +51,6 @@ Prismatic Vista
 Railway Brawler
 Rhythm of the Wild
 Rockfall Vale
-Veil of Summer
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
@@ -62,7 +59,6 @@ Skullclamp
 Sol Ring
 Spire Garden
 Stomping Ground
-Verdant Catacombs
 Strip Mine
 Sylvan Library
 Terror of the Peaks
@@ -72,17 +68,20 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
+Verdant Catacombs
 Wasteland
 Windswept Heath
-Beast Within
 Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
+Greater Good
+Beast Within
 Uktabi Orangutan
 Liquimetal Torque
-Kibo, Uktabi Prince
 Gearbane Orangutan
+Kibo, Uktabi Prince
 Kogla, the Titan Ape
 Scrounging Bandar
 Viridian Revel
@@ -92,3 +91,4 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
+Green Sun's Zenith

@@ -21,7 +21,6 @@ Delirium Skeins
 Elderfang Disciple
 Entropic Battlecruiser
 Feed the Swarm
-Fell the Profane // Fell Mire
 Geier Reach Sanitarium
 Go for the Throat
 Hecteyes
@@ -58,12 +57,7 @@ Swamp
 Syphon Mind
 The Raven Man
 Tinybones Joins Up
-Geth's Grimoire
-Waste Not
-Lightning Greaves
 Tinybones, Bauble Burglar
-Tinybones, Trinket Thief
-Scavenger Grounds
 Unearth
 Virus Beetle
 War Room
@@ -71,3 +65,9 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
+Geth's Grimoire
+Waste Not
+Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds
+Fell the Profane // Fell Mire

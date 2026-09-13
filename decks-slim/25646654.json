@@ -598,34 +598,6 @@
       "text": "Birds you control get +1/+1 and have vigilance.\nAt the beginning of your end step, for each spell you've cast this turn, create a 1/2 blue Bird creature token with flying named Storm Crow."
     },
     {
-      "name": "Mystic Monastery",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {U}, {R}, or {W}."
-    },
-    {
-      "name": "Nesting Dovehawk",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Bird",
-      "text": "Flying\nAt the beginning of combat on your turn, populate. (Create a token that's a copy of a creature token you control.)\nWhenever a creature token you control enters, put a +1/+1 counter on this creature."
-    },
-    {
       "name": "Warren Warleader",
       "quantity": 1,
       "board": "main",
@@ -688,16 +660,6 @@
       "text": "When this creature enters, you may exile another target creature.\nWhen this creature leaves the battlefield, return the exiled card to the battlefield under its owner's control."
     },
     {
-      "name": "Ornithopter of Paradise",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Creature Artifact — Thopter",
-      "text": "Flying\n{T}: Add one mana of any color."
-    },
-    {
       "name": "Academy Manufactor",
       "quantity": 1,
       "board": "main",
@@ -706,6 +668,68 @@
       "manaValue": 3,
       "type": "Creature Artifact — Assembly-Worker",
       "text": "If you would create a Clue, Food, or Treasure token, instead create one of each."
+    },
+    {
+      "name": "Cathars' Crusade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
+    },
+    {
+      "name": "Helm of the Host",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Legendary Artifact — Equipment",
+      "text": "At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary. That token gains haste.\nEquip {5}"
+    },
+    {
+      "name": "Mystic Monastery",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {U}, {R}, or {W}."
+    },
+    {
+      "name": "Nesting Dovehawk",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Bird",
+      "text": "Flying\nAt the beginning of combat on your turn, populate. (Create a token that's a copy of a creature token you control.)\nWhenever a creature token you control enters, put a +1/+1 counter on this creature."
+    },
+    {
+      "name": "Ornithopter of Paradise",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Creature Artifact — Thopter",
+      "text": "Flying\n{T}: Add one mana of any color."
     },
     {
       "name": "Path of Ancestry",
@@ -786,20 +810,6 @@
       "text": "As this enchantment enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1."
     },
     {
-      "name": "Cathars' Crusade",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control."
-    },
-    {
       "name": "Rapid Augmenter",
       "quantity": 1,
       "board": "main",
@@ -828,16 +838,6 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Destroy target creature. It can't be regenerated. That creature's controller creates a 3/3 green Frog Lizard creature token."
-    },
-    {
-      "name": "Helm of the Host",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Legendary Artifact — Equipment",
-      "text": "At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary. That token gains haste.\nEquip {5}"
     },
     {
       "name": "Reconnaissance Mission",

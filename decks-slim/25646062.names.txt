@@ -53,12 +53,6 @@ Rejuvenating Springs
 Ripples of Potential
 Roaming Throne
 Secluded Courtyard
-Singer of Swift Rivers
-Sodden Verdure
-Sol Ring
-Spell Pierce
-Starting Town
-Stubborn Denial
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -68,14 +62,6 @@ Thieving Skydiver
 Tishana's Tidebinder
 Triumph of the Hordes
 Tropical Island
-Aether Vial
-Otawara, Soaring City
-Silvergill Adept
-Boseiju, Who Endures
-Hakbal of the Surging Soul
-Fierce Guardianship
-Cryptolith Rite
-Merfolk Mistbinder
 Unclaimed Territory
 Vineglimmer Snarl
 Vodalian Hexcatcher
@@ -83,3 +69,17 @@ Wanderwine Prophets
 Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
+Aether Vial
+Otawara, Soaring City
+Singer of Swift Rivers
+Sodden Verdure
+Silvergill Adept
+Boseiju, Who Endures
+Hakbal of the Surging Soul
+Fierce Guardianship
+Sol Ring
+Spell Pierce
+Starting Town
+Stubborn Denial
+Cryptolith Rite
+Merfolk Mistbinder

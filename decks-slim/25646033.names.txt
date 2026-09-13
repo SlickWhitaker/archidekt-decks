@@ -35,28 +35,6 @@ Harrow
 Hedge Shredder
 Hedron Crab
 High Market
-Hinterland Harbor
-Icetill Explorer
-Into the Flood Maw
-Island
-Jace, Wielder of Mysteries
-Kishla Village
-Laboratory Maniac
-Life from the Loam
-Lilypad Village
-Long River Lurker
-Lotus Cobra
-Mana Confluence
-Mana Drain
-Mesmeric Orb
-Millikin
-Mistrise Village
-Misty Rainforest
-Mystic Sanctuary
-Sol Ring
-Splendid Reclamation
-Springheart Nantuko
-Summon: Titan
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -65,6 +43,12 @@ Rejuvenating Springs
 Riverchurn Monument
 Shifting Woodland
 Snapcaster Mage
+Sol Ring
+Splendid Reclamation
+Springheart Nantuko
+Summon: Titan
+Swan Song
+Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
 Tishana's Tidebinder
@@ -92,5 +76,21 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
-Swan Song
-Thassa's Oracle
+Hinterland Harbor
+Icetill Explorer
+Into the Flood Maw
+Island
+Jace, Wielder of Mysteries
+Kishla Village
+Laboratory Maniac
+Life from the Loam
+Lilypad Village
+Long River Lurker
+Lotus Cobra
+Mana Confluence
+Mana Drain
+Mesmeric Orb
+Millikin
+Mistrise Village
+Misty Rainforest
+Mystic Sanctuary

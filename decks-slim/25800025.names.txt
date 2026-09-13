@@ -6,9 +6,9 @@ Wooded Foothills
 Teferi, Mage of Zhalfir
 Finale of Devastation
 Food Chain
-Flusterstorm
 Neoform
 Pact of Negation
+Flusterstorm
 Carpet of Flowers
 Swords to Plowshares
 Noble Hierarch
@@ -17,8 +17,8 @@ Hallowed Fountain
 Otawara, Soaring City
 Temple Garden
 Bountiful Promenade
-Phyrexian Metamorph
 Sea of Clouds
+Phyrexian Metamorph
 Chulane, Teller of Tales
 Polluted Delta
 Hullbreaker Horror

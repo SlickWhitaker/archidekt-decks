@@ -47,19 +47,23 @@ Mistblade Shinobi
 Moon-Circuit Hacker
 Morphic Pool
 Mothdust Changeling
-Muddle the Mixture
-Mystic Remora
-Mystic Sanctuary
-Mystical Tutor
-Nanogene Conversion
-Nashi, Moon Sage's Scion
-Pact of Negation
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
 Ornithopter
 Otawara, Soaring City
+Pact of Negation
 Phyrexian Walker
+Polluted Delta
+Ponder
+Prosperous Thief
+Sakashima's Student
+Satoru Umezawa
+Satoru, the Infiltrator
+Scroll Rack
+Sensei's Divining Top
+Shizo, Death's Storehouse
+Silver-Fur Master
 Sink into Stupor // Soporific Springs
 Skullsnatcher
 Slither Blade
@@ -78,21 +82,17 @@ Underground River
 Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
-Polluted Delta
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Nanogene Conversion
+Nashi, Moon Sage's Scion
+Faerie Seer
 Yuriko, the Tiger's Shadow
-Ponder
-Prosperous Thief
-Sakashima's Student
-Satoru Umezawa
-Satoru, the Infiltrator
 Demonic Tutor
 Sol Ring
-Scroll Rack
-Sensei's Divining Top
-Shizo, Death's Storehouse
-Silver-Fur Master
 Force of Negation
-Faerie Seer
-Temporal Mastery
 Treasure Cruise
 Shadow of Mortality
+Temporal Mastery
