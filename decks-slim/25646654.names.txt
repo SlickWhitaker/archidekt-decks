@@ -43,10 +43,6 @@ Mountain
 Murmuration
 Mystic Monastery
 Nesting Dovehawk
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
 Ornithopter of Paradise
 Path of Ancestry
 Path to Exile
@@ -59,9 +55,6 @@ Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Rose Room Treasurer
 Rugged Prairie
 Seachrome Coast
@@ -80,11 +73,18 @@ Sulfur Falls
 Sunscorched Divide
 Swords to Plowshares
 Temple of Enlightenment
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Temple of Triumph
 Terramorphic Expanse
 Tetsuko Umezawa, Fugitive
 Thriving Bluff
 Thriving Heath
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Thriving Isle
 Time Wipe
 Unbreakable Formation

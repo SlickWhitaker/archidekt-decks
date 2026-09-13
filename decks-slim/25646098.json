@@ -596,6 +596,20 @@
       "text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
     },
     {
+      "name": "Ozolith, the Shattered Spire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Artifact",
+      "text": "If one or more +1/+1 counters would be put on an artifact or creature you control, that many plus one +1/+1 counters are put on it instead.\n{1}{G}, {T}: Put a +1/+1 counter on target artifact or creature you control. Activate only as a sorcery.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+    },
+    {
       "name": "Lita, Little Orphan Amphibian",
       "quantity": 1,
       "board": "main",
@@ -640,64 +654,6 @@
       "manaValue": 3,
       "type": "Instant",
       "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreate X 1/1 white Soldier creature tokens with lifelink."
-    },
-    {
-      "name": "Michelangelo, Weirdness to 11",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Mutant Ninja Turtle",
-      "text": "When Michelangelo enters, create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")\nIf one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead."
-    },
-    {
-      "name": "Mikey & Leo, Chaos & Order",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Green"
-      ],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Mutant Ninja Turtle",
-      "text": "Whenever you put a counter on a creature you control, draw a card. This ability triggers only once each turn."
-    },
-    {
-      "name": "Mirkwood Bats",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Bat",
-      "text": "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life."
-    },
-    {
-      "name": "Ozolith, the Shattered Spire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Artifact",
-      "text": "If one or more +1/+1 counters would be put on an artifact or creature you control, that many plus one +1/+1 counters are put on it instead.\n{1}{G}, {T}: Put a +1/+1 counter on target artifact or creature you control. Activate only as a sorcery.\nCycling {2} ({2}, Discard this card: Draw a card.)"
     },
     {
       "name": "Parallel Lives",
@@ -1180,6 +1136,50 @@
       "manaValue": 2,
       "type": "Legendary Creature — Druid Plant",
       "text": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.\n{3}{G}{G}: Double the number of +1/+1 counters on each creature you control."
+    },
+    {
+      "name": "Michelangelo, Weirdness to 11",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Mutant Ninja Turtle",
+      "text": "When Michelangelo enters, create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")\nIf one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead."
+    },
+    {
+      "name": "Mikey & Leo, Chaos & Order",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Mutant Ninja Turtle",
+      "text": "Whenever you put a counter on a creature you control, draw a card. This ability triggers only once each turn."
+    },
+    {
+      "name": "Mirkwood Bats",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Bat",
+      "text": "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life."
     },
     {
       "name": "Mona Lisa, Science Geek",

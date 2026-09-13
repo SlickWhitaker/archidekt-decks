@@ -54,14 +54,6 @@ Pashalik Mons
 Professional Face-Breaker
 Purphoros, God of the Forge
 Ragavan, Nimble Pilferer
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-War Room
-Arena of Glory
-Sokenzan, Crucible of Defiance
-Krenko, Mob Boss
-Goblin Piledriver
 Rings of Brighthearth
 Ruby Medallion
 Rundvelt Hordemaster
@@ -76,3 +68,11 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+Valakut Exploration
+Zealous Conscripts
+War Room
+Arena of Glory
+Sokenzan, Crucible of Defiance
+Krenko, Mob Boss
+Goblin Piledriver

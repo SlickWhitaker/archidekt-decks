@@ -35,7 +35,6 @@ Fyndhorn Elves
 Gamble
 Greater Good
 Green Sun's Zenith
-Veil of Summer
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -69,18 +68,19 @@ The Great Henge
 The One Ring
 The Ozolith
 Three Visits
+Veil of Summer
 Tooth and Nail
 Vandalblast
-Verdant Catacombs
 Wasteland
+Verdant Catacombs
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Liquimetal Torque
 Beast Within
 Uktabi Orangutan
+Liquimetal Torque
 Gearbane Orangutan
 Kibo, Uktabi Prince
 Kogla, the Titan Ape

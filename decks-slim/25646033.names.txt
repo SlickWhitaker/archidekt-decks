@@ -61,12 +61,13 @@ Rejuvenating Springs
 Riverchurn Monument
 Shifting Woodland
 Snapcaster Mage
-Summon: Titan
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
+Summon: Titan
 Swan Song
 Thassa's Oracle
+Grolnok, the Omnivore
 The Great Henge
 The Mycosynth Gardens
 Tishana's Tidebinder
@@ -83,8 +84,6 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-Grolnok, the Omnivore
-Maskwood Nexus
 Spore Frog
 Clifftop Lookout
 Poison Dart Frog
@@ -94,3 +93,4 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
+Maskwood Nexus

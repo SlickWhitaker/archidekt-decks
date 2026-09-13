@@ -42,13 +42,10 @@ Jetmir's Garden
 Kami of Whispered Hopes
 Kindred Dominance
 Kodama's Reach
+Ozolith, the Shattered Spire
 Lita, Little Orphan Amphibian
 Lotho, Corrupt Shirriff
 March of the Multitudes
-Michelangelo, Weirdness to 11
-Mikey & Leo, Chaos & Order
-Mirkwood Bats
-Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
 Plains
@@ -86,6 +83,9 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
+Michelangelo, Weirdness to 11
+Mikey & Leo, Chaos & Order
+Mirkwood Bats
 Mona Lisa, Science Geek
 Mondrak, Glory Dominus
 Mountain
