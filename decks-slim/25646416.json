@@ -643,45 +643,6 @@
       "text": "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
     },
     {
-      "name": "Nykthos, Shrine to Nyx",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Legendary Land",
-      "text": "{T}: Add {C}.\n{2}, {T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)"
-    },
-    {
-      "name": "Old Gnawbone",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 7,
-      "type": "Legendary Creature — Dragon",
-      "text": "Flying\nWhenever a creature you control deals combat damage to a player, create that many Treasure tokens."
-    },
-    {
-      "name": "Orcish Lumberjack",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Orc",
-      "text": "{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G}."
-    },
-    {
       "name": "Veil of Summer",
       "quantity": 1,
       "board": "main",
@@ -774,6 +735,45 @@
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
+      "name": "Nykthos, Shrine to Nyx",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {C}.\n{2}, {T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)"
+    },
+    {
+      "name": "Old Gnawbone",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 7,
+      "type": "Legendary Creature — Dragon",
+      "text": "Flying\nWhenever a creature you control deals combat damage to a player, create that many Treasure tokens."
+    },
+    {
+      "name": "Orcish Lumberjack",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Orc",
+      "text": "{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G}."
+    },
+    {
       "name": "Prismatic Vista",
       "quantity": 1,
       "board": "main",
@@ -864,6 +864,20 @@
       "text": "Untap all permanents you control during each other player's untap step."
     },
     {
+      "name": "Selvala, Heart of the Wilds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Elf Scout",
+      "text": "Whenever another creature enters, its controller may draw a card if its power is greater than each other creature's power.\n{G}, {T}: Add X mana in any combination of colors, where X is the greatest power among creatures you control."
+    },
+    {
       "name": "Beast Within",
       "quantity": 1,
       "board": "main",
@@ -876,6 +890,16 @@
       "manaValue": 3,
       "type": "Instant",
       "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
+    },
+    {
+      "name": "Skullclamp",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
     },
     {
       "name": "Uktabi Orangutan",
@@ -943,40 +967,6 @@
       "manaValue": 6,
       "type": "Legendary Creature — Ape",
       "text": "When Kogla enters, it fights up to one target creature you don't control.\nWhenever Kogla attacks, destroy target artifact or enchantment defending player controls.\n{1}{G}: Return target Human you control to its owner's hand. Kogla gains indestructible until end of turn."
-    },
-    {
-      "name": "Selvala, Heart of the Wilds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Elf Scout",
-      "text": "Whenever another creature enters, its controller may draw a card if its power is greater than each other creature's power.\n{G}, {T}: Add X mana in any combination of colors, where X is the greatest power among creatures you control."
-    },
-    {
-      "name": "Skullclamp",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
-    },
-    {
-      "name": "Sol Ring",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}: Add {C}{C}."
     },
     {
       "name": "Scrounging Bandar",
@@ -1085,6 +1075,16 @@
       "manaValue": 2,
       "type": "Creature — Warrior Ape",
       "text": "Enlist (As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)\n{1}, Sacrifice this creature: Destroy target artifact."
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
     },
     {
       "name": "Spire Garden",

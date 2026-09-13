@@ -22,8 +22,6 @@ Distant Melody
 Elspeth, Sun's Champion
 Empyrean Eagle
 Esior, Wardwing Familiar
-Evolving Wilds
-Exotic Orchard
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
@@ -55,13 +53,6 @@ Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Rose Room Treasurer
 Rugged Prairie
 Seachrome Coast
@@ -90,3 +81,12 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
+Evolving Wilds
+Exotic Orchard

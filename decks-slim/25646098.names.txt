@@ -48,6 +48,11 @@ March of the Multitudes
 Michelangelo, Weirdness to 11
 Mikey & Leo, Chaos & Order
 Mirkwood Bats
+Mona Lisa, Science Geek
+Mondrak, Glory Dominus
+Mountain
+Ninja Pizza
+Ojer Taq, Deepest Foundation // Temple of Civilization
 Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
@@ -59,10 +64,6 @@ Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden
 Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
@@ -83,11 +84,10 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Mona Lisa, Science Geek
-Mondrak, Glory Dominus
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Mountain
-Ninja Pizza
-Ojer Taq, Deepest Foundation // Temple of Civilization
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden

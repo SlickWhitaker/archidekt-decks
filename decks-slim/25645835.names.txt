@@ -47,14 +47,8 @@ Out of Time
 Path of Ancestry
 Plains
 Plains
-Port Town
-Prairie Stream
-Psychic Paper
-Raugrin Triome
-Regenerations Restored
 Rhystic Study
 RMS Titanic
-Sonic Screwdriver
 Rogue's Passage
 Rory Williams
 Rotating Fireplace
@@ -62,6 +56,10 @@ Run for Your Life
 Sally Sparrow
 Sea of Clouds
 Sol Ring
+Sonic Screwdriver
+Spectator Seating
+Star Whale
+Storm-Kiln Artist
 Stormcarved Coast
 Strionic Resonator
 Sunbaked Canyon
@@ -92,6 +90,8 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Spectator Seating
-Star Whale
-Storm-Kiln Artist
+Port Town
+Prairie Stream
+Psychic Paper
+Raugrin Triome
+Regenerations Restored

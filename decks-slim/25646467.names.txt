@@ -60,14 +60,6 @@ Rundvelt Hordemaster
 Shared Animosity
 Skirk Fire Marshal
 Skirk Prospector
-Skullclamp
-Sol Ring
-Squee, Dubious Monarch
-Staff of Domination
-Thornbite Staff
-Thousand-Year Elixir
-Torbran, Thane of Red Fell
-Urza's Incubator
 Valakut Exploration
 Zealous Conscripts
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
@@ -76,3 +68,11 @@ Arena of Glory
 Sokenzan, Crucible of Defiance
 Krenko, Mob Boss
 Goblin Piledriver
+Skullclamp
+Sol Ring
+Squee, Dubious Monarch
+Staff of Domination
+Thornbite Staff
+Thousand-Year Elixir
+Torbran, Thane of Red Fell
+Urza's Incubator

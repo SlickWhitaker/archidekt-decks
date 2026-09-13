@@ -46,9 +46,6 @@ Misty Rainforest
 Mountain
 Natural Order
 Nature's Lore
-Nykthos, Shrine to Nyx
-Old Gnawbone
-Orcish Lumberjack
 Veil of Summer
 Verdant Catacombs
 Wasteland
@@ -57,6 +54,9 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
+Nykthos, Shrine to Nyx
+Old Gnawbone
+Orcish Lumberjack
 Prismatic Vista
 Railway Brawler
 Rhythm of the Wild
@@ -64,15 +64,14 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
+Selvala, Heart of the Wilds
 Beast Within
+Skullclamp
 Uktabi Orangutan
 Liquimetal Torque
 Gearbane Orangutan
 Kibo, Uktabi Prince
 Kogla, the Titan Ape
-Selvala, Heart of the Wilds
-Skullclamp
-Sol Ring
 Scrounging Bandar
 Viridian Revel
 Gorilla Shaman
@@ -81,6 +80,7 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
+Sol Ring
 Spire Garden
 Stomping Ground
 Strip Mine

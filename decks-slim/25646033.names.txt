@@ -64,13 +64,10 @@ Snapcaster Mage
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
-The Great Henge
 Summon: Titan
 Swan Song
 Thassa's Oracle
-Grolnok, the Omnivore
-Maskwood Nexus
-Spore Frog
+The Great Henge
 The Mycosynth Gardens
 Tishana's Tidebinder
 Uro, Titan of Nature's Wrath
@@ -78,7 +75,6 @@ Veil of Summer
 Venser, Shaper Savant
 Verdant Catacombs
 Visions of Beyond
-Clifftop Lookout
 Waterlogged Grove
 Wilderness Reclamation
 Willowrush Verge
@@ -87,7 +83,11 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Grolnok, the Omnivore
+Maskwood Nexus
 Poison Dart Frog
+Spore Frog
+Clifftop Lookout
 Froghemoth
 Valley Mightcaller
 Clement, the Worrywort
