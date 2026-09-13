@@ -1050,6 +1050,18 @@
       "text": "{T}: Add {U}.\nChannel — {3}{U}, Discard this card: Return target artifact, creature, enchantment, or planeswalker to its owner's hand. This ability costs {1} less to activate for each legendary creature you control."
     },
     {
+      "name": "Boseiju, Who Endures",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {G}.\nChannel — {1}{G}, Discard this card: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control."
+    },
+    {
       "name": "Silvergill Adept",
       "quantity": 1,
       "board": "main",
@@ -1062,18 +1074,6 @@
       "manaValue": 2,
       "type": "Creature — Wizard Merfolk",
       "text": "As an additional cost to cast this spell, reveal a Merfolk card from your hand or pay {3}.\nWhen this creature enters, draw a card."
-    },
-    {
-      "name": "Boseiju, Who Endures",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Legendary Land",
-      "text": "{T}: Add {G}.\nChannel — {1}{G}, Discard this card: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control."
     },
     {
       "name": "Hakbal of the Surging Soul",

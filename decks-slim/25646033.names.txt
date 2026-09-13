@@ -57,14 +57,20 @@ Noxious Revival
 Oakhollow Village
 Polluted Delta
 Pond Prophet
+Rejuvenating Springs
+Riverchurn Monument
+Shifting Woodland
+Snapcaster Mage
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
-Rejuvenating Springs
+The Great Henge
 Summon: Titan
 Swan Song
 Thassa's Oracle
-The Great Henge
+Grolnok, the Omnivore
+Maskwood Nexus
+Spore Frog
 The Mycosynth Gardens
 Tishana's Tidebinder
 Uro, Titan of Nature's Wrath
@@ -72,6 +78,7 @@ Veil of Summer
 Venser, Shaper Savant
 Verdant Catacombs
 Visions of Beyond
+Clifftop Lookout
 Waterlogged Grove
 Wilderness Reclamation
 Willowrush Verge
@@ -80,10 +87,6 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-Grolnok, the Omnivore
-Maskwood Nexus
-Spore Frog
-Clifftop Lookout
 Poison Dart Frog
 Froghemoth
 Valley Mightcaller
@@ -91,6 +94,3 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
-Riverchurn Monument
-Shifting Woodland
-Snapcaster Mage

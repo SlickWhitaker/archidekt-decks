@@ -44,10 +44,6 @@ Murmuration
 Mystic Monastery
 Nesting Dovehawk
 Ornithopter of Paradise
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
 Path of Ancestry
 Path to Exile
 Plains
@@ -57,11 +53,15 @@ Rally the Ranks
 Rapid Augmenter
 Rapid Hybridization
 Reconnaissance Mission
+Restless Anchorage
+Roaming Throne
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Academy Manufactor
 Cathars' Crusade
 Helm of the Host
-Restless Anchorage
-Roaming Throne
 Rose Room Treasurer
 Rugged Prairie
 Seachrome Coast
