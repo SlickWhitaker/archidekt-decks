@@ -789,48 +789,6 @@
       "text": "Other Goblins you control get +1/+1.\nWhenever this creature or another Goblin you control dies, exile the top card of your library. If it's a Goblin creature card, you may cast that card until the end of your next turn."
     },
     {
-      "name": "Shared Animosity",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it."
-    },
-    {
-      "name": "Skirk Fire Marshal",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Goblin",
-      "text": "Protection from red\nTap five untapped Goblins you control: This creature deals 10 damage to each creature and each player."
-    },
-    {
-      "name": "Skirk Prospector",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Goblin",
-      "text": "Sacrifice a Goblin: Add {R}."
-    },
-    {
       "name": "Valakut Exploration",
       "quantity": 1,
       "board": "main",
@@ -933,6 +891,48 @@
       "manaValue": 2,
       "type": "Creature — Goblin Warrior",
       "text": "Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)\nWhenever this creature attacks, it gets +2/+0 until end of turn for each other attacking Goblin."
+    },
+    {
+      "name": "Shared Animosity",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it."
+    },
+    {
+      "name": "Skirk Fire Marshal",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Goblin",
+      "text": "Protection from red\nTap five untapped Goblins you control: This creature deals 10 damage to each creature and each player."
+    },
+    {
+      "name": "Skirk Prospector",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Goblin",
+      "text": "Sacrifice a Goblin: Add {R}."
     },
     {
       "name": "Skullclamp",

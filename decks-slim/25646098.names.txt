@@ -32,25 +32,28 @@ Felidar Retreat
 Forest
 Grand Coliseum
 Guardian Project
-Halo Fountain
-Heroes in a Half Shell
 Heroic Intervention
 Hidden Hideout
+Halo Fountain
 Hinterland Harbor
 Island
+Heroes in a Half Shell
 Jetmir's Garden
 Kami of Whispered Hopes
+Ozolith, the Shattered Spire
 Kindred Dominance
 Kodama's Reach
 Lita, Little Orphan Amphibian
-Ozolith, the Shattered Spire
-Parallel Lives
-Path of Ancestry
-Plains
-Plaza of Heroes
-Raffine's Tower
-Raphael, the Muscle
-Rat King, Pale Piper
+Lotho, Corrupt Shirriff
+March of the Multitudes
+Michelangelo, Weirdness to 11
+Mikey & Leo, Chaos & Order
+Mirkwood Bats
+Mona Lisa, Science Geek
+Mondrak, Glory Dominus
+Mountain
+Ninja Pizza
+Ojer Taq, Deepest Foundation // Temple of Civilization
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
@@ -81,13 +84,10 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Lotho, Corrupt Shirriff
-March of the Multitudes
-Michelangelo, Weirdness to 11
-Mikey & Leo, Chaos & Order
-Mirkwood Bats
-Mona Lisa, Science Geek
-Mondrak, Glory Dominus
-Mountain
-Ninja Pizza
-Ojer Taq, Deepest Foundation // Temple of Civilization
+Parallel Lives
+Path of Ancestry
+Plains
+Plaza of Heroes
+Raffine's Tower
+Raphael, the Muscle
+Rat King, Pale Piper

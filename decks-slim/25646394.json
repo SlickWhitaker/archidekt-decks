@@ -889,16 +889,6 @@
       "text": "Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, Reckless Handling deals 2 damage to each opponent."
     },
     {
-      "name": "Clock of Omens",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Artifact",
-      "text": "Tap two untapped artifacts you control: Untap target artifact."
-    },
-    {
       "name": "Inspiring Statuary",
       "quantity": 1,
       "board": "main",
@@ -907,6 +897,16 @@
       "manaValue": 3,
       "type": "Artifact",
       "text": "Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for {1}.)"
+    },
+    {
+      "name": "Clock of Omens",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Artifact",
+      "text": "Tap two untapped artifacts you control: Untap target artifact."
     },
     {
       "name": "Arcbound Ravager",

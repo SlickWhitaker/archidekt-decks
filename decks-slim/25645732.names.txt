@@ -39,10 +39,16 @@ Forest
 Fortified Village
 Furycalm Snarl
 Path of Ancestry
+Path to Exile
+Plains
+Plains
+Plains
 Gongaga, Reactor Town
+Professional Face-Breaker
 Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
+Puresteel Paladin
 Mask of Memory
 Mithril Coat
 Mossfire Valley
@@ -75,26 +81,20 @@ Swords to Plowshares
 Tifa, Martial Artist
 Tifa's Limit Break
 Ultimate Magic: Holy
-Unfinished Business
-Vandalblast
-Wood Elves
-Yuffie, Materia Hunter
-Zack Fair
-Sword of Forge and Frontier
-Cloud, Ex-SOLDIER
-Enlightened Tutor
-The Reaver Cleaver
-Sword of Feast and Famine
-Kaldra Compleat
-Armored Skyhunter
-Sram, Senior Edificer
-Path to Exile
-Plains
-Plains
-Plains
-Professional Face-Breaker
-Puresteel Paladin
 Radiant Grove
 Red XIII, Proud Warrior
 Rogue's Passage
 Rootbound Crag
+Zack Fair
+Unfinished Business
+Vandalblast
+Wood Elves
+Yuffie, Materia Hunter
+Sword of Forge and Frontier
+Cloud, Ex-SOLDIER
+The Reaver Cleaver
+Armored Skyhunter
+Enlightened Tutor
+Sword of Feast and Famine
+Kaldra Compleat
+Sram, Senior Edificer

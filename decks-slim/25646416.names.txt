@@ -53,6 +53,7 @@ Prismatic Vista
 Railway Brawler
 Rhythm of the Wild
 Rockfall Vale
+Veil of Summer
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
@@ -61,6 +62,7 @@ Skullclamp
 Sol Ring
 Spire Garden
 Stomping Ground
+Verdant Catacombs
 Strip Mine
 Sylvan Library
 Terror of the Peaks
@@ -70,19 +72,17 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Verdant Catacombs
-Veil of Summer
 Wasteland
 Windswept Heath
+Beast Within
 Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Beast Within
-Liquimetal Torque
 Uktabi Orangutan
-Gearbane Orangutan
+Liquimetal Torque
 Kibo, Uktabi Prince
+Gearbane Orangutan
 Kogla, the Titan Ape
 Scrounging Bandar
 Viridian Revel

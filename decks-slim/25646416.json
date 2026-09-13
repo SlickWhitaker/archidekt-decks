@@ -735,6 +735,20 @@
       "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {R} or {G}."
     },
     {
+      "name": "Veil of Summer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
+    },
+    {
       "name": "Rootbound Crag",
       "quantity": 1,
       "board": "main",
@@ -830,6 +844,16 @@
       "manaValue": 0,
       "type": "Land — Mountain Forest",
       "text": "({T}: Add {R} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Verdant Catacombs",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
     },
     {
       "name": "Strip Mine",
@@ -946,30 +970,6 @@
       "text": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
     },
     {
-      "name": "Verdant Catacombs",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Veil of Summer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
-    },
-    {
       "name": "Wasteland",
       "quantity": 1,
       "board": "main",
@@ -988,6 +988,20 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Beast Within",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
     },
     {
       "name": "Wooded Foothills",
@@ -1038,30 +1052,6 @@
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
-      "name": "Beast Within",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
-    },
-    {
-      "name": "Liquimetal Torque",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add {C}.\n{T}: Target nonland permanent becomes an artifact in addition to its other types until end of turn."
-    },
-    {
       "name": "Uktabi Orangutan",
       "quantity": 1,
       "board": "main",
@@ -1076,18 +1066,14 @@
       "text": "When this creature enters, destroy target artifact."
     },
     {
-      "name": "Gearbane Orangutan",
+      "name": "Liquimetal Torque",
       "quantity": 1,
       "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Ape",
-      "text": "Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature."
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Target nonland permanent becomes an artifact in addition to its other types until end of turn."
     },
     {
       "name": "Kibo, Uktabi Prince",
@@ -1103,6 +1089,20 @@
       "manaValue": 3,
       "type": "Legendary Creature — Monkey Noble",
       "text": "{T}: Each player creates a colorless artifact token named Banana with \"{T}, Sacrifice this token: Add {R} or {G}. You gain 2 life.\"\nWhenever an artifact an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on each creature you control that's an Ape or a Monkey.\nWhenever Kibo attacks, defending player sacrifices an artifact of their choice."
+    },
+    {
+      "name": "Gearbane Orangutan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Ape",
+      "text": "Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature."
     },
     {
       "name": "Kogla, the Titan Ape",

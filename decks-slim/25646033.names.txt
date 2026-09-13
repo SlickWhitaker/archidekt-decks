@@ -54,6 +54,9 @@ Mistrise Village
 Misty Rainforest
 Mystic Sanctuary
 Sol Ring
+Splendid Reclamation
+Springheart Nantuko
+Summon: Titan
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -62,9 +65,6 @@ Rejuvenating Springs
 Riverchurn Monument
 Shifting Woodland
 Snapcaster Mage
-Summon: Titan
-Swan Song
-Thassa's Oracle
 The Great Henge
 The Mycosynth Gardens
 Tishana's Tidebinder
@@ -92,5 +92,5 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
-Splendid Reclamation
-Springheart Nantuko
+Swan Song
+Thassa's Oracle

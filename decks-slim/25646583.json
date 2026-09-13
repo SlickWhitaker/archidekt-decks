@@ -1209,20 +1209,6 @@
       "text": "Destroy target creature. If that creature dies this way, its controller creates two tokens that are copies of that creature, except their power is half that creature's power and their toughness is half that creature's toughness. Round up each time."
     },
     {
-      "name": "Animate Dead",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment — Aura",
-      "text": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0."
-    },
-    {
       "name": "Heroic Intervention",
       "quantity": 1,
       "board": "main",
@@ -1235,6 +1221,20 @@
       "manaValue": 2,
       "type": "Instant",
       "text": "Permanents you control gain hexproof and indestructible until end of turn."
+    },
+    {
+      "name": "Animate Dead",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment — Aura",
+      "text": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0."
     },
     {
       "name": "Uugguu, the Omniplasm",
