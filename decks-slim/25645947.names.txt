@@ -10,16 +10,26 @@ Arid Mesa
 Black Market Connections
 Blood Artist
 Blood Crypt
-Champion of Dusk
 Bloodghast
 Bloodletter of Aclazotz
 Bloodline Necromancer
-Bloodstained Mire
-Bloodthirsty Conqueror
-Bojuka Bog
-Boros Charm
-Captivating Vampire
-Caves of Koilos
+Champion of Dusk
+Charismatic Conqueror
+Chrome Mox
+Command Tower
+Cordial Vampire
+Cruel Celebrant
+Damn
+Delney, Streetwise Lookout
+Demonic Tutor
+Dragonskull Summit
+Drana and Linvala
+Elenda, the Dusk Rose
+Esper Sentinel
+Exquisite Blood
+Flawless Maneuver
+Generous Gift
+Godless Shrine
 Herald's Horn
 Isolated Chapel
 Kalitas, Traitor of Ghet
@@ -34,11 +44,18 @@ Mountain
 Necropotence
 Nomad Outpost
 Ocelot Pride
-Olivia, Crimson Bride
+Bloodstained Mire
+Bloodthirsty Conqueror
+Bojuka Bog
+Boros Charm
+Captivating Vampire
+Caves of Koilos
 Path of Ancestry
+Olivia, Crimson Bride
 Path to Exile
 Patriarch's Bidding
 Phyrexian Altar
+Stromkirk Captain
 Plains
 Razaketh, the Foulblooded
 Reconnaissance
@@ -53,7 +70,7 @@ Skullclamp
 Sol Ring
 Sorin, Imperious Bloodlord
 Spectator Seating
-Stromkirk Captain
+Edgar Markov
 Swamp
 Swords to Plowshares
 Talisman of Hierarchy
@@ -72,20 +89,3 @@ Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
-Edgar Markov
-Charismatic Conqueror
-Chrome Mox
-Command Tower
-Cordial Vampire
-Cruel Celebrant
-Damn
-Delney, Streetwise Lookout
-Demonic Tutor
-Dragonskull Summit
-Drana and Linvala
-Elenda, the Dusk Rose
-Esper Sentinel
-Exquisite Blood
-Flawless Maneuver
-Generous Gift
-Godless Shrine

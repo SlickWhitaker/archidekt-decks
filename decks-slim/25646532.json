@@ -325,6 +325,20 @@
       "text": "Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value."
     },
     {
+      "name": "Fell the Profane // Fell Mire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Instant",
+      "text": "Fell the Profane: Destroy target creature or planeswalker. | Fell Mire: As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {B}."
+    },
+    {
       "name": "Geier Reach Sanitarium",
       "quantity": 1,
       "board": "main",
@@ -967,20 +981,6 @@
       "manaValue": 0,
       "type": "Land — Desert",
       "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
-    },
-    {
-      "name": "Fell the Profane // Fell Mire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Instant",
-      "text": "Fell the Profane: Destroy target creature or planeswalker. | Fell Mire: As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {B}."
     }
   ]
 }

@@ -53,6 +53,13 @@ Rejuvenating Springs
 Ripples of Potential
 Roaming Throne
 Secluded Courtyard
+Singer of Swift Rivers
+Sodden Verdure
+Sol Ring
+Spell Pierce
+Starting Town
+Stubborn Denial
+Aether Vial
 Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
@@ -69,17 +76,10 @@ Wanderwine Prophets
 Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
-Aether Vial
 Otawara, Soaring City
-Singer of Swift Rivers
-Sodden Verdure
 Silvergill Adept
 Boseiju, Who Endures
 Hakbal of the Surging Soul
 Fierce Guardianship
-Sol Ring
-Spell Pierce
-Starting Town
-Stubborn Denial
 Cryptolith Rite
 Merfolk Mistbinder

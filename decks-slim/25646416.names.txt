@@ -33,6 +33,9 @@ Fire-Lit Thicket
 Forest
 Fyndhorn Elves
 Gamble
+Greater Good
+Green Sun's Zenith
+Veil of Summer
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -68,7 +71,6 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Veil of Summer
 Verdant Catacombs
 Wasteland
 Windswept Heath
@@ -76,10 +78,9 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Greater Good
+Liquimetal Torque
 Beast Within
 Uktabi Orangutan
-Liquimetal Torque
 Gearbane Orangutan
 Kibo, Uktabi Prince
 Kogla, the Titan Ape
@@ -91,4 +92,3 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
-Green Sun's Zenith

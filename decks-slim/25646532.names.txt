@@ -21,6 +21,7 @@ Delirium Skeins
 Elderfang Disciple
 Entropic Battlecruiser
 Feed the Swarm
+Fell the Profane // Fell Mire
 Geier Reach Sanitarium
 Go for the Throat
 Hecteyes
@@ -70,4 +71,3 @@ Waste Not
 Lightning Greaves
 Tinybones, Trinket Thief
 Scavenger Grounds
-Fell the Profane // Fell Mire
