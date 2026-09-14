@@ -11,8 +11,8 @@ Neoform
 Pact of Negation
 Carpet of Flowers
 Swords to Plowshares
-Noble Hierarch
 Emiel the Blessed
+Noble Hierarch
 Hallowed Fountain
 Otawara, Soaring City
 Temple Garden
@@ -21,8 +21,8 @@ Sea of Clouds
 Phyrexian Metamorph
 Chulane, Teller of Tales
 Polluted Delta
-Command Tower
 Hullbreaker Horror
+Command Tower
 Grand Abolisher
 City of Brass
 Venser, Shaper Savant

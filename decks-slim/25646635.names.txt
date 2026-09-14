@@ -66,10 +66,6 @@ Prosperous Thief
 Sakashima's Student
 Satoru Umezawa
 Satoru, the Infiltrator
-Scroll Rack
-Sensei's Divining Top
-Shizo, Death's Storehouse
-Silver-Fur Master
 Sink into Stupor // Soporific Springs
 Skullsnatcher
 Slither Blade
@@ -96,3 +92,7 @@ Force of Negation
 Treasure Cruise
 Shadow of Mortality
 Temporal Mastery
+Scroll Rack
+Sensei's Divining Top
+Shizo, Death's Storehouse
+Silver-Fur Master

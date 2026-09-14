@@ -56,13 +56,9 @@ Mystic Sanctuary
 Noxious Revival
 Oakhollow Village
 Polluted Delta
-Pond Prophet
-Rejuvenating Springs
-Riverchurn Monument
-Shifting Woodland
-Snapcaster Mage
 Sol Ring
 Splendid Reclamation
+Pond Prophet
 Springheart Nantuko
 Summon: Titan
 Swan Song
@@ -94,3 +90,7 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
+Rejuvenating Springs
+Riverchurn Monument
+Shifting Woodland
+Snapcaster Mage
