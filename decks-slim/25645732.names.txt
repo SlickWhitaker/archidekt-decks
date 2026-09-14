@@ -50,7 +50,6 @@ Mountain
 Mountain
 Nature's Lore
 Nature's Will
-Rugged Prairie
 Path of Ancestry
 Path to Exile
 Plains
@@ -62,6 +61,9 @@ Radiant Grove
 Red XIII, Proud Warrior
 Rogue's Passage
 Rootbound Crag
+Rugged Prairie
+Sacred Peaks
+Scavenger Grounds
 Sephiroth, Fallen Hero
 Sheltered Thicket
 Sigarda's Aid
@@ -92,9 +94,7 @@ Sword of Forge and Frontier
 Cloud, Ex-SOLDIER
 Enlightened Tutor
 The Reaver Cleaver
-Sacred Peaks
-Scavenger Grounds
+Sword of Feast and Famine
 Kaldra Compleat
 Armored Skyhunter
-Sword of Feast and Famine
 Sram, Senior Edificer

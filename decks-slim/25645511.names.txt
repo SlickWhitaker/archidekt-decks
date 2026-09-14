@@ -75,12 +75,12 @@ Talisman of Indulgence
 Temple of Malice
 Terminate
 The Balrog of Moria
-Unexpected Windfall
 The Balrog, Durin's Bane
 Toxic Deluge
 Tramway Station
-Bloodghast
-Zulaport Cutthroat
+Unexpected Windfall
 Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
+Bloodghast
+Zulaport Cutthroat

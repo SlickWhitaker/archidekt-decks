@@ -1038,20 +1038,6 @@
       "text": "Trample, haste\nWhen The Balrog of Moria dies, you may exile it. When you do, for each opponent, exile up to one target creature that player controls.\nCycling {3}{R} ({3}{R}, Discard this card: Draw a card.)\nWhen you cycle this card, create two Treasure tokens."
     },
     {
-      "name": "Unexpected Windfall",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Instant",
-      "text": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
-    },
-    {
       "name": "The Balrog, Durin's Bane",
       "quantity": 1,
       "board": "main",
@@ -1095,32 +1081,18 @@
       "text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{2}{B}{R}, {T}, Sacrifice this land: Draw a card."
     },
     {
-      "name": "Bloodghast",
+      "name": "Unexpected Windfall",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Black"
+        "Red"
       ],
       "colorIdentity": [
-        "Black"
+        "Red"
       ],
-      "manaValue": 2,
-      "type": "Creature — Vampire Spirit",
-      "text": "This creature can't block.\nThis creature has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield."
-    },
-    {
-      "name": "Zulaport Cutthroat",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Human Rogue Ally",
-      "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
+      "manaValue": 4,
+      "type": "Instant",
+      "text": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
     },
     {
       "name": "Victimize",
@@ -1159,6 +1131,34 @@
       "manaValue": 1,
       "type": "Artifact",
       "text": "{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Bloodghast",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Vampire Spirit",
+      "text": "This creature can't block.\nThis creature has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land you control enters, you may return this card from your graveyard to the battlefield."
+    },
+    {
+      "name": "Zulaport Cutthroat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Human Rogue Ally",
+      "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
     }
   ]
 }
