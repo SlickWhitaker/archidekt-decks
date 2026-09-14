@@ -1134,6 +1134,22 @@
       "text": "Creatures you control are every creature type. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.\n{3}, {T}: Create a 2/2 blue Shapeshifter creature token with changeling. (It is every creature type.)"
     },
     {
+      "name": "Clement, the Worrywort",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Druid Frog",
+      "text": "Vigilance\nWhenever Clement or another creature you control enters, return up to one target creature you control with lesser mana value to its owner's hand.\nFrogs you control have \"{T}: Add {G} or {U}. Spend this mana only to cast a creature spell.\""
+    },
+    {
       "name": "Spore Frog",
       "quantity": 1,
       "board": "main",
@@ -1202,22 +1218,6 @@
       "manaValue": 1,
       "type": "Creature — Warrior Frog",
       "text": "Trample\nWhenever another Frog, Rabbit, Raccoon, or Squirrel you control enters, put a +1/+1 counter on this creature."
-    },
-    {
-      "name": "Clement, the Worrywort",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Druid Frog",
-      "text": "Vigilance\nWhenever Clement or another creature you control enters, return up to one target creature you control with lesser mana value to its owner's hand.\nFrogs you control have \"{T}: Add {G} or {U}. Spend this mana only to cast a creature spell.\""
     },
     {
       "name": "Boseiju, Who Endures",

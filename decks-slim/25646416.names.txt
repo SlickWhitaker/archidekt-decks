@@ -33,6 +33,8 @@ Fire-Lit Thicket
 Forest
 Fyndhorn Elves
 Gamble
+Greater Good
+Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -80,15 +82,13 @@ Beast Within
 Uktabi Orangutan
 Liquimetal Torque
 Gearbane Orangutan
-Kibo, Uktabi Prince
 Kogla, the Titan Ape
+Kibo, Uktabi Prince
 Scrounging Bandar
 Viridian Revel
 Gorilla Shaman
-Greater Good
-Green Sun's Zenith
+Taurean Mauler
 Inspiring Call
 Liquimetal Coating
-Taurean Mauler
 Silverback Elder
 Yavimaya Steelcrusher
