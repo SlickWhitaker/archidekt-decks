@@ -534,6 +534,32 @@
       "fullBytes": 297340,
       "analysisBytes": 29160,
       "reductionPercent": 90.2
+    },
+    {
+      "id": 26396391,
+      "name": "Homer, the Hermit",
+      "format": 3,
+      "commander": [
+        "Homer, the Hermit"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "counts": {
+        "main": 99,
+        "commander": 1,
+        "maybeboard": 0,
+        "sideboard": 0,
+        "total": 100
+      },
+      "namesFile": "26396391.names.txt",
+      "cardsFile": "26396391.cards.jsonl",
+      "metaFile": "26396391.meta.json",
+      "fullBytes": 262068,
+      "analysisBytes": 25104,
+      "reductionPercent": 90.4
     }
   ]
 }

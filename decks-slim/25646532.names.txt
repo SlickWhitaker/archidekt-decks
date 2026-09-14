@@ -39,7 +39,6 @@ Necrogen Mists
 Necrogoyf
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
-Geth's Grimoire
 Oppression
 Painful Quandary
 Phyrexian Reclamation
@@ -55,6 +54,11 @@ Sign in Blood
 Smallpox
 Sol Ring
 Springleaf Drum
+Geth's Grimoire
+Waste Not
+Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds
 Swamp
 Syphon Mind
 The Raven Man
@@ -67,7 +71,3 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
-Waste Not
-Lightning Greaves
-Tinybones, Trinket Thief
-Scavenger Grounds

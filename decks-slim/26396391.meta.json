@@ -1,0 +1,20 @@
+{
+  "id": 26396391,
+  "name": "Homer, the Hermit",
+  "format": 3,
+  "commander": [
+    "Homer, the Hermit"
+  ],
+  "colorIdentity": [
+    "Black",
+    "Blue",
+    "Green"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

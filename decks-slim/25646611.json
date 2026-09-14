@@ -237,34 +237,6 @@
       "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
-      "name": "Deadly Rollick",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Instant",
-      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nExile target creature."
-    },
-    {
-      "name": "Deflecting Swat",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nYou may choose new targets for target spell or ability."
-    },
-    {
       "name": "Kaervek the Merciless",
       "quantity": 1,
       "board": "main",
@@ -999,6 +971,34 @@
       "manaValue": 2,
       "type": "Creature — Vampire Shaman",
       "text": "Whenever a creature an opponent controls enters, you may have that player lose 1 life."
+    },
+    {
+      "name": "Deadly Rollick",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nExile target creature."
+    },
+    {
+      "name": "Deflecting Swat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nYou may choose new targets for target spell or ability."
     },
     {
       "name": "Dragonskull Summit",

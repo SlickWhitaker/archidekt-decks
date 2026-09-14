@@ -52,7 +52,6 @@ Savvy Hunter
 Scattered Groves
 Shineshadow Snarl
 Shire Shirriff
-Shire Terrace
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
@@ -73,6 +72,7 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
+Shire Terrace
 Skullclamp
 Sol Ring
 Sunpetal Grove

@@ -53,8 +53,12 @@ Rally the Ranks
 Rapid Augmenter
 Rapid Hybridization
 Reconnaissance Mission
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
 Restless Anchorage
 Roaming Throne
+Fiend Hunter
 Rose Room Treasurer
 Rugged Prairie
 Seachrome Coast
@@ -69,6 +73,9 @@ Sol Ring
 Soulcatchers' Aerie
 Steam Vents
 Storm of Souls
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Sulfur Falls
 Sunscorched Divide
 Swords to Plowshares
@@ -83,10 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Cathars' Crusade
-Academy Manufactor
-Helm of the Host

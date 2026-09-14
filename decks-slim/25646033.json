@@ -908,6 +908,22 @@
       "text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
     },
     {
+      "name": "Grolnok, the Omnivore",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Frog",
+      "text": "Whenever a Frog you control attacks, mill three cards.\nWhenever a permanent card is put into your graveyard from your library, exile it with a croak counter on it.\nYou may play lands and cast spells from among cards you own in exile with croak counters on them."
+    },
+    {
       "name": "The Great Henge",
       "quantity": 1,
       "board": "main",
@@ -1108,48 +1124,6 @@
       "text": "Sacrifice a land: You gain 2 life."
     },
     {
-      "name": "Grolnok, the Omnivore",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Frog",
-      "text": "Whenever a Frog you control attacks, mill three cards.\nWhenever a permanent card is put into your graveyard from your library, exile it with a croak counter on it.\nYou may play lands and cast spells from among cards you own in exile with croak counters on them."
-    },
-    {
-      "name": "Maskwood Nexus",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Artifact",
-      "text": "Creatures you control are every creature type. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.\n{3}, {T}: Create a 2/2 blue Shapeshifter creature token with changeling. (It is every creature type.)"
-    },
-    {
-      "name": "Clement, the Worrywort",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Druid Frog",
-      "text": "Vigilance\nWhenever Clement or another creature you control enters, return up to one target creature you control with lesser mana value to its owner's hand.\nFrogs you control have \"{T}: Add {G} or {U}. Spend this mana only to cast a creature spell.\""
-    },
-    {
       "name": "Spore Frog",
       "quantity": 1,
       "board": "main",
@@ -1220,6 +1194,22 @@
       "text": "Trample\nWhenever another Frog, Rabbit, Raccoon, or Squirrel you control enters, put a +1/+1 counter on this creature."
     },
     {
+      "name": "Clement, the Worrywort",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Druid Frog",
+      "text": "Vigilance\nWhenever Clement or another creature you control enters, return up to one target creature you control with lesser mana value to its owner's hand.\nFrogs you control have \"{T}: Add {G} or {U}. Spend this mana only to cast a creature spell.\""
+    },
+    {
       "name": "Boseiju, Who Endures",
       "quantity": 1,
       "board": "main",
@@ -1254,6 +1244,16 @@
       "manaValue": 0,
       "type": "Land",
       "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
+    },
+    {
+      "name": "Maskwood Nexus",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Artifact",
+      "text": "Creatures you control are every creature type. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.\n{3}, {T}: Create a 2/2 blue Shapeshifter creature token with changeling. (It is every creature type.)"
     }
   ]
 }
