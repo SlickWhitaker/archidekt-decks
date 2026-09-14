@@ -19,7 +19,6 @@ Command Tower
 Counterspell
 Crop Rotation
 Crucible of Worlds
-Cultivate
 Dakmor Salvage
 Demonic Tutor
 Dimir Aqueduct
@@ -30,7 +29,6 @@ Explore
 Fabled Passage
 Farseek
 Flooded Strand
-Fog
 Forest
 Golgari Rot Farm
 Growth Spiral
@@ -41,7 +39,6 @@ Hexhaven Invigorator
 Icetill Explorer
 Imperial Seal
 Island
-Jumbo Cactuar
 Kodama of the East Tree
 Lightning Greaves
 Llanowar Elves
@@ -51,15 +48,12 @@ Maestros Theater
 Mana Drain
 Maskwood Nexus
 Mesmeric Orb
-Mindcrank
 Mirelurk Queen
 Mystical Tutor
 Oboro, Palace in the Clouds
 Open the Way
 Oracle of Mul Daya
 Personal Tutor
-Rampant Growth
-Reanimate
 Retreat to Coralhelm
 Riverchurn Monument
 Roaming Throne
@@ -84,3 +78,9 @@ Vampiric Tutor
 Walking Atlas
 Worldly Tutor
 Yarok, the Desecrated
+Life from the Loam
+Boseiju, Who Endures
+Nature's Lore
+Ramunap Excavator
+Three Visits
+Fierce Guardianship

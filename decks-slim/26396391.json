@@ -291,20 +291,6 @@
       "text": "You may play lands from your graveyard."
     },
     {
-      "name": "Cultivate",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
-    },
-    {
       "name": "Dakmor Salvage",
       "quantity": 1,
       "board": "main",
@@ -428,20 +414,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Fog",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Prevent all combat damage that would be dealt this turn."
     },
     {
       "name": "Forest",
@@ -581,20 +553,6 @@
       "text": "({T}: Add {U}.)"
     },
     {
-      "name": "Jumbo Cactuar",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 7,
-      "type": "Creature — Plant",
-      "text": "10,000 Needles — Whenever this creature attacks, it gets +9999/+0 until end of turn."
-    },
-    {
       "name": "Kodama of the East Tree",
       "quantity": 1,
       "board": "main",
@@ -701,16 +659,6 @@
       "text": "Whenever a permanent becomes untapped, that permanent's controller mills a card."
     },
     {
-      "name": "Mindcrank",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)"
-    },
-    {
       "name": "Mirelurk Queen",
       "quantity": 1,
       "board": "main",
@@ -791,34 +739,6 @@
       "manaValue": 1,
       "type": "Sorcery",
       "text": "Search your library for a sorcery card, reveal it, then shuffle and put that card on top."
-    },
-    {
-      "name": "Rampant Growth",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
-    },
-    {
-      "name": "Reanimate",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value."
     },
     {
       "name": "Retreat to Coralhelm",
@@ -1144,6 +1064,88 @@
       "manaValue": 5,
       "type": "Legendary Creature — Elemental Horror",
       "text": "Deathtouch, lifelink\nIf a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
+    },
+    {
+      "name": "Life from the Loam",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Return up to three target land cards from your graveyard to your hand.\nDredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)"
+    },
+    {
+      "name": "Boseiju, Who Endures",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {G}.\nChannel — {1}{G}, Discard this card: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control."
+    },
+    {
+      "name": "Nature's Lore",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Ramunap Excavator",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Cleric Snake",
+      "text": "You may play lands from your graveyard."
+    },
+    {
+      "name": "Three Visits",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Search your library for a Forest card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Fierce Guardianship",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
     }
   ]
 }
