@@ -24,6 +24,12 @@ Dragonskull Summit
 Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
+Etali, Primal Storm
+Evolving Wilds
+Exotic Orchard
+Feed the Swarm
+Fellwar Stone
+Foreboding Ruins
 Grave Titan
 Haunted Ridge
 Hero's Downfall
@@ -69,18 +75,12 @@ Talisman of Indulgence
 Temple of Malice
 Terminate
 The Balrog of Moria
+Unexpected Windfall
 The Balrog, Durin's Bane
 Toxic Deluge
 Tramway Station
-Unexpected Windfall
+Bloodghast
+Zulaport Cutthroat
 Victimize
 Vilis, Broker of Blood
 Wayfarer's Bauble
-Bloodghast
-Zulaport Cutthroat
-Etali, Primal Storm
-Evolving Wilds
-Exotic Orchard
-Feed the Swarm
-Fellwar Stone
-Foreboding Ruins

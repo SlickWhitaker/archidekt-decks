@@ -49,9 +49,11 @@ Plains
 Plains
 Port Town
 Prairie Stream
+Psychic Paper
+Raugrin Triome
+Regenerations Restored
 Rhystic Study
 RMS Titanic
-Psychic Paper
 Rogue's Passage
 Rory Williams
 Rotating Fireplace
@@ -93,5 +95,3 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Raugrin Triome
-Regenerations Restored
