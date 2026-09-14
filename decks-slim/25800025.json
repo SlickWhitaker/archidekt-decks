@@ -328,6 +328,16 @@
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
     },
     {
+      "name": "Command Tower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
       "name": "Hullbreaker Horror",
       "quantity": 1,
       "board": "main",
@@ -340,16 +350,6 @@
       "manaValue": 7,
       "type": "Creature — Horror Kraken",
       "text": "Flash\nThis spell can't be countered.\nWhenever you cast a spell, choose up to one —\n• Return target spell you don't control to its owner's hand.\n• Return target nonland permanent to its owner's hand."
-    },
-    {
-      "name": "Command Tower",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
       "name": "Grand Abolisher",
