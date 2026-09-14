@@ -33,8 +33,6 @@ Fire-Lit Thicket
 Forest
 Fyndhorn Elves
 Gamble
-Greater Good
-Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -46,14 +44,6 @@ Misty Rainforest
 Mountain
 Natural Order
 Nature's Lore
-Veil of Summer
-Verdant Catacombs
-Wasteland
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Nykthos, Shrine to Nyx
 Old Gnawbone
 Orcish Lumberjack
@@ -65,21 +55,7 @@ Rootbound Crag
 Scalding Tarn
 Seedborn Muse
 Selvala, Heart of the Wilds
-Beast Within
 Skullclamp
-Uktabi Orangutan
-Liquimetal Torque
-Gearbane Orangutan
-Kibo, Uktabi Prince
-Kogla, the Titan Ape
-Scrounging Bandar
-Viridian Revel
-Gorilla Shaman
-Taurean Mauler
-Inspiring Call
-Liquimetal Coating
-Silverback Elder
-Yavimaya Steelcrusher
 Sol Ring
 Spire Garden
 Stomping Ground
@@ -92,3 +68,27 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Beast Within
+Uktabi Orangutan
+Liquimetal Torque
+Gearbane Orangutan
+Kibo, Uktabi Prince
+Kogla, the Titan Ape
+Scrounging Bandar
+Viridian Revel
+Gorilla Shaman
+Greater Good
+Green Sun's Zenith
+Inspiring Call
+Liquimetal Coating
+Taurean Mauler
+Silverback Elder
+Yavimaya Steelcrusher

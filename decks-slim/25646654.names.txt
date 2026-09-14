@@ -22,6 +22,8 @@ Distant Melody
 Elspeth, Sun's Champion
 Empyrean Eagle
 Esior, Wardwing Familiar
+Evolving Wilds
+Exotic Orchard
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
@@ -70,6 +72,13 @@ Storm of Souls
 Sulfur Falls
 Sunscorched Divide
 Swords to Plowshares
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Temple of Enlightenment
 Temple of Triumph
 Terramorphic Expanse
@@ -81,12 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
-Evolving Wilds
-Exotic Orchard

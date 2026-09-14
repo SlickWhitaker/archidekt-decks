@@ -499,6 +499,48 @@
       "text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card."
     },
     {
+      "name": "Mindlash Sliver",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Sliver",
+      "text": "All Slivers have \"{1}, Sacrifice this permanent: Each player discards a card.\""
+    },
+    {
+      "name": "Necrogen Mists",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "At the beginning of each player's upkeep, that player discards a card."
+    },
+    {
+      "name": "Necrogoyf",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Lhurgoyf",
+      "text": "Necrogoyf's power is equal to the number of creature cards in all graveyards.\nAt the beginning of each player's upkeep, that player discards a card.\nMadness {1}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+    },
+    {
       "name": "Nezumi Informant",
       "quantity": 1,
       "board": "main",
@@ -621,6 +663,30 @@
       "text": "Choose one or more —\n• Each player discards two cards.\n• Each player loses 4 life.\n• Each player sacrifices two creatures of their choice."
     },
     {
+      "name": "Geth's Grimoire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Artifact — Book",
+      "text": "Whenever an opponent discards a card, you may draw a card."
+    },
+    {
+      "name": "Waste Not",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.\nWhenever an opponent discards a land card, add {B}{B}.\nWhenever an opponent discards a noncreature, nonland card, draw a card."
+    },
+    {
       "name": "Rotting Rats",
       "quantity": 1,
       "board": "main",
@@ -691,6 +757,16 @@
       "text": "Target player draws two cards and loses 2 life."
     },
     {
+      "name": "Lightning Greaves",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
+    },
+    {
       "name": "Smallpox",
       "quantity": 1,
       "board": "main",
@@ -723,6 +799,30 @@
       "manaValue": 1,
       "type": "Artifact",
       "text": "{T}, Tap an untapped creature you control: Add one mana of any color."
+    },
+    {
+      "name": "Tinybones, Trinket Thief",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Skeleton Rogue",
+      "text": "At the beginning of each end step, if an opponent discarded a card this turn, you draw a card and you lose 1 life.\n{4}{B}{B}: Each opponent with no cards in hand loses 10 life."
+    },
+    {
+      "name": "Scavenger Grounds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land — Desert",
+      "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
     },
     {
       "name": "Swamp",
@@ -881,106 +981,6 @@
       "manaValue": 3,
       "type": "Enchantment",
       "text": "{1}: The next time you would draw a card this turn, each opponent discards a card instead."
-    },
-    {
-      "name": "Geth's Grimoire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Artifact — Book",
-      "text": "Whenever an opponent discards a card, you may draw a card."
-    },
-    {
-      "name": "Waste Not",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.\nWhenever an opponent discards a land card, add {B}{B}.\nWhenever an opponent discards a noncreature, nonland card, draw a card."
-    },
-    {
-      "name": "Lightning Greaves",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
-    },
-    {
-      "name": "Tinybones, Trinket Thief",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Skeleton Rogue",
-      "text": "At the beginning of each end step, if an opponent discarded a card this turn, you draw a card and you lose 1 life.\n{4}{B}{B}: Each opponent with no cards in hand loses 10 life."
-    },
-    {
-      "name": "Scavenger Grounds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land — Desert",
-      "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
-    },
-    {
-      "name": "Mindlash Sliver",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Sliver",
-      "text": "All Slivers have \"{1}, Sacrifice this permanent: Each player discards a card.\""
-    },
-    {
-      "name": "Necrogen Mists",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "At the beginning of each player's upkeep, that player discards a card."
-    },
-    {
-      "name": "Necrogoyf",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Lhurgoyf",
-      "text": "Necrogoyf's power is equal to the number of creature cards in all graveyards.\nAt the beginning of each player's upkeep, that player discards a card.\nMadness {1}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
     }
   ]
 }
