@@ -47,6 +47,11 @@ Out of Time
 Path of Ancestry
 Plains
 Plains
+Port Town
+Prairie Stream
+Psychic Paper
+Raugrin Triome
+Regenerations Restored
 Rhystic Study
 RMS Titanic
 Rogue's Passage
@@ -90,8 +95,3 @@ War Room
 Wibbly-wobbly, Timey-wimey
 Wilfred Mott
 The Tenth Doctor
-Port Town
-Prairie Stream
-Psychic Paper
-Raugrin Triome
-Regenerations Restored

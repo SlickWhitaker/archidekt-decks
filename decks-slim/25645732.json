@@ -564,20 +564,6 @@
       "text": "This land enters tapped.\n{T}: Add {R} or {G}."
     },
     {
-      "name": "Path to Exile",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
-    },
-    {
       "name": "Iron Hills Blacksmith",
       "quantity": 1,
       "board": "main",
@@ -1192,6 +1178,20 @@
       "manaValue": 2,
       "type": "Legendary Creature — Advisor Dwarf",
       "text": "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
+    },
+    {
+      "name": "Path to Exile",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
     },
     {
       "name": "Plains",

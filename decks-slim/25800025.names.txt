@@ -7,8 +7,8 @@ Teferi, Mage of Zhalfir
 Finale of Devastation
 Food Chain
 Flusterstorm
-Neoform
 Pact of Negation
+Neoform
 Carpet of Flowers
 Swords to Plowshares
 Noble Hierarch
@@ -16,8 +16,8 @@ Emiel the Blessed
 Hallowed Fountain
 Otawara, Soaring City
 Temple Garden
-Sea of Clouds
 Bountiful Promenade
+Sea of Clouds
 Phyrexian Metamorph
 Chulane, Teller of Tales
 Polluted Delta

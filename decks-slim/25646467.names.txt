@@ -46,6 +46,14 @@ Lightning Greaves
 Mana Echoes
 Marvin, Murderous Mimic
 Metallic Mimic
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+War Room
+Arena of Glory
+Sokenzan, Crucible of Defiance
+Krenko, Mob Boss
+Goblin Piledriver
 Mogg War Marshal
 Moggcatcher
 Mountain
@@ -67,12 +75,4 @@ Staff of Domination
 Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
-Valakut Exploration
 Urza's Incubator
-Zealous Conscripts
-War Room
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-Arena of Glory
-Sokenzan, Crucible of Defiance
-Krenko, Mob Boss
-Goblin Piledriver

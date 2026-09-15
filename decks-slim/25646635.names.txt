@@ -45,6 +45,14 @@ Misdirection
 Mist-Syndicate Naga
 Mistblade Shinobi
 Moon-Circuit Hacker
+Morphic Pool
+Mothdust Changeling
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Nanogene Conversion
+Nashi, Moon Sage's Scion
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
@@ -61,7 +69,6 @@ Satoru, the Infiltrator
 Scroll Rack
 Sensei's Divining Top
 Shizo, Death's Storehouse
-Silver-Fur Master
 Sink into Stupor // Soporific Springs
 Skullsnatcher
 Slither Blade
@@ -84,15 +91,8 @@ Yuriko, the Tiger's Shadow
 Demonic Tutor
 Sol Ring
 Faerie Seer
-Morphic Pool
-Mothdust Changeling
 Force of Negation
 Treasure Cruise
 Shadow of Mortality
 Temporal Mastery
-Muddle the Mixture
-Mystic Remora
-Mystic Sanctuary
-Mystical Tutor
-Nanogene Conversion
-Nashi, Moon Sage's Scion
+Silver-Fur Master

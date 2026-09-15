@@ -40,7 +40,6 @@ Fortified Village
 Furycalm Snarl
 Path of Ancestry
 Gongaga, Reactor Town
-Path to Exile
 Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
@@ -89,6 +88,7 @@ Sword of Feast and Famine
 Kaldra Compleat
 Armored Skyhunter
 Sram, Senior Edificer
+Path to Exile
 Plains
 Plains
 Plains
