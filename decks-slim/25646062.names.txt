@@ -44,8 +44,14 @@ Namor the Sub-Mariner
 Nicanzil, Current Conductor
 Path of Ancestry
 Ponder
-Summon: Leviathan
 Pongify
+Raise the Palisade
+Rapid Hybridization
+Realmwalker
+Reflections of Littjara
+Rejuvenating Springs
+Ripples of Potential
+Summon: Leviathan
 Svyelun of Sea and Sky
 Swan Song
 Swiftfoot Boots
@@ -69,12 +75,6 @@ Hakbal of the Surging Soul
 Fierce Guardianship
 Cryptolith Rite
 Merfolk Mistbinder
-Raise the Palisade
-Rapid Hybridization
-Realmwalker
-Reflections of Littjara
-Rejuvenating Springs
-Ripples of Potential
 Roaming Throne
 Secluded Courtyard
 Singer of Swift Rivers

@@ -58,9 +58,6 @@ Oakhollow Village
 Polluted Delta
 Pond Prophet
 Rejuvenating Springs
-Riverchurn Monument
-Shifting Woodland
-Snapcaster Mage
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
@@ -85,12 +82,15 @@ Yavimaya, Cradle of Growth
 Zuran Orb
 Grolnok, the Omnivore
 Maskwood Nexus
-Clifftop Lookout
-Boseiju, Who Endures
 Spore Frog
+Clifftop Lookout
 Poison Dart Frog
 Froghemoth
 Valley Mightcaller
 Clement, the Worrywort
+Boseiju, Who Endures
 Beast Within
 Cavern of Souls
+Riverchurn Monument
+Shifting Woodland
+Snapcaster Mage

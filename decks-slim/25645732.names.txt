@@ -57,13 +57,14 @@ Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
-Mithril Coat
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
+Sephiroth, Fallen Hero
+Sheltered Thicket
+Sigarda's Aid
+Skullclamp
+Slayers' Stronghold
+Sol Ring
+Sphere Grid
+Spire of Industry
 Stoneforge Mystic
 Summon: Kujata
 Summoning Materia
@@ -71,21 +72,16 @@ Sungrass Prairie
 Sunpetal Grove
 Sunscorched Divide
 Swiftfoot Boots
-Sephiroth, Fallen Hero
 Sword of Sinew and Steel
-Sheltered Thicket
-Sigarda's Aid
-Skullclamp
-Slayers' Stronghold
 Sword of the Animist
-Sol Ring
-Sphere Grid
-Spire of Industry
 Swords to Plowshares
-Unfinished Business
 Tifa, Martial Artist
 Tifa's Limit Break
 Ultimate Magic: Holy
+Unfinished Business
+Vandalblast
+Wood Elves
+Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
 Cloud, Ex-SOLDIER
@@ -95,6 +91,10 @@ Sword of Feast and Famine
 Kaldra Compleat
 Armored Skyhunter
 Sram, Senior Edificer
-Vandalblast
-Wood Elves
-Yuffie, Materia Hunter
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will

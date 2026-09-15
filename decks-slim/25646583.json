@@ -1195,6 +1195,20 @@
       "text": "As this enchantment enters, choose a creature type.\nWhenever a creature you control of the chosen type enters or attacks, draw a card."
     },
     {
+      "name": "Heroic Intervention",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Permanents you control gain hexproof and indestructible until end of turn."
+    },
+    {
       "name": "Saw in Half",
       "quantity": 1,
       "board": "main",
@@ -1221,20 +1235,6 @@
       "manaValue": 2,
       "type": "Enchantment — Aura",
       "text": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0."
-    },
-    {
-      "name": "Heroic Intervention",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Permanents you control gain hexproof and indestructible until end of turn."
     },
     {
       "name": "Uugguu, the Omniplasm",

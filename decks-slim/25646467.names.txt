@@ -58,20 +58,20 @@ Rings of Brighthearth
 Ruby Medallion
 Rundvelt Hordemaster
 Shared Animosity
-Valakut Exploration
-Zealous Conscripts
 Skirk Fire Marshal
 Skirk Prospector
-Skullclamp
-Sol Ring
-Squee, Dubious Monarch
-Staff of Domination
+Valakut Exploration
+Zealous Conscripts
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 War Room
 Arena of Glory
 Sokenzan, Crucible of Defiance
 Krenko, Mob Boss
 Goblin Piledriver
+Skullclamp
+Sol Ring
+Squee, Dubious Monarch
+Staff of Domination
 Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
