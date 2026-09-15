@@ -40,13 +40,6 @@ Martial Coup
 Migratory Route
 Mind Stone
 Mountain
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Murmuration
 Mystic Monastery
 Nesting Dovehawk
@@ -64,6 +57,10 @@ Restless Anchorage
 Roaming Throne
 Rose Room Treasurer
 Rugged Prairie
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Seachrome Coast
 Season of the Burrow
 Selfless Spirit
@@ -78,6 +75,9 @@ Steam Vents
 Storm of Souls
 Sulfur Falls
 Sunscorched Divide
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Swords to Plowshares
 Temple of Enlightenment
 Temple of Triumph

@@ -32,6 +32,8 @@ Felidar Retreat
 Forest
 Grand Coliseum
 Guardian Project
+Halo Fountain
+Heroes in a Half Shell
 Heroic Intervention
 Hidden Hideout
 Hinterland Harbor
@@ -89,5 +91,3 @@ Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower
-Halo Fountain
-Heroes in a Half Shell
