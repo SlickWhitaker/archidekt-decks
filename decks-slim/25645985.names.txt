@@ -22,6 +22,15 @@ Ghost Quarter
 Gilded Goose
 Gollum, Obsessed Stalker
 Gwaihir, Greatest of the Eagles
+Gyome, Master Chef
+Hithlain Rope
+Lotho, Corrupt Shirriff
+Many Partings
+Mentor of the Meek
+Merry, Warden of Isengard
+Mirkwood Bats
+Mortality Spear
+Murmuring Bosk
 Nature's Lore
 Nazgûl
 Necroblossom Snarl
@@ -59,7 +68,6 @@ Treebeard, Gracious Host
 Trouble in Pairs
 Well of Lost Dreams
 Windswept Heath
-Witch's Oven
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
@@ -80,12 +88,4 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
-Gyome, Master Chef
-Hithlain Rope
-Lotho, Corrupt Shirriff
-Many Partings
-Mentor of the Meek
-Merry, Warden of Isengard
-Mirkwood Bats
-Mortality Spear
-Murmuring Bosk
+Witch's Oven

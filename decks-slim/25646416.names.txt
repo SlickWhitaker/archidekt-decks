@@ -66,22 +66,22 @@ Sylvan Library
 Terror of the Peaks
 The Great Henge
 The One Ring
-Veil of Summer
 The Ozolith
 Three Visits
-Verdant Catacombs
 Tooth and Nail
+Veil of Summer
 Vandalblast
-Uktabi Orangutan
 Wasteland
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Beast Within
-Liquimetal Torque
 Gearbane Orangutan
+Verdant Catacombs
+Beast Within
+Uktabi Orangutan
+Liquimetal Torque
 Kibo, Uktabi Prince
 Kogla, the Titan Ape
 Scrounging Bandar

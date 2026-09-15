@@ -43,6 +43,13 @@ Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
 Mask of Memory
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will
 Path of Ancestry
 Path to Exile
 Plains
@@ -52,19 +59,11 @@ Professional Face-Breaker
 Puresteel Paladin
 Radiant Grove
 Red XIII, Proud Warrior
-Mithril Coat
 Rogue's Passage
 Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
-Mossfire Valley
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
-Stoneforge Mystic
 Sephiroth, Fallen Hero
 Sheltered Thicket
 Sigarda's Aid
@@ -73,6 +72,13 @@ Slayers' Stronghold
 Sol Ring
 Sphere Grid
 Spire of Industry
+Stoneforge Mystic
+Summon: Kujata
+Summoning Materia
+Sungrass Prairie
+Sunpetal Grove
+Sunscorched Divide
+Swiftfoot Boots
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
@@ -92,9 +98,3 @@ Sword of Feast and Famine
 Kaldra Compleat
 Armored Skyhunter
 Sram, Senior Edificer
-Summon: Kujata
-Summoning Materia
-Sungrass Prairie
-Sunpetal Grove
-Sunscorched Divide
-Swiftfoot Boots

@@ -334,6 +334,136 @@
       "text": "Flying\nWhenever Gwaihir attacks, target attacking creature gains flying until end of turn.\nAt the beginning of each end step, if you gained 3 or more life this turn, create a 3/3 white Bird creature token with flying and \"Whenever this token attacks, target attacking creature gains flying until end of turn.\""
     },
     {
+      "name": "Gyome, Master Chef",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Troll Warlock",
+      "text": "Trample\nAt the beginning of your end step, create a number of Food tokens equal to the number of nontoken creatures you had enter the battlefield under your control this turn.\n{1}, Sacrifice a Food: Target creature gains indestructible until end of turn. Tap it."
+    },
+    {
+      "name": "Hithlain Rope",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "This artifact can't be sacrificed.\n{1}, {T}: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. The player to your right gains control of this artifact.\n{2}, {T}: Draw a card. The player to your right gains control of this artifact."
+    },
+    {
+      "name": "Lotho, Corrupt Shirriff",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Rogue Halfling",
+      "text": "Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "Many Partings",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    },
+    {
+      "name": "Mentor of the Meek",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Soldier",
+      "text": "Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card."
+    },
+    {
+      "name": "Merry, Warden of Isengard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Advisor Halfling",
+      "text": "Partner with Pippin, Warden of Isengard (When this creature enters, target player may put Pippin into their hand from their library, then shuffle.)\nWhenever one or more artifacts you control enter, create a 1/1 white Soldier creature token with lifelink. This ability triggers only once each turn."
+    },
+    {
+      "name": "Mirkwood Bats",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Bat",
+      "text": "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life."
+    },
+    {
+      "name": "Mortality Spear",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Instant",
+      "text": "This spell costs {2} less to cast if you gained life this turn.\nDestroy target nonland permanent."
+    },
+    {
+      "name": "Murmuring Bosk",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Forest",
+      "text": "({T}: Add {G}.)\nAs this land enters, you may reveal a Treefolk card from your hand. If you don't, this land enters tapped.\n{T}: Add {W} or {B}. This land deals 1 damage to you."
+    },
+    {
       "name": "Nature's Lore",
       "quantity": 1,
       "board": "main",
@@ -825,16 +955,6 @@
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
     },
     {
-      "name": "Witch's Oven",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
-    },
-    {
       "name": "Woodfall Primus",
       "quantity": 1,
       "board": "main",
@@ -1105,134 +1225,14 @@
       "text": "{T}: Add {C}.\n{2}, {T}, Tap an untapped creature you control: Create a Food token.\n{3}, {T}: Choose target permanent you control. Draw a card, then another player of your choice may gain control of that permanent. Activate only as a sorcery."
     },
     {
-      "name": "Gyome, Master Chef",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Troll Warlock",
-      "text": "Trample\nAt the beginning of your end step, create a number of Food tokens equal to the number of nontoken creatures you had enter the battlefield under your control this turn.\n{1}, Sacrifice a Food: Target creature gains indestructible until end of turn. Tap it."
-    },
-    {
-      "name": "Hithlain Rope",
+      "name": "Witch's Oven",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "This artifact can't be sacrificed.\n{1}, {T}: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. The player to your right gains control of this artifact.\n{2}, {T}: Draw a card. The player to your right gains control of this artifact."
-    },
-    {
-      "name": "Lotho, Corrupt Shirriff",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Black"
-      ],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Rogue Halfling",
-      "text": "Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
-    },
-    {
-      "name": "Many Partings",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
       "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
-    },
-    {
-      "name": "Mentor of the Meek",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Soldier",
-      "text": "Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card."
-    },
-    {
-      "name": "Merry, Warden of Isengard",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Green"
-      ],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Advisor Halfling",
-      "text": "Partner with Pippin, Warden of Isengard (When this creature enters, target player may put Pippin into their hand from their library, then shuffle.)\nWhenever one or more artifacts you control enter, create a 1/1 white Soldier creature token with lifelink. This ability triggers only once each turn."
-    },
-    {
-      "name": "Mirkwood Bats",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Bat",
-      "text": "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life."
-    },
-    {
-      "name": "Mortality Spear",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Instant",
-      "text": "This spell costs {2} less to cast if you gained life this turn.\nDestroy target nonland permanent."
-    },
-    {
-      "name": "Murmuring Bosk",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Black",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Forest",
-      "text": "({T}: Add {G}.)\nAs this land enters, you may reveal a Treefolk card from your hand. If you don't, this land enters tapped.\n{T}: Add {W} or {B}. This land deals 1 damage to you."
+      "type": "Artifact",
+      "text": "{T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
     }
   ]
 }

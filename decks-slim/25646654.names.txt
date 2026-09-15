@@ -57,14 +57,13 @@ Restless Anchorage
 Roaming Throne
 Rose Room Treasurer
 Rugged Prairie
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
 Seachrome Coast
 Season of the Burrow
+Warren Warleader
+Watcher of the Spheres
 Selfless Spirit
 Shared Animosity
+Zinnia, Valley's Voice
 Shivan Reef
 Skullclamp
 Skyclave Apparition
@@ -75,11 +74,12 @@ Steam Vents
 Storm of Souls
 Sulfur Falls
 Sunscorched Divide
+Fiend Hunter
+Swords to Plowshares
+Temple of Enlightenment
 Academy Manufactor
 Cathars' Crusade
 Helm of the Host
-Swords to Plowshares
-Temple of Enlightenment
 Temple of Triumph
 Terramorphic Expanse
 Tetsuko Umezawa, Fugitive

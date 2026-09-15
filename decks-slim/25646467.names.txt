@@ -47,14 +47,6 @@ Mana Echoes
 Marvin, Murderous Mimic
 Metallic Mimic
 Mogg War Marshal
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-War Room
-Arena of Glory
-Sokenzan, Crucible of Defiance
-Krenko, Mob Boss
-Goblin Piledriver
 Moggcatcher
 Mountain
 Muxus, Goblin Grandee
@@ -76,3 +68,11 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+War Room
+Arena of Glory
+Sokenzan, Crucible of Defiance
+Krenko, Mob Boss
+Goblin Piledriver

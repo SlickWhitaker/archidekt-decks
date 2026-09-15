@@ -60,6 +60,7 @@ Pond Prophet
 Rejuvenating Springs
 Riverchurn Monument
 Shifting Woodland
+Snapcaster Mage
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
@@ -93,4 +94,3 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
-Snapcaster Mage
