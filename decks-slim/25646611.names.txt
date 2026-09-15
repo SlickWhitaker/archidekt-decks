@@ -16,6 +16,14 @@ Castle Locthwain
 Chaos Warp
 Command Tower
 Deadly Rollick
+Deflecting Swat
+Dragonskull Summit
+Everlasting Torment
+Exquisite Blood
+Feed the Swarm
+Fellwar Stone
+Fiery Confluence
+Fire Covenant
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
@@ -65,20 +73,12 @@ Wheel of Misfortune
 Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
+Florian, Voldaren Scion
 Scrawling Crawler
 Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
 Blood Seeker
-Deflecting Swat
-Dragonskull Summit
-Everlasting Torment
-Exquisite Blood
-Feed the Swarm
-Fellwar Stone
-Fiery Confluence
-Fire Covenant
-Florian, Voldaren Scion
 Foreboding Ruins
 Furnace of Rath
 Graven Cairns

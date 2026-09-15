@@ -463,6 +463,20 @@
       "text": "Flying, haste\nWhenever this creature attacks or becomes the target of a spell, create a Treasure token.\nTreasures you control have \"{T}, Sacrifice this artifact: Add two mana of any one color.\""
     },
     {
+      "name": "Greater Good",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
+    },
+    {
       "name": "Harbinger of the Hunt",
       "quantity": 1,
       "board": "main",
@@ -1015,20 +1029,6 @@
       "manaValue": 5,
       "type": "Creature — Dragon",
       "text": "Flying\nWhenever a Dragon you control is dealt damage, it deals that much damage to any target that isn't a Dragon."
-    },
-    {
-      "name": "Greater Good",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
     }
   ]
 }

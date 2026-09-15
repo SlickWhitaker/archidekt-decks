@@ -45,6 +45,7 @@ Nicanzil, Current Conductor
 Path of Ancestry
 Ponder
 Summon: Leviathan
+Pongify
 Svyelun of Sea and Sky
 Swan Song
 Swiftfoot Boots
@@ -68,7 +69,6 @@ Hakbal of the Surging Soul
 Fierce Guardianship
 Cryptolith Rite
 Merfolk Mistbinder
-Pongify
 Raise the Palisade
 Rapid Hybridization
 Realmwalker

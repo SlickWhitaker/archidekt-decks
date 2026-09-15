@@ -17,6 +17,23 @@ Cavern of Souls
 Chaos Warp
 Chord of Calling
 Cinder Glade
+Command Tower
+Commercial District
+Copperline Gorge
+Craterhoof Behemoth
+Deflecting Swat
+Delighted Halfling
+Eldritch Evolution
+Elvish Mystic
+Eternal Witness
+Exploration
+Fauna Shaman
+Finale of Devastation
+Fire-Lit Thicket
+Forest
+Fyndhorn Elves
+Gamble
+Greater Good
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -53,7 +70,9 @@ Three Visits
 Tooth and Nail
 Vandalblast
 Veil of Summer
+Green Sun's Zenith
 Verdant Catacombs
+Gearbane Orangutan
 Wasteland
 Windswept Heath
 Wooded Foothills
@@ -63,7 +82,6 @@ Zealous Conscripts
 Beast Within
 Uktabi Orangutan
 Liquimetal Torque
-Gearbane Orangutan
 Kibo, Uktabi Prince
 Kogla, the Titan Ape
 Scrounging Bandar
@@ -74,21 +92,3 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
-Command Tower
-Commercial District
-Copperline Gorge
-Craterhoof Behemoth
-Deflecting Swat
-Delighted Halfling
-Eldritch Evolution
-Elvish Mystic
-Eternal Witness
-Exploration
-Fauna Shaman
-Finale of Devastation
-Fire-Lit Thicket
-Forest
-Fyndhorn Elves
-Gamble
-Greater Good
-Green Sun's Zenith

@@ -48,6 +48,11 @@ Long River Lurker
 Lotus Cobra
 Mana Confluence
 Mana Drain
+Mesmeric Orb
+Millikin
+Mistrise Village
+Misty Rainforest
+Mystic Sanctuary
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -80,17 +85,12 @@ Yavimaya, Cradle of Growth
 Zuran Orb
 Grolnok, the Omnivore
 Maskwood Nexus
-Spore Frog
 Clifftop Lookout
+Boseiju, Who Endures
+Spore Frog
 Poison Dart Frog
 Froghemoth
 Valley Mightcaller
 Clement, the Worrywort
-Boseiju, Who Endures
 Beast Within
 Cavern of Souls
-Mesmeric Orb
-Millikin
-Mistrise Village
-Misty Rainforest
-Mystic Sanctuary

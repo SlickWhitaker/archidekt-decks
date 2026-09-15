@@ -640,6 +640,20 @@
       "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Return each creature that isn't a Kraken, Leviathan, Merfolk, Octopus, or Serpent to its owner's hand.\nII, III — Until end of turn, whenever a Kraken, Leviathan, Merfolk, Octopus, or Serpent attacks, draw a card.\nWard {2}"
     },
     {
+      "name": "Pongify",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Destroy target creature. It can't be regenerated. Its controller creates a 3/3 green Ape creature token."
+    },
+    {
       "name": "Svyelun of Sea and Sky",
       "quantity": 1,
       "board": "main",
@@ -940,20 +954,6 @@
       "manaValue": 2,
       "type": "Creature — Merfolk Shaman",
       "text": "Other Merfolk you control get +1/+1."
-    },
-    {
-      "name": "Pongify",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Destroy target creature. It can't be regenerated. Its controller creates a 3/3 green Ape creature token."
     },
     {
       "name": "Raise the Palisade",
