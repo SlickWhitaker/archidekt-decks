@@ -31,7 +31,6 @@ Game Trail
 Ganax, Astral Hunter
 Garruk's Uprising
 Goldspan Dragon
-Greater Good
 Harbinger of the Hunt
 Haven of the Spirit Dragon
 Heroic Intervention
@@ -74,3 +73,4 @@ Urza's Incubator
 Vandalblast
 Verix Bladewing
 Wrathful Red Dragon
+Greater Good

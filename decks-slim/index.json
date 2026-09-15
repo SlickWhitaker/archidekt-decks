@@ -156,7 +156,7 @@
     },
     {
       "id": 25645985,
-      "name": "Food and Fellowship UPGRADE",
+      "name": "Frodo & Sam: Food and Fellowship UPGRADE",
       "format": 3,
       "commander": [
         "Sam, Loyal Attendant",
@@ -177,8 +177,8 @@
       "namesFile": "25645985.names.txt",
       "cardsFile": "25645985.cards.jsonl",
       "metaFile": "25645985.meta.json",
-      "fullBytes": 288012,
-      "analysisBytes": 30719,
+      "fullBytes": 288025,
+      "analysisBytes": 30732,
       "reductionPercent": 89.3
     },
     {

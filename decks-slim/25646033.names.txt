@@ -48,11 +48,6 @@ Long River Lurker
 Lotus Cobra
 Mana Confluence
 Mana Drain
-Mesmeric Orb
-Millikin
-Mistrise Village
-Misty Rainforest
-Mystic Sanctuary
 Noxious Revival
 Oakhollow Village
 Polluted Delta
@@ -94,3 +89,8 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
+Mesmeric Orb
+Millikin
+Mistrise Village
+Misty Rainforest
+Mystic Sanctuary

@@ -34,9 +34,6 @@ Liliana's Triumph
 Megrim
 Mind Rake
 Mind Stone
-Mindlash Sliver
-Necrogen Mists
-Necrogoyf
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
 Oppression
@@ -59,11 +56,6 @@ Syphon Mind
 The Raven Man
 Tinybones Joins Up
 Tinybones, Bauble Burglar
-Geth's Grimoire
-Waste Not
-Lightning Greaves
-Tinybones, Trinket Thief
-Scavenger Grounds
 Unearth
 Virus Beetle
 War Room
@@ -71,3 +63,11 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
+Geth's Grimoire
+Waste Not
+Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds
+Mindlash Sliver
+Necrogen Mists
+Necrogoyf

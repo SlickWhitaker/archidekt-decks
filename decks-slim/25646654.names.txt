@@ -24,6 +24,7 @@ Empyrean Eagle
 Esior, Wardwing Familiar
 Evolving Wilds
 Exotic Orchard
+Warren Warleader
 Fellwar Stone
 Ferrous Lake
 Flawless Maneuver
@@ -59,11 +60,8 @@ Rose Room Treasurer
 Rugged Prairie
 Seachrome Coast
 Season of the Burrow
-Warren Warleader
-Watcher of the Spheres
 Selfless Spirit
 Shared Animosity
-Zinnia, Valley's Voice
 Shivan Reef
 Skullclamp
 Skyclave Apparition
@@ -74,12 +72,8 @@ Steam Vents
 Storm of Souls
 Sulfur Falls
 Sunscorched Divide
-Fiend Hunter
 Swords to Plowshares
 Temple of Enlightenment
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Temple of Triumph
 Terramorphic Expanse
 Tetsuko Umezawa, Fugitive
@@ -90,3 +84,9 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
+Watcher of the Spheres
