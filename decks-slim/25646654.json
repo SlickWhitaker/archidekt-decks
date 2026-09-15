@@ -781,88 +781,6 @@
       "text": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time."
     },
     {
-      "name": "Rose Room Treasurer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Warrior Ogre",
-      "text": "Alliance — Whenever another creature you control enters, create a Treasure token if this is the first or second time this ability has resolved this turn. Otherwise, you may pay {X}. When you do, this creature deals X damage to any target."
-    },
-    {
-      "name": "Rugged Prairie",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W}."
-    },
-    {
-      "name": "Seachrome Coast",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W} or {U}."
-    },
-    {
-      "name": "Season of the Burrow",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 5,
-      "type": "Sorcery",
-      "text": "Choose up to five {P} worth of modes. You may choose the same mode more than once.\n{P} — Create a 1/1 white Rabbit creature token.\n{P}{P} — Exile target nonland permanent. Its controller draws a card.\n{P}{P}{P} — Return target permanent card with mana value 3 or less from your graveyard to the battlefield with an indestructible counter on it."
-    },
-    {
-      "name": "Selfless Spirit",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Cleric Spirit",
-      "text": "Flying\nSacrifice this creature: Creatures you control gain indestructible until end of turn."
-    },
-    {
-      "name": "Shared Animosity",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it."
-    },
-    {
       "name": "Warren Warleader",
       "quantity": 1,
       "board": "main",
@@ -957,6 +875,88 @@
       "manaValue": 4,
       "type": "Legendary Artifact — Equipment",
       "text": "At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary. That token gains haste.\nEquip {5}"
+    },
+    {
+      "name": "Rose Room Treasurer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Warrior Ogre",
+      "text": "Alliance — Whenever another creature you control enters, create a Treasure token if this is the first or second time this ability has resolved this turn. Otherwise, you may pay {X}. When you do, this creature deals X damage to any target."
+    },
+    {
+      "name": "Rugged Prairie",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W}."
+    },
+    {
+      "name": "Seachrome Coast",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Season of the Burrow",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Sorcery",
+      "text": "Choose up to five {P} worth of modes. You may choose the same mode more than once.\n{P} — Create a 1/1 white Rabbit creature token.\n{P}{P} — Exile target nonland permanent. Its controller draws a card.\n{P}{P}{P} — Return target permanent card with mana value 3 or less from your graveyard to the battlefield with an indestructible counter on it."
+    },
+    {
+      "name": "Selfless Spirit",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Cleric Spirit",
+      "text": "Flying\nSacrifice this creature: Creatures you control gain indestructible until end of turn."
+    },
+    {
+      "name": "Shared Animosity",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it."
     },
     {
       "name": "Shivan Reef",

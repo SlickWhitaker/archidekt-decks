@@ -49,11 +49,6 @@ Rankle's Prank
 Rotting Rats
 Sangromancer
 Sepulchral Primordial
-Geth's Grimoire
-Waste Not
-Lightning Greaves
-Tinybones, Trinket Thief
-Scavenger Grounds
 Shrieking Affliction
 Sign in Blood
 Smallpox
@@ -71,3 +66,8 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
+Geth's Grimoire
+Waste Not
+Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds

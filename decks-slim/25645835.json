@@ -576,6 +576,44 @@
       "text": "({T}: Add {R}.)"
     },
     {
+      "name": "Myriad Landscape",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Mystic Monastery",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {U}, {R}, or {W}."
+    },
+    {
+      "name": "Nanogene Conversion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Choose target creature you control. Each other creature becomes a copy of that creature until end of turn, except it isn't legendary."
+    },
+    {
       "name": "Ominous Cemetery",
       "quantity": 1,
       "board": "main",
@@ -632,72 +670,6 @@
       "manaValue": 0,
       "type": "Basic Land — Plains",
       "text": "({T}: Add {W}.)"
-    },
-    {
-      "name": "Port Town",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, you may reveal a Plains or Island card from your hand. If you don't, this land enters tapped.\n{T}: Add {W} or {U}."
-    },
-    {
-      "name": "Prairie Stream",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Island",
-      "text": "({T}: Add {W} or {U}.)\nThis land enters tapped unless you control two or more basic lands."
-    },
-    {
-      "name": "Psychic Paper",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "As this Equipment becomes attached to a creature, choose a creature card name and a creature type.\nEquipped creature has ward {1}, it can't be blocked, and its name and creature type are the last chosen name and creature type.\nEquip {2}"
-    },
-    {
-      "name": "Raugrin Triome",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Island Mountain",
-      "text": "({T}: Add {U}, {R}, or {W}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)"
-    },
-    {
-      "name": "Regenerations Restored",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "Vanishing 12 (This enchantment enters with twelve time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhenever one or more time counters are removed from this enchantment, scry 1 and you gain 1 life. Then if this enchantment has no time counters on it, exile it. When you do, take an extra turn after this one."
     },
     {
       "name": "Rhystic Study",
@@ -1270,17 +1242,43 @@
       "text": "Allons-y! — Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn't have suspend, it gains suspend.\nTimey-Wimey — {7}: Time travel three times. Activate only as a sorcery. (For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do it two more times.)"
     },
     {
-      "name": "Myriad Landscape",
+      "name": "Port Town",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, you may reveal a Plains or Island card from your hand. If you don't, this land enters tapped.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Prairie Stream",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Island",
+      "text": "({T}: Add {W} or {U}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "Psychic Paper",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "As this Equipment becomes attached to a creature, choose a creature card name and a creature type.\nEquipped creature has ward {1}, it can't be blocked, and its name and creature type are the last chosen name and creature type.\nEquip {2}"
     },
     {
-      "name": "Mystic Monastery",
+      "name": "Raugrin Triome",
       "quantity": 1,
       "board": "main",
       "colors": [],
@@ -1290,22 +1288,24 @@
         "Red"
       ],
       "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {U}, {R}, or {W}."
+      "type": "Land — Plains Island Mountain",
+      "text": "({T}: Add {U}, {R}, or {W}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)"
     },
     {
-      "name": "Nanogene Conversion",
+      "name": "Regenerations Restored",
       "quantity": 1,
       "board": "main",
       "colors": [
+        "White",
         "Blue"
       ],
       "colorIdentity": [
+        "White",
         "Blue"
       ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Choose target creature you control. Each other creature becomes a copy of that creature until end of turn, except it isn't legendary."
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "Vanishing 12 (This enchantment enters with twelve time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhenever one or more time counters are removed from this enchantment, scry 1 and you gain 1 life. Then if this enchantment has no time counters on it, exile it. When you do, take an extra turn after this one."
     }
   ]
 }

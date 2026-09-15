@@ -32,9 +32,6 @@ Finale of Devastation
 Fire-Lit Thicket
 Forest
 Fyndhorn Elves
-Gamble
-Greater Good
-Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -42,21 +39,12 @@ Kiki-Jiki, Mirror Breaker
 Kodama of the West Tree
 Lightning Greaves
 Llanowar Elves
-Veil of Summer
-Verdant Catacombs
 Misty Rainforest
 Mountain
 Natural Order
-Wasteland
-Windswept Heath
-Wooded Foothills
-Worldly Tutor
 Nature's Lore
-Yavimaya, Cradle of Growth
-Zealous Conscripts
 Nykthos, Shrine to Nyx
 Old Gnawbone
-Beast Within
 Orcish Lumberjack
 Prismatic Vista
 Railway Brawler
@@ -68,23 +56,10 @@ Seedborn Muse
 Selvala, Heart of the Wilds
 Skullclamp
 Sol Ring
-Uktabi Orangutan
 Spire Garden
 Stomping Ground
-Liquimetal Torque
-Gearbane Orangutan
-Kibo, Uktabi Prince
-Kogla, the Titan Ape
-Scrounging Bandar
 Strip Mine
-Viridian Revel
-Gorilla Shaman
-Taurean Mauler
 Sylvan Library
-Inspiring Call
-Liquimetal Coating
-Silverback Elder
-Yavimaya Steelcrusher
 Terror of the Peaks
 The Great Henge
 The One Ring
@@ -92,3 +67,28 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
+Veil of Summer
+Verdant Catacombs
+Wasteland
+Windswept Heath
+Wooded Foothills
+Worldly Tutor
+Yavimaya, Cradle of Growth
+Zealous Conscripts
+Beast Within
+Uktabi Orangutan
+Liquimetal Torque
+Gearbane Orangutan
+Kibo, Uktabi Prince
+Kogla, the Titan Ape
+Scrounging Bandar
+Viridian Revel
+Gorilla Shaman
+Taurean Mauler
+Inspiring Call
+Liquimetal Coating
+Silverback Elder
+Yavimaya Steelcrusher
+Gamble
+Greater Good
+Green Sun's Zenith

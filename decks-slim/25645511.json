@@ -355,34 +355,6 @@
       "text": "This land enters tapped.\nIndestructible\n{T}: Add {B} or {R}."
     },
     {
-      "name": "Endrek Sahr, Master Breeder",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Wizard",
-      "text": "Whenever you cast a creature spell, create X 1/1 black Thrull creature tokens, where X is that spell's mana value.\nWhen you control seven or more Thrulls, sacrifice Endrek Sahr."
-    },
-    {
-      "name": "Etali, Primal Storm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Legendary Creature — Elder Dinosaur",
-      "text": "Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs."
-    },
-    {
       "name": "Grave Titan",
       "quantity": 1,
       "board": "main",
@@ -1102,6 +1074,34 @@
       "manaValue": 2,
       "type": "Creature — Human Rogue Ally",
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
+    },
+    {
+      "name": "Endrek Sahr, Master Breeder",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Wizard",
+      "text": "Whenever you cast a creature spell, create X 1/1 black Thrull creature tokens, where X is that spell's mana value.\nWhen you control seven or more Thrulls, sacrifice Endrek Sahr."
+    },
+    {
+      "name": "Etali, Primal Storm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Elder Dinosaur",
+      "text": "Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs."
     },
     {
       "name": "Evolving Wilds",

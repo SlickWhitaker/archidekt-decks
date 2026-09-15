@@ -55,12 +55,6 @@ Rapid Hybridization
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
-Rose Room Treasurer
-Rugged Prairie
-Seachrome Coast
-Season of the Burrow
-Selfless Spirit
-Shared Animosity
 Warren Warleader
 Watcher of the Spheres
 Zinnia, Valley's Voice
@@ -68,6 +62,12 @@ Fiend Hunter
 Academy Manufactor
 Cathars' Crusade
 Helm of the Host
+Rose Room Treasurer
+Rugged Prairie
+Seachrome Coast
+Season of the Burrow
+Selfless Spirit
+Shared Animosity
 Shivan Reef
 Skullclamp
 Skyclave Apparition
