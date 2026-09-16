@@ -59,20 +59,6 @@
       "text": "Sacrifice a creature: Target player mills cards equal to the sacrificed creature's power."
     },
     {
-      "name": "Ancient Ooze",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 7,
-      "type": "Creature — Ooze",
-      "text": "Ancient Ooze's power and toughness are each equal to the total mana value of other creatures you control."
-    },
-    {
       "name": "Arcane Signet",
       "quantity": 1,
       "board": "main",
@@ -205,20 +191,6 @@
       "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
-      "name": "Consuming Blob",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Ooze",
-      "text": "Consuming Blob's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.\nAt the beginning of your end step, create a green Ooze creature token with \"This token's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.\""
-    },
-    {
       "name": "Deathcap Glade",
       "quantity": 1,
       "board": "main",
@@ -344,20 +316,6 @@
       "text": "Glasspool Mimic: You may have this creature enter as a copy of a creature you control, except it's a Shapeshifter Rogue in addition to its other types. | Glasspool Shore: This land enters tapped.\n{T}: Add {U}."
     },
     {
-      "name": "Gluttonous Slime",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Ooze",
-      "text": "Flash\nDevour 1 (As this creature enters, you may sacrifice any number of creatures. It enters with that many +1/+1 counters on it.)"
-    },
-    {
       "name": "Greater Good",
       "quantity": 1,
       "board": "main",
@@ -474,20 +432,6 @@
       "manaValue": 3,
       "type": "Legendary Creature — Ooze",
       "text": "As Mimeoplasm enters, exile up to X creature cards from your graveyard. It enters with three +1/+1 counters on it for each creature card exiled this way.\n{2}: Mimeoplasm becomes a copy of target creature card exiled with it, except it's 0/0 and has this ability."
-    },
-    {
-      "name": "Mirrorhall Mimic // Ghastly Mimicry",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Spirit",
-      "text": "Mirrorhall Mimic: You may have this creature enter as a copy of any creature on the battlefield, except it's a Spirit in addition to its other types.\nDisturb {3}{U}{U} (You may cast this card from your graveyard transformed for its disturb cost.) | Ghastly Mimicry: Enchant creature\nAt the beginning of your upkeep, create a token that's a copy of enchanted creature, except it's a Spirit in addition to its other types.\nIf Ghastly Mimicry would be put into a graveyard from anywhere, exile it instead."
     },
     {
       "name": "Misty Rainforest",
@@ -1207,24 +1151,6 @@
       "text": "Protection from Humans\nPay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card.\n{B}{B}, Discard a card: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
     },
     {
-      "name": "Uugguu, the Omniplasm",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green",
-        "Black",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Black",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Ooze",
-      "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
-    },
-    {
       "name": "Maskwood Nexus",
       "quantity": 1,
       "board": "main",
@@ -1285,6 +1211,80 @@
       "manaValue": 4,
       "type": "Creature — Ooze",
       "text": "As long as this creature is on the battlefield, it has all activated abilities of all creature cards in all graveyards."
+    },
+    {
+      "name": "Hecteyes",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Ooze Horror",
+      "text": "When this creature enters, each opponent discards a card."
+    },
+    {
+      "name": "Chomping Changeling",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Shapeshifter",
+      "text": "Changeling (This card is every creature type.)\nWhen this creature enters, destroy up to one target artifact or enchantment."
+    },
+    {
+      "name": "Victimize",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped."
+    },
+    {
+      "name": "Acidic Slime",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Ooze",
+      "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhen this creature enters, destroy target artifact, enchantment, or land."
+    },
+    {
+      "name": "Uugguu, the Omniplasm",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Ooze",
+      "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
     }
   ]
 }

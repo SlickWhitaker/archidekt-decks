@@ -1,7 +1,6 @@
 Adrix and Nev, Twincasters
 Aeve, Progenitor Ooze
 Altar of Dementia
-Ancient Ooze
 Arcane Signet
 Ashnod's Altar
 Biogenic Ooze
@@ -13,7 +12,6 @@ Cavern of Souls
 Chronicle of Victory
 Clever Impersonator
 Command Tower
-Consuming Blob
 Deathcap Glade
 Doubling Season
 Dreamroot Cascade
@@ -23,7 +21,6 @@ Experiment Kraj
 Forest
 Gelatinous Cube
 Glasspool Mimic // Glasspool Shore
-Gluttonous Slime
 Greater Good
 Green Slime
 Hinterland Harbor
@@ -33,7 +30,6 @@ Llanowar Wastes
 March of the World Ooze
 Metallic Mimic
 Mimeoplasm, Revered One
-Mirrorhall Mimic // Ghastly Mimicry
 Misty Rainforest
 Mitotic Slime
 Morphic Pool
@@ -89,9 +85,13 @@ Malakir Rebirth // Malakir Mire
 Assassin's Trophy
 Toxic Deluge
 Yawgmoth, Thran Physician
-Uugguu, the Omniplasm
 Maskwood Nexus
 Skullclamp
 Swan Song
 Deadly Dispute
 Necrotic Ooze
+Hecteyes
+Chomping Changeling
+Victimize
+Acidic Slime
+Uugguu, the Omniplasm
