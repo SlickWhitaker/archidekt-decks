@@ -504,20 +504,6 @@
       "text": "As Mimeoplasm enters, exile up to X creature cards from your graveyard. It enters with three +1/+1 counters on it for each creature card exiled this way.\n{2}: Mimeoplasm becomes a copy of target creature card exiled with it, except it's 0/0 and has this ability."
     },
     {
-      "name": "Mirror Image",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Shapeshifter",
-      "text": "You may have this creature enter as a copy of a creature you control."
-    },
-    {
       "name": "Mirrorhall Mimic // Ghastly Mimicry",
       "quantity": 1,
       "board": "main",
@@ -690,16 +676,6 @@
       "manaValue": 4,
       "type": "Enchantment",
       "text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
-    },
-    {
-      "name": "Patchwork Banner",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\n{T}: Add one mana of any color."
     },
     {
       "name": "Path of Ancestry",
@@ -1159,24 +1135,6 @@
       "text": "Permanents you control gain hexproof and indestructible until end of turn."
     },
     {
-      "name": "Uugguu, the Omniplasm",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green",
-        "Black",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Black",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Ooze",
-      "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
-    },
-    {
       "name": "Chthonian Nightmare",
       "quantity": 1,
       "board": "main",
@@ -1289,6 +1247,44 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Cleric",
       "text": "Protection from Humans\nPay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card.\n{B}{B}, Discard a card: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    },
+    {
+      "name": "Uugguu, the Omniplasm",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Ooze",
+      "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
+    },
+    {
+      "name": "Maskwood Nexus",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Artifact",
+      "text": "Creatures you control are every creature type. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.\n{3}, {T}: Create a 2/2 blue Shapeshifter creature token with changeling. (It is every creature type.)"
+    },
+    {
+      "name": "Skullclamp",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
     }
   ]
 }

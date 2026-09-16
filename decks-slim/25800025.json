@@ -1030,16 +1030,6 @@
       "text": "Creatures don't untap during their controllers' untap steps.\nWhenever a creature enters, untap all creatures."
     },
     {
-      "name": "Verdant Catacombs",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
-    },
-    {
       "name": "Phantasmal Image",
       "quantity": 1,
       "board": "main",
@@ -1068,18 +1058,14 @@
       "text": "Partner with Chakram Slinger (When this creature enters, target player may put Chakram Slinger into their hand from their library, then shuffle.)\nWhenever you cast a spell during your turn, untap target creature."
     },
     {
-      "name": "Blinking Spirit",
+      "name": "Verdant Catacombs",
       "quantity": 1,
       "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Spirit",
-      "text": "{0}: Return this creature to its owner's hand."
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
     },
     {
       "name": "Garruk's Uprising",
@@ -1096,20 +1082,18 @@
       "text": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card."
     },
     {
-      "name": "Inga and Esika",
+      "name": "Blinking Spirit",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Green",
-        "Blue"
+        "White"
       ],
       "colorIdentity": [
-        "Blue",
-        "Green"
+        "White"
       ],
       "manaValue": 4,
-      "type": "Legendary Creature — Human God",
-      "text": "Creatures you control have vigilance and \"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.\"\nWhenever you cast a creature spell, if three or more mana from creatures was spent to cast it, draw a card."
+      "type": "Creature — Spirit",
+      "text": "{0}: Return this creature to its owner's hand."
     },
     {
       "name": "Kiora's Follower",
@@ -1128,20 +1112,6 @@
       "text": "{T}: Untap another target permanent."
     },
     {
-      "name": "Saryth, the Viper's Fang",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human Warlock",
-      "text": "Other tapped creatures you control have deathtouch.\nOther untapped creatures you control have hexproof.\n{1}, {T}: Untap another target creature or land you control."
-    },
-    {
       "name": "Foundation Breaker",
       "quantity": 1,
       "board": "main",
@@ -1156,16 +1126,20 @@
       "text": "When this creature enters, you may destroy target artifact or enchantment.\nEvoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)"
     },
     {
-      "name": "Forest",
-      "quantity": 2,
+      "name": "Inga and Esika",
+      "quantity": 1,
       "board": "main",
-      "colors": [],
+      "colors": [
+        "Green",
+        "Blue"
+      ],
       "colorIdentity": [
+        "Blue",
         "Green"
       ],
-      "manaValue": 0,
-      "type": "Basic Land — Forest",
-      "text": "({T}: Add {G}.)"
+      "manaValue": 4,
+      "type": "Legendary Creature — Human God",
+      "text": "Creatures you control have vigilance and \"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.\"\nWhenever you cast a creature spell, if three or more mana from creatures was spent to cast it, draw a card."
     },
     {
       "name": "Mystic Snake",
@@ -1182,6 +1156,18 @@
       "manaValue": 4,
       "type": "Creature — Snake",
       "text": "Flash\nWhen this creature enters, counter target spell."
+    },
+    {
+      "name": "Forest",
+      "quantity": 2,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
     },
     {
       "name": "Temur Sabertooth",
@@ -1272,6 +1258,20 @@
       "manaValue": 3,
       "type": "Legendary Creature — Druid Frog",
       "text": "Whenever you cast a creature spell with mana value 4 or greater, you draw a card, gain 1 life, and put a +1/+1 counter on Helga.\n{T}: Add X mana of any one color, where X is Helga's power. Spend this mana only to cast creature spells with mana value 4 or greater or creature spells with {X} in their mana costs."
+    },
+    {
+      "name": "Saryth, the Viper's Fang",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Warlock",
+      "text": "Other tapped creatures you control have deathtouch.\nOther untapped creatures you control have hexproof.\n{1}, {T}: Untap another target creature or land you control."
     },
     {
       "name": "Survival of the Fittest",
