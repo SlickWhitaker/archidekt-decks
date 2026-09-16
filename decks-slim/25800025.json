@@ -543,16 +543,6 @@
       "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
     },
     {
-      "name": "Windswept Heath",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
-    },
-    {
       "name": "Sol Ring",
       "quantity": 1,
       "board": "main",
@@ -561,6 +551,30 @@
       "manaValue": 1,
       "type": "Artifact",
       "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Elvish Spirit Guide",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Elf Spirit",
+      "text": "Exile this card from your hand: Add {G}."
+    },
+    {
+      "name": "Windswept Heath",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
     },
     {
       "name": "Arcane Signet",
@@ -585,6 +599,16 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
+    },
+    {
+      "name": "Arid Mesa",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
     },
     {
       "name": "Silence",
@@ -615,6 +639,20 @@
       "text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's mana value. Put that card onto the battlefield, then shuffle. Exile Eldritch Evolution."
     },
     {
+      "name": "Cyclonic Rift",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
+    },
+    {
       "name": "Deadeye Navigator",
       "quantity": 1,
       "board": "main",
@@ -627,6 +665,20 @@
       "manaValue": 6,
       "type": "Creature — Spirit",
       "text": "Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)\nAs long as Deadeye Navigator is paired with another creature, each of those creatures has \"{1}{U}: Exile this creature, then return it to the battlefield under your control.\""
+    },
+    {
+      "name": "Elvish Mystic",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Elf Druid",
+      "text": "{T}: Add {G}."
     },
     {
       "name": "Scalding Tarn",
@@ -687,6 +739,20 @@
       "text": "{T}, Pay 1 life: Add one mana of any color."
     },
     {
+      "name": "Swan Song",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
+    },
+    {
       "name": "Boseiju, Who Endures",
       "quantity": 1,
       "board": "main",
@@ -697,6 +763,20 @@
       "manaValue": 0,
       "type": "Legendary Land",
       "text": "{T}: Add {G}.\nChannel — {1}{G}, Discard this card: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control."
+    },
+    {
+      "name": "Fierce Guardianship",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
     },
     {
       "name": "Fyndhorn Elves",
@@ -713,6 +793,20 @@
       "text": "{T}: Add {G}."
     },
     {
+      "name": "Mystic Remora",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment",
+      "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever an opponent casts a noncreature spell, you may draw a card unless that player pays {4}."
+    },
+    {
       "name": "Birds of Paradise",
       "quantity": 1,
       "board": "main",
@@ -725,6 +819,20 @@
       "manaValue": 1,
       "type": "Creature — Bird",
       "text": "Flying\n{T}: Add one mana of any color."
+    },
+    {
+      "name": "Mockingbird",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Bird Bard",
+      "text": "Flying\nYou may have this creature enter as a copy of any creature on the battlefield with mana value less than or equal to the amount of mana spent to cast this creature, except it's a Bird in addition to its other types and it has flying."
     },
     {
       "name": "Bloom Tender",
@@ -755,6 +863,20 @@
       "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nSearch your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle."
     },
     {
+      "name": "Spellseeker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Wizard",
+      "text": "When this creature enters, you may search your library for an instant or sorcery card with mana value 2 or less, reveal it, put it into your hand, then shuffle."
+    },
+    {
       "name": "Misty Rainforest",
       "quantity": 1,
       "board": "main",
@@ -765,6 +887,20 @@
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
     },
     {
+      "name": "Palinchron",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 7,
+      "type": "Creature — Illusion",
+      "text": "Flying\nWhen this creature enters, untap up to seven lands.\n{2}{U}{U}: Return this creature to its owner's hand."
+    },
+    {
       "name": "Marsh Flats",
       "quantity": 1,
       "board": "main",
@@ -773,6 +909,16 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Ancestral Statue",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Creature Artifact — Golem",
+      "text": "When this creature enters, return a nonland permanent you control to its owner's hand."
     },
     {
       "name": "Mental Misstep",
@@ -799,238 +945,6 @@
       "manaValue": 0,
       "type": "Legendary Land",
       "text": "{T}: Add {U}.\n{U}, {T}: Untap target legendary permanent."
-    },
-    {
-      "name": "Inga and Esika",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human God",
-      "text": "Creatures you control have vigilance and \"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.\"\nWhenever you cast a creature spell, if three or more mana from creatures was spent to cast it, draw a card."
-    },
-    {
-      "name": "Saryth, the Viper's Fang",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human Warlock",
-      "text": "Other tapped creatures you control have deathtouch.\nOther untapped creatures you control have hexproof.\n{1}, {T}: Untap another target creature or land you control."
-    },
-    {
-      "name": "Forest",
-      "quantity": 2,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Forest",
-      "text": "({T}: Add {G}.)"
-    },
-    {
-      "name": "Temur Sabertooth",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Cat",
-      "text": "{1}{G}: You may return another creature you control to its owner's hand. If you do, this creature gains indestructible until end of turn."
-    },
-    {
-      "name": "Faeburrow Elder",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Green"
-      ],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Druid Treefolk",
-      "text": "Vigilance\nThis creature gets +1/+1 for each color among permanents you control.\n{T}: For each color among permanents you control, add one mana of that color."
-    },
-    {
-      "name": "Somberwald Sage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Druid",
-      "text": "{T}: Add three mana of any one color. Spend this mana only to cast creature spells."
-    },
-    {
-      "name": "Elvish Spirit Guide",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Elf Spirit",
-      "text": "Exile this card from your hand: Add {G}."
-    },
-    {
-      "name": "Arid Mesa",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Cyclonic Rift",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
-    },
-    {
-      "name": "Elvish Mystic",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Elf Druid",
-      "text": "{T}: Add {G}."
-    },
-    {
-      "name": "Swan Song",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
-    },
-    {
-      "name": "Fierce Guardianship",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
-    },
-    {
-      "name": "Mystic Remora",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Enchantment",
-      "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever an opponent casts a noncreature spell, you may draw a card unless that player pays {4}."
-    },
-    {
-      "name": "Mockingbird",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Bird Bard",
-      "text": "Flying\nYou may have this creature enter as a copy of any creature on the battlefield with mana value less than or equal to the amount of mana spent to cast this creature, except it's a Bird in addition to its other types and it has flying."
-    },
-    {
-      "name": "Spellseeker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Wizard",
-      "text": "When this creature enters, you may search your library for an instant or sorcery card with mana value 2 or less, reveal it, put it into your hand, then shuffle."
-    },
-    {
-      "name": "Palinchron",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 7,
-      "type": "Creature — Illusion",
-      "text": "Flying\nWhen this creature enters, untap up to seven lands.\n{2}{U}{U}: Return this creature to its owner's hand."
-    },
-    {
-      "name": "Ancestral Statue",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Creature Artifact — Golem",
-      "text": "When this creature enters, return a nonland permanent you control to its owner's hand."
     },
     {
       "name": "Endurance",
@@ -1182,6 +1096,22 @@
       "text": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card."
     },
     {
+      "name": "Inga and Esika",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human God",
+      "text": "Creatures you control have vigilance and \"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.\"\nWhenever you cast a creature spell, if three or more mana from creatures was spent to cast it, draw a card."
+    },
+    {
       "name": "Kiora's Follower",
       "quantity": 1,
       "board": "main",
@@ -1198,6 +1128,20 @@
       "text": "{T}: Untap another target permanent."
     },
     {
+      "name": "Saryth, the Viper's Fang",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Warlock",
+      "text": "Other tapped creatures you control have deathtouch.\nOther untapped creatures you control have hexproof.\n{1}, {T}: Untap another target creature or land you control."
+    },
+    {
       "name": "Foundation Breaker",
       "quantity": 1,
       "board": "main",
@@ -1210,6 +1154,18 @@
       "manaValue": 4,
       "type": "Creature — Elemental",
       "text": "When this creature enters, you may destroy target artifact or enchantment.\nEvoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)"
+    },
+    {
+      "name": "Forest",
+      "quantity": 2,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
     },
     {
       "name": "Mystic Snake",
@@ -1228,6 +1184,20 @@
       "text": "Flash\nWhen this creature enters, counter target spell."
     },
     {
+      "name": "Temur Sabertooth",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Cat",
+      "text": "{1}{G}: You may return another creature you control to its owner's hand. If you do, this creature gains indestructible until end of turn."
+    },
+    {
       "name": "Cloud of Faeries",
       "quantity": 1,
       "board": "main",
@@ -1242,32 +1212,34 @@
       "text": "Flying\nWhen this creature enters, untap up to two lands.\nCycling {2} ({2}, Discard this card: Draw a card.)"
     },
     {
-      "name": "Survival of the Fittest",
+      "name": "Faeburrow Elder",
       "quantity": 1,
       "board": "main",
       "colors": [
+        "White",
         "Green"
       ],
       "colorIdentity": [
+        "White",
         "Green"
       ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "{G}, Discard a creature card: Search your library for a creature card, reveal that card, put it into your hand, then shuffle."
+      "manaValue": 3,
+      "type": "Creature — Druid Treefolk",
+      "text": "Vigilance\nThis creature gets +1/+1 for each color among permanents you control.\n{T}: For each color among permanents you control, add one mana of that color."
     },
     {
-      "name": "Displacer Kitten",
+      "name": "Somberwald Sage",
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Blue"
+        "Green"
       ],
       "colorIdentity": [
-        "Blue"
+        "Green"
       ],
-      "manaValue": 4,
-      "type": "Creature — Beast Cat",
-      "text": "Avoidance — Whenever you cast a noncreature spell, exile up to one target nonland permanent you control, then return that card to the battlefield under its owner's control."
+      "manaValue": 3,
+      "type": "Creature — Human Druid",
+      "text": "{T}: Add three mana of any one color. Spend this mana only to cast creature spells."
     },
     {
       "name": "Shrieking Drake",
@@ -1300,6 +1272,34 @@
       "manaValue": 3,
       "type": "Legendary Creature — Druid Frog",
       "text": "Whenever you cast a creature spell with mana value 4 or greater, you draw a card, gain 1 life, and put a +1/+1 counter on Helga.\n{T}: Add X mana of any one color, where X is Helga's power. Spend this mana only to cast creature spells with mana value 4 or greater or creature spells with {X} in their mana costs."
+    },
+    {
+      "name": "Survival of the Fittest",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "{G}, Discard a creature card: Search your library for a creature card, reveal that card, put it into your hand, then shuffle."
+    },
+    {
+      "name": "Displacer Kitten",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Beast Cat",
+      "text": "Avoidance — Whenever you cast a noncreature spell, exile up to one target nonland permanent you control, then return that card to the battlefield under its owner's control."
     }
   ]
 }

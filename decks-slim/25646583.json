@@ -1249,6 +1249,24 @@
       "text": "Protection from Humans\nPay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card.\n{B}{B}, Discard a card: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
     },
     {
+      "name": "Uugguu, the Omniplasm",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Ooze",
+      "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
+    },
+    {
       "name": "Maskwood Nexus",
       "quantity": 1,
       "board": "main",
@@ -1267,24 +1285,6 @@
       "manaValue": 1,
       "type": "Artifact — Equipment",
       "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
-    },
-    {
-      "name": "Uugguu, the Omniplasm",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green",
-        "Black",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Black",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Ooze",
-      "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
     }
   ]
 }

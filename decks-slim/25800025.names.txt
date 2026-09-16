@@ -37,44 +37,38 @@ Avacyn's Pilgrim
 Misthollow Griffin
 Solitude
 Exotic Orchard
-Windswept Heath
 Sol Ring
+Elvish Spirit Guide
+Windswept Heath
 Arcane Signet
 Enlightened Tutor
+Arid Mesa
 Silence
 Eldritch Evolution
+Cyclonic Rift
 Deadeye Navigator
+Elvish Mystic
 Scalding Tarn
 Rhystic Study
 Worldly Tutor
 Walking Ballista
 Mana Confluence
+Swan Song
 Boseiju, Who Endures
+Fierce Guardianship
 Fyndhorn Elves
+Mystic Remora
 Birds of Paradise
+Mockingbird
 Bloom Tender
 Chord of Calling
+Spellseeker
 Misty Rainforest
+Palinchron
 Marsh Flats
+Ancestral Statue
 Mental Misstep
 Minamo, School at Water's Edge
-Inga and Esika
-Saryth, the Viper's Fang
-Forest
-Temur Sabertooth
-Faeburrow Elder
-Somberwald Sage
-Elvish Spirit Guide
-Arid Mesa
-Cyclonic Rift
-Elvish Mystic
-Swan Song
-Fierce Guardianship
-Mystic Remora
-Mockingbird
-Spellseeker
-Palinchron
-Ancestral Statue
 Endurance
 Wild Growth
 Delighted Halfling
@@ -86,11 +80,17 @@ Phantasmal Image
 Chakram Retriever
 Blinking Spirit
 Garruk's Uprising
+Inga and Esika
 Kiora's Follower
+Saryth, the Viper's Fang
 Foundation Breaker
+Forest
 Mystic Snake
+Temur Sabertooth
 Cloud of Faeries
-Survival of the Fittest
-Displacer Kitten
+Faeburrow Elder
+Somberwald Sage
 Shrieking Drake
 Helga, Skittish Seer
+Survival of the Fittest
+Displacer Kitten
