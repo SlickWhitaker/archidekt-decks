@@ -57,6 +57,9 @@ Noxious Revival
 Oakhollow Village
 Polluted Delta
 Pond Prophet
+Rejuvenating Springs
+Riverchurn Monument
+Shifting Woodland
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
@@ -90,7 +93,4 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
-Rejuvenating Springs
-Riverchurn Monument
-Shifting Woodland
 Snapcaster Mage

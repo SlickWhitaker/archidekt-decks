@@ -9,6 +9,7 @@ Blood Artist
 Blood Crypt
 Bloodchief Ascension
 Bloodletter of Aclazotz
+Kaervek the Merciless
 Bloodstained Mire
 Bloodthirsty Conqueror
 Cabal Coffers
@@ -24,24 +25,13 @@ Feed the Swarm
 Fellwar Stone
 Fiery Confluence
 Fire Covenant
-Kaervek the Merciless
-Kardur, Doomscourge
-Kederekt Parasite
-Lightning Greaves
-Luxury Suite
-Mayhem Devil
-Mogis, God of Slaughter
-Mountain
-Necropotence
-Ob Nixilis, Captive Kingpin
-Obosh, the Preypiercer
-Opposition Agent
-Orcish Bowmasters
-Painful Quandary
-Polluted Bonds
-Prismatic Vista
-Rakdos Charm
-Rampaging Ferocidon
+Florian, Voldaren Scion
+Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -78,10 +68,20 @@ Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
 Blood Seeker
-Florian, Voldaren Scion
-Foreboding Ruins
-Furnace of Rath
-Graven Cairns
-Haunted Ridge
-Havoc Festival
-Jet Medallion
+Kardur, Doomscourge
+Kederekt Parasite
+Lightning Greaves
+Luxury Suite
+Mayhem Devil
+Mogis, God of Slaughter
+Mountain
+Necropotence
+Ob Nixilis, Captive Kingpin
+Obosh, the Preypiercer
+Opposition Agent
+Orcish Bowmasters
+Painful Quandary
+Polluted Bonds
+Prismatic Vista
+Rakdos Charm
+Rampaging Ferocidon

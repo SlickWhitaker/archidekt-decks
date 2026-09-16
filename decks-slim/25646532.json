@@ -719,6 +719,20 @@
       "text": "At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, they lose 3 life."
     },
     {
+      "name": "Sign in Blood",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Target player draws two cards and loses 2 life."
+    },
+    {
       "name": "Geth's Grimoire",
       "quantity": 1,
       "board": "main",
@@ -775,20 +789,6 @@
       "manaValue": 0,
       "type": "Land — Desert",
       "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
-    },
-    {
-      "name": "Sign in Blood",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Target player draws two cards and loses 2 life."
     },
     {
       "name": "Smallpox",

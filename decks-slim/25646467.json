@@ -903,16 +903,6 @@
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
     },
     {
-      "name": "Thornbite Staff",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact Kindred — Equipment Shaman",
-      "text": "Equipped creature has \"{2}, {T}: This creature deals 1 damage to any target\" and \"Whenever a creature dies, untap this creature.\"\nWhenever a Shaman creature enters, you may attach this Equipment to it.\nEquip {4}"
-    },
-    {
       "name": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",
       "quantity": 1,
       "board": "main",
@@ -987,6 +977,16 @@
       "manaValue": 2,
       "type": "Creature — Goblin Warrior",
       "text": "Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)\nWhenever this creature attacks, it gets +2/+0 until end of turn for each other attacking Goblin."
+    },
+    {
+      "name": "Thornbite Staff",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact Kindred — Equipment Shaman",
+      "text": "Equipped creature has \"{2}, {T}: This creature deals 1 damage to any target\" and \"Whenever a creature dies, untap this creature.\"\nWhenever a Shaman creature enters, you may attach this Equipment to it.\nEquip {4}"
     },
     {
       "name": "Thousand-Year Elixir",

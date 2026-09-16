@@ -49,20 +49,20 @@ Path to Exile
 Plains
 Plumecreed Escort
 Pollywog Prodigy
-Rally the Ranks
-Rapid Augmenter
-Rapid Hybridization
 Warren Warleader
 Watcher of the Spheres
 Zinnia, Valley's Voice
 Fiend Hunter
+Rally the Ranks
+Rapid Augmenter
+Rapid Hybridization
+Academy Manufactor
 Reconnaissance Mission
+Cathars' Crusade
+Helm of the Host
 Restless Anchorage
 Roaming Throne
 Rose Room Treasurer
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Rugged Prairie
 Seachrome Coast
 Season of the Burrow

@@ -36,7 +36,6 @@ Gamble
 Greater Good
 Green Sun's Zenith
 Hardened Scales
-Veil of Summer
 Heroic Intervention
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
@@ -50,27 +49,7 @@ Nature's Lore
 Nykthos, Shrine to Nyx
 Old Gnawbone
 Orcish Lumberjack
-Prismatic Vista
-Railway Brawler
-Rhythm of the Wild
-Rockfall Vale
-Rootbound Crag
-Scalding Tarn
-Seedborn Muse
-Selvala, Heart of the Wilds
-Skullclamp
-Sol Ring
-Spire Garden
-Stomping Ground
-Strip Mine
-Sylvan Library
-Terror of the Peaks
-The Great Henge
-The One Ring
-The Ozolith
-Three Visits
-Tooth and Nail
-Vandalblast
+Veil of Summer
 Verdant Catacombs
 Wasteland
 Windswept Heath
@@ -78,13 +57,28 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
+Prismatic Vista
+Railway Brawler
+Rhythm of the Wild
+Rockfall Vale
 Beast Within
+Rootbound Crag
+Scalding Tarn
+Seedborn Muse
 Uktabi Orangutan
 Liquimetal Torque
 Gearbane Orangutan
+Selvala, Heart of the Wilds
+Skullclamp
 Kibo, Uktabi Prince
+Sol Ring
 Kogla, the Titan Ape
 Scrounging Bandar
+Spire Garden
+Stomping Ground
+Strip Mine
+Sylvan Library
+Terror of the Peaks
 Viridian Revel
 Gorilla Shaman
 Taurean Mauler
@@ -92,3 +86,9 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
+The Great Henge
+The One Ring
+The Ozolith
+Three Visits
+Tooth and Nail
+Vandalblast
