@@ -15,45 +15,25 @@ Noble Hierarch
 Emiel the Blessed
 Hallowed Fountain
 Otawara, Soaring City
-Temple Garden
 Bountiful Promenade
-Sea of Clouds
-Phyrexian Metamorph
 Chulane, Teller of Tales
-Polluted Delta
-Hullbreaker Horror
 Command Tower
 Grand Abolisher
-City of Brass
 Venser, Shaper Savant
-Peregrine Drake
 Kinnan, Bonder Prodigy
-Island
 Crop Rotation
 Esper Sentinel
 Eladamri's Call
 Mindbreak Trap
-Avacyn's Pilgrim
 Misthollow Griffin
-Solitude
 Exotic Orchard
-Sol Ring
 Elvish Spirit Guide
-Windswept Heath
 Arcane Signet
-Enlightened Tutor
-Arid Mesa
 Silence
-Eldritch Evolution
 Cyclonic Rift
 Deadeye Navigator
-Elvish Mystic
-Scalding Tarn
 Rhystic Study
-Worldly Tutor
 Walking Ballista
-Mana Confluence
-Swan Song
 Boseiju, Who Endures
 Fierce Guardianship
 Fyndhorn Elves
@@ -62,35 +42,55 @@ Birds of Paradise
 Mockingbird
 Bloom Tender
 Chord of Calling
-Spellseeker
-Misty Rainforest
-Palinchron
 Marsh Flats
-Ancestral Statue
 Mental Misstep
-Minamo, School at Water's Edge
-Endurance
 Wild Growth
 Delighted Halfling
-Ranger-Captain of Eos
 Rejuvenating Springs
-Intruder Alarm
 Verdant Catacombs
 Phantasmal Image
 Chakram Retriever
 Blinking Spirit
-Garruk's Uprising
 Inga and Esika
-Kiora's Follower
-Saryth, the Viper's Fang
-Foundation Breaker
-Forest
 Mystic Snake
 Temur Sabertooth
-Cloud of Faeries
 Faeburrow Elder
-Somberwald Sage
 Shrieking Drake
 Helga, Skittish Seer
 Survival of the Fittest
 Displacer Kitten
+Temple Garden
+Sea of Clouds
+Phyrexian Metamorph
+Polluted Delta
+Hullbreaker Horror
+City of Brass
+Peregrine Drake
+Island
+Avacyn's Pilgrim
+Solitude
+Sol Ring
+Windswept Heath
+Enlightened Tutor
+Arid Mesa
+Eldritch Evolution
+Elvish Mystic
+Scalding Tarn
+Worldly Tutor
+Mana Confluence
+Swan Song
+Spellseeker
+Misty Rainforest
+Palinchron
+Ancestral Statue
+Minamo, School at Water's Edge
+Endurance
+Ranger-Captain of Eos
+Intruder Alarm
+Garruk's Uprising
+Kiora's Follower
+Saryth, the Viper's Fang
+Foundation Breaker
+Forest
+Cloud of Faeries
+Somberwald Sage
