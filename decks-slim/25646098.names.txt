@@ -73,21 +73,21 @@ Steelbane Hydra
 Stomping Ground
 Sunken Hollow
 Super Combo
-Turtle Lair
-Unbreakable Formation
-Undergrowth Stadium
-Vernal Fen
 Swamp
 Swan Song
-Vibrant Cityscape
 Swords to Plowshares
-Vigor
 Teferi's Protection
-Arcade Cabinet
 Tempestra, Dame of Games
 Thriving Isle
 Tireless Provisioner
 Tocasia's Welcome
+Turtle Lair
+Unbreakable Formation
+Undergrowth Stadium
+Vernal Fen
+Vibrant Cityscape
+Vigor
+Arcade Cabinet
 Michelangelo, the Heart
 Leonardo, the Balance
 Bristly Bill, Spine Sower

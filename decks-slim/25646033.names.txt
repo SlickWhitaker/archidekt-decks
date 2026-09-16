@@ -63,10 +63,22 @@ Shifting Woodland
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
+Snapcaster Mage
+The Great Henge
 Summon: Titan
 Swan Song
 Thassa's Oracle
-The Great Henge
+Clifftop Lookout
+Froghemoth
+Grolnok, the Omnivore
+Maskwood Nexus
+Spore Frog
+Poison Dart Frog
+Valley Mightcaller
+Clement, the Worrywort
+Boseiju, Who Endures
+Beast Within
+Cavern of Souls
 The Mycosynth Gardens
 Tishana's Tidebinder
 Uro, Titan of Nature's Wrath
@@ -82,15 +94,3 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-Grolnok, the Omnivore
-Maskwood Nexus
-Spore Frog
-Clifftop Lookout
-Poison Dart Frog
-Froghemoth
-Valley Mightcaller
-Clement, the Worrywort
-Boseiju, Who Endures
-Beast Within
-Cavern of Souls
-Snapcaster Mage

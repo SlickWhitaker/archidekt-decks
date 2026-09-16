@@ -31,18 +31,34 @@ Colossus Hammer
 Command Tower
 Exotic Orchard
 Farseek
-Fire-Lit Thicket
-Firion, Wild Rose Warrior
-Forest
-Forest
-Forest
-Fortified Village
-Furycalm Snarl
 Gongaga, Reactor Town
 Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
 Mask of Memory
+Mithril Coat
+Mossfire Valley
+Mountain
+Mountain
+Mountain
+Nature's Lore
+Nature's Will
+Rugged Prairie
+Sacred Peaks
+Scavenger Grounds
+Stoneforge Mystic
+Summon: Kujata
+Summoning Materia
+Sungrass Prairie
+Sunpetal Grove
+Sunscorched Divide
+Swiftfoot Boots
+Sword of Forge and Frontier
+Cloud, Ex-SOLDIER
+Enlightened Tutor
+Sword of Feast and Famine
+Armored Skyhunter
+Sram, Senior Edificer
 Path of Ancestry
 Path to Exile
 Plains
@@ -54,9 +70,6 @@ Radiant Grove
 Red XIII, Proud Warrior
 Rogue's Passage
 Rootbound Crag
-Rugged Prairie
-Sacred Peaks
-Scavenger Grounds
 Sephiroth, Fallen Hero
 Sheltered Thicket
 Sigarda's Aid
@@ -65,13 +78,6 @@ Slayers' Stronghold
 Sol Ring
 Sphere Grid
 Spire of Industry
-Stoneforge Mystic
-Summon: Kujata
-Summoning Materia
-Sungrass Prairie
-Sunpetal Grove
-Sunscorched Divide
-Swiftfoot Boots
 Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
@@ -82,19 +88,13 @@ Unfinished Business
 Vandalblast
 Wood Elves
 Yuffie, Materia Hunter
-Mithril Coat
-Mossfire Valley
 Zack Fair
-Sword of Forge and Frontier
-Cloud, Ex-SOLDIER
-Enlightened Tutor
 The Reaver Cleaver
-Sword of Feast and Famine
 Kaldra Compleat
-Armored Skyhunter
-Sram, Senior Edificer
-Mountain
-Mountain
-Mountain
-Nature's Lore
-Nature's Will
+Fire-Lit Thicket
+Firion, Wild Rose Warrior
+Forest
+Forest
+Forest
+Fortified Village
+Furycalm Snarl

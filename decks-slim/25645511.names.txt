@@ -23,8 +23,32 @@ Descent into Avernus
 Dragonskull Summit
 Dreadbore
 Drossforge Bridge
-Endrek Sahr, Master Breeder
 Grave Titan
+Pitiless Plunderer
+Rakdos Carnarium
+Rakdos Charm
+Rakdos Signet
+Rakdos, Lord of Riots
+Rakdos, Patron of Chaos
+Razaketh, the Foulblooded
+Reanimate
+Rune-Scarred Demon
+Scavenger Grounds
+Sepulchral Primordial
+Shadowblood Ridge
+Siege-Gang Lieutenant
+Sol Ring
+Song of Totentanz
+Sulfurous Springs
+Swamp
+Swiftfoot Boots
+The Balrog, Durin's Bane
+Toxic Deluge
+Tramway Station
+Unexpected Windfall
+Victimize
+Vilis, Broker of Blood
+Wayfarer's Bauble
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
@@ -46,38 +70,14 @@ Orca, Siege Demon
 Overseer of the Damned
 Pathrazer of Ulamog
 Phyrexian Triniform
-Pitiless Plunderer
-Rakdos Carnarium
-Rakdos Charm
-Rakdos Signet
-Rakdos, Lord of Riots
-Rakdos, Patron of Chaos
-Razaketh, the Foulblooded
-Reanimate
-Rune-Scarred Demon
-Scavenger Grounds
-Sepulchral Primordial
-Shadowblood Ridge
-Siege-Gang Lieutenant
-Sol Ring
-Song of Totentanz
-Sulfurous Springs
-Swamp
-Swiftfoot Boots
 Tainted Peak
 Talisman of Indulgence
 Temple of Malice
 Terminate
 The Balrog of Moria
-The Balrog, Durin's Bane
-Toxic Deluge
-Tramway Station
-Unexpected Windfall
-Victimize
-Vilis, Broker of Blood
-Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
+Endrek Sahr, Master Breeder
 Etali, Primal Storm
 Evolving Wilds
 Exotic Orchard

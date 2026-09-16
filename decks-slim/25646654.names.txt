@@ -49,17 +49,10 @@ Path to Exile
 Plains
 Plumecreed Escort
 Pollywog Prodigy
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
 Rally the Ranks
 Rapid Augmenter
 Rapid Hybridization
-Academy Manufactor
 Reconnaissance Mission
-Cathars' Crusade
-Helm of the Host
 Restless Anchorage
 Roaming Throne
 Rose Room Treasurer
@@ -73,6 +66,13 @@ Skullclamp
 Skyclave Apparition
 Skycloud Expanse
 Sol Ring
+Zinnia, Valley's Voice
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
+Warren Warleader
+Watcher of the Spheres
 Soulcatchers' Aerie
 Steam Vents
 Storm of Souls

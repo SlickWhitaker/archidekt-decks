@@ -452,95 +452,6 @@
       "text": "Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle."
     },
     {
-      "name": "Fire-Lit Thicket",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G}."
-    },
-    {
-      "name": "Firion, Wild Rose Warrior",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Human Warrior Rebel",
-      "text": "Equipped creatures you control have haste.\nWhenever a nontoken Equipment you control enters, create a token that's a copy of it, except it has \"This Equipment's equip abilities cost {2} less to activate.\" Sacrifice that token at the beginning of the next upkeep."
-    },
-    {
-      "name": "Forest",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Forest",
-      "text": "({T}: Add {G}.)"
-    },
-    {
-      "name": "Forest",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Forest",
-      "text": "({T}: Add {G}.)"
-    },
-    {
-      "name": "Forest",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Forest",
-      "text": "({T}: Add {G}.)"
-    },
-    {
-      "name": "Fortified Village",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, you may reveal a Forest or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {G} or {W}."
-    },
-    {
-      "name": "Furycalm Snarl",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "As this land enters, you may reveal a Mountain or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {R} or {W}."
-    },
-    {
       "name": "Gongaga, Reactor Town",
       "quantity": 1,
       "board": "main",
@@ -600,6 +511,300 @@
       "manaValue": 2,
       "type": "Artifact — Equipment",
       "text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+    },
+    {
+      "name": "Mithril Coat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
+    },
+    {
+      "name": "Mossfire Valley",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{1}, {T}: Add {R}{G}."
+    },
+    {
+      "name": "Mountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Mountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Mountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Mountain",
+      "text": "({T}: Add {R}.)"
+    },
+    {
+      "name": "Nature's Lore",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Nature's Will",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control."
+    },
+    {
+      "name": "Rugged Prairie",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W}."
+    },
+    {
+      "name": "Sacred Peaks",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Mountain",
+      "text": "({T}: Add {R} or {W}.)\nThis land enters tapped."
+    },
+    {
+      "name": "Scavenger Grounds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land — Desert",
+      "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
+    },
+    {
+      "name": "Stoneforge Mystic",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Artificer Kor",
+      "text": "When this creature enters, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\n{1}{W}, {T}: You may put an Equipment card from your hand onto the battlefield."
+    },
+    {
+      "name": "Summon: Kujata",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Creature Enchantment — Saga Ox",
+      "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Lightning — This creature deals 3 damage to each of up to two target creatures.\nII — Ice — Up to three target creatures can't block this turn.\nIII — Fire — Discard a card, then draw two cards. When you discard a card this way, this creature deals damage equal to that card's mana value to each opponent.\nTrample, haste"
+    },
+    {
+      "name": "Summoning Materia",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Artifact — Equipment",
+      "text": "You may look at the top card of your library any time.\nAs long as this Equipment is attached to a creature, you may cast creature spells from the top of your library.\nEquipped creature gets +2/+2 and has vigilance and \"{T}: Add {G}.\"\nEquip {2}"
+    },
+    {
+      "name": "Sungrass Prairie",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{1}, {T}: Add {G}{W}."
+    },
+    {
+      "name": "Sunpetal Grove",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Forest or a Plains.\n{T}: Add {G} or {W}."
+    },
+    {
+      "name": "Sunscorched Divide",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{1}, {T}: Add {R}{W}."
+    },
+    {
+      "name": "Swiftfoot Boots",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.)\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+    },
+    {
+      "name": "Sword of Forge and Frontier",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}"
+    },
+    {
+      "name": "Cloud, Ex-SOLDIER",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Green",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Soldier Mercenary",
+      "text": "Haste\nWhen Cloud enters, attach up to one target Equipment you control to it.\nWhenever Cloud attacks, draw a card for each equipped attacking creature you control. Then if Cloud has power 7 or greater, create two Treasure tokens."
+    },
+    {
+      "name": "Enlightened Tutor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
+    },
+    {
+      "name": "Sword of Feast and Famine",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +2/+2 and has protection from black and from green.\nWhenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.\nEquip {2}"
+    },
+    {
+      "name": "Armored Skyhunter",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Knight Cat",
+      "text": "Flying\nWhenever this creature attacks, look at the top six cards of your library. You may put an Aura or Equipment card from among them onto the battlefield. If an Equipment is put onto the battlefield this way, you may attach it to a creature you control. Put the rest of those cards on the bottom of your library in a random order."
+    },
+    {
+      "name": "Sram, Senior Edificer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Advisor Dwarf",
+      "text": "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
     },
     {
       "name": "Path of Ancestry",
@@ -742,42 +947,6 @@
       "text": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}."
     },
     {
-      "name": "Rugged Prairie",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W}."
-    },
-    {
-      "name": "Sacred Peaks",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Mountain",
-      "text": "({T}: Add {R} or {W}.)\nThis land enters tapped."
-    },
-    {
-      "name": "Scavenger Grounds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land — Desert",
-      "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
-    },
-    {
       "name": "Sephiroth, Fallen Hero",
       "quantity": 1,
       "board": "main",
@@ -876,97 +1045,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}.\n{T}, Pay 1 life: Add one mana of any color. Activate only if you control an artifact."
-    },
-    {
-      "name": "Stoneforge Mystic",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Artificer Kor",
-      "text": "When this creature enters, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\n{1}{W}, {T}: You may put an Equipment card from your hand onto the battlefield."
-    },
-    {
-      "name": "Summon: Kujata",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Creature Enchantment — Saga Ox",
-      "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Lightning — This creature deals 3 damage to each of up to two target creatures.\nII — Ice — Up to three target creatures can't block this turn.\nIII — Fire — Discard a card, then draw two cards. When you discard a card this way, this creature deals damage equal to that card's mana value to each opponent.\nTrample, haste"
-    },
-    {
-      "name": "Summoning Materia",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Artifact — Equipment",
-      "text": "You may look at the top card of your library any time.\nAs long as this Equipment is attached to a creature, you may cast creature spells from the top of your library.\nEquipped creature gets +2/+2 and has vigilance and \"{T}: Add {G}.\"\nEquip {2}"
-    },
-    {
-      "name": "Sungrass Prairie",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{1}, {T}: Add {G}{W}."
-    },
-    {
-      "name": "Sunpetal Grove",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped unless you control a Forest or a Plains.\n{T}: Add {G} or {W}."
-    },
-    {
-      "name": "Sunscorched Divide",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{1}, {T}: Add {R}{W}."
-    },
-    {
-      "name": "Swiftfoot Boots",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.)\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
     },
     {
       "name": "Sword of Sinew and Steel",
@@ -1105,29 +1183,6 @@
       "text": "Ninjutsu {1}{R} ({1}{R}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhen Yuffie enters, gain control of target noncreature artifact for as long as you control Yuffie. Then you may attach an Equipment you control to Yuffie."
     },
     {
-      "name": "Mithril Coat",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Legendary Artifact — Equipment",
-      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
-    },
-    {
-      "name": "Mossfire Valley",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{1}, {T}: Add {R}{G}."
-    },
-    {
       "name": "Zack Fair",
       "quantity": 1,
       "board": "main",
@@ -1140,48 +1195,6 @@
       "manaValue": 1,
       "type": "Legendary Creature — Human Soldier",
       "text": "Zack Fair enters with a +1/+1 counter on it.\n{1}, Sacrifice Zack Fair: Target creature you control gains indestructible until end of turn. Put Zack Fair's counters on that creature and attach an Equipment that was attached to Zack Fair to that creature."
-    },
-    {
-      "name": "Sword of Forge and Frontier",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}"
-    },
-    {
-      "name": "Cloud, Ex-SOLDIER",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "White",
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "White",
-        "Red",
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Soldier Mercenary",
-      "text": "Haste\nWhen Cloud enters, attach up to one target Equipment you control to it.\nWhenever Cloud attacks, draw a card for each equipped attacking creature you control. Then if Cloud has power 7 or greater, create two Treasure tokens."
-    },
-    {
-      "name": "Enlightened Tutor",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
     },
     {
       "name": "The Reaver Cleaver",
@@ -1198,16 +1211,6 @@
       "text": "Equipped creature gets +1/+1 and has trample and \"Whenever this creature deals combat damage to a player or planeswalker, create that many Treasure tokens.\"\nEquip {3}"
     },
     {
-      "name": "Sword of Feast and Famine",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +2/+2 and has protection from black and from green.\nWhenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.\nEquip {2}"
-    },
-    {
       "name": "Kaldra Compleat",
       "quantity": 1,
       "board": "main",
@@ -1218,96 +1221,93 @@
       "text": "Living weapon\nIndestructible\nEquipped creature gets +5/+5 and has first strike, trample, indestructible, haste, and \"Whenever this creature deals combat damage to a creature, exile that creature.\"\nEquip {7}"
     },
     {
-      "name": "Armored Skyhunter",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Knight Cat",
-      "text": "Flying\nWhenever this creature attacks, look at the top six cards of your library. You may put an Aura or Equipment card from among them onto the battlefield. If an Equipment is put onto the battlefield this way, you may attach it to a creature you control. Put the rest of those cards on the bottom of your library in a random order."
-    },
-    {
-      "name": "Sram, Senior Edificer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Advisor Dwarf",
-      "text": "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
-    },
-    {
-      "name": "Mountain",
+      "name": "Fire-Lit Thicket",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [
-        "Red"
+        "Red",
+        "Green"
       ],
       "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G}."
     },
     {
-      "name": "Mountain",
+      "name": "Firion, Wild Rose Warrior",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Warrior Rebel",
+      "text": "Equipped creatures you control have haste.\nWhenever a nontoken Equipment you control enters, create a token that's a copy of it, except it has \"This Equipment's equip abilities cost {2} less to activate.\" Sacrifice that token at the beginning of the next upkeep."
+    },
+    {
+      "name": "Forest",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [
-        "Red"
+        "Green"
       ],
       "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
     },
     {
-      "name": "Mountain",
+      "name": "Forest",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
+    },
+    {
+      "name": "Forest",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Forest",
+      "text": "({T}: Add {G}.)"
+    },
+    {
+      "name": "Fortified Village",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, you may reveal a Forest or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {G} or {W}."
+    },
+    {
+      "name": "Furycalm Snarl",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
         "Red"
       ],
       "manaValue": 0,
-      "type": "Basic Land — Mountain",
-      "text": "({T}: Add {R}.)"
-    },
-    {
-      "name": "Nature's Lore",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Nature's Will",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control."
+      "type": "Land",
+      "text": "As this land enters, you may reveal a Mountain or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {R} or {W}."
     }
   ]
 }

@@ -51,21 +51,26 @@ Port Town
 Prairie Stream
 Psychic Paper
 Raugrin Triome
-Regenerations Restored
 Rhystic Study
 RMS Titanic
+Sonic Screwdriver
+Spectator Seating
 Rogue's Passage
 Rory Williams
 Rotating Fireplace
 Run for Your Life
 Sally Sparrow
-Sonic Screwdriver
-Spectator Seating
-Star Whale
-Storm-Kiln Artist
 Sea of Clouds
 Sol Ring
 Time Beetle
+Training Center
+Trenzalore Clocktower
+War Room
+Wibbly-wobbly, Timey-wimey
+Wilfred Mott
+The Tenth Doctor
+Star Whale
+Storm-Kiln Artist
 Stormcarved Coast
 Strionic Resonator
 Sunbaked Canyon
@@ -89,9 +94,4 @@ The Parting of the Ways
 The War Doctor
 The Wedding of River Song
 Thespian's Stage
-The Tenth Doctor
-Training Center
-Trenzalore Clocktower
-War Room
-Wibbly-wobbly, Timey-wimey
-Wilfred Mott
+Regenerations Restored
