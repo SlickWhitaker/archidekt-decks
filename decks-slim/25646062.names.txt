@@ -46,30 +46,6 @@ Path of Ancestry
 Ponder
 Pongify
 Raise the Palisade
-Summon: Leviathan
-Svyelun of Sea and Sky
-Swan Song
-Swiftfoot Boots
-The Ozolith
-Thieving Skydiver
-Tishana's Tidebinder
-Triumph of the Hordes
-Tropical Island
-Unclaimed Territory
-Vineglimmer Snarl
-Vodalian Hexcatcher
-Wanderwine Prophets
-Wilderness Reclamation
-Wooded Foothills
-Zegana, Utopian Speaker
-Otawara, Soaring City
-Silvergill Adept
-Boseiju, Who Endures
-Aether Vial
-Hakbal of the Surging Soul
-Fierce Guardianship
-Cryptolith Rite
-Merfolk Mistbinder
 Rapid Hybridization
 Realmwalker
 Reflections of Littjara
@@ -83,3 +59,27 @@ Sol Ring
 Spell Pierce
 Starting Town
 Stubborn Denial
+Summon: Leviathan
+Svyelun of Sea and Sky
+Swan Song
+Swiftfoot Boots
+The Ozolith
+Thieving Skydiver
+Tishana's Tidebinder
+Triumph of the Hordes
+Aether Vial
+Otawara, Soaring City
+Silvergill Adept
+Boseiju, Who Endures
+Hakbal of the Surging Soul
+Fierce Guardianship
+Cryptolith Rite
+Merfolk Mistbinder
+Tropical Island
+Unclaimed Territory
+Vineglimmer Snarl
+Vodalian Hexcatcher
+Wanderwine Prophets
+Wilderness Reclamation
+Wooded Foothills
+Zegana, Utopian Speaker

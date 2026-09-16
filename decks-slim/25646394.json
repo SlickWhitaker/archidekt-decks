@@ -899,6 +899,16 @@
       "text": "Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for {1}.)"
     },
     {
+      "name": "Clock of Omens",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Artifact",
+      "text": "Tap two untapped artifacts you control: Untap target artifact."
+    },
+    {
       "name": "Arcbound Ravager",
       "quantity": 1,
       "board": "main",
@@ -957,16 +967,6 @@
       "manaValue": 2,
       "type": "Enchantment — Class",
       "text": "(Gain the next level as a sorcery to add its ability.)\nWhenever you cast a noncreature spell, you may discard a card. If you do, draw a card.\n{2}{R}: Level 2\nNoncreature spells you cast cost {1} less to cast.\n{2}{R}: Level 3\nIf a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead."
-    },
-    {
-      "name": "Clock of Omens",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Artifact",
-      "text": "Tap two untapped artifacts you control: Untap target artifact."
     }
   ]
 }

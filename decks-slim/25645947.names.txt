@@ -13,52 +13,10 @@ Blood Crypt
 Bloodghast
 Bloodletter of Aclazotz
 Bloodline Necromancer
-Champion of Dusk
-Charismatic Conqueror
-Chrome Mox
-Command Tower
-Cordial Vampire
-Cruel Celebrant
-Damn
-Delney, Streetwise Lookout
-Demonic Tutor
-Dragonskull Summit
-Drana and Linvala
-Elenda, the Dusk Rose
-Esper Sentinel
-Exquisite Blood
-Flawless Maneuver
-Generous Gift
-Godless Shrine
-Plains
-Razaketh, the Foulblooded
-Reconnaissance
-Roaming Throne
-Sacred Foundry
-Sanctum Seeker
-Sanguine Bond
-Savai Triome
-Secluded Courtyard
-Shared Animosity
-Skullclamp
-Sol Ring
-Sorin, Imperious Bloodlord
-Spectator Seating
-Edgar Markov
 Herald's Horn
 Isolated Chapel
 Kalitas, Traitor of Ghet
 Legion Lieutenant
-Legion's Landing // Adanto, the First Fort
-Living Death
-Luxury Suite
-Marsh Flats
-Minas Tirith
-Mondrak, Glory Dominus
-Mountain
-Necropotence
-Nomad Outpost
-Ocelot Pride
 Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
@@ -83,6 +41,48 @@ Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
+Champion of Dusk
+Charismatic Conqueror
+Chrome Mox
+Command Tower
+Cordial Vampire
+Cruel Celebrant
+Damn
+Delney, Streetwise Lookout
+Demonic Tutor
+Dragonskull Summit
+Drana and Linvala
+Elenda, the Dusk Rose
+Esper Sentinel
+Exquisite Blood
+Flawless Maneuver
+Generous Gift
+Godless Shrine
+Legion's Landing // Adanto, the First Fort
+Living Death
+Luxury Suite
+Marsh Flats
+Minas Tirith
+Mondrak, Glory Dominus
+Mountain
+Necropotence
+Nomad Outpost
+Ocelot Pride
+Plains
+Razaketh, the Foulblooded
+Reconnaissance
+Roaming Throne
+Sacred Foundry
+Sanctum Seeker
+Sanguine Bond
+Savai Triome
+Secluded Courtyard
+Shared Animosity
+Skullclamp
+Sol Ring
+Sorin, Imperious Bloodlord
+Spectator Seating
+Edgar Markov
 Bloodstained Mire
 Bloodthirsty Conqueror
 Bojuka Bog

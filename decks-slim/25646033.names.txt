@@ -68,17 +68,17 @@ The Great Henge
 Summon: Titan
 Swan Song
 Thassa's Oracle
-Clifftop Lookout
-Froghemoth
 Grolnok, the Omnivore
 Maskwood Nexus
 Spore Frog
+Clifftop Lookout
 Poison Dart Frog
+Froghemoth
 Valley Mightcaller
-Clement, the Worrywort
 Boseiju, Who Endures
-Beast Within
 Cavern of Souls
+Clement, the Worrywort
+Beast Within
 The Mycosynth Gardens
 Tishana's Tidebinder
 Uro, Titan of Nature's Wrath

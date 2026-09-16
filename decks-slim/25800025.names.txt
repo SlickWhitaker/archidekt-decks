@@ -14,39 +14,73 @@ Swords to Plowshares
 Noble Hierarch
 Emiel the Blessed
 Hallowed Fountain
-Otawara, Soaring City
-Temple Garden
 Bountiful Promenade
+Temple Garden
 Phyrexian Metamorph
 Polluted Delta
 Command Tower
-City of Brass
+Grand Abolisher
 Peregrine Drake
 Kinnan, Bonder Prodigy
 Crop Rotation
 Esper Sentinel
-Eladamri's Call
+Mindbreak Trap
 Misthollow Griffin
 Solitude
 Exotic Orchard
 Sol Ring
 Windswept Heath
 Enlightened Tutor
-Silence
 Cyclonic Rift
 Deadeye Navigator
-Scalding Tarn
-Worldly Tutor
+Rhystic Study
 Walking Ballista
 Mana Confluence
 Boseiju, Who Endures
-Fyndhorn Elves
+Fierce Guardianship
 Mystic Remora
+Mockingbird
+Chord of Calling
+Marsh Flats
+Mental Misstep
+Wild Growth
+Delighted Halfling
+Ranger-Captain of Eos
+Intruder Alarm
+Phantasmal Image
+Blinking Spirit
+Kiora's Follower
+Foundation Breaker
+Forest
+Mystic Snake
+Somberwald Sage
+Otawara, Soaring City
+Sea of Clouds
+Chulane, Teller of Tales
+Hullbreaker Horror
+City of Brass
+Venser, Shaper Savant
+Island
+Eladamri's Call
+Avacyn's Pilgrim
+Elvish Spirit Guide
+Arcane Signet
+Arid Mesa
+Silence
+Eldritch Evolution
+Elvish Mystic
+Scalding Tarn
+Worldly Tutor
+Faerie Mastermind
+Swan Song
+Fyndhorn Elves
+Birds of Paradise
 Bloom Tender
 Spellseeker
 Misty Rainforest
+Palinchron
 Ancestral Statue
-Mental Misstep
+Minamo, School at Water's Edge
 Endurance
 Rejuvenating Springs
 Verdant Catacombs
@@ -54,43 +88,9 @@ Chakram Retriever
 Garruk's Uprising
 Beast Whisperer
 Inga and Esika
-Kiora's Follower
-Foundation Breaker
-Mystic Snake
+Saryth, the Viper's Fang
 Temur Sabertooth
 Cloud of Faeries
 Faeburrow Elder
-Sea of Clouds
-Chulane, Teller of Tales
-Hullbreaker Horror
-Grand Abolisher
-Venser, Shaper Savant
-Island
-Mindbreak Trap
-Avacyn's Pilgrim
-Elvish Spirit Guide
-Arcane Signet
-Arid Mesa
-Eldritch Evolution
-Elvish Mystic
-Rhystic Study
-Faerie Mastermind
-Swan Song
-Fierce Guardianship
-Birds of Paradise
-Mockingbird
-Chord of Calling
-Palinchron
-Marsh Flats
-Minamo, School at Water's Edge
-Wild Growth
-Delighted Halfling
-Ranger-Captain of Eos
-Intruder Alarm
-Phantasmal Image
-Blinking Spirit
-Saryth, the Viper's Fang
-Forest
-Somberwald Sage
 Shrieking Drake
 Helga, Skittish Seer

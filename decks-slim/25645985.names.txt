@@ -55,13 +55,10 @@ Shire Shirriff
 Shire Terrace
 Skullclamp
 Sol Ring
-Sunpetal Grove
-Swamp
-Swords to Plowshares
-The Battle of Bywater
-The Gaffer
 Woodfall Primus
 Woodland Cemetery
+Sam, Loyal Attendant
+Frodo, Adventurous Hobbit
 Academy Manufactor
 Anguished Unmaking
 Aragorn and Arwen, Wed
@@ -77,9 +74,12 @@ Butterbur, Bree Innkeeper
 Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
-Sam, Loyal Attendant
-Frodo, Adventurous Hobbit
 Stardew Valley
+Sunpetal Grove
+Swamp
+Swords to Plowshares
+The Battle of Bywater
+The Gaffer
 The Shire
 Tireless Provisioner
 Toxic Deluge

@@ -26,44 +26,29 @@ Fiery Confluence
 Fire Covenant
 Florian, Voldaren Scion
 Foreboding Ruins
+Furnace of Rath
+Graven Cairns
+Haunted Ridge
+Havoc Festival
+Jet Medallion
 Kaervek the Merciless
 Kardur, Doomscourge
 Kederekt Parasite
 Lightning Greaves
 Luxury Suite
-Furnace of Rath
 Mayhem Devil
 Mogis, God of Slaughter
 Mountain
 Necropotence
-Graven Cairns
 Ob Nixilis, Captive Kingpin
 Obosh, the Preypiercer
 Opposition Agent
-Haunted Ridge
 Orcish Bowmasters
 Painful Quandary
 Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
-Takenuma, Abandoned Mire
-Talisman of Indulgence
-Terminate
-The Lord of Pain
-The Meathook Massacre
-The One Ring
-Torment of Hailfire
-Underworld Dreams
-Urborg, Tomb of Yawgmoth
-Vial Smasher the Fierce
-Wheel of Misfortune
-Witch's Clinic
-Wound Reflection
-Zo-Zu the Punisher
-Valgavoth, Harrower of Souls
-All Will Be One
-Fate Unraveler
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -81,7 +66,22 @@ Sulfurous Springs
 Swamp
 Syr Konrad, the Grim
 Tainted Peak
+Takenuma, Abandoned Mire
+Talisman of Indulgence
+Terminate
+The Lord of Pain
+The Meathook Massacre
+The One Ring
+Torment of Hailfire
+Underworld Dreams
+Urborg, Tomb of Yawgmoth
+Vial Smasher the Fierce
+Wheel of Misfortune
+Witch's Clinic
+Wound Reflection
+Zo-Zu the Punisher
 Scrawling Crawler
+Valgavoth, Harrower of Souls
+All Will Be One
+Fate Unraveler
 Blood Seeker
-Havoc Festival
-Jet Medallion
