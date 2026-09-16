@@ -14,68 +14,6 @@ Big Apple, 3 a.m.
 Blood Crypt
 Bloom Tender
 Branching Evolution
-Heroic Intervention
-Hidden Hideout
-Hinterland Harbor
-Island
-Jetmir's Garden
-Kami of Whispered Hopes
-Kindred Dominance
-Kodama's Reach
-Lita, Little Orphan Amphibian
-Lotho, Corrupt Shirriff
-March of the Multitudes
-Michelangelo, Weirdness to 11
-Mikey & Leo, Chaos & Order
-Mirkwood Bats
-Mondrak, Glory Dominus
-Mountain
-Ninja Pizza
-Ojer Taq, Deepest Foundation // Temple of Civilization
-Reflecting Pool
-Rocco, Street Chef
-Shellshock
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden
-Splinter, the Mentor
-Steelbane Hydra
-Stomping Ground
-Sunken Hollow
-Super Combo
-Turtle Lair
-Unbreakable Formation
-Undergrowth Stadium
-Vernal Fen
-Vibrant Cityscape
-Vigor
-Arcade Cabinet
-Kodama of the West Tree
-Leonardo, the Balance
-Rishkar, Peema Renegade
-Grand Coliseum
-Guardian Project
-Halo Fountain
-Heroes in a Half Shell
-Ozolith, the Shattered Spire
-Parallel Lives
-Path of Ancestry
-Plains
-Plaza of Heroes
-Raffine's Tower
-Raphael, the Muscle
-Rat King, Pale Piper
-Swamp
-Swan Song
-Swords to Plowshares
-Teferi's Protection
-Tempestra, Dame of Games
-Thriving Isle
-Tireless Provisioner
-Tocasia's Welcome
-Michelangelo, the Heart
-Bristly Bill, Spine Sower
 Cathars' Crusade
 Chromatic Lantern
 Cinder Glade
@@ -91,3 +29,65 @@ Exotic Orchard
 Fabled Passage
 Felidar Retreat
 Forest
+Grand Coliseum
+Guardian Project
+Halo Fountain
+Heroes in a Half Shell
+Heroic Intervention
+Hidden Hideout
+Hinterland Harbor
+Island
+Jetmir's Garden
+Kami of Whispered Hopes
+Kindred Dominance
+Kodama's Reach
+Lita, Little Orphan Amphibian
+Ozolith, the Shattered Spire
+Lotho, Corrupt Shirriff
+Parallel Lives
+Path of Ancestry
+Plains
+Plaza of Heroes
+Raffine's Tower
+Raphael, the Muscle
+Rat King, Pale Piper
+Reflecting Pool
+Rocco, Street Chef
+Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden
+Splinter, the Mentor
+Steelbane Hydra
+Stomping Ground
+Sunken Hollow
+Super Combo
+Swamp
+Swan Song
+Swords to Plowshares
+Teferi's Protection
+Tempestra, Dame of Games
+Thriving Isle
+Tireless Provisioner
+Tocasia's Welcome
+Turtle Lair
+Unbreakable Formation
+Undergrowth Stadium
+Vernal Fen
+Vibrant Cityscape
+Vigor
+Arcade Cabinet
+Michelangelo, the Heart
+Bristly Bill, Spine Sower
+Kodama of the West Tree
+Leonardo, the Balance
+Rishkar, Peema Renegade
+March of the Multitudes
+Michelangelo, Weirdness to 11
+Mikey & Leo, Chaos & Order
+Mirkwood Bats
+Mondrak, Glory Dominus
+Mountain
+Ninja Pizza
+Ojer Taq, Deepest Foundation // Temple of Civilization

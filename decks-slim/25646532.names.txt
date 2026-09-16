@@ -31,6 +31,12 @@ Let's Play a Game
 Liliana of the Veil
 Liliana's Caress
 Liliana's Triumph
+Megrim
+Mind Rake
+Mind Stone
+Mindlash Sliver
+Necrogen Mists
+Necrogoyf
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
 Oppression
@@ -55,19 +61,13 @@ Tinybones Joins Up
 Tinybones, Bauble Burglar
 Unearth
 Virus Beetle
+Geth's Grimoire
+Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds
+Waste Not
 War Room
 Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
-Waste Not
-Lightning Greaves
-Geth's Grimoire
-Tinybones, Trinket Thief
-Scavenger Grounds
-Megrim
-Mind Rake
-Mind Stone
-Mindlash Sliver
-Necrogen Mists
-Necrogoyf

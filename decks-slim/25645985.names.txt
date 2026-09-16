@@ -27,8 +27,11 @@ Hithlain Rope
 Lotho, Corrupt Shirriff
 Many Partings
 Mentor of the Meek
-Nature's Lore
 Merry, Warden of Isengard
+Mirkwood Bats
+Mortality Spear
+Murmuring Bosk
+Nature's Lore
 Nazgûl
 Necroblossom Snarl
 Of Herbs and Stewed Rabbit
@@ -41,25 +44,6 @@ Plains
 Prosperous Innkeeper
 Rapacious Guest
 Revive the Shire
-Woodfall Primus
-Woodland Cemetery
-Sam, Loyal Attendant
-Frodo, Adventurous Hobbit
-Academy Manufactor
-Anguished Unmaking
-Aragorn and Arwen, Wed
-Arcane Signet
-Ash Barrens
-Assemble the Entmoot
-Battle at the Bridge
-Bilbo, Birthday Celebrant
-Birds of Paradise
-Bretagard Stronghold
-Brushland
-Butterbur, Bree Innkeeper
-Canopy Vista
-Cauldron Familiar
-Chromatic Lantern
 Rosie Cotton of South Lane
 Samwise Gamgee
 Sandsteppe Citadel
@@ -75,17 +59,33 @@ Sunpetal Grove
 Swamp
 Swords to Plowshares
 The Battle of Bywater
+Woodfall Primus
+Woodland Cemetery
+Sam, Loyal Attendant
+Frodo, Adventurous Hobbit
 The Gaffer
 The Shire
 Tireless Provisioner
 Toxic Deluge
 Trail of Crumbs
 Treebeard, Gracious Host
+Academy Manufactor
+Anguished Unmaking
+Aragorn and Arwen, Wed
+Arcane Signet
+Ash Barrens
+Assemble the Entmoot
+Battle at the Bridge
+Bilbo, Birthday Celebrant
+Birds of Paradise
+Bretagard Stronghold
+Brushland
+Butterbur, Bree Innkeeper
+Canopy Vista
+Cauldron Familiar
+Chromatic Lantern
+Stardew Valley
 Trouble in Pairs
 Well of Lost Dreams
 Windswept Heath
 Witch's Oven
-Stardew Valley
-Mirkwood Bats
-Mortality Spear
-Murmuring Bosk

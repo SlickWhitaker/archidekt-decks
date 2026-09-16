@@ -53,6 +53,8 @@ Ocelot Pride
 Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
+Patriarch's Bidding
+Phyrexian Altar
 Plains
 Razaketh, the Foulblooded
 Reconnaissance
@@ -66,18 +68,16 @@ Skullclamp
 Sol Ring
 Sorin, Imperious Bloodlord
 Spectator Seating
-Edgar Markov
-Carmen, Cruel Skymarcher
-Patriarch's Bidding
 Stromkirk Captain
 Swamp
 Swords to Plowshares
-Phyrexian Altar
 Talisman of Hierarchy
 Talisman of Indulgence
 Teferi's Protection
 Toxic Deluge
 Trouble in Pairs
+Edgar Markov
+Carmen, Cruel Skymarcher
 Unclaimed Territory
 Urborg, Tomb of Yawgmoth
 Vampiric Tutor
