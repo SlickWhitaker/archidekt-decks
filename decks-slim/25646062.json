@@ -1076,6 +1076,20 @@
       "text": "{T}: Add {G}.\nChannel — {1}{G}, Discard this card: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control."
     },
     {
+      "name": "Fierce Guardianship",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
+    },
+    {
       "name": "Hakbal of the Surging Soul",
       "quantity": 1,
       "board": "commander",
@@ -1090,20 +1104,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Scout Merfolk",
       "text": "At the beginning of combat on your turn, each Merfolk creature you control explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the exploring creature, then put the card back or put it into your graveyard.)\nWhenever Hakbal attacks, you may put a land card from your hand onto the battlefield. If you don't, draw a card."
-    },
-    {
-      "name": "Fierce Guardianship",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
     },
     {
       "name": "Cryptolith Rite",
