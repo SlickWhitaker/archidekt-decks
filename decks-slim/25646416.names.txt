@@ -33,6 +33,8 @@ Fire-Lit Thicket
 Forest
 Fyndhorn Elves
 Gamble
+Greater Good
+Green Sun's Zenith
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -90,5 +92,3 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
-Greater Good
-Green Sun's Zenith

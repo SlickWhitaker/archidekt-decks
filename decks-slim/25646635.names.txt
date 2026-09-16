@@ -45,6 +45,14 @@ Misdirection
 Mist-Syndicate Naga
 Mistblade Shinobi
 Moon-Circuit Hacker
+Morphic Pool
+Mothdust Changeling
+Muddle the Mixture
+Mystic Remora
+Mystic Sanctuary
+Mystical Tutor
+Nanogene Conversion
+Nashi, Moon Sage's Scion
 Ninja of the Deep Hours
 Opposition Agent
 Orcish Bowmasters
@@ -73,13 +81,14 @@ Swamp
 Temporal Trespass
 Tetsuko Umezawa, Fugitive
 Thassa's Oracle
-Watery Grave
 Thieving Skydiver
 Thousand-Faced Shadow
 Throat Slitter
 Underground River
 Vampiric Tutor
 Walker of Secret Ways
+Watery Grave
+Yuriko, the Tiger's Shadow
 Demonic Tutor
 Sol Ring
 Faerie Seer
@@ -87,12 +96,3 @@ Force of Negation
 Treasure Cruise
 Shadow of Mortality
 Temporal Mastery
-Yuriko, the Tiger's Shadow
-Morphic Pool
-Mothdust Changeling
-Muddle the Mixture
-Mystic Remora
-Mystic Sanctuary
-Mystical Tutor
-Nanogene Conversion
-Nashi, Moon Sage's Scion

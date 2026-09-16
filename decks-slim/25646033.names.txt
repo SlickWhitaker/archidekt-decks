@@ -58,6 +58,9 @@ Oakhollow Village
 Polluted Delta
 Pond Prophet
 Rejuvenating Springs
+Riverchurn Monument
+Shifting Woodland
+Snapcaster Mage
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
@@ -80,17 +83,14 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
-Spore Frog
-Beast Within
 Grolnok, the Omnivore
 Maskwood Nexus
 Clifftop Lookout
+Spore Frog
 Poison Dart Frog
 Froghemoth
-Valley Mightcaller
 Clement, the Worrywort
 Boseiju, Who Endures
+Beast Within
+Valley Mightcaller
 Cavern of Souls
-Riverchurn Monument
-Shifting Woodland
-Snapcaster Mage
