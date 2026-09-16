@@ -54,16 +54,12 @@ Mistrise Village
 Misty Rainforest
 Mystic Sanctuary
 Noxious Revival
-Oakhollow Village
-Polluted Delta
-Pond Prophet
-Rejuvenating Springs
-Riverchurn Monument
-Shifting Woodland
-Snapcaster Mage
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
+Oakhollow Village
+Polluted Delta
+Pond Prophet
 Summon: Titan
 Swan Song
 Thassa's Oracle
@@ -94,3 +90,7 @@ Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
+Rejuvenating Springs
+Riverchurn Monument
+Shifting Woodland
+Snapcaster Mage

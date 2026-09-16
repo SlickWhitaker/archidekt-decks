@@ -42,8 +42,6 @@ Peregrin Took
 Pippin, Warden of Isengard
 Plains
 Prosperous Innkeeper
-Rapacious Guest
-Revive the Shire
 Rosie Cotton of South Lane
 Samwise Gamgee
 Sandsteppe Citadel
@@ -89,3 +87,5 @@ Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
 Stardew Valley
+Rapacious Guest
+Revive the Shire

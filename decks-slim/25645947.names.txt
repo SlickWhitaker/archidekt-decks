@@ -10,6 +10,7 @@ Arid Mesa
 Black Market Connections
 Blood Artist
 Blood Crypt
+Champion of Dusk
 Bloodghast
 Bloodletter of Aclazotz
 Bloodline Necromancer
@@ -19,23 +20,6 @@ Bojuka Bog
 Boros Charm
 Captivating Vampire
 Caves of Koilos
-Champion of Dusk
-Charismatic Conqueror
-Chrome Mox
-Command Tower
-Cordial Vampire
-Cruel Celebrant
-Damn
-Delney, Streetwise Lookout
-Demonic Tutor
-Dragonskull Summit
-Drana and Linvala
-Elenda, the Dusk Rose
-Esper Sentinel
-Exquisite Blood
-Flawless Maneuver
-Generous Gift
-Godless Shrine
 Herald's Horn
 Isolated Chapel
 Kalitas, Traitor of Ghet
@@ -50,24 +34,6 @@ Mountain
 Necropotence
 Nomad Outpost
 Ocelot Pride
-Olivia, Crimson Bride
-Path of Ancestry
-Path to Exile
-Patriarch's Bidding
-Phyrexian Altar
-Plains
-Razaketh, the Foulblooded
-Reconnaissance
-Roaming Throne
-Sacred Foundry
-Sanctum Seeker
-Savai Triome
-Secluded Courtyard
-Shared Animosity
-Skullclamp
-Sol Ring
-Sorin, Imperious Bloodlord
-Spectator Seating
 Stromkirk Captain
 Swamp
 Swords to Plowshares
@@ -87,5 +53,39 @@ Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
+Olivia, Crimson Bride
+Path of Ancestry
+Path to Exile
+Patriarch's Bidding
+Phyrexian Altar
+Plains
+Razaketh, the Foulblooded
+Reconnaissance
+Roaming Throne
+Sacred Foundry
+Sanctum Seeker
+Savai Triome
+Secluded Courtyard
+Shared Animosity
+Skullclamp
+Sol Ring
+Sorin, Imperious Bloodlord
+Spectator Seating
 Edgar Markov
 Carmen, Cruel Skymarcher
+Charismatic Conqueror
+Chrome Mox
+Command Tower
+Cordial Vampire
+Cruel Celebrant
+Damn
+Delney, Streetwise Lookout
+Demonic Tutor
+Dragonskull Summit
+Drana and Linvala
+Elenda, the Dusk Rose
+Esper Sentinel
+Exquisite Blood
+Flawless Maneuver
+Generous Gift
+Godless Shrine
