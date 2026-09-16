@@ -8,15 +8,6 @@ Arcane Signet
 Arena of Glory
 Arid Mesa
 Bala Ged Recovery // Bala Ged Sanctuary
-Birds of Paradise
-Bloodstained Mire
-Bloom Tender
-Boseiju, Who Endures
-Castle Garenbrig
-Cavern of Souls
-Chaos Warp
-Chord of Calling
-Cinder Glade
 Hardened Scales
 Heroic Intervention
 Karplusan Forest
@@ -52,10 +43,13 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Beast Within
-Liquimetal Torque
+Uktabi Orangutan
 Gearbane Orangutan
+Kibo, Uktabi Prince
+Kogla, the Titan Ape
 Viridian Revel
+Gorilla Shaman
+Taurean Mauler
 Veil of Summer
 Verdant Catacombs
 Wasteland
@@ -64,16 +58,22 @@ Wooded Foothills
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Uktabi Orangutan
-Kibo, Uktabi Prince
-Kogla, the Titan Ape
+Beast Within
+Liquimetal Torque
 Scrounging Bandar
-Gorilla Shaman
-Taurean Mauler
 Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
+Birds of Paradise
+Bloodstained Mire
+Bloom Tender
+Boseiju, Who Endures
+Castle Garenbrig
+Cavern of Souls
+Chaos Warp
+Chord of Calling
+Cinder Glade
 Command Tower
 Commercial District
 Copperline Gorge

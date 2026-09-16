@@ -12,7 +12,6 @@ Breeding Pool
 Cavern of Souls
 Chronicle of Victory
 Clever Impersonator
-Coat of Arms
 Command Tower
 Consuming Blob
 Copycrook
@@ -30,12 +29,9 @@ Gluttonous Slime
 Greater Good
 Green Slime
 Hinterland Harbor
-Infinite Reflection
 Island
 Lightning Greaves
 Llanowar Wastes
-Machine God's Effigy
-Malleable Impostor
 March of the World Ooze
 Metallic Mimic
 Mimeoplasm, Revered One
@@ -68,7 +64,6 @@ Shipwreck Marsh
 Slick Imitator
 Slurrk, All-Ingesting
 Sol Ring
-Springleaf Parade
 Sunken Hollow
 Susur Secundi, Void Altar
 Swamp
@@ -76,7 +71,6 @@ Talisman of Curiosity
 Talisman of Dominance
 Talisman of Resilience
 The Mimeoplasm
-The Soul Stone
 Three Tree City
 Uchuulon
 Umori, the Collector
@@ -95,3 +89,9 @@ Heroic Intervention
 Uugguu, the Omniplasm
 Chthonian Nightmare
 Phyrexian Metamorph
+Arcane Adaptation
+Demonic Tutor
+Malakir Rebirth // Malakir Mire
+Assassin's Trophy
+Toxic Deluge
+Yawgmoth, Thran Physician

@@ -150,9 +150,9 @@
       "namesFile": "25645947.names.txt",
       "cardsFile": "25645947.cards.jsonl",
       "metaFile": "25645947.meta.json",
-      "fullBytes": 284676,
-      "analysisBytes": 28282,
-      "reductionPercent": 90.1
+      "fullBytes": 285158,
+      "analysisBytes": 28544,
+      "reductionPercent": 90.0
     },
     {
       "id": 25645985,
@@ -236,8 +236,8 @@
       "name": "Teenage Mutant Token Turtles",
       "format": 3,
       "commander": [
-        "Michelangelo, the Heart",
-        "Leonardo, the Balance"
+        "Leonardo, the Balance",
+        "Michelangelo, the Heart"
       ],
       "colorIdentity": [
         "Black",
@@ -256,8 +256,8 @@
       "namesFile": "25646098.names.txt",
       "cardsFile": "25646098.cards.jsonl",
       "metaFile": "25646098.meta.json",
-      "fullBytes": 292103,
-      "analysisBytes": 30826,
+      "fullBytes": 291999,
+      "analysisBytes": 30939,
       "reductionPercent": 89.4
     },
     {
@@ -405,9 +405,9 @@
       "namesFile": "25646583.names.txt",
       "cardsFile": "25646583.cards.jsonl",
       "metaFile": "25646583.meta.json",
-      "fullBytes": 302752,
-      "analysisBytes": 32665,
-      "reductionPercent": 89.2
+      "fullBytes": 303616,
+      "analysisBytes": 32554,
+      "reductionPercent": 89.3
     },
     {
       "id": 25646611,
@@ -531,8 +531,8 @@
       "namesFile": "25800025.names.txt",
       "cardsFile": "25800025.cards.jsonl",
       "metaFile": "25800025.meta.json",
-      "fullBytes": 298975,
-      "analysisBytes": 29160,
+      "fullBytes": 299020,
+      "analysisBytes": 29289,
       "reductionPercent": 90.2
     },
     {

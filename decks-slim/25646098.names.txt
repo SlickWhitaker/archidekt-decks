@@ -11,14 +11,9 @@ Baxter, Fly in the Ointment
 Beast Whisperer
 Beastmaster Ascension
 Big Apple, 3 a.m.
-Big Mother Mouser
 Blood Crypt
 Bloom Tender
 Branching Evolution
-Grand Coliseum
-Guardian Project
-Halo Fountain
-Heroes in a Half Shell
 Heroic Intervention
 Hidden Hideout
 Hinterland Harbor
@@ -33,19 +28,10 @@ March of the Multitudes
 Michelangelo, Weirdness to 11
 Mikey & Leo, Chaos & Order
 Mirkwood Bats
-Mona Lisa, Science Geek
 Mondrak, Glory Dominus
 Mountain
 Ninja Pizza
 Ojer Taq, Deepest Foundation // Temple of Civilization
-Ozolith, the Shattered Spire
-Parallel Lives
-Path of Ancestry
-Plains
-Plaza of Heroes
-Raffine's Tower
-Raphael, the Muscle
-Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
 Shellshock
@@ -58,6 +44,28 @@ Steelbane Hydra
 Stomping Ground
 Sunken Hollow
 Super Combo
+Turtle Lair
+Unbreakable Formation
+Undergrowth Stadium
+Vernal Fen
+Vibrant Cityscape
+Vigor
+Arcade Cabinet
+Kodama of the West Tree
+Leonardo, the Balance
+Rishkar, Peema Renegade
+Grand Coliseum
+Guardian Project
+Halo Fountain
+Heroes in a Half Shell
+Ozolith, the Shattered Spire
+Parallel Lives
+Path of Ancestry
+Plains
+Plaza of Heroes
+Raffine's Tower
+Raphael, the Muscle
+Rat King, Pale Piper
 Swamp
 Swan Song
 Swords to Plowshares
@@ -66,15 +74,7 @@ Tempestra, Dame of Games
 Thriving Isle
 Tireless Provisioner
 Tocasia's Welcome
-Turtle Lair
-Unbreakable Formation
-Undergrowth Stadium
-Vernal Fen
-Vibrant Cityscape
-Vigor
-Arcade Cabinet
 Michelangelo, the Heart
-Leonardo, the Balance
 Bristly Bill, Spine Sower
 Cathars' Crusade
 Chromatic Lantern

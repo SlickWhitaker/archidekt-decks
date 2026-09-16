@@ -27,11 +27,8 @@ Hithlain Rope
 Lotho, Corrupt Shirriff
 Many Partings
 Mentor of the Meek
-Merry, Warden of Isengard
-Mirkwood Bats
-Mortality Spear
-Murmuring Bosk
 Nature's Lore
+Merry, Warden of Isengard
 Nazgûl
 Necroblossom Snarl
 Of Herbs and Stewed Rabbit
@@ -44,17 +41,6 @@ Plains
 Prosperous Innkeeper
 Rapacious Guest
 Revive the Shire
-Rosie Cotton of South Lane
-Samwise Gamgee
-Sandsteppe Citadel
-Sanguine Bond
-Savvy Hunter
-Scattered Groves
-Shineshadow Snarl
-Shire Shirriff
-Shire Terrace
-Skullclamp
-Sol Ring
 Woodfall Primus
 Woodland Cemetery
 Sam, Loyal Attendant
@@ -74,7 +60,17 @@ Butterbur, Bree Innkeeper
 Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
-Stardew Valley
+Rosie Cotton of South Lane
+Samwise Gamgee
+Sandsteppe Citadel
+Sanguine Bond
+Savvy Hunter
+Scattered Groves
+Shineshadow Snarl
+Shire Shirriff
+Shire Terrace
+Skullclamp
+Sol Ring
 Sunpetal Grove
 Swamp
 Swords to Plowshares
@@ -89,3 +85,7 @@ Trouble in Pairs
 Well of Lost Dreams
 Windswept Heath
 Witch's Oven
+Stardew Valley
+Mirkwood Bats
+Mortality Spear
+Murmuring Bosk

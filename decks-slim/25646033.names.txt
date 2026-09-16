@@ -60,25 +60,15 @@ Pond Prophet
 Rejuvenating Springs
 Riverchurn Monument
 Shifting Woodland
+Snapcaster Mage
+Summon: Titan
 Sol Ring
 Splendid Reclamation
-Springheart Nantuko
-Snapcaster Mage
-The Great Henge
-Summon: Titan
 Swan Song
+Springheart Nantuko
 Thassa's Oracle
 Grolnok, the Omnivore
-Maskwood Nexus
-Spore Frog
-Clifftop Lookout
-Poison Dart Frog
-Froghemoth
-Valley Mightcaller
-Boseiju, Who Endures
-Cavern of Souls
-Clement, the Worrywort
-Beast Within
+The Great Henge
 The Mycosynth Gardens
 Tishana's Tidebinder
 Uro, Titan of Nature's Wrath
@@ -94,3 +84,13 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Spore Frog
+Clifftop Lookout
+Poison Dart Frog
+Valley Mightcaller
+Clement, the Worrywort
+Boseiju, Who Endures
+Froghemoth
+Beast Within
+Cavern of Souls
+Maskwood Nexus

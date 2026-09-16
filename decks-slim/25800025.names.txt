@@ -14,83 +14,83 @@ Swords to Plowshares
 Noble Hierarch
 Emiel the Blessed
 Hallowed Fountain
-Bountiful Promenade
+Otawara, Soaring City
 Temple Garden
+Bountiful Promenade
+Sea of Clouds
 Phyrexian Metamorph
+Chulane, Teller of Tales
 Polluted Delta
+Hullbreaker Horror
 Command Tower
 Grand Abolisher
+City of Brass
+Venser, Shaper Savant
 Peregrine Drake
 Kinnan, Bonder Prodigy
+Island
 Crop Rotation
 Esper Sentinel
+Eladamri's Call
 Mindbreak Trap
+Avacyn's Pilgrim
 Misthollow Griffin
 Solitude
 Exotic Orchard
 Sol Ring
-Windswept Heath
-Enlightened Tutor
-Cyclonic Rift
-Deadeye Navigator
-Rhystic Study
-Walking Ballista
-Mana Confluence
-Boseiju, Who Endures
-Fierce Guardianship
-Mystic Remora
-Mockingbird
-Chord of Calling
-Marsh Flats
-Mental Misstep
-Wild Growth
-Delighted Halfling
-Ranger-Captain of Eos
-Intruder Alarm
-Phantasmal Image
-Blinking Spirit
-Kiora's Follower
-Foundation Breaker
-Forest
-Mystic Snake
-Somberwald Sage
-Otawara, Soaring City
-Sea of Clouds
-Chulane, Teller of Tales
-Hullbreaker Horror
-City of Brass
-Venser, Shaper Savant
-Island
-Eladamri's Call
-Avacyn's Pilgrim
 Elvish Spirit Guide
+Windswept Heath
 Arcane Signet
+Enlightened Tutor
 Arid Mesa
 Silence
 Eldritch Evolution
+Cyclonic Rift
+Deadeye Navigator
 Elvish Mystic
 Scalding Tarn
+Rhystic Study
 Worldly Tutor
-Faerie Mastermind
+Walking Ballista
+Mana Confluence
 Swan Song
+Boseiju, Who Endures
+Fierce Guardianship
 Fyndhorn Elves
+Mystic Remora
 Birds of Paradise
+Mockingbird
 Bloom Tender
+Chord of Calling
 Spellseeker
 Misty Rainforest
 Palinchron
+Marsh Flats
 Ancestral Statue
+Mental Misstep
 Minamo, School at Water's Edge
 Endurance
+Wild Growth
+Delighted Halfling
+Ranger-Captain of Eos
 Rejuvenating Springs
+Intruder Alarm
 Verdant Catacombs
+Phantasmal Image
 Chakram Retriever
+Blinking Spirit
 Garruk's Uprising
-Beast Whisperer
 Inga and Esika
+Kiora's Follower
 Saryth, the Viper's Fang
+Foundation Breaker
+Forest
+Mystic Snake
 Temur Sabertooth
 Cloud of Faeries
 Faeburrow Elder
+Somberwald Sage
 Shrieking Drake
 Helga, Skittish Seer
+Survival of the Fittest
+Displacer Kitten

@@ -59,7 +59,15 @@ Ruby Medallion
 Rundvelt Hordemaster
 Shared Animosity
 Skirk Fire Marshal
+Valakut Exploration
 Skirk Prospector
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+War Room
+Sokenzan, Crucible of Defiance
+Krenko, Mob Boss
+Goblin Piledriver
+Arena of Glory
 Skullclamp
 Sol Ring
 Squee, Dubious Monarch
@@ -68,11 +76,3 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-War Room
-Arena of Glory
-Krenko, Mob Boss
-Goblin Piledriver
-Sokenzan, Crucible of Defiance

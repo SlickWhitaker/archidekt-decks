@@ -25,9 +25,6 @@ Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
 Etali, Primal Storm
-Evolving Wilds
-Exotic Orchard
-Feed the Swarm
 Haunted Ridge
 Hero's Downfall
 Hoarding Broodlord
@@ -49,11 +46,11 @@ Orca, Siege Demon
 Overseer of the Damned
 Pathrazer of Ulamog
 Phyrexian Triniform
-Tainted Peak
-Talisman of Indulgence
-Temple of Malice
-Terminate
-The Balrog of Moria
+Swiftfoot Boots
+Unexpected Windfall
+Victimize
+Vilis, Broker of Blood
+Wayfarer's Bauble
 Grave Titan
 Pitiless Plunderer
 Rakdos Carnarium
@@ -72,15 +69,18 @@ Sol Ring
 Song of Totentanz
 Sulfurous Springs
 Swamp
-Swiftfoot Boots
+Tainted Peak
+Talisman of Indulgence
+Temple of Malice
+Terminate
+The Balrog of Moria
 The Balrog, Durin's Bane
 Toxic Deluge
 Tramway Station
-Unexpected Windfall
-Victimize
-Vilis, Broker of Blood
-Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
+Evolving Wilds
+Exotic Orchard
+Feed the Swarm
 Fellwar Stone
 Foreboding Ruins
