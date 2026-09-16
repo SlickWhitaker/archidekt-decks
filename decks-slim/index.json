@@ -21,7 +21,7 @@
       "namesFile": "25645511.names.txt",
       "cardsFile": "25645511.cards.jsonl",
       "metaFile": "25645511.meta.json",
-      "fullBytes": 264479,
+      "fullBytes": 264540,
       "analysisBytes": 25237,
       "reductionPercent": 90.5
     },
@@ -46,7 +46,7 @@
       "namesFile": "25645591.names.txt",
       "cardsFile": "25645591.cards.jsonl",
       "metaFile": "25645591.meta.json",
-      "fullBytes": 235410,
+      "fullBytes": 235417,
       "analysisBytes": 23173,
       "reductionPercent": 90.2
     },
@@ -71,7 +71,7 @@
       "namesFile": "25645631.names.txt",
       "cardsFile": "25645631.cards.jsonl",
       "metaFile": "25645631.meta.json",
-      "fullBytes": 291365,
+      "fullBytes": 291407,
       "analysisBytes": 28945,
       "reductionPercent": 90.1
     },
@@ -150,7 +150,7 @@
       "namesFile": "25645947.names.txt",
       "cardsFile": "25645947.cards.jsonl",
       "metaFile": "25645947.meta.json",
-      "fullBytes": 285158,
+      "fullBytes": 285176,
       "analysisBytes": 28544,
       "reductionPercent": 90.0
     },
@@ -177,7 +177,7 @@
       "namesFile": "25645985.names.txt",
       "cardsFile": "25645985.cards.jsonl",
       "metaFile": "25645985.meta.json",
-      "fullBytes": 288012,
+      "fullBytes": 288030,
       "analysisBytes": 30732,
       "reductionPercent": 89.3
     },
@@ -227,7 +227,7 @@
       "namesFile": "25646062.names.txt",
       "cardsFile": "25646062.cards.jsonl",
       "metaFile": "25646062.meta.json",
-      "fullBytes": 264857,
+      "fullBytes": 264875,
       "analysisBytes": 27583,
       "reductionPercent": 89.6
     },
@@ -280,7 +280,7 @@
       "namesFile": "25646394.names.txt",
       "cardsFile": "25646394.cards.jsonl",
       "metaFile": "25646394.meta.json",
-      "fullBytes": 240180,
+      "fullBytes": 240222,
       "analysisBytes": 25736,
       "reductionPercent": 89.3
     },
@@ -405,7 +405,7 @@
       "namesFile": "25646583.names.txt",
       "cardsFile": "25646583.cards.jsonl",
       "metaFile": "25646583.meta.json",
-      "fullBytes": 302739,
+      "fullBytes": 302757,
       "analysisBytes": 31693,
       "reductionPercent": 89.5
     },
