@@ -1052,40 +1052,6 @@
       "text": "If an opponent would begin an extra turn, that player skips that turn instead.\nWhenever an opponent attacks you with two or more creatures, draws their second card each turn, or casts their second spell each turn, you draw a card."
     },
     {
-      "name": "Edgar Markov",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "White",
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "White",
-        "Black",
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Legendary Creature — Knight Vampire",
-      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
-    },
-    {
-      "name": "Carmen, Cruel Skymarcher",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Black"
-      ],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Vampire Soldier",
-      "text": "Flying\nWhenever a player sacrifices a permanent, put a +1/+1 counter on Carmen and you gain 1 life.\nWhenever Carmen attacks, return up to one target permanent card with mana value less than or equal to Carmen's power from your graveyard to the battlefield."
-    },
-    {
       "name": "Unclaimed Territory",
       "quantity": 1,
       "board": "main",
@@ -1225,6 +1191,40 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Cleric",
       "text": "Protection from Humans\nPay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card.\n{B}{B}, Discard a card: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    },
+    {
+      "name": "Edgar Markov",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Knight Vampire",
+      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
+    },
+    {
+      "name": "Carmen, Cruel Skymarcher",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Vampire Soldier",
+      "text": "Flying\nWhenever a player sacrifices a permanent, put a +1/+1 counter on Carmen and you gain 1 life.\nWhenever Carmen attacks, return up to one target permanent card with mana value less than or equal to Carmen's power from your graveyard to the battlefield."
     }
   ]
 }

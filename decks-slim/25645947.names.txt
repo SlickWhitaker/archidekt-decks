@@ -76,8 +76,6 @@ Talisman of Indulgence
 Teferi's Protection
 Toxic Deluge
 Trouble in Pairs
-Edgar Markov
-Carmen, Cruel Skymarcher
 Unclaimed Territory
 Urborg, Tomb of Yawgmoth
 Vampiric Tutor
@@ -89,3 +87,5 @@ Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
+Edgar Markov
+Carmen, Cruel Skymarcher

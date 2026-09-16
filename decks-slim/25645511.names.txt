@@ -30,41 +30,9 @@ Exotic Orchard
 Feed the Swarm
 Fellwar Stone
 Foreboding Ruins
+Grave Titan
 Haunted Ridge
 Hero's Downfall
-Grave Titan
-Pitiless Plunderer
-Rakdos Carnarium
-Rakdos Charm
-Rakdos Signet
-Rakdos, Lord of Riots
-Rakdos, Patron of Chaos
-Razaketh, the Foulblooded
-Reanimate
-Rune-Scarred Demon
-Swiftfoot Boots
-Tainted Peak
-Talisman of Indulgence
-Temple of Malice
-Terminate
-The Balrog of Moria
-Bloodghast
-Scavenger Grounds
-Sepulchral Primordial
-Shadowblood Ridge
-Siege-Gang Lieutenant
-Sol Ring
-Song of Totentanz
-Sulfurous Springs
-Swamp
-The Balrog, Durin's Bane
-Toxic Deluge
-Tramway Station
-Unexpected Windfall
-Victimize
-Vilis, Broker of Blood
-Wayfarer's Bauble
-Zulaport Cutthroat
 Hoarding Broodlord
 Hordeling Outburst
 Infernal Grasp
@@ -84,3 +52,35 @@ Orca, Siege Demon
 Overseer of the Damned
 Pathrazer of Ulamog
 Phyrexian Triniform
+Pitiless Plunderer
+Rakdos Carnarium
+Rakdos Charm
+Rakdos Signet
+Rakdos, Lord of Riots
+Rakdos, Patron of Chaos
+Razaketh, the Foulblooded
+Reanimate
+Rune-Scarred Demon
+Scavenger Grounds
+Sepulchral Primordial
+Shadowblood Ridge
+Siege-Gang Lieutenant
+Sol Ring
+Song of Totentanz
+Sulfurous Springs
+Swamp
+Swiftfoot Boots
+Tainted Peak
+Talisman of Indulgence
+Temple of Malice
+Terminate
+The Balrog of Moria
+The Balrog, Durin's Bane
+Toxic Deluge
+Tramway Station
+Unexpected Windfall
+Victimize
+Vilis, Broker of Blood
+Wayfarer's Bauble
+Bloodghast
+Zulaport Cutthroat
