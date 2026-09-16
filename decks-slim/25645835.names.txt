@@ -79,15 +79,8 @@ The Day of the Doctor
 The Eleventh Doctor
 The Eleventh Hour
 The Face of Boe
-Time Beetle
-Training Center
 The Girl in the Fireplace
-Trenzalore Clocktower
-War Room
-Wibbly-wobbly, Timey-wimey
-Wilfred Mott
 The Moment
-The Tenth Doctor
 The Ninth Doctor
 The Ozolith
 The Pandorica
@@ -95,3 +88,10 @@ The Parting of the Ways
 The War Doctor
 The Wedding of River Song
 Thespian's Stage
+Time Beetle
+Training Center
+Trenzalore Clocktower
+War Room
+Wibbly-wobbly, Timey-wimey
+Wilfred Mott
+The Tenth Doctor

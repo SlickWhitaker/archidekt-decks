@@ -70,7 +70,6 @@ Scroll Rack
 Sensei's Divining Top
 Shizo, Death's Storehouse
 Silver-Fur Master
-Thieving Skydiver
 Sink into Stupor // Soporific Springs
 Skullsnatcher
 Slither Blade
@@ -82,13 +81,14 @@ Swamp
 Temporal Trespass
 Tetsuko Umezawa, Fugitive
 Thassa's Oracle
-Watery Grave
+Thieving Skydiver
 Thousand-Faced Shadow
-Yuriko, the Tiger's Shadow
 Throat Slitter
 Underground River
 Vampiric Tutor
 Walker of Secret Ways
+Watery Grave
+Yuriko, the Tiger's Shadow
 Demonic Tutor
 Sol Ring
 Faerie Seer

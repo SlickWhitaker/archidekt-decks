@@ -56,7 +56,6 @@ Rockfall Vale
 Rootbound Crag
 Scalding Tarn
 Seedborn Muse
-Veil of Summer
 Selvala, Heart of the Wilds
 Skullclamp
 Sol Ring
@@ -67,20 +66,21 @@ Sylvan Library
 Terror of the Peaks
 The Great Henge
 The One Ring
-Verdant Catacombs
 The Ozolith
+Three Visits
+Tooth and Nail
+Vandalblast
+Veil of Summer
+Verdant Catacombs
 Wasteland
 Windswept Heath
 Wooded Foothills
-Three Visits
 Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
-Tooth and Nail
-Vandalblast
 Beast Within
-Liquimetal Torque
 Uktabi Orangutan
+Liquimetal Torque
 Gearbane Orangutan
 Kibo, Uktabi Prince
 Kogla, the Titan Ape

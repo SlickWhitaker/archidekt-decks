@@ -49,14 +49,6 @@ Metallic Mimic
 Mogg War Marshal
 Moggcatcher
 Mountain
-Valakut Exploration
-Zealous Conscripts
-Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-War Room
-Arena of Glory
-Sokenzan, Crucible of Defiance
-Krenko, Mob Boss
-Goblin Piledriver
 Muxus, Goblin Grandee
 Pashalik Mons
 Professional Face-Breaker
@@ -76,3 +68,11 @@ Thornbite Staff
 Thousand-Year Elixir
 Torbran, Thane of Red Fell
 Urza's Incubator
+Valakut Exploration
+Zealous Conscripts
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+War Room
+Arena of Glory
+Sokenzan, Crucible of Defiance
+Krenko, Mob Boss
+Goblin Piledriver
