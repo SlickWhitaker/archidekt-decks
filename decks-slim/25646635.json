@@ -962,6 +962,22 @@
       "text": "{T}: Add {B}.\n{B}, {T}: Target legendary creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)"
     },
     {
+      "name": "Silver-Fur Master",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Rat Ninja",
+      "text": "Ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nNinjutsu abilities you activate cost {1} less to activate.\nOther Ninja and Rogue creatures you control get +1/+1."
+    },
+    {
       "name": "Sink into Stupor // Soporific Springs",
       "quantity": 1,
       "board": "main",
@@ -1161,6 +1177,19 @@
       "text": "{T}: Add {C}.\n{T}: Add {U} or {B}. This land deals 1 damage to you."
     },
     {
+      "name": "Watery Grave",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Swamp",
+      "text": "({T}: Add {U} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
       "name": "Vampiric Tutor",
       "quantity": 1,
       "board": "main",
@@ -1187,19 +1216,6 @@
       "manaValue": 3,
       "type": "Creature — Human Ninja",
       "text": "Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever this creature deals combat damage to a player, look at that player's hand.\n{1}{U}: Return target Ninja you control to its owner's hand. Activate only during your turn."
-    },
-    {
-      "name": "Watery Grave",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue",
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Land — Island Swamp",
-      "text": "({T}: Add {U} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     },
     {
       "name": "Yuriko, the Tiger's Shadow",
@@ -1310,22 +1326,6 @@
       "manaValue": 7,
       "type": "Sorcery",
       "text": "Take an extra turn after this one. Exile Temporal Mastery.\nMiracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
-    },
-    {
-      "name": "Silver-Fur Master",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Rat Ninja",
-      "text": "Ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nNinjutsu abilities you activate cost {1} less to activate.\nOther Ninja and Rogue creatures you control get +1/+1."
     }
   ]
 }

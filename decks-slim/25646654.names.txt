@@ -44,13 +44,6 @@ Murmuration
 Mystic Monastery
 Nesting Dovehawk
 Ornithopter of Paradise
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host
 Path of Ancestry
 Path to Exile
 Plains
@@ -59,10 +52,17 @@ Pollywog Prodigy
 Rally the Ranks
 Rapid Augmenter
 Rapid Hybridization
+Warren Warleader
+Watcher of the Spheres
+Zinnia, Valley's Voice
+Fiend Hunter
 Reconnaissance Mission
 Restless Anchorage
 Roaming Throne
 Rose Room Treasurer
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
 Rugged Prairie
 Seachrome Coast
 Season of the Burrow

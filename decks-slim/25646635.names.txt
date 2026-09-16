@@ -69,6 +69,7 @@ Satoru, the Infiltrator
 Scroll Rack
 Sensei's Divining Top
 Shizo, Death's Storehouse
+Silver-Fur Master
 Sink into Stupor // Soporific Springs
 Skullsnatcher
 Slither Blade
@@ -84,9 +85,9 @@ Thieving Skydiver
 Thousand-Faced Shadow
 Throat Slitter
 Underground River
+Watery Grave
 Vampiric Tutor
 Walker of Secret Ways
-Watery Grave
 Yuriko, the Tiger's Shadow
 Demonic Tutor
 Sol Ring
@@ -95,4 +96,3 @@ Force of Negation
 Treasure Cruise
 Shadow of Mortality
 Temporal Mastery
-Silver-Fur Master

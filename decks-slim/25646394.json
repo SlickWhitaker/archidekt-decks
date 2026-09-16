@@ -941,20 +941,6 @@
       "text": "This land enters tapped.\nWhenever a Mountain you control enters, if you control at least five other Mountains, you may have this land deal 3 damage to any target.\n{T}: Add {R}."
     },
     {
-      "name": "Jaws, Relentless Predator",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Shark",
-      "text": "Trample, haste\nWhenever Jaws deals combat damage to a player, create that many Blood tokens. (They're artifacts with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\nWhenever a noncreature artifact is sacrificed or destroyed, Jaws deals 1 damage to each opponent."
-    },
-    {
       "name": "Artist's Talent",
       "quantity": 1,
       "board": "main",
@@ -967,6 +953,20 @@
       "manaValue": 2,
       "type": "Enchantment — Class",
       "text": "(Gain the next level as a sorcery to add its ability.)\nWhenever you cast a noncreature spell, you may discard a card. If you do, draw a card.\n{2}{R}: Level 2\nNoncreature spells you cast cost {1} less to cast.\n{2}{R}: Level 3\nIf a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead."
+    },
+    {
+      "name": "Jaws, Relentless Predator",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Shark",
+      "text": "Trample, haste\nWhenever Jaws deals combat damage to a player, create that many Blood tokens. (They're artifacts with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\nWhenever a noncreature artifact is sacrificed or destroyed, Jaws deals 1 damage to each opponent."
     }
   ]
 }

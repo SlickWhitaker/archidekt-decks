@@ -33,7 +33,10 @@ Fire-Lit Thicket
 Forest
 Fyndhorn Elves
 Gamble
+Greater Good
+Green Sun's Zenith
 Hardened Scales
+Veil of Summer
 Heroic Intervention
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
@@ -68,7 +71,6 @@ The Ozolith
 Three Visits
 Tooth and Nail
 Vandalblast
-Veil of Summer
 Verdant Catacombs
 Wasteland
 Windswept Heath
@@ -77,8 +79,6 @@ Worldly Tutor
 Yavimaya, Cradle of Growth
 Zealous Conscripts
 Beast Within
-Greater Good
-Green Sun's Zenith
 Uktabi Orangutan
 Liquimetal Torque
 Gearbane Orangutan

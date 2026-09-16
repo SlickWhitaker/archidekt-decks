@@ -28,6 +28,15 @@ Hecteyes
 Infernal Grasp
 Languish
 Let's Play a Game
+Liliana of the Veil
+Liliana's Caress
+Liliana's Triumph
+Megrim
+Mind Rake
+Mind Stone
+Mindlash Sliver
+Necrogen Mists
+Necrogoyf
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
 Oppression
@@ -41,6 +50,11 @@ Rotting Rats
 Sangromancer
 Sepulchral Primordial
 Shrieking Affliction
+Geth's Grimoire
+Waste Not
+Lightning Greaves
+Tinybones, Trinket Thief
+Scavenger Grounds
 Sign in Blood
 Smallpox
 Sol Ring
@@ -57,17 +71,3 @@ Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
-Geth's Grimoire
-Waste Not
-Lightning Greaves
-Tinybones, Trinket Thief
-Scavenger Grounds
-Liliana of the Veil
-Liliana's Caress
-Liliana's Triumph
-Megrim
-Mind Rake
-Mind Stone
-Mindlash Sliver
-Necrogen Mists
-Necrogoyf
