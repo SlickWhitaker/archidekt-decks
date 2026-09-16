@@ -25,6 +25,13 @@ Esior, Wardwing Familiar
 Evolving Wilds
 Exotic Orchard
 Fellwar Stone
+Warren Warleader
+Watcher of the Spheres
+Fiend Hunter
+Academy Manufactor
+Cathars' Crusade
+Helm of the Host
+Zinnia, Valley's Voice
 Ferrous Lake
 Flawless Maneuver
 Glacial Fortress
@@ -83,10 +90,3 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warden of Evos Isle
-Warren Warleader
-Watcher of the Spheres
-Zinnia, Valley's Voice
-Fiend Hunter
-Academy Manufactor
-Cathars' Crusade
-Helm of the Host

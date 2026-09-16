@@ -14,7 +14,6 @@ Chronicle of Victory
 Clever Impersonator
 Command Tower
 Consuming Blob
-Copycrook
 Deathcap Glade
 Doubling Season
 Dreamroot Cascade
@@ -39,7 +38,6 @@ Misty Rainforest
 Mitotic Slime
 Morphic Pool
 Mosswort Bridge
-Necrotic Ooze
 Ochre Jelly
 Omni-Changeling
 Opulent Palace
@@ -95,3 +93,5 @@ Uugguu, the Omniplasm
 Maskwood Nexus
 Skullclamp
 Swan Song
+Deadly Dispute
+Necrotic Ooze

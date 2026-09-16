@@ -21,10 +21,20 @@ City of Brass
 Command Tower
 Cultivate
 Dimension X Pizzasaur
+Donatello, the Brains
+Doubling Season
+Dragonskull Summit
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Felidar Retreat
+Forest
 Grand Coliseum
 Guardian Project
 Halo Fountain
 Heroes in a Half Shell
+Heroic Intervention
+Hidden Hideout
 Hinterland Harbor
 Island
 Jetmir's Garden
@@ -42,23 +52,6 @@ Mountain
 Ninja Pizza
 Ojer Taq, Deepest Foundation // Temple of Civilization
 Reflecting Pool
-Rocco, Street Chef
-Shellshock
-Skullclamp
-Sodden Verdure
-Sol Ring
-Spire Garden
-Swamp
-Swan Song
-Swords to Plowshares
-Teferi's Protection
-Tempestra, Dame of Games
-Thriving Isle
-Tireless Provisioner
-Tocasia's Welcome
-Arcade Cabinet
-Heroic Intervention
-Hidden Hideout
 Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
@@ -72,6 +65,14 @@ Steelbane Hydra
 Stomping Ground
 Sunken Hollow
 Super Combo
+Swamp
+Swan Song
+Swords to Plowshares
+Teferi's Protection
+Tempestra, Dame of Games
+Thriving Isle
+Tireless Provisioner
+Tocasia's Welcome
 Turtle Lair
 Unbreakable Formation
 Undergrowth Stadium
@@ -83,11 +84,10 @@ Bristly Bill, Spine Sower
 Kodama of the West Tree
 Leonardo, the Balance
 Rishkar, Peema Renegade
-Donatello, the Brains
-Doubling Season
-Dragonskull Summit
-Evolving Wilds
-Exotic Orchard
-Fabled Passage
-Felidar Retreat
-Forest
+Arcade Cabinet
+Rocco, Street Chef
+Shellshock
+Skullclamp
+Sodden Verdure
+Sol Ring
+Spire Garden

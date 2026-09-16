@@ -7,90 +7,90 @@ Teferi, Mage of Zhalfir
 Finale of Devastation
 Food Chain
 Flusterstorm
-Neoform
 Pact of Negation
 Carpet of Flowers
-Swords to Plowshares
 Noble Hierarch
-Emiel the Blessed
-Hallowed Fountain
-Otawara, Soaring City
 Temple Garden
 Bountiful Promenade
 Sea of Clouds
 Phyrexian Metamorph
 Chulane, Teller of Tales
-Polluted Delta
-Hullbreaker Horror
 Command Tower
-Grand Abolisher
-City of Brass
 Venser, Shaper Savant
-Peregrine Drake
-Kinnan, Bonder Prodigy
 Island
-Crop Rotation
 Esper Sentinel
-Eladamri's Call
 Mindbreak Trap
-Avacyn's Pilgrim
 Misthollow Griffin
 Solitude
-Exotic Orchard
 Sol Ring
-Elvish Spirit Guide
 Windswept Heath
-Arcane Signet
 Enlightened Tutor
 Arid Mesa
-Silence
 Eldritch Evolution
 Cyclonic Rift
-Deadeye Navigator
 Elvish Mystic
 Scalding Tarn
 Rhystic Study
-Worldly Tutor
 Walking Ballista
 Mana Confluence
-Swan Song
-Boseiju, Who Endures
 Fierce Guardianship
 Fyndhorn Elves
-Mystic Remora
-Birds of Paradise
 Mockingbird
-Bloom Tender
 Chord of Calling
-Spellseeker
-Misty Rainforest
 Palinchron
 Marsh Flats
-Ancestral Statue
 Mental Misstep
-Minamo, School at Water's Edge
 Endurance
 Wild Growth
-Delighted Halfling
 Ranger-Captain of Eos
 Rejuvenating Springs
-Intruder Alarm
-Verdant Catacombs
 Phantasmal Image
 Chakram Retriever
 Blinking Spirit
-Garruk's Uprising
-Inga and Esika
 Kiora's Follower
-Saryth, the Viper's Fang
 Foundation Breaker
 Forest
-Mystic Snake
 Temur Sabertooth
-Cloud of Faeries
-Faeburrow Elder
 Somberwald Sage
 Shrieking Drake
 Helga, Skittish Seer
 Survival of the Fittest
 Displacer Kitten
+Neoform
+Swords to Plowshares
+Emiel the Blessed
+Hallowed Fountain
+Otawara, Soaring City
+Polluted Delta
+Hullbreaker Horror
+Grand Abolisher
+City of Brass
+Peregrine Drake
+Kinnan, Bonder Prodigy
+Crop Rotation
+Eladamri's Call
+Avacyn's Pilgrim
+Exotic Orchard
+Elvish Spirit Guide
+Arcane Signet
+Silence
+Deadeye Navigator
+Worldly Tutor
+Swan Song
+Boseiju, Who Endures
+Mystic Remora
+Birds of Paradise
+Bloom Tender
+Spellseeker
+Misty Rainforest
+Ancestral Statue
+Minamo, School at Water's Edge
+Delighted Halfling
+Intruder Alarm
+Verdant Catacombs
+Garruk's Uprising
+Inga and Esika
+Saryth, the Viper's Fang
+Mystic Snake
+Cloud of Faeries
+Faeburrow Elder
