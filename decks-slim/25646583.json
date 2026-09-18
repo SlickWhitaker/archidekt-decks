@@ -19,6 +19,30 @@
   },
   "cards": [
     {
+      "name": "Coat of Arms",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 5,
+      "type": "Artifact",
+      "text": "Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
+    },
+    {
+      "name": "Mirror Image",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Shapeshifter",
+      "text": "You may have this creature enter as a copy of a creature you control."
+    },
+    {
       "name": "Adrix and Nev, Twincasters",
       "quantity": 1,
       "board": "main",
@@ -155,30 +179,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
-    },
-    {
-      "name": "Chronicle of Victory",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 6,
-      "type": "Legendary Artifact",
-      "text": "As Chronicle of Victory enters, choose a creature type.\nCreatures you control of the chosen type get +2/+2 and have first strike and trample.\nWhenever you cast a spell of the chosen type, draw a card."
-    },
-    {
-      "name": "Clever Impersonator",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Shapeshifter",
-      "text": "You may have this creature enter as a copy of any nonland permanent on the battlefield."
     },
     {
       "name": "Command Tower",
