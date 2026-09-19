@@ -1,5 +1,4 @@
 Return of the Wildspeaker
-Kird Ape
 Kogla and Yidaro
 Simian Simulacrum
 Aggravated Assault
@@ -92,3 +91,4 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
+Ragavan, Nimble Pilferer

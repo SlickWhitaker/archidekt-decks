@@ -32,20 +32,6 @@
       "text": "Choose one —\n• Draw cards equal to the greatest power among non-Human creatures you control.\n• Non-Human creatures you control get +3/+3 until end of turn."
     },
     {
-      "name": "Kird Ape",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Ape",
-      "text": "This creature gets +1/+2 as long as you control a Forest."
-    },
-    {
       "name": "Kogla and Yidaro",
       "quantity": 1,
       "board": "main",
@@ -1225,6 +1211,20 @@
       "manaValue": 2,
       "type": "Creature — Warrior Ape",
       "text": "Enlist (As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)\n{1}, Sacrifice this creature: Destroy target artifact."
+    },
+    {
+      "name": "Ragavan, Nimble Pilferer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Legendary Creature — Pirate Monkey",
+      "text": "Whenever Ragavan deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.\nDash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
     }
   ]
 }
