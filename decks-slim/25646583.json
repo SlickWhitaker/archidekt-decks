@@ -29,20 +29,6 @@
       "text": "Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
     },
     {
-      "name": "Mirror Image",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Shapeshifter",
-      "text": "You may have this creature enter as a copy of a creature you control."
-    },
-    {
       "name": "Adrix and Nev, Twincasters",
       "quantity": 1,
       "board": "main",
@@ -1183,6 +1169,20 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
+    },
+    {
+      "name": "Temperamental Oozewagg",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Ooze Brushwagg",
+      "text": "{2}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)\nModified creatures you control have trample. (Equipment, Auras you control, and counters are modifications.)"
     },
     {
       "name": "Deadly Dispute",

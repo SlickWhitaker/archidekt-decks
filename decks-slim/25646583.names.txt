@@ -1,5 +1,4 @@
 Coat of Arms
-Mirror Image
 Adrix and Nev, Twincasters
 Aeve, Progenitor Ooze
 Altar of Dementia
@@ -88,6 +87,7 @@ Yawgmoth, Thran Physician
 Maskwood Nexus
 Skullclamp
 Swan Song
+Temperamental Oozewagg
 Deadly Dispute
 Necrotic Ooze
 Hecteyes
