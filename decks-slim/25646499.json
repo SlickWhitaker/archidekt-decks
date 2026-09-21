@@ -51,8 +51,8 @@
       "quantity": 1,
       "board": "commander",
       "colors": [
-        "White",
         "Red",
+        "White",
         "Blue"
       ],
       "colorIdentity": [
