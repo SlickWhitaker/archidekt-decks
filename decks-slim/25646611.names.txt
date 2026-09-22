@@ -32,7 +32,6 @@ Haunted Ridge
 Havoc Festival
 Jet Medallion
 Kaervek the Merciless
-Kardur, Doomscourge
 Kederekt Parasite
 Lightning Greaves
 Luxury Suite
@@ -45,7 +44,6 @@ Obosh, the Preypiercer
 Opposition Agent
 Orcish Bowmasters
 Painful Quandary
-Polluted Bonds
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
@@ -85,3 +83,5 @@ Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
 Blood Seeker
+Sanguine Bond
+Vampiric Tutor
