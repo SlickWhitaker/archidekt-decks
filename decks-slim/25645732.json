@@ -33,6 +33,59 @@
       "text": "{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery."
     },
     {
+      "name": "Ardenn, Intrepid Archaeologist",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Scout Kor",
+      "text": "At the beginning of combat on your turn, you may attach any number of Auras and Equipment you control to target permanent or player.\nPartner (You can have two commanders if both have partner.)"
+    },
+    {
+      "name": "Blackblade Reforged",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Equipped creature gets +1/+1 for each land you control.\nEquip legendary creature {3}\nEquip {7}"
+    },
+    {
+      "name": "Fighter Class",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment — Class",
+      "text": "(Gain the next level as a sorcery to add its ability.)\nWhen this Class enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\n{1}{R}{W}: Level 2\nEquip abilities you activate cost {2} less to activate.\n{3}{R}{W}: Level 3\nWhenever a creature you control attacks, up to one target creature blocks it this combat if able."
+    },
+    {
+      "name": "Temple Garden",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Forest",
+      "text": "({T}: Add {G} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
       "name": "Forge Anew",
       "quantity": 1,
       "board": "main",
@@ -540,20 +593,6 @@
       "text": "This land enters tapped.\n{T}: Add {R} or {G}."
     },
     {
-      "name": "Iron Hills Blacksmith",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Artificer Dwarf",
-      "text": "Double strike\nWhen this creature enters, create a colorless Equipment artifact token named Axe with \"Equipped creature gets +1/+0\" and equip {2}."
-    },
-    {
       "name": "Kíli the Resourceful",
       "quantity": 1,
       "board": "main",
@@ -753,19 +792,6 @@
       "text": "Whenever an Equipment you control enters, you may draw a card.\nMetalcraft — Equipment you control have equip {0} as long as you control three or more artifacts."
     },
     {
-      "name": "Radiant Grove",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land — Plains Forest",
-      "text": "({T}: Add {G} or {W}.)\nThis land enters tapped."
-    },
-    {
       "name": "Red XIII, Proud Warrior",
       "quantity": 1,
       "board": "main",
@@ -917,20 +943,6 @@
       "text": "{T}: Add {C}{C}."
     },
     {
-      "name": "Sphere Grid",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on that creature.\nUnlock Ability — Creatures you control with +1/+1 counters on them have reach and trample."
-    },
-    {
       "name": "Spire of Industry",
       "quantity": 1,
       "board": "main",
@@ -1030,16 +1042,6 @@
       "manaValue": 2,
       "type": "Artifact — Equipment",
       "text": "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.)\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
-    },
-    {
-      "name": "Sword of Sinew and Steel",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +2/+2 and has protection from black and from red.\nWhenever equipped creature deals combat damage to a player, destroy up to one target planeswalker and up to one target artifact.\nEquip {2}"
     },
     {
       "name": "Sword of the Animist",

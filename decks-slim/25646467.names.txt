@@ -1,4 +1,6 @@
 Chrome Mox
+Devilish Valet
+Krenko, Mob Boss
 Ashnod's Altar
 Goblin Bombardment
 Aggravated Assault
@@ -31,7 +33,6 @@ Goblin Trashmaster
 Goblin Warchief
 Heat Shimmer
 Goro-Goro, Disciple of Ryusei
-Great Train Heist
 Grenzo, Havoc Raiser
 Hazoret's Monument
 Hobgoblin Bandit Lord
@@ -74,5 +75,4 @@ Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 War Room
 Arena of Glory
 Sokenzan, Crucible of Defiance
-Krenko, Mob Boss
 Goblin Piledriver

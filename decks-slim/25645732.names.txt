@@ -1,4 +1,8 @@
 Aggravated Assault
+Ardenn, Intrepid Archaeologist
+Blackblade Reforged
+Fighter Class
+Temple Garden
 Forge Anew
 Hammer of Nazahn
 Steelshaper's Gift
@@ -38,7 +42,6 @@ Forest
 Fortified Village
 Furycalm Snarl
 Gongaga, Reactor Town
-Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
 Mithril Coat
@@ -55,7 +58,6 @@ Plains
 Plains
 Professional Face-Breaker
 Puresteel Paladin
-Radiant Grove
 Red XIII, Proud Warrior
 Rogue's Passage
 Rootbound Crag
@@ -68,7 +70,6 @@ Sigarda's Aid
 Skullclamp
 Slayers' Stronghold
 Sol Ring
-Sphere Grid
 Spire of Industry
 Stoneforge Mystic
 Summon: Kujata
@@ -77,7 +78,6 @@ Sungrass Prairie
 Sunpetal Grove
 Sunscorched Divide
 Swiftfoot Boots
-Sword of Sinew and Steel
 Sword of the Animist
 Swords to Plowshares
 Tifa, Martial Artist
