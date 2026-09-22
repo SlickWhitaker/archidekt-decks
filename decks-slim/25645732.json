@@ -125,20 +125,6 @@
       "text": "Menace\nAvalanche of Sector 7's power is equal to the number of artifacts your opponents control.\nWhenever an opponent activates an ability of an artifact they control, Avalanche of Sector 7 deals 1 damage to that player."
     },
     {
-      "name": "Barret Wallace",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human Rebel",
-      "text": "Reach\nWhenever Barret Wallace attacks, it deals damage equal to the number of equipped creatures you control to defending player."
-    },
-    {
       "name": "Barret, Avalanche Leader",
       "quantity": 1,
       "board": "main",
@@ -590,16 +576,6 @@
       "manaValue": 2,
       "type": "Artifact — Equipment",
       "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
-    },
-    {
-      "name": "Mask of Memory",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
     },
     {
       "name": "Mithril Coat",
@@ -1308,6 +1284,30 @@
       "manaValue": 2,
       "type": "Legendary Creature — Advisor Dwarf",
       "text": "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
+    },
+    {
+      "name": "Danitha Capashen, Paragon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Knight",
+      "text": "First strike, vigilance, lifelink\nAura and Equipment spells you cast cost {1} less to cast."
+    },
+    {
+      "name": "Bloodforged Battle-Axe",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +2/+0.\nWhenever equipped creature deals combat damage to a player, create a token that's a copy of this Equipment.\nEquip {2}"
     }
   ]
 }

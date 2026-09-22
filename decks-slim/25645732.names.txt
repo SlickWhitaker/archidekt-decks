@@ -6,7 +6,6 @@ Aerith, Last Ancient
 Arcane Signet
 Austere Command
 Avalanche of Sector 7
-Barret Wallace
 Barret, Avalanche Leader
 Battlefield Forge
 Bilbo's Gambit
@@ -42,7 +41,6 @@ Gongaga, Reactor Town
 Iron Hills Blacksmith
 Kíli the Resourceful
 Lightning Greaves
-Mask of Memory
 Mithril Coat
 Mossfire Valley
 Mountain
@@ -98,3 +96,5 @@ Sword of Feast and Famine
 Kaldra Compleat
 Armored Skyhunter
 Sram, Senior Edificer
+Danitha Capashen, Paragon
+Bloodforged Battle-Axe
