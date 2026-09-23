@@ -2,12 +2,14 @@ name: Update Archidekt Decks
 
 on:
   workflow_dispatch:
+
   push:
     branches:
       - main
     paths:
       - ".github/workflows/update-decks.yml"
       - "scripts/build_slim_decks.py"
+
   schedule:
     - cron: "*/15 * * * *"
 
@@ -27,6 +29,7 @@ jobs:
       # ============================================================
       # CHECKOUT
       # ============================================================
+
       - name: Checkout repository
         uses: actions/checkout@v5
         with:
@@ -37,6 +40,7 @@ jobs:
       # ============================================================
       # GIT CONFIGURATION
       # ============================================================
+
       - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
@@ -46,8 +50,11 @@ jobs:
       # ============================================================
       # SYNCHRONIZE WITH LATEST MAIN
       # ============================================================
+
       - name: Synchronize with latest main
         run: |
+          set -e
+
           git fetch origin main
           git checkout main
           git reset --hard origin/main
@@ -56,8 +63,11 @@ jobs:
       # ============================================================
       # CREATE DIRECTORIES
       # ============================================================
-      - name: Create decks directory
+
+      - name: Create deck directories
         run: |
+          set -e
+
           mkdir -p decks
           mkdir -p decks-slim
 
@@ -65,19 +75,24 @@ jobs:
       # ============================================================
       # DISCOVER ALL ARCHIDEKT DECKS
       #
-      # This does NOT use a hard-coded list of deck IDs.
+      # Uses the Archidekt v3 deck listing endpoint.
       #
-      # It asks Archidekt for the decks belonging to the account
-      # and extracts IDs ONLY from the actual deck records.
+      # IMPORTANT:
+      # Discovery failure stops the workflow instead of treating
+      # an empty/invalid response as "the user has no decks".
+      #
+      # This prevents a temporary Archidekt outage from deleting
+      # the entire GitHub mirror.
       # ============================================================
+
       - name: Discover Archidekt decks
         env:
           ARCHIDEKT_USERNAME: matthyzer
         run: |
-          set -e
+          set -euo pipefail
 
           echo "========================================"
-          echo "Discovering Archidekt decks"
+          echo "DISCOVERING ARCHIDEKT DECKS"
           echo "========================================"
 
           rm -f /tmp/deck-ids.txt
@@ -85,6 +100,7 @@ jobs:
 
           page=1
           page_size=100
+          discovery_success=0
 
           while true; do
 
@@ -95,47 +111,75 @@ jobs:
 
             rm -f "$response_file"
 
-            http_code=$(curl \
-              --silent \
-              --show-error \
-              --location \
-              --connect-timeout 15 \
-              --max-time 60 \
-              --retry 3 \
-              --retry-delay 2 \
-              --output "$response_file" \
-              --write-out "%{http_code}" \
-              -H "Accept: application/json" \
-              "https://archidekt.com/api/decks/v3/?ownerUsername=${ARCHIDEKT_USERNAME}&deckFormat=3&orderBy=-createdAt&pageSize=${page_size}&page=${page}" \
-              || true)
+            http_code=""
 
-            echo "HTTP status: ${http_code}"
+            for attempt in 1 2 3 4 5; do
 
-            if [ "${http_code}" != "200" ]; then
+              echo "Discovery attempt ${attempt}/5"
+
+              http_code=$(curl \
+                --silent \
+                --show-error \
+                --location \
+                --connect-timeout 20 \
+                --max-time 90 \
+                --retry 2 \
+                --retry-delay 3 \
+                --output "$response_file" \
+                --write-out "%{http_code}" \
+                -H "Accept: application/json" \
+                -H "User-Agent: MTG-Analyzer-Archidekt-Sync/1.0" \
+                "https://archidekt.com/api/decks/v3/?ownerUsername=${ARCHIDEKT_USERNAME}&deckFormat=3&orderBy=-createdAt&pageSize=${page_size}&page=${page}" \
+                || true)
+
+              echo "HTTP status: ${http_code}"
+
+              if [ "${http_code}" = "200" ] \
+                && [ -s "$response_file" ] \
+                && jq empty "$response_file" >/dev/null 2>&1; then
+
+                break
+              fi
+
+              if [ "${attempt}" -lt 5 ]; then
+                sleep 5
+              fi
+
+            done
+
+
+            # --------------------------------------------------------
+            # Discovery failed.
+            #
+            # DO NOT continue.
+            #
+            # An invalid discovery response must never be interpreted
+            # as an empty deck collection.
+            # --------------------------------------------------------
+
+            if [ "${http_code}" != "200" ] \
+              || [ ! -s "$response_file" ] \
+              || ! jq empty "$response_file" >/dev/null 2>&1; then
+
               echo ""
-              echo "ERROR: Archidekt API returned HTTP ${http_code}"
+              echo "ERROR: Could not successfully query Archidekt."
+              echo ""
+              echo "HTTP status: ${http_code}"
               echo ""
               echo "Response:"
-              cat "$response_file" || true
-              exit 1
-            fi
+              cat "$response_file" 2>/dev/null || true
+              echo ""
 
-            if ! jq empty "$response_file" >/dev/null 2>&1; then
-              echo ""
-              echo "ERROR: Archidekt returned invalid JSON."
-              echo ""
-              cat "$response_file"
+              echo "Existing GitHub deck copies will NOT be deleted."
               exit 1
             fi
 
 
             # --------------------------------------------------------
-            # Determine where the deck records live.
+            # Extract deck records safely.
             #
-            # Archidekt responses can use different wrappers.
-            # We specifically select the collection containing the
-            # deck records instead of recursively collecting every
-            # .id field in the entire response.
+            # Never recursively search for every .id field because
+            # card records and unrelated objects may also contain IDs.
             # --------------------------------------------------------
 
             if jq -e 'type == "array"' "$response_file" >/dev/null 2>&1; then
@@ -193,18 +237,21 @@ jobs:
             else
 
               echo ""
-              echo "ERROR: Could not determine Archidekt deck response format."
+              echo "ERROR: Unknown Archidekt response format."
               echo ""
-              echo "Top-level JSON structure:"
+
               jq '{
                 type: type,
-                keys: (if type == "object" then keys else [] end)
+                keys: (
+                  if type == "object"
+                  then keys
+                  else []
+                  end
+                )
               }' "$response_file"
 
               echo ""
-              echo "The workflow has stopped rather than accidentally"
-              echo "interpreting unrelated IDs as deck IDs."
-
+              echo "Existing GitHub deck copies will NOT be deleted."
               exit 1
 
             fi
@@ -214,7 +261,7 @@ jobs:
 
 
             # --------------------------------------------------------
-            # Pagination
+            # Pagination.
             # --------------------------------------------------------
 
             if [ "${count}" -lt "${page_size}" ]; then
@@ -223,11 +270,12 @@ jobs:
 
             page=$((page + 1))
 
-            # Safety limit.
             if [ "${page}" -gt 100 ]; then
+
               echo ""
               echo "ERROR: Pagination safety limit reached."
               exit 1
+
             fi
 
           done
@@ -236,6 +284,19 @@ jobs:
           # ==========================================================
           # CLEAN AND DEDUPLICATE IDS
           # ==========================================================
+
+          if [ ! -s /tmp/deck-ids.txt ]; then
+
+            echo ""
+            echo "ERROR: Archidekt returned zero deck IDs."
+            echo ""
+            echo "This is treated as a discovery failure."
+            echo "Existing GitHub copies will NOT be deleted."
+
+            exit 1
+
+          fi
+
 
           grep -E '^[0-9]+$' /tmp/deck-ids.txt \
             | sort -n \
@@ -258,75 +319,122 @@ jobs:
 
 
           if [ "${deck_count}" -eq 0 ]; then
+
             echo ""
-            echo "ERROR: No decks were discovered."
+            echo "ERROR: No valid deck IDs were discovered."
+            echo "Existing GitHub copies will NOT be deleted."
+
             exit 1
+
           fi
 
 
       # ============================================================
       # FETCH EVERY DISCOVERED DECK
+      #
+      # Each deck gets several attempts.
+      #
+      # If a refresh fails:
+      #
+      #   - Existing valid GitHub copy is preserved.
+      #   - The workflow continues to refresh other decks.
+      #
+      # This is important because one broken Archidekt request should
+      # never prevent all of the other decks from being synchronized.
       # ============================================================
+
       - name: Fetch Archidekt decks
         run: |
-          set -e
+          set -euo pipefail
 
           failed=0
+          refreshed=0
+          preserved=0
 
           while IFS= read -r deck_id; do
 
             echo ""
             echo "========================================"
-            echo "Fetching deck ${deck_id}"
+            echo "FETCHING DECK ${deck_id}"
             echo "========================================"
 
+            final_file="decks/${deck_id}.json"
             tmp_file="decks/.${deck_id}.json.tmp"
 
             rm -f "$tmp_file"
 
             success=0
 
-            for attempt in 1 2 3; do
 
-              echo "Attempt ${attempt} for deck ${deck_id}"
+            # --------------------------------------------------------
+            # Primary endpoint.
+            # --------------------------------------------------------
+
+            for attempt in 1 2 3 4 5; do
+
+              echo ""
+              echo "Attempt ${attempt}/5 for deck ${deck_id}"
+
+              rm -f "$tmp_file"
 
               http_code=$(curl \
                 --silent \
                 --show-error \
                 --location \
-                --connect-timeout 15 \
-                --max-time 60 \
+                --connect-timeout 20 \
+                --max-time 90 \
                 --retry 2 \
-                --retry-delay 2 \
+                --retry-delay 3 \
                 --output "$tmp_file" \
                 --write-out "%{http_code}" \
                 -H "Accept: application/json" \
+                -H "User-Agent: MTG-Analyzer-Archidekt-Sync/1.0" \
                 "https://archidekt.com/api/decks/${deck_id}/" \
                 || true)
 
-              echo "HTTP status: ${http_code}"
+              response_size=$(wc -c < "$tmp_file" 2>/dev/null || echo 0)
 
-              echo "Response size: $(wc -c < "$tmp_file" 2>/dev/null || echo 0) bytes"
+              echo "HTTP status: ${http_code}"
+              echo "Response size: ${response_size} bytes"
 
 
               if [ "${http_code}" = "200" ] \
+                && [ -s "$tmp_file" ] \
                 && jq empty "$tmp_file" >/dev/null 2>&1; then
 
-                mv "$tmp_file" "decks/${deck_id}.json"
+                # ----------------------------------------------------
+                # Verify this really is the requested deck.
+                # ----------------------------------------------------
 
-                echo "SUCCESS: Valid JSON for ${deck_id}"
+                returned_id=$(jq -r '.id // empty' "$tmp_file")
 
-                success=1
+                if [ "${returned_id}" = "${deck_id}" ]; then
 
-                break
+                  mv "$tmp_file" "$final_file"
+
+                  echo ""
+                  echo "SUCCESS: Deck ${deck_id} refreshed."
+
+                  success=1
+                  refreshed=$((refreshed + 1))
+
+                  break
+
+                else
+
+                  echo ""
+                  echo "WARNING: JSON was valid, but deck ID did not match."
+                  echo "Expected: ${deck_id}"
+                  echo "Received: ${returned_id}"
+
+                fi
 
               fi
 
 
-              echo ""
-              echo "WARNING: Deck ${deck_id} failed attempt ${attempt}."
-
-              sleep 2
+              if [ "${attempt}" -lt 5 ]; then
+                sleep 5
+              fi
 
             done
 
@@ -334,14 +442,29 @@ jobs:
             rm -f "$tmp_file"
 
 
-            if [ "$success" -ne 1 ]; then
+            # --------------------------------------------------------
+            # If refresh failed, preserve existing valid copy.
+            # --------------------------------------------------------
+
+            if [ "${success}" -ne 1 ]; then
 
               echo ""
-              echo "WARNING: Could not refresh deck ${deck_id} after 3 attempts."
+              echo "WARNING: Could not refresh deck ${deck_id}."
 
-              echo "Existing valid copy, if any, will be preserved."
+              if [ -f "$final_file" ] \
+                && jq empty "$final_file" >/dev/null 2>&1; then
 
-              failed=1
+                echo "Existing valid GitHub copy will be preserved."
+
+                preserved=$((preserved + 1))
+
+              else
+
+                echo "No valid existing copy is available."
+
+                failed=1
+
+              fi
 
             fi
 
@@ -353,32 +476,109 @@ jobs:
           echo "FETCH SUMMARY"
           echo "========================================"
 
+          echo "Successfully refreshed: ${refreshed}"
+          echo "Existing copies preserved: ${preserved}"
+          echo "Unrecoverable failures: ${failed}"
 
-          if [ "$failed" -ne 0 ]; then
 
-            echo "WARNING: One or more decks could not be refreshed."
+          # If at least one discovered deck has no valid local copy,
+          # fail the workflow. We never create a fake/incomplete deck.
+          if [ "${failed}" -ne 0 ]; then
 
-            echo "Existing valid deck files were preserved."
-
-          else
-
-            echo "ALL DISCOVERED DECKS SUCCESSFULLY FETCHED."
+            echo ""
+            echo "WARNING: One or more decks have no valid local copy."
+            echo "The workflow will NOT delete stale decks."
 
           fi
 
 
       # ============================================================
-      # REMOVE STALE DECK FILES
+      # VERIFY THE MIRROR
       #
-      # If a deck disappears from Archidekt, remove its old copy
-      # from the repository.
+      # Make sure every discovered deck has a valid JSON file.
       # ============================================================
-      - name: Remove stale deck files
+
+      - name: Verify deck mirror
         run: |
-          set -e
+          set -euo pipefail
 
           echo "========================================"
-          echo "Checking for stale deck files"
+          echo "VERIFYING DECK MIRROR"
+          echo "========================================"
+
+          verification_failed=0
+
+          while IFS= read -r deck_id; do
+
+            file="decks/${deck_id}.json"
+
+            if [ ! -f "$file" ]; then
+
+              echo "ERROR: Missing deck file: ${file}"
+              verification_failed=1
+              continue
+
+            fi
+
+
+            if ! jq empty "$file" >/dev/null 2>&1; then
+
+              echo "ERROR: Invalid JSON: ${file}"
+              verification_failed=1
+              continue
+
+            fi
+
+
+            returned_id=$(jq -r '.id // empty' "$file")
+
+            if [ "${returned_id}" != "${deck_id}" ]; then
+
+              echo "ERROR: Wrong deck ID in ${file}"
+              echo "Expected: ${deck_id}"
+              echo "Received: ${returned_id}"
+
+              verification_failed=1
+              continue
+
+            fi
+
+
+            echo "OK: ${deck_id}"
+
+          done < /tmp/deck-ids-clean.txt
+
+
+          if [ "${verification_failed}" -ne 0 ]; then
+
+            echo ""
+            echo "ERROR: Deck mirror verification failed."
+            echo "Stale decks will NOT be removed."
+
+            exit 1
+
+          fi
+
+
+          echo ""
+          echo "All discovered decks have valid local copies."
+
+
+      # ============================================================
+      # REMOVE STALE DECK FILES
+      #
+      # ONLY happens after successful discovery AND successful
+      # verification of every discovered deck.
+      #
+      # Therefore a temporary Archidekt outage cannot wipe the mirror.
+      # ============================================================
+
+      - name: Remove stale deck files
+        run: |
+          set -euo pipefail
+
+          echo "========================================"
+          echo "CHECKING FOR STALE DECK FILES"
           echo "========================================"
 
           for file in decks/*.json; do
@@ -400,84 +600,207 @@ jobs:
 
       # ============================================================
       # BUILD COMPACT ANALYSIS COPIES
+      #
+      # Produces:
+      #
+      #   decks-slim/{id}.meta.json
+      #   decks-slim/{id}.names.txt
+      #   decks-slim/{id}.cards.jsonl
+      #   decks-slim/{id}.json
+      #
+      # These are the files the MTG analyzer can read efficiently.
       # ============================================================
+
       - name: Build compact analysis decks
         run: |
+          set -euo pipefail
+
           python3 scripts/build_slim_decks.py
+
+
+      # ============================================================
+      # VERIFY COMPACT ANALYSIS COPIES
+      # ============================================================
+
+      - name: Verify compact analysis copies
+        run: |
+          set -euo pipefail
+
+          echo "========================================"
+          echo "VERIFYING COMPACT ANALYSIS DATA"
+          echo "========================================"
+
+          verification_failed=0
+
+          while IFS= read -r deck_id; do
+
+            meta="decks-slim/${deck_id}.meta.json"
+            names="decks-slim/${deck_id}.names.txt"
+            cards="decks-slim/${deck_id}.cards.jsonl"
+            slim="decks-slim/${deck_id}.json"
+
+
+            if [ ! -f "$meta" ]; then
+              echo "ERROR: Missing ${meta}"
+              verification_failed=1
+            fi
+
+            if [ ! -f "$names" ]; then
+              echo "ERROR: Missing ${names}"
+              verification_failed=1
+            fi
+
+            if [ ! -f "$cards" ]; then
+              echo "ERROR: Missing ${cards}"
+              verification_failed=1
+            fi
+
+            if [ ! -f "$slim" ]; then
+              echo "ERROR: Missing ${slim}"
+              verification_failed=1
+            fi
+
+
+            if [ -f "$meta" ] \
+              && ! jq empty "$meta" >/dev/null 2>&1; then
+
+              echo "ERROR: Invalid JSON: ${meta}"
+              verification_failed=1
+
+            fi
+
+
+            if [ -f "$slim" ] \
+              && ! jq empty "$slim" >/dev/null 2>&1; then
+
+              echo "ERROR: Invalid JSON: ${slim}"
+              verification_failed=1
+
+            fi
+
+
+            if [ -f "$meta" ]; then
+
+              meta_id=$(jq -r '.id // empty' "$meta")
+
+              if [ "${meta_id}" != "${deck_id}" ]; then
+
+                echo "ERROR: Wrong ID in ${meta}"
+                verification_failed=1
+
+              fi
+
+            fi
+
+
+            echo "Verified analysis bundle: ${deck_id}"
+
+          done < /tmp/deck-ids-clean.txt
+
+
+          if [ "${verification_failed}" -ne 0 ]; then
+
+            echo ""
+            echo "ERROR: Compact analysis verification failed."
+            exit 1
+
+          fi
+
+
+          echo ""
+          echo "All compact analysis bundles verified."
 
 
       # ============================================================
       # COMMIT UPDATED DECKS
       # ============================================================
+
       - name: Commit updated decks
         run: |
+          set -euo pipefail
+
           git add decks/
           git add decks-slim/
           git add scripts/build_slim_decks.py
+          git add .github/workflows/update-decks.yml
+
 
           if git diff --cached --quiet; then
+
             echo "No deck changes detected."
             exit 0
+
           fi
 
-          git commit -m "Update Archidekt decks and analysis copies"
+
+          git commit \
+            -m "Update Archidekt decks and analysis copies"
 
 
       # ============================================================
       # PUSH CHANGES
       # ============================================================
+
       - name: Push changes
         run: |
-          set -e
+          set -euo pipefail
 
           for attempt in 1 2 3; do
 
             echo ""
             echo "========================================"
-            echo "Push attempt ${attempt}"
+            echo "PUSH ATTEMPT ${attempt}/3"
             echo "========================================"
 
 
             if git push origin main; then
 
+              echo ""
               echo "Push successful."
-
               exit 0
 
             fi
 
 
+            echo ""
             echo "Push was rejected."
-
             echo "Synchronizing with origin/main..."
 
 
             git fetch origin main
 
 
-            if ! git rebase origin/main; then
+            if git rebase origin/main; then
 
-              echo "Rebase failed."
+              continue
 
-              echo "Resetting to origin/main and rebuilding the deck update..."
-
-
-              git rebase --abort || true
-
-              git reset --hard origin/main
+            fi
 
 
-              # Rebuild the staged changes after resetting.
-              git add decks/
-              git add decks-slim/
-              git add scripts/build_slim_decks.py
+            echo ""
+            echo "Rebase failed."
+            echo "Resetting to origin/main..."
 
 
-              if ! git diff --cached --quiet; then
+            git rebase --abort || true
 
-                git commit -m "Update Archidekt decks and analysis copies"
+            git reset --hard origin/main
 
-              fi
+
+            # Rebuild the generated analysis files after reset.
+            python3 scripts/build_slim_decks.py
+
+
+            git add decks/
+            git add decks-slim/
+            git add scripts/build_slim_decks.py
+            git add .github/workflows/update-decks.yml
+
+
+            if ! git diff --cached --quiet; then
+
+              git commit \
+                -m "Update Archidekt decks and analysis copies"
 
             fi
 
@@ -486,5 +809,4 @@ jobs:
 
           echo ""
           echo "ERROR: Could not push after 3 attempts."
-
           exit 1
