@@ -1,6 +1,5 @@
 Return of the Wildspeaker
 Kogla and Yidaro
-Simian Simulacrum
 Aggravated Assault
 Ancient Tomb
 Arcane Signet
@@ -56,7 +55,6 @@ Rootbound Crag
 Scalding Tarn
 Seedborn Muse
 Selvala, Heart of the Wilds
-Skullclamp
 Sol Ring
 Spire Garden
 Stomping Ground
@@ -81,7 +79,6 @@ Beast Within
 Uktabi Orangutan
 Liquimetal Torque
 Gearbane Orangutan
-Kibo, Uktabi Prince
 Kogla, the Titan Ape
 Scrounging Bandar
 Viridian Revel
@@ -91,4 +88,7 @@ Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
+Branching Evolution
+Combat Celebrant
+Kibo, Uktabi Prince
 Ragavan, Nimble Pilferer

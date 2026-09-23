@@ -48,18 +48,6 @@
       "text": "When Kogla and Yidaro enters, choose one —\n• It gains trample and haste until end of turn.\n• It fights target creature you don't control.\n{2}{R}{G}, Discard this card: Destroy up to one target artifact or enchantment. Shuffle this card into your library from your graveyard, then draw a card."
     },
     {
-      "name": "Simian Simulacrum",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature Artifact — Ape",
-      "text": "When this creature enters, put two +1/+1 counters on target creature you control.\nUnearth {2}{G}{G} ({2}{G}{G}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
-    },
-    {
       "name": "Aggravated Assault",
       "quantity": 1,
       "board": "main",
@@ -772,16 +760,6 @@
       "text": "Whenever another creature enters, its controller may draw a card if its power is greater than each other creature's power.\n{G}, {T}: Add X mana in any combination of colors, where X is the greatest power among creatures you control."
     },
     {
-      "name": "Skullclamp",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
-    },
-    {
       "name": "Sol Ring",
       "quantity": 1,
       "board": "main",
@@ -1076,21 +1054,6 @@
       "text": "Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature."
     },
     {
-      "name": "Kibo, Uktabi Prince",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Monkey Noble",
-      "text": "{T}: Each player creates a colorless artifact token named Banana with \"{T}, Sacrifice this token: Add {R} or {G}. You gain 2 life.\"\nWhenever an artifact an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on each creature you control that's an Ape or a Monkey.\nWhenever Kibo attacks, defending player sacrifices an artifact of their choice."
-    },
-    {
       "name": "Kogla, the Titan Ape",
       "quantity": 1,
       "board": "main",
@@ -1211,6 +1174,49 @@
       "manaValue": 2,
       "type": "Creature — Warrior Ape",
       "text": "Enlist (As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)\n{1}, Sacrifice this creature: Destroy target artifact."
+    },
+    {
+      "name": "Branching Evolution",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on that creature instead."
+    },
+    {
+      "name": "Combat Celebrant",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Warrior",
+      "text": "If this creature hasn't been exerted this turn, you may exert it as it attacks. When you do, untap all other creatures you control and after this phase, there is an additional combat phase. (An exerted creature won't untap during your next untap step.)"
+    },
+    {
+      "name": "Kibo, Uktabi Prince",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Monkey Noble",
+      "text": "{T}: Each player creates a colorless artifact token named Banana with \"{T}, Sacrifice this token: Add {R} or {G}. You gain 2 life.\"\nWhenever an artifact an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on each creature you control that's an Ape or a Monkey.\nWhenever Kibo attacks, defending player sacrifices an artifact of their choice."
     },
     {
       "name": "Ragavan, Nimble Pilferer",
