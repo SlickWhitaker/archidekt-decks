@@ -18,6 +18,20 @@
   },
   "cards": [
     {
+      "name": "Jeska's Will",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Add {R} for each card in target opponent's hand.\n• Exile the top three cards of your library. You may play them this turn."
+    },
+    {
       "name": "Arcane Signet",
       "quantity": 1,
       "board": "main",
@@ -798,20 +812,6 @@
       "manaValue": 1,
       "type": "Artifact",
       "text": "{T}: Add {C}{C}."
-    },
-    {
-      "name": "Spellshock",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Whenever a player casts a spell, this enchantment deals 2 damage to that player."
     },
     {
       "name": "Spinerock Knoll",

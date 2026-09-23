@@ -68,8 +68,8 @@
       "quantity": 1,
       "board": "main",
       "colors": [
-        "White",
-        "Red"
+        "Red",
+        "White"
       ],
       "colorIdentity": [
         "White",
@@ -846,9 +846,9 @@
       "quantity": 1,
       "board": "main",
       "colors": [
-        "White",
         "Green",
-        "Red"
+        "Red",
+        "White"
       ],
       "colorIdentity": [
         "White",
