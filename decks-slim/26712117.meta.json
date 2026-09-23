@@ -1,0 +1,20 @@
+{
+  "id": 26712117,
+  "name": "The Ur-Sphinx: Sphinxter",
+  "format": 3,
+  "commander": [
+    "The Ur-Sphinx"
+  ],
+  "colorIdentity": [
+    "Black",
+    "Blue",
+    "White"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

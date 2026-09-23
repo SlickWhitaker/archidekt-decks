@@ -1,0 +1,1238 @@
+{
+  "id": 26712117,
+  "name": "The Ur-Sphinx: Sphinxter",
+  "format": 3,
+  "commander": [
+    "The Ur-Sphinx"
+  ],
+  "colorIdentity": [
+    "Black",
+    "Blue",
+    "White"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  },
+  "cards": [
+    {
+      "name": "An Offer You Can't Refuse",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "Anguished Unmaking",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Exile target nonland permanent. You lose 3 life."
+    },
+    {
+      "name": "Animate Dead",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment — Aura",
+      "text": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0."
+    },
+    {
+      "name": "Arcane Denial",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.\nYou draw a card at the beginning of the next turn's upkeep."
+    },
+    {
+      "name": "Arcane Signet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Black Market Connections",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "At the beginning of your first main phase, choose one or more —\n• Sell Contraband — Create a Treasure token. You lose 1 life.\n• Buy Information — Draw a card. You lose 2 life.\n• Hire a Mercenary — Create a 3/2 colorless Shapeshifter creature token with changeling. You lose 3 life. (It is every creature type.)"
+    },
+    {
+      "name": "Bleachbone Verge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {B}.\n{T}: Add {W}. Activate only if you control a Plains or a Swamp."
+    },
+    {
+      "name": "Cavern of Souls",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
+    },
+    {
+      "name": "Command Tower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Consecrated Sphinx",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Sphinx",
+      "text": "Flying\nWhenever an opponent draws a card, you may draw two cards."
+    },
+    {
+      "name": "Counterspell",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Counter target spell."
+    },
+    {
+      "name": "Dark Ritual",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Add {B}{B}{B}."
+    },
+    {
+      "name": "Dazzling Sphinx",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Sphinx",
+      "text": "Flying\nWhenever this creature deals combat damage to a player, that player exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then that player puts the exiled cards that weren't cast this way on the bottom of their library in a random order."
+    },
+    {
+      "name": "Deadly Rollick",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nExile target creature."
+    },
+    {
+      "name": "Defiler of Dreams",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Sphinx Phyrexian",
+      "text": "Flying\nAs an additional cost to cast blue permanent spells, you may pay 2 life. Those spells cost {U} less to cast if you paid life this way. This effect reduces only the amount of blue mana you pay.\nWhenever you cast a blue permanent spell, draw a card."
+    },
+    {
+      "name": "Despark",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Exile target permanent with mana value 4 or greater."
+    },
+    {
+      "name": "Dovin's Veto",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "This spell can't be countered.\nCounter target noncreature spell."
+    },
+    {
+      "name": "Dream Trawler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Sphinx",
+      "text": "Flying, lifelink\nWhenever you draw a card, this creature gets +1/+0 until end of turn.\nWhenever this creature attacks, draw a card.\nDiscard a card: This creature gains hexproof until end of turn. Tap it."
+    },
+    {
+      "name": "Enigma Sphinx",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 7,
+      "type": "Creature Artifact — Sphinx",
+      "text": "Flying\nWhen this creature is put into your graveyard from the battlefield, put it into your library third from the top.\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)"
+    },
+    {
+      "name": "Enigma Thief",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 7,
+      "type": "Creature — Rogue Sphinx",
+      "text": "Prowl {3}{U} (You may cast this spell for its prowl cost if you dealt combat damage to a player this turn with a Sphinx or Rogue.)\nFlying\nWhen this creature enters, for each opponent, return up to one target nonland permanent that player controls to its owner's hand."
+    },
+    {
+      "name": "Esper Sentinel",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Creature Artifact — Human Soldier",
+      "text": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power."
+    },
+    {
+      "name": "Ethersworn Sphinx",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 9,
+      "type": "Creature Artifact — Sphinx",
+      "text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card with lesser mana value. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)"
+    },
+    {
+      "name": "Exotic Orchard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+      "name": "Fellwar Stone",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+      "name": "Fierce Guardianship",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
+    },
+    {
+      "name": "Flooded Strand",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Floodfarm Verge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {W}.\n{T}: Add {U}. Activate only if you control a Plains or an Island."
+    },
+    {
+      "name": "Gloomlake Verge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {U}.\n{T}: Add {B}. Activate only if you control an Island or a Swamp."
+    },
+    {
+      "name": "Godless Shrine",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Swamp",
+      "text": "({T}: Add {W} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Hallowed Fountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Island",
+      "text": "({T}: Add {W} or {U}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Herald's Horn",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "As this artifact enters, choose a creature type.\nCreature spells you cast of the chosen type cost {1} less to cast.\nAt the beginning of your upkeep, look at the top card of your library. If it's a creature card of the chosen type, you may reveal it and put it into your hand."
+    },
+    {
+      "name": "Island",
+      "quantity": 10,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Island",
+      "text": "({T}: Add {U}.)"
+    },
+    {
+      "name": "Isperia, Supreme Judge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Sphinx",
+      "text": "Flying\nWhenever a creature attacks you or a planeswalker you control, you may draw a card."
+    },
+    {
+      "name": "Kindred Dominance",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 7,
+      "type": "Sorcery",
+      "text": "Choose a creature type. Destroy all creatures that aren't of the chosen type."
+    },
+    {
+      "name": "Kindred Judgment",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 7,
+      "type": "Sorcery",
+      "text": "Choose a creature type. Destroy all creatures that aren't of the chosen type."
+    },
+    {
+      "name": "Magister Sphinx",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 7,
+      "type": "Creature Artifact — Sphinx",
+      "text": "Flying\nWhen this creature enters, target player's life total becomes 10."
+    },
+    {
+      "name": "Mana Drain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell's mana value."
+    },
+    {
+      "name": "Marsh Flats",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Medomai the Ageless",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Sphinx",
+      "text": "Flying\nWhenever Medomai deals combat damage to a player, take an extra turn after this one.\nMedomai can't attack during extra turns."
+    },
+    {
+      "name": "Meticulous Archive",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Island",
+      "text": "({T}: Add {W} or {U}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    },
+    {
+      "name": "Morphic Pool",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {U} or {B}."
+    },
+    {
+      "name": "Otawara, Soaring City",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {U}.\nChannel — {3}{U}, Discard this card: Return target artifact, creature, enchantment, or planeswalker to its owner's hand. This ability costs {1} less to activate for each legendary creature you control."
+    },
+    {
+      "name": "Path to Exile",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Plains",
+      "quantity": 2,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Plains",
+      "text": "({T}: Add {W}.)"
+    },
+    {
+      "name": "Polluted Delta",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Raffine's Tower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Island Swamp",
+      "text": "({T}: Add {W}, {U}, or {B}.)\nThis land enters tapped.\nCycling {3} ({3}, Discard this card: Draw a card.)"
+    },
+    {
+      "name": "Raffine, Scheming Seer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Demon Sphinx",
+      "text": "Flying, ward {1}\nWhenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)"
+    },
+    {
+      "name": "Reanimate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value."
+    },
+    {
+      "name": "Reflections of Littjara",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "As this enchantment enters, choose a creature type.\nWhenever you cast a spell of the chosen type, copy that spell. (A copy of a permanent spell becomes a token.)"
+    },
+    {
+      "name": "Rhystic Study",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}."
+    },
+    {
+      "name": "Sapphire Medallion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "Blue spells you cast cost {1} less to cast."
+    },
+    {
+      "name": "Scrubland",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Swamp",
+      "text": "({T}: Add {W} or {B}.)"
+    },
+    {
+      "name": "Sea of Clouds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Shadowy Backstreet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Swamp",
+      "text": "({T}: Add {W} or {B}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    },
+    {
+      "name": "Sink into Stupor // Soporific Springs",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Sink into Stupor: Return target spell or nonland permanent an opponent controls to its owner's hand. | Soporific Springs: As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {U}."
+    },
+    {
+      "name": "Smothering Tithe",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Whenever an opponent draws a card, that player may pay {2}. If the player doesn't, you create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Sphinx of False Conclusions",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Illusion Sphinx",
+      "text": "Flash\nFlying\nWhenever this creature attacks, draw a card, then discard a card.\nWhen this creature dies, if it isn't a token, create a token that's a copy of it."
+    },
+    {
+      "name": "Sphinx of Foresight",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Sphinx",
+      "text": "You may reveal this card from your opening hand. If you do, scry 3 at the beginning of your first upkeep.\nFlying\nAt the beginning of your upkeep, scry 1."
+    },
+    {
+      "name": "Sphinx of Forgotten Lore",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Sphinx",
+      "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\nWhenever this creature attacks, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to that card's mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"
+    },
+    {
+      "name": "Sphinx of the Second Sun",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 8,
+      "type": "Creature — Sphinx",
+      "text": "Flying\nAt the beginning of each of your postcombat main phases, there is an additional beginning phase after this phase. (The beginning phase includes the untap, upkeep, and draw steps.)"
+    },
+    {
+      "name": "Swamp",
+      "quantity": 2,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Swamp",
+      "text": "({T}: Add {B}.)"
+    },
+    {
+      "name": "Swan Song",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
+    },
+    {
+      "name": "Swords to Plowshares",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Exile target creature. Its controller gains life equal to its power."
+    },
+    {
+      "name": "Talisman of Dominance",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {U} or {B}. This artifact deals 1 damage to you."
+    },
+    {
+      "name": "Talisman of Hierarchy",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. This artifact deals 1 damage to you."
+    },
+    {
+      "name": "Talisman of Progress",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {U}. This artifact deals 1 damage to you."
+    },
+    {
+      "name": "The Water Crystal",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Artifact",
+      "text": "Blue spells you cast cost {1} less to cast.\nIf an opponent would mill one or more cards, they mill that many cards plus four instead.\n{4}{U}{U}, {T}: Each opponent mills cards equal to the number of cards in your hand."
+    },
+    {
+      "name": "Tivit, Seller of Secrets",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Rogue Sphinx",
+      "text": "Flying, ward {3}\nCouncil's dilemma — Whenever Tivit enters or deals combat damage to a player, starting with you, each player votes for evidence or bribery. For each evidence vote, investigate. For each bribery vote, create a Treasure token.\nWhile voting, you may vote an additional time. (The votes can be for different choices or for the same choice.)"
+    },
+    {
+      "name": "Toxic Deluge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "As an additional cost to cast this spell, pay X life.\nAll creatures get -X/-X until end of turn."
+    },
+    {
+      "name": "Tundra",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Island",
+      "text": "({T}: Add {W} or {U}.)"
+    },
+    {
+      "name": "Uldaros Theorix",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Elder Sphinx",
+      "text": "Flying\nWhen Uldaros Theorix enters, if you cast him, exile up to one target nonland card of each card type from your graveyard. Copy those cards. You may cast any number of spells with total mana value 6 or less from among the copies without paying their mana costs. (Permanent spells cast this way become tokens.)"
+    },
+    {
+      "name": "Undercity Sewers",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Swamp",
+      "text": "({T}: Add {U} or {B}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    },
+    {
+      "name": "Underground Sea",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Swamp",
+      "text": "({T}: Add {U} or {B}.)"
+    },
+    {
+      "name": "Unesh, Criosphinx Sovereign",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Sphinx",
+      "text": "Flying\nSphinx spells you cast cost {2} less to cast.\nWhenever Unesh or another Sphinx you control enters, reveal the top four cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard."
+    },
+    {
+      "name": "Urza's Incubator",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "As this artifact enters, choose a creature type.\nCreature spells of the chosen type cost {2} less to cast."
+    },
+    {
+      "name": "Vault of Champions",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {B}."
+    },
+    {
+      "name": "Void Rend",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "This spell can't be countered.\nDestroy target nonland permanent."
+    },
+    {
+      "name": "Warden of Evos Isle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Wizard Bird",
+      "text": "Flying\nCreature spells with flying you cast cost {1} less to cast."
+    },
+    {
+      "name": "Watcher of the Spheres",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Wizard Bird",
+      "text": "Flying\nCreature spells with flying you cast cost {1} less to cast.\nWhenever another creature you control with flying enters, this creature gets +1/+1 until end of turn."
+    },
+    {
+      "name": "Watery Grave",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Swamp",
+      "text": "({T}: Add {U} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Windreader Sphinx",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 7,
+      "type": "Creature — Sphinx",
+      "text": "Flying\nWhenever a creature with flying attacks, you may draw a card."
+    },
+    {
+      "name": "Yennett, Cryptic Sovereign",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Sphinx",
+      "text": "Flying, vigilance, menace\nWhenever Yennett attacks, reveal the top card of your library. You may cast it without paying its mana cost if its mana value is odd. If you don't cast it, draw a card."
+    },
+    {
+      "name": "Time Sieve",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}, Sacrifice five artifacts: Take an extra turn after this one."
+    },
+    {
+      "name": "Roaming Throne",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Creature Artifact — Golem",
+      "text": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time."
+    },
+    {
+      "name": "Kindred Discovery",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "As this enchantment enters, choose a creature type.\nWhenever a creature you control of the chosen type enters or attacks, draw a card."
+    },
+    {
+      "name": "Sphinx of the Final Word",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 7,
+      "type": "Creature — Sphinx",
+      "text": "This spell can't be countered.\nFlying\nHexproof (This creature can't be the target of spells or abilities your opponents control.)\nInstant and sorcery spells you control can't be countered."
+    },
+    {
+      "name": "The Ur-Sphinx",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 9,
+      "type": "Legendary Creature — Avatar Sphinx",
+      "text": "Eminence — As long as The Ur-Sphinx is in the command zone or on the battlefield, other Sphinx spells you cast cost {1} less to cast.\nFlying\nWhenever one or more Sphinxes you control attack, each player mills that many cards. For each player, you may cast a card that player milled this way without paying its mana cost."
+    },
+    {
+      "name": "Cyclonic Rift",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
+    }
+  ]
+}
