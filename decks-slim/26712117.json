@@ -1,6 +1,6 @@
 {
   "id": 26712117,
-  "name": "The Ur-Sphinx: Sphinxter",
+  "name": "The Ur-Sphinxter",
   "format": 3,
   "commander": [
     "The Ur-Sphinx"
@@ -85,20 +85,6 @@
       "manaValue": 2,
       "type": "Artifact",
       "text": "{T}: Add one mana of any color in your commander's color identity."
-    },
-    {
-      "name": "Black Market Connections",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "At the beginning of your first main phase, choose one or more —\n• Sell Contraband — Create a Treasure token. You lose 1 life.\n• Buy Information — Draw a card. You lose 2 life.\n• Hire a Mercenary — Create a 3/2 colorless Shapeshifter creature token with changeling. You lose 3 life. (It is every creature type.)"
     },
     {
       "name": "Bleachbone Verge",
@@ -218,22 +204,6 @@
       "text": "Flying\nAs an additional cost to cast blue permanent spells, you may pay 2 life. Those spells cost {U} less to cast if you paid life this way. This effect reduces only the amount of blue mana you pay.\nWhenever you cast a blue permanent spell, draw a card."
     },
     {
-      "name": "Despark",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Black"
-      ],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Exile target permanent with mana value 4 or greater."
-    },
-    {
       "name": "Dovin's Veto",
       "quantity": 1,
       "board": "main",
@@ -248,22 +218,6 @@
       "manaValue": 2,
       "type": "Instant",
       "text": "This spell can't be countered.\nCounter target noncreature spell."
-    },
-    {
-      "name": "Dream Trawler",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 6,
-      "type": "Creature — Sphinx",
-      "text": "Flying, lifelink\nWhenever you draw a card, this creature gets +1/+0 until end of turn.\nWhenever this creature attacks, draw a card.\nDiscard a card: This creature gains hexproof until end of turn. Tap it."
     },
     {
       "name": "Enigma Sphinx",
@@ -470,20 +424,6 @@
       ],
       "colorIdentity": [
         "Black"
-      ],
-      "manaValue": 7,
-      "type": "Sorcery",
-      "text": "Choose a creature type. Destroy all creatures that aren't of the chosen type."
-    },
-    {
-      "name": "Kindred Judgment",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
       ],
       "manaValue": 7,
       "type": "Sorcery",
@@ -797,20 +737,6 @@
       "text": "Flash\nFlying\nWhenever this creature attacks, draw a card, then discard a card.\nWhen this creature dies, if it isn't a token, create a token that's a copy of it."
     },
     {
-      "name": "Sphinx of Foresight",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Sphinx",
-      "text": "You may reveal this card from your opening hand. If you do, scry 3 at the beginning of your first upkeep.\nFlying\nAt the beginning of your upkeep, scry 1."
-    },
-    {
       "name": "Sphinx of Forgotten Lore",
       "quantity": 1,
       "board": "main",
@@ -1074,36 +1000,6 @@
       "text": "This spell can't be countered.\nDestroy target nonland permanent."
     },
     {
-      "name": "Warden of Evos Isle",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Wizard Bird",
-      "text": "Flying\nCreature spells with flying you cast cost {1} less to cast."
-    },
-    {
-      "name": "Watcher of the Spheres",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Wizard Bird",
-      "text": "Flying\nCreature spells with flying you cast cost {1} less to cast.\nWhenever another creature you control with flying enters, this creature gets +1/+1 until end of turn."
-    },
-    {
       "name": "Watery Grave",
       "quantity": 1,
       "board": "main",
@@ -1203,6 +1099,96 @@
       "text": "This spell can't be countered.\nFlying\nHexproof (This creature can't be the target of spells or abilities your opponents control.)\nInstant and sorcery spells you control can't be countered."
     },
     {
+      "name": "Cyclonic Rift",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
+    },
+    {
+      "name": "Sphinx of Enlightenment",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Sphinx",
+      "text": "Flying\nWhen this creature enters, target opponent draws a card and you draw three cards."
+    },
+    {
+      "name": "Sphinx Mindbreaker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 7,
+      "type": "Creature — Sphinx",
+      "text": "Flying\nWhen this creature enters, each opponent mills ten cards."
+    },
+    {
+      "name": "Dream Eater",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Nightmare Sphinx",
+      "text": "Flash\nFlying\nWhen this creature enters, surveil 4. When you do, you may return target nonland permanent an opponent controls to its owner's hand. (To surveil 4, look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+    },
+    {
+      "name": "Lightning Greaves",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
+    },
+    {
+      "name": "Enlightened Tutor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
+    },
+    {
+      "name": "Academy Manufactor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Creature Artifact — Assembly-Worker",
+      "text": "If you would create a Clue, Food, or Treasure token, instead create one of each."
+    },
+    {
       "name": "The Ur-Sphinx",
       "quantity": 1,
       "board": "commander",
@@ -1221,7 +1207,7 @@
       "text": "Eminence — As long as The Ur-Sphinx is in the command zone or on the battlefield, other Sphinx spells you cast cost {1} less to cast.\nFlying\nWhenever one or more Sphinxes you control attack, each player mills that many cards. For each player, you may cast a card that player milled this way without paying its mana cost."
     },
     {
-      "name": "Cyclonic Rift",
+      "name": "Sphinx of Uthuun",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1230,9 +1216,9 @@
       "colorIdentity": [
         "Blue"
       ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
+      "manaValue": 7,
+      "type": "Creature — Sphinx",
+      "text": "Flying\nWhen this creature enters, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard."
     }
   ]
 }
