@@ -27,7 +27,6 @@ Godless Shrine
 Hallowed Fountain
 Herald's Horn
 Island
-Isperia, Supreme Judge
 Kindred Dominance
 Magister Sphinx
 Mana Drain
@@ -51,7 +50,6 @@ Shadowy Backstreet
 Sink into Stupor // Soporific Springs
 Smothering Tithe
 Sol Ring
-Sphinx of False Conclusions
 Sphinx of Forgotten Lore
 Sphinx of the Second Sun
 Swamp
@@ -87,3 +85,5 @@ Enlightened Tutor
 Academy Manufactor
 The Ur-Sphinx
 Sphinx of Uthuun
+Quantum Riddler
+Sphinx of False Conclusions

@@ -400,22 +400,6 @@
       "text": "({T}: Add {U}.)"
     },
     {
-      "name": "Isperia, Supreme Judge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 6,
-      "type": "Legendary Creature — Sphinx",
-      "text": "Flying\nWhenever a creature attacks you or a planeswalker you control, you may draw a card."
-    },
-    {
       "name": "Kindred Dominance",
       "quantity": 1,
       "board": "main",
@@ -721,20 +705,6 @@
       "manaValue": 1,
       "type": "Artifact",
       "text": "{T}: Add {C}{C}."
-    },
-    {
-      "name": "Sphinx of False Conclusions",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Illusion Sphinx",
-      "text": "Flash\nFlying\nWhenever this creature attacks, draw a card, then discard a card.\nWhen this creature dies, if it isn't a token, create a token that's a copy of it."
     },
     {
       "name": "Sphinx of Forgotten Lore",
@@ -1219,6 +1189,34 @@
       "manaValue": 7,
       "type": "Creature — Sphinx",
       "text": "Flying\nWhen this creature enters, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard."
+    },
+    {
+      "name": "Quantum Riddler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Sphinx",
+      "text": "Flying\nWhen this creature enters, draw a card.\nAs long as you have one or fewer cards in hand, if you would draw one or more cards, you draw that many cards plus one instead.\nWarp {1}{U}"
+    },
+    {
+      "name": "Sphinx of False Conclusions",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Illusion Sphinx",
+      "text": "Flash\nFlying\nWhenever this creature attacks, draw a card, then discard a card.\nWhen this creature dies, if it isn't a token, create a token that's a copy of it."
     }
   ]
 }
