@@ -1,15 +1,12 @@
 An Offer You Can't Refuse
 Anguished Unmaking
 Animate Dead
-Arcane Denial
 Arcane Signet
 Bleachbone Verge
 Cavern of Souls
 Command Tower
 Consecrated Sphinx
 Counterspell
-Dark Ritual
-Dazzling Sphinx
 Deadly Rollick
 Defiler of Dreams
 Dovin's Veto
@@ -87,3 +84,6 @@ Quantum Riddler
 Sphinx of False Conclusions
 Curator of Destinies
 Sakashima of a Thousand Faces
+Panharmonicon
+Scholar of the Lost Trove
+Fabricate
