@@ -292,16 +292,6 @@
       "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
     },
     {
-      "name": "Fellwar Stone",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
-    },
-    {
       "name": "Fierce Guardianship",
       "quantity": 1,
       "board": "main",
@@ -952,24 +942,6 @@
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {B}."
     },
     {
-      "name": "Void Rend",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Black",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue",
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "This spell can't be countered.\nDestroy target nonland permanent."
-    },
-    {
       "name": "Watery Grave",
       "quantity": 1,
       "board": "main",
@@ -1217,6 +1189,34 @@
       "manaValue": 4,
       "type": "Creature — Illusion Sphinx",
       "text": "Flash\nFlying\nWhenever this creature attacks, draw a card, then discard a card.\nWhen this creature dies, if it isn't a token, create a token that's a copy of it."
+    },
+    {
+      "name": "Curator of Destinies",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Sphinx",
+      "text": "This spell can't be countered.\nFlying\nWhen this creature enters, look at the top five cards of your library and separate them into a face-down pile and a face-up pile. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard."
+    },
+    {
+      "name": "Sakashima of a Thousand Faces",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Rogue",
+      "text": "You may have Sakashima enter as a copy of another creature you control, except it has Sakashima's other abilities.\nThe \"legend rule\" doesn't apply to permanents you control.\nPartner (You can have two commanders if both have partner.)"
     }
   ]
 }

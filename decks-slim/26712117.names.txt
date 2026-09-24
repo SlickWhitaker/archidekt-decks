@@ -18,7 +18,6 @@ Enigma Thief
 Esper Sentinel
 Ethersworn Sphinx
 Exotic Orchard
-Fellwar Stone
 Fierce Guardianship
 Flooded Strand
 Floodfarm Verge
@@ -68,7 +67,6 @@ Underground Sea
 Unesh, Criosphinx Sovereign
 Urza's Incubator
 Vault of Champions
-Void Rend
 Watery Grave
 Windreader Sphinx
 Yennett, Cryptic Sovereign
@@ -87,3 +85,5 @@ The Ur-Sphinx
 Sphinx of Uthuun
 Quantum Riddler
 Sphinx of False Conclusions
+Curator of Destinies
+Sakashima of a Thousand Faces
