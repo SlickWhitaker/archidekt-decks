@@ -336,7 +336,7 @@
       ],
       "manaValue": 7,
       "type": "Legendary Creature — Dragon",
-      "text": "Flying\nWhenever Drakuseth attacks, it deals 4 damage to any target and 3 damage to each of up to two other targets."
+      "text": "Flying\nWhenever Drakuseth attacks, Drakuseth deals 4 damage to any target and 3 damage to each of up to two other targets."
     },
     {
       "name": "Elemental Bond",
