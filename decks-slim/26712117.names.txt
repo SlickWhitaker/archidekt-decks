@@ -24,7 +24,6 @@ Hallowed Fountain
 Herald's Horn
 Island
 Kindred Dominance
-Magister Sphinx
 Mana Drain
 Marsh Flats
 Medomai the Ageless
@@ -49,7 +48,6 @@ Sol Ring
 Sphinx of Forgotten Lore
 Sphinx of the Second Sun
 Swamp
-Swan Song
 Swords to Plowshares
 Talisman of Dominance
 Talisman of Hierarchy
@@ -87,3 +85,5 @@ Sakashima of a Thousand Faces
 Panharmonicon
 Scholar of the Lost Trove
 Fabricate
+Sharuum the Hegemon
+Mystical Tutor

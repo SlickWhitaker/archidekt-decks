@@ -362,24 +362,6 @@
       "text": "Choose a creature type. Destroy all creatures that aren't of the chosen type."
     },
     {
-      "name": "Magister Sphinx",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Black",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue",
-        "Black"
-      ],
-      "manaValue": 7,
-      "type": "Creature Artifact — Sphinx",
-      "text": "Flying\nWhen this creature enters, target player's life total becomes 10."
-    },
-    {
       "name": "Mana Drain",
       "quantity": 1,
       "board": "main",
@@ -693,20 +675,6 @@
       "manaValue": 0,
       "type": "Basic Land — Swamp",
       "text": "({T}: Add {B}.)"
-    },
-    {
-      "name": "Swan Song",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
     },
     {
       "name": "Swords to Plowshares",
@@ -1213,6 +1181,38 @@
       "manaValue": 3,
       "type": "Sorcery",
       "text": "Search your library for an artifact card, reveal it, put it into your hand, then shuffle."
+    },
+    {
+      "name": "Sharuum the Hegemon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature Artifact — Sphinx",
+      "text": "Flying\nWhen Sharuum enters, you may return target artifact card from your graveyard to the battlefield."
+    },
+    {
+      "name": "Mystical Tutor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top."
     }
   ]
 }
