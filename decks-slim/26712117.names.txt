@@ -79,7 +79,6 @@ Academy Manufactor
 The Ur-Sphinx
 Sphinx of Uthuun
 Quantum Riddler
-Sphinx of False Conclusions
 Curator of Destinies
 Sakashima of a Thousand Faces
 Panharmonicon
@@ -87,3 +86,4 @@ Scholar of the Lost Trove
 Fabricate
 Sharuum the Hegemon
 Mystical Tutor
+Azor, the Lawbringer
