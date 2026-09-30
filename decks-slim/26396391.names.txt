@@ -8,7 +8,6 @@ Arcane Signet
 Ashaya, Soul of the Wild
 Assassin's Trophy
 Azusa, Lost but Seeking
-Beast Within
 Birds of Paradise
 Bojuka Bog
 Bruvac the Grandiloquent
@@ -21,7 +20,6 @@ Demonic Tutor
 Dimir Aqueduct
 Entish Restoration
 Exploration
-Explore
 Fabled Passage
 Farseek
 Flooded Strand
@@ -43,9 +41,7 @@ Maskwood Nexus
 Mesmeric Orb
 Mystical Tutor
 Oboro, Palace in the Clouds
-Open the Way
 Oracle of Mul Daya
-Personal Tutor
 Retreat to Coralhelm
 Roaming Throne
 Ruin Crab
@@ -54,7 +50,6 @@ Scute Swarm
 Simic Growth Chamber
 Sol Ring
 Splendid Reclamation
-Springleaf Parade
 Swamp
 Swan Song
 Sylvan Scrying
@@ -84,3 +79,8 @@ Polluted Delta
 Homer, the Hermit
 Verdant Catacombs
 Spelunking
+Spark Double
+Thassa's Oracle
+Mystic Remora
+Scuttletide
+Nissa, Resurgent Animist

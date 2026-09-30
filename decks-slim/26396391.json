@@ -147,20 +147,6 @@
       "text": "You may play two additional lands on each of your turns."
     },
     {
-      "name": "Beast Within",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
-    },
-    {
       "name": "Birds of Paradise",
       "quantity": 1,
       "board": "main",
@@ -314,20 +300,6 @@
       "manaValue": 1,
       "type": "Enchantment",
       "text": "You may play an additional land on each of your turns."
-    },
-    {
-      "name": "Explore",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "You may play an additional land this turn.\nDraw a card."
     },
     {
       "name": "Fabled Passage",
@@ -599,20 +571,6 @@
       "text": "{T}: Add {U}.\n{1}: Return Oboro to its owner's hand."
     },
     {
-      "name": "Open the Way",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "X can't be greater than the number of players in the game.\nReveal cards from the top of your library until you reveal X land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order."
-    },
-    {
       "name": "Oracle of Mul Daya",
       "quantity": 1,
       "board": "main",
@@ -625,20 +583,6 @@
       "manaValue": 4,
       "type": "Creature — Elf Shaman",
       "text": "You may play an additional land on each of your turns.\nPlay with the top card of your library revealed.\nYou may play lands from the top of your library."
-    },
-    {
-      "name": "Personal Tutor",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Search your library for a sorcery card, reveal it, then shuffle and put that card on top."
     },
     {
       "name": "Retreat to Coralhelm",
@@ -742,20 +686,6 @@
       "manaValue": 4,
       "type": "Sorcery",
       "text": "Return all land cards from your graveyard to the battlefield tapped."
-    },
-    {
-      "name": "Springleaf Parade",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "When this enchantment enters, create X 1/1 colorless Shapeshifter creature tokens with changeling. (They're every creature type.)\nCreature tokens you control have \"{T}: Add one mana of any color.\""
     },
     {
       "name": "Swamp",
@@ -1150,6 +1080,76 @@
       "manaValue": 3,
       "type": "Enchantment",
       "text": "When this enchantment enters, draw a card, then you may put a land card from your hand onto the battlefield. If you put a Cave onto the battlefield this way, you gain 4 life.\nLands you control enter untapped."
+    },
+    {
+      "name": "Spark Double",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Illusion",
+      "text": "You may have this creature enter as a copy of a creature or planeswalker you control, except it enters with an additional +1/+1 counter on it if it's a creature, it enters with an additional loyalty counter on it if it's a planeswalker, and it isn't legendary."
+    },
+    {
+      "name": "Thassa's Oracle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Wizard Merfolk",
+      "text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
+    },
+    {
+      "name": "Mystic Remora",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment",
+      "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever an opponent casts a noncreature spell, you may draw a card unless that player pays {4}."
+    },
+    {
+      "name": "Scuttletide",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "{1}, Discard a card: Create a 0/3 blue Crab creature token.\nDelirium — Crabs you control get +1/+1 as long as there are four or more card types among cards in your graveyard."
+    },
+    {
+      "name": "Nissa, Resurgent Animist",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Elf Scout",
+      "text": "Landfall — Whenever a land you control enters, add one mana of any color. Then if this is the second time this ability has resolved this turn, reveal cards from the top of your library until you reveal an Elf or Elemental card. Put that card into your hand and the rest on the bottom of your library in a random order."
     }
   ]
 }
