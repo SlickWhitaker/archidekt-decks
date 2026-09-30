@@ -62,7 +62,6 @@ Talisman of Resilience
 The Mimeoplasm
 Three Tree City
 Uchuulon
-Umori, the Collector
 Undergrowth Stadium
 Urborg, Tomb of Yawgmoth
 Urza's Incubator
@@ -95,3 +94,4 @@ Acidic Slime
 Uugguu, the Omniplasm
 Pitiless Plunderer
 Altar of the Brood
+Slick Imitator

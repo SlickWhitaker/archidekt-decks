@@ -844,22 +844,6 @@
       "text": "Uchuulon's power is equal to the number of Crabs, Oozes, and/or Horrors you control.\nHorrific Symbiosis — At the beginning of your end step, exile up to one target creature card from an opponent's graveyard. If you do, create a token that's a copy of this creature."
     },
     {
-      "name": "Umori, the Collector",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Ooze",
-      "text": "Companion — Each nonland card in your starting deck shares a card type. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)\nAs Umori enters, choose a card type.\nSpells you cast of the chosen type cost {1} less to cast."
-    },
-    {
       "name": "Undergrowth Stadium",
       "quantity": 1,
       "board": "main",
@@ -1281,6 +1265,20 @@
       "manaValue": 1,
       "type": "Artifact",
       "text": "Whenever another permanent you control enters, each opponent mills a card."
+    },
+    {
+      "name": "Slick Imitator",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Ooze",
+      "text": "Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\nMax speed — {1}, Sacrifice this creature: Copy target spell you control. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)"
     }
   ]
 }
