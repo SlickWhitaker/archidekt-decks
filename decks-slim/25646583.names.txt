@@ -51,7 +51,6 @@ Ravenous Slime
 Rejuvenating Springs
 Roaming Throne
 Shipwreck Marsh
-Slick Imitator
 Slurrk, All-Ingesting
 Sol Ring
 Sunken Hollow
@@ -90,8 +89,9 @@ Swan Song
 Temperamental Oozewagg
 Deadly Dispute
 Necrotic Ooze
-Hecteyes
 Chomping Changeling
 Victimize
 Acidic Slime
 Uugguu, the Omniplasm
+Pitiless Plunderer
+Altar of the Brood

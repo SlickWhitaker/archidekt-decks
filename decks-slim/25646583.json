@@ -702,20 +702,6 @@
       "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {U} or {B}."
     },
     {
-      "name": "Slick Imitator",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Ooze",
-      "text": "Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\nMax speed — {1}, Sacrifice this creature: Copy target spell you control. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)"
-    },
-    {
       "name": "Slurrk, All-Ingesting",
       "quantity": 1,
       "board": "main",
@@ -1213,20 +1199,6 @@
       "text": "As long as this creature is on the battlefield, it has all activated abilities of all creature cards in all graveyards."
     },
     {
-      "name": "Hecteyes",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Ooze Horror",
-      "text": "When this creature enters, each opponent discards a card."
-    },
-    {
       "name": "Chomping Changeling",
       "quantity": 1,
       "board": "main",
@@ -1285,6 +1257,30 @@
       "manaValue": 3,
       "type": "Legendary Creature — Ooze",
       "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
+    },
+    {
+      "name": "Pitiless Plunderer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Human Pirate",
+      "text": "Whenever another creature you control dies, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "Altar of the Brood",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "Whenever another permanent you control enters, each opponent mills a card."
     }
   ]
 }

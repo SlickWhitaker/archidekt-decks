@@ -11,14 +11,12 @@ Brass's Bounty
 Buried Ruin
 Cavern-Hoard Dragon
 Chaos Warp
-Commander's Plate
 Crime Novelist
 Curse of Opulence
 Cursed Mirror
 Deflecting Swat
 Demand Answers
 Descent into Avernus
-Generous Plunderer
 Goblin Engineer
 Goblin Welder
 Goldspan Dragon
@@ -33,7 +31,6 @@ Krark-Clan Ironworks
 Lightning Greaves
 Meltdown
 Mines of Moria
-Mithril Coat
 Mountain
 Nuka-Cola Vending Machine
 Ojer Axonil, Deepest Might // Temple of Power
@@ -41,15 +38,12 @@ Pain Distributor
 Professional Face-Breaker
 Reckless Endeavor
 Reckless Fireweaver
-Rogue's Passage
 Ruby Medallion
-Scavenger Grounds
 Shinka, the Bloodsoaked Keep
 Skullclamp
 Sneak Attack
 Sol Ring
 Solphim, Mayhem Dominus
-Swashbuckler Extraordinaire
 Swiftfoot Boots
 The Fire Crystal
 The Reaver Cleaver
@@ -57,10 +51,8 @@ Torbran, Thane of Red Fell
 Transmutation Font
 Treasure Vault
 Unexpected Windfall
-Untimely Malfunction
 Vandalblast
 War Room
-Wayfarer's Bauble
 Wheel of Misfortune
 Xorn
 Weftstalker Ardent
@@ -72,5 +64,13 @@ Clock of Omens
 Arcbound Ravager
 Urza's Saga
 Valakut, the Molten Pinnacle
-Jaws, Relentless Predator
 Artist's Talent
+Goblin Bombardment
+Myr Retriever
+Gamble
+Mishra's Bauble
+Underworld Breach
+Jaws, Relentless Predator
+Ancient Tomb
+Animation Module
+Grinding Station
