@@ -19,24 +19,6 @@
   },
   "cards": [
     {
-      "name": "Homer, the Hermit",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green",
-        "Black",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Black",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Druid Crab",
-      "text": "Landfall — Whenever a land you control enters, any number of target players each mill X cards, where X is twice the number of Crabs, Lobsters, Nautiluses, Starfish, and/or Trilobites you control."
-    },
-    {
       "name": "Aesi, Tyrant of Gyre Strait",
       "quantity": 1,
       "board": "main",
@@ -219,30 +201,6 @@
       "text": "If an opponent would mill one or more cards, they mill twice that many cards instead. (To mill a card, a player puts the top card of their library into their graveyard.)"
     },
     {
-      "name": "Cabaretti Courtyard",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "When this land enters, sacrifice it. When you do, search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle and you gain 1 life."
-    },
-    {
-      "name": "Chomping Changeling",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Shapeshifter",
-      "text": "Changeling (This card is every creature type.)\nWhen this creature enters, destroy up to one target artifact or enchantment."
-    },
-    {
       "name": "Command Tower",
       "quantity": 1,
       "board": "main",
@@ -342,16 +300,6 @@
       "manaValue": 3,
       "type": "Instant",
       "text": "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. If you control a creature with power 4 or greater, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle."
-    },
-    {
-      "name": "Evolving Wilds",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
     },
     {
       "name": "Exploration",
@@ -499,20 +447,6 @@
       "text": "Permanents you control gain hexproof and indestructible until end of turn."
     },
     {
-      "name": "Hexhaven Invigorator",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Horror Chimera",
-      "text": "Vigilance\nWhenever this creature is dealt damage, you may search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle."
-    },
-    {
       "name": "Icetill Explorer",
       "quantity": 1,
       "board": "main",
@@ -605,26 +539,6 @@
       "text": "Landfall — Whenever a land you control enters, add one mana of any color."
     },
     {
-      "name": "Lotus Petal",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Artifact",
-      "text": "{T}, Sacrifice this artifact: Add one mana of any color."
-    },
-    {
-      "name": "Maestros Theater",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "When this land enters, sacrifice it. When you do, search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle and you gain 1 life."
-    },
-    {
       "name": "Mana Drain",
       "quantity": 1,
       "board": "main",
@@ -657,20 +571,6 @@
       "manaValue": 2,
       "type": "Artifact",
       "text": "Whenever a permanent becomes untapped, that permanent's controller mills a card."
-    },
-    {
-      "name": "Mirelurk Queen",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Crab Mutant",
-      "text": "Vigilance\nWhen this creature enters, target player gets two rad counters.\nWhenever one or more nonland cards are milled, draw a card, then put a +1/+1 counter on this creature. This ability triggers only once each turn."
     },
     {
       "name": "Mystical Tutor",
@@ -753,20 +653,6 @@
       "manaValue": 3,
       "type": "Enchantment",
       "text": "Landfall — Whenever a land you control enters, choose one —\n• You may tap or untap target creature.\n• Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
-    },
-    {
-      "name": "Riverchurn Monument",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{1}, {T}: Any number of target players each mill two cards. (Each of them puts the top two cards of their library into their graveyard.)\nExhaust — {2}{U}{U}, {T}: Any number of target players each mill cards equal to the number of cards in their graveyard. (Activate each exhaust ability only once.)"
     },
     {
       "name": "Roaming Throne",
@@ -940,16 +826,6 @@
       "manaValue": 4,
       "type": "Sorcery",
       "text": "Tempting offer — Search your library for a land card and put it onto the battlefield. Each opponent may search their library for a land card and put it onto the battlefield. For each opponent who searches a library this way, search your library for a land card and put it onto the battlefield. Then each player who searched a library this way shuffles."
-    },
-    {
-      "name": "Terramorphic Expanse",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
     },
     {
       "name": "The Gitrog Monster",
@@ -1146,6 +1022,134 @@
       "manaValue": 3,
       "type": "Instant",
       "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
+    },
+    {
+      "name": "Aftermath Analyst",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Elf Detective",
+      "text": "When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)\n{3}{G}, Sacrifice this creature: Return all land cards from your graveyard to the battlefield tapped."
+    },
+    {
+      "name": "Sakura-Tribe Scout",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Scout Shaman Snake",
+      "text": "{T}: You may put a land card from your hand onto the battlefield."
+    },
+    {
+      "name": "Misty Rainforest",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Prismatic Vista",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "The Water Crystal",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Artifact",
+      "text": "Blue spells you cast cost {1} less to cast.\nIf an opponent would mill one or more cards, they mill that many cards plus four instead.\n{4}{U}{U}, {T}: Each opponent mills cards equal to the number of cards in your hand."
+    },
+    {
+      "name": "Elven Raft-Steerer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Elf Pilot",
+      "text": "Landfall — Whenever a land you control enters, choose one —\n• Tap target creature an opponent controls.\n• Untap target creature you control."
+    },
+    {
+      "name": "Polluted Delta",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Homer, the Hermit",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Druid Crab",
+      "text": "Landfall — Whenever a land you control enters, any number of target players each mill X cards, where X is twice the number of Crabs, Lobsters, Nautiluses, Starfish, and/or Trilobites you control."
+    },
+    {
+      "name": "Verdant Catacombs",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Spelunking",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "When this enchantment enters, draw a card, then you may put a land card from your hand onto the battlefield. If you put a Cave onto the battlefield this way, you gain 4 life.\nLands you control enter untapped."
     }
   ]
 }

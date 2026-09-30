@@ -1,4 +1,3 @@
-Homer, the Hermit
 Aesi, Tyrant of Gyre Strait
 Altar of Dementia
 Altar of the Brood
@@ -13,8 +12,6 @@ Beast Within
 Birds of Paradise
 Bojuka Bog
 Bruvac the Grandiloquent
-Cabaretti Courtyard
-Chomping Changeling
 Command Tower
 Counterspell
 Crop Rotation
@@ -23,7 +20,6 @@ Dakmor Salvage
 Demonic Tutor
 Dimir Aqueduct
 Entish Restoration
-Evolving Wilds
 Exploration
 Explore
 Fabled Passage
@@ -35,7 +31,6 @@ Growth Spiral
 Harrow
 Hedron Crab
 Heroic Intervention
-Hexhaven Invigorator
 Icetill Explorer
 Imperial Seal
 Island
@@ -43,19 +38,15 @@ Kodama of the East Tree
 Lightning Greaves
 Llanowar Elves
 Lotus Cobra
-Lotus Petal
-Maestros Theater
 Mana Drain
 Maskwood Nexus
 Mesmeric Orb
-Mirelurk Queen
 Mystical Tutor
 Oboro, Palace in the Clouds
 Open the Way
 Oracle of Mul Daya
 Personal Tutor
 Retreat to Coralhelm
-Riverchurn Monument
 Roaming Throne
 Ruin Crab
 Scapeshift
@@ -69,7 +60,6 @@ Swan Song
 Sylvan Scrying
 Tatyova, Benthic Druid
 Tempt with Discovery
-Terramorphic Expanse
 The Gitrog Monster
 Tireless Provisioner
 Trade Routes
@@ -84,3 +74,13 @@ Nature's Lore
 Ramunap Excavator
 Three Visits
 Fierce Guardianship
+Aftermath Analyst
+Sakura-Tribe Scout
+Misty Rainforest
+Prismatic Vista
+The Water Crystal
+Elven Raft-Steerer
+Polluted Delta
+Homer, the Hermit
+Verdant Catacombs
+Spelunking
