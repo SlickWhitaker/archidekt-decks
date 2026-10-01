@@ -574,17 +574,17 @@
         "White"
       ],
       "counts": {
-        "main": 99,
+        "main": 97,
         "commander": 1,
         "maybeboard": 0,
         "sideboard": 0,
-        "total": 100
+        "total": 98
       },
       "namesFile": "26712117.names.txt",
       "cardsFile": "26712117.cards.jsonl",
       "metaFile": "26712117.meta.json",
-      "fullBytes": 277388,
-      "analysisBytes": 27997,
+      "fullBytes": 271095,
+      "analysisBytes": 27381,
       "reductionPercent": 89.9
     }
   ]

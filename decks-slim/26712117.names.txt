@@ -1,4 +1,3 @@
-An Offer You Can't Refuse
 Anguished Unmaking
 Animate Dead
 Arcane Signet
@@ -11,7 +10,6 @@ Deadly Rollick
 Defiler of Dreams
 Dovin's Veto
 Enigma Sphinx
-Enigma Thief
 Esper Sentinel
 Ethersworn Sphinx
 Exotic Orchard
@@ -23,7 +21,6 @@ Godless Shrine
 Hallowed Fountain
 Herald's Horn
 Island
-Kindred Dominance
 Mana Drain
 Marsh Flats
 Medomai the Ageless
@@ -87,3 +84,4 @@ Fabricate
 Sharuum the Hegemon
 Mystical Tutor
 Azor, the Lawbringer
+Phyrexian Metamorph

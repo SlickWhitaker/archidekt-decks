@@ -11,27 +11,13 @@
     "White"
   ],
   "counts": {
-    "main": 99,
+    "main": 97,
     "commander": 1,
     "maybeboard": 0,
     "sideboard": 0,
-    "total": 100
+    "total": 98
   },
   "cards": [
-    {
-      "name": "An Offer You Can't Refuse",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Counter target noncreature spell. Its controller creates two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
-    },
     {
       "name": "Anguished Unmaking",
       "quantity": 1,
@@ -196,20 +182,6 @@
       "text": "Flying\nWhen this creature is put into your graveyard from the battlefield, put it into your library third from the top.\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)"
     },
     {
-      "name": "Enigma Thief",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 7,
-      "type": "Creature — Rogue Sphinx",
-      "text": "Prowl {3}{U} (You may cast this spell for its prowl cost if you dealt combat damage to a player this turn with a Sphinx or Rogue.)\nFlying\nWhen this creature enters, for each opponent, return up to one target nonland permanent that player controls to its owner's hand."
-    },
-    {
       "name": "Esper Sentinel",
       "quantity": 1,
       "board": "main",
@@ -346,20 +318,6 @@
       "manaValue": 0,
       "type": "Basic Land — Island",
       "text": "({T}: Add {U}.)"
-    },
-    {
-      "name": "Kindred Dominance",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 7,
-      "type": "Sorcery",
-      "text": "Choose a creature type. Destroy all creatures that aren't of the chosen type."
     },
     {
       "name": "Mana Drain",
@@ -1215,6 +1173,20 @@
       "manaValue": 6,
       "type": "Legendary Creature — Sphinx",
       "text": "Flying\nWhen Azor enters, each opponent can't cast instant or sorcery spells during that player's next turn.\nWhenever Azor attacks, you may pay {X}{W}{U}{U}. If you do, you gain X life and draw X cards."
+    },
+    {
+      "name": "Phyrexian Metamorph",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Creature Artifact — Shapeshifter Phyrexian",
+      "text": "({U/P} can be paid with either {U} or 2 life.)\nYou may have this creature enter as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types."
     }
   ]
 }
