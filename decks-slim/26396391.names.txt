@@ -4,7 +4,6 @@ Altar of the Brood
 Amulet of Vigor
 Ancient Greenwarden
 Arcane Adaptation
-Arcane Signet
 Ashaya, Soul of the Wild
 Assassin's Trophy
 Azusa, Lost but Seeking
@@ -12,7 +11,6 @@ Birds of Paradise
 Bojuka Bog
 Bruvac the Grandiloquent
 Command Tower
-Counterspell
 Crop Rotation
 Crucible of Worlds
 Dakmor Salvage
@@ -54,7 +52,6 @@ Swamp
 Swan Song
 Sylvan Scrying
 Tatyova, Benthic Druid
-Tempt with Discovery
 The Gitrog Monster
 Tireless Provisioner
 Trade Routes
@@ -84,3 +81,7 @@ Thassa's Oracle
 Mystic Remora
 Scuttletide
 Nissa, Resurgent Animist
+Finale of Devastation
+Veil of Summer
+Field of the Dead
+Llanowar Scout

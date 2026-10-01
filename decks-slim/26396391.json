@@ -93,16 +93,6 @@
       "text": "As this enchantment enters, choose a creature type.\nCreatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield."
     },
     {
-      "name": "Arcane Signet",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add one mana of any color in your commander's color identity."
-    },
-    {
       "name": "Ashaya, Soul of the Wild",
       "quantity": 1,
       "board": "main",
@@ -195,20 +185,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add one mana of any color in your commander's color identity."
-    },
-    {
-      "name": "Counterspell",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Counter target spell."
     },
     {
       "name": "Crop Rotation",
@@ -689,7 +665,7 @@
     },
     {
       "name": "Swamp",
-      "quantity": 6,
+      "quantity": 5,
       "board": "main",
       "colors": [],
       "colorIdentity": [
@@ -742,20 +718,6 @@
       "manaValue": 5,
       "type": "Legendary Creature — Druid Merfolk",
       "text": "Landfall — Whenever a land you control enters, you gain 1 life and draw a card."
-    },
-    {
-      "name": "Tempt with Discovery",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Tempting offer — Search your library for a land card and put it onto the battlefield. Each opponent may search their library for a land card and put it onto the battlefield. For each opponent who searches a library this way, search your library for a land card and put it onto the battlefield. Then each player who searched a library this way shuffles."
     },
     {
       "name": "The Gitrog Monster",
@@ -1150,6 +1112,58 @@
       "manaValue": 3,
       "type": "Legendary Creature — Elf Scout",
       "text": "Landfall — Whenever a land you control enters, add one mana of any color. Then if this is the second time this ability has resolved this turn, reveal cards from the top of your library until you reveal an Elf or Elemental card. Put that card into your hand and the rest on the bottom of your library in a random order."
+    },
+    {
+      "name": "Finale of Devastation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If you search your library this way, shuffle. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn."
+    },
+    {
+      "name": "Veil of Summer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
+    },
+    {
+      "name": "Field of the Dead",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token."
+    },
+    {
+      "name": "Llanowar Scout",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Elf Scout",
+      "text": "{T}: You may put a land card from your hand onto the battlefield."
     }
   ]
 }
