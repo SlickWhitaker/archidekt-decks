@@ -72,7 +72,6 @@ Slayers' Stronghold
 Sol Ring
 Spire of Industry
 Stoneforge Mystic
-Summon: Kujata
 Summoning Materia
 Sungrass Prairie
 Sunpetal Grove
@@ -98,3 +97,4 @@ Armored Skyhunter
 Sram, Senior Edificer
 Danitha Capashen, Paragon
 Bloodforged Battle-Axe
+Mjölnir, Hammer of Thor

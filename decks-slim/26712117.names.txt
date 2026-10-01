@@ -84,4 +84,6 @@ Fabricate
 Sharuum the Hegemon
 Mystical Tutor
 Azor, the Lawbringer
+Altar of the Brood
 Phyrexian Metamorph
+Demonic Tutor

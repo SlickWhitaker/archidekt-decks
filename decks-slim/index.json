@@ -97,9 +97,9 @@
       "namesFile": "25645732.names.txt",
       "cardsFile": "25645732.cards.jsonl",
       "metaFile": "25645732.meta.json",
-      "fullBytes": 311654,
-      "analysisBytes": 32575,
-      "reductionPercent": 89.5
+      "fullBytes": 311491,
+      "analysisBytes": 32448,
+      "reductionPercent": 89.6
     },
     {
       "id": 25645835,
@@ -574,17 +574,17 @@
         "White"
       ],
       "counts": {
-        "main": 97,
+        "main": 99,
         "commander": 1,
         "maybeboard": 0,
         "sideboard": 0,
-        "total": 98
+        "total": 100
       },
       "namesFile": "26712117.names.txt",
       "cardsFile": "26712117.cards.jsonl",
       "metaFile": "26712117.meta.json",
-      "fullBytes": 271095,
-      "analysisBytes": 27381,
+      "fullBytes": 276857,
+      "analysisBytes": 27834,
       "reductionPercent": 89.9
     }
   ]

@@ -11,11 +11,11 @@
     "White"
   ],
   "counts": {
-    "main": 97,
+    "main": 99,
     "commander": 1,
     "maybeboard": 0,
     "sideboard": 0,
-    "total": 98
+    "total": 100
   },
   "cards": [
     {
@@ -1175,6 +1175,16 @@
       "text": "Flying\nWhen Azor enters, each opponent can't cast instant or sorcery spells during that player's next turn.\nWhenever Azor attacks, you may pay {X}{W}{U}{U}. If you do, you gain X life and draw X cards."
     },
     {
+      "name": "Altar of the Brood",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "Whenever another permanent you control enters, each opponent mills a card."
+    },
+    {
       "name": "Phyrexian Metamorph",
       "quantity": 1,
       "board": "main",
@@ -1187,6 +1197,20 @@
       "manaValue": 4,
       "type": "Creature Artifact — Shapeshifter Phyrexian",
       "text": "({U/P} can be paid with either {U} or 2 life.)\nYou may have this creature enter as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types."
+    },
+    {
+      "name": "Demonic Tutor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Search your library for a card, put that card into your hand, then shuffle."
     }
   ]
 }
