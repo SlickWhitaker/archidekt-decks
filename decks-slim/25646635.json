@@ -174,16 +174,6 @@
       "text": "Counter target spell."
     },
     {
-      "name": "Cursed Totem",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "Activated abilities of creatures can't be activated."
-    },
-    {
       "name": "Cyclonic Rift",
       "quantity": 1,
       "board": "main",
@@ -394,20 +384,6 @@
       "text": "Counter target instant or sorcery spell unless its controller pays {1}.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
     },
     {
-      "name": "Force of Despair",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "If it's not your turn, you may exile a black card from your hand rather than pay this spell's mana cost.\nDestroy all creatures that entered this turn."
-    },
-    {
       "name": "Force of Will",
       "quantity": 1,
       "board": "main",
@@ -433,16 +409,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {U}.\n{T}: Add {B}. Activate only if you control an Island or a Swamp."
-    },
-    {
-      "name": "Grafdigger's Cage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "Creature cards in graveyards and libraries can't enter the battlefield.\nPlayers can't cast spells from graveyards or libraries."
     },
     {
       "name": "Halimar Depths",
@@ -728,20 +694,6 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top."
-    },
-    {
-      "name": "Nanogene Conversion",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Choose target creature you control. Each other creature becomes a copy of that creature until end of turn, except it isn't legendary."
     },
     {
       "name": "Nashi, Moon Sage's Scion",
@@ -1218,22 +1170,6 @@
       "text": "({T}: Add {U} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     },
     {
-      "name": "Yuriko, the Tiger's Shadow",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Black",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Human Ninja",
-      "text": "Commander ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand or the command zone tapped and attacking.)\nWhenever a Ninja you control deals combat damage to a player, reveal the top card of your library and put that card into your hand. Each opponent loses life equal to that card's mana value."
-    },
-    {
       "name": "Demonic Tutor",
       "quantity": 1,
       "board": "main",
@@ -1326,6 +1262,70 @@
       "manaValue": 7,
       "type": "Sorcery",
       "text": "Take an extra turn after this one. Exile Temporal Mastery.\nMiracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
+    },
+    {
+      "name": "Prismatic Vista",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Yuriko, the Tiger's Shadow",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Ninja",
+      "text": "Commander ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand or the command zone tapped and attacking.)\nWhenever a Ninja you control deals combat damage to a player, reveal the top card of your library and put that card into your hand. Each opponent loses life equal to that card's mana value."
+    },
+    {
+      "name": "Underground Sea",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Swamp",
+      "text": "({T}: Add {U} or {B}.)"
+    },
+    {
+      "name": "River of Tears",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {U}. If you played a land this turn, add {B} instead."
+    },
+    {
+      "name": "Takenuma, Abandoned Mire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {B}.\nChannel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control."
     }
   ]
 }

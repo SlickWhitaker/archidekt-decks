@@ -10,7 +10,6 @@ Clearwater Pathway // Murkwater Pathway
 Command Tower
 Commandeer
 Counterspell
-Cursed Totem
 Cyclonic Rift
 Darkslick Shores
 Dauthi Voidwalker
@@ -26,10 +25,8 @@ Fierce Guardianship
 Flare of Denial
 Flare of Malice
 Flusterstorm
-Force of Despair
 Force of Will
 Gloomlake Verge
-Grafdigger's Cage
 Halimar Depths
 Hydroelectric Specimen // Hydroelectric Laboratory
 Ingenious Infiltrator
@@ -51,7 +48,6 @@ Muddle the Mixture
 Mystic Remora
 Mystic Sanctuary
 Mystical Tutor
-Nanogene Conversion
 Nashi, Moon Sage's Scion
 Ninja of the Deep Hours
 Opposition Agent
@@ -88,7 +84,6 @@ Underground River
 Vampiric Tutor
 Walker of Secret Ways
 Watery Grave
-Yuriko, the Tiger's Shadow
 Demonic Tutor
 Sol Ring
 Faerie Seer
@@ -96,3 +91,8 @@ Force of Negation
 Treasure Cruise
 Shadow of Mortality
 Temporal Mastery
+Prismatic Vista
+Yuriko, the Tiger's Shadow
+Underground Sea
+River of Tears
+Takenuma, Abandoned Mire

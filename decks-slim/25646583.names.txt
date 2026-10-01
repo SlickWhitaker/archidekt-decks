@@ -14,7 +14,6 @@ Deathcap Glade
 Doubling Season
 Dreamroot Cascade
 Drowned Catacomb
-Expanding Ooze
 Experiment Kraj
 Forest
 Gelatinous Cube
@@ -37,7 +36,6 @@ Omni-Changeling
 Opulent Palace
 Oran-Rief Ooze
 Overgrown Tomb
-Ozolith, the Shattered Spire
 Parallel Lives
 Path of Ancestry
 Phantasmal Image
@@ -46,7 +44,6 @@ Phyrexian Tower
 Polluted Delta
 Predator Ooze
 Prime Speaker Vannifar
-Ravenous Slime
 Rejuvenating Springs
 Roaming Throne
 Shipwreck Marsh
@@ -71,7 +68,6 @@ Yavimaya, Cradle of Growth
 Zagoth Triome
 Kindred Discovery
 Saw in Half
-Animate Dead
 Heroic Intervention
 Chthonian Nightmare
 Phyrexian Metamorph
@@ -84,14 +80,18 @@ Yawgmoth, Thran Physician
 Maskwood Nexus
 Skullclamp
 Swan Song
-Temperamental Oozewagg
-Deadly Dispute
 Necrotic Ooze
 Chomping Changeling
 Victimize
 Acidic Slime
-Uugguu, the Omniplasm
 Pitiless Plunderer
 Altar of the Brood
 Slick Imitator
 Nim Deathmantle
+Hecteyes
+Kinetic Ooze
+Drivnod, Carnage Dominus
+Reanimate
+Consuming Blob
+Uugguu, the Omniplasm
+Diabolic Intent

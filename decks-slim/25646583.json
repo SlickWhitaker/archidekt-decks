@@ -220,22 +220,6 @@
       "text": "This land enters tapped unless you control an Island or a Swamp.\n{T}: Add {U} or {B}."
     },
     {
-      "name": "Expanding Ooze",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Ooze",
-      "text": "{B}{G}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)\nWhenever this creature attacks, put a +1/+1 counter on target modified creature you control. (Equipment, Auras you control, and counters are modifications.)"
-    },
-    {
       "name": "Experiment Kraj",
       "quantity": 1,
       "board": "main",
@@ -528,20 +512,6 @@
       "text": "({T}: Add {B} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     },
     {
-      "name": "Ozolith, the Shattered Spire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Artifact",
-      "text": "If one or more +1/+1 counters would be put on an artifact or creature you control, that many plus one +1/+1 counters are put on it instead.\n{1}{G}, {T}: Put a +1/+1 counter on target artifact or creature you control. Activate only as a sorcery.\nCycling {2} ({2}, Discard this card: Draw a card.)"
-    },
-    {
       "name": "Parallel Lives",
       "quantity": 1,
       "board": "main",
@@ -640,20 +610,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Wizard Ooze Elf",
       "text": "{T}, Sacrifice another creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery."
-    },
-    {
-      "name": "Ravenous Slime",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Ooze",
-      "text": "This creature can't be blocked by creatures with power 2 or less.\nIf a creature an opponent controls would die, instead exile it and put a number of +1/+1 counters equal to that creature's power on this creature."
     },
     {
       "name": "Rejuvenating Springs",
@@ -955,20 +911,6 @@
       "text": "Destroy target creature. If that creature dies this way, its controller creates two tokens that are copies of that creature, except their power is half that creature's power and their toughness is half that creature's toughness. Round up each time."
     },
     {
-      "name": "Animate Dead",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment — Aura",
-      "text": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0."
-    },
-    {
       "name": "Heroic Intervention",
       "quantity": 1,
       "board": "main",
@@ -1131,34 +1073,6 @@
       "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
     },
     {
-      "name": "Temperamental Oozewagg",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Ooze Brushwagg",
-      "text": "{2}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)\nModified creatures you control have trample. (Equipment, Auras you control, and counters are modifications.)"
-    },
-    {
-      "name": "Deadly Dispute",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDraw two cards and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
-    },
-    {
       "name": "Necrotic Ooze",
       "quantity": 1,
       "board": "main",
@@ -1215,24 +1129,6 @@
       "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhen this creature enters, destroy target artifact, enchantment, or land."
     },
     {
-      "name": "Uugguu, the Omniplasm",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green",
-        "Black",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Black",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Ooze",
-      "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
-    },
-    {
       "name": "Pitiless Plunderer",
       "quantity": 1,
       "board": "main",
@@ -1279,6 +1175,108 @@
       "manaValue": 2,
       "type": "Artifact — Equipment",
       "text": "Equipped creature gets +2/+2, has intimidate, and is a black Zombie. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever a nontoken creature is put into your graveyard from the battlefield, you may pay {4}. If you do, return that card to the battlefield and attach this Equipment to it.\nEquip {4}"
+    },
+    {
+      "name": "Hecteyes",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Ooze Horror",
+      "text": "When this creature enters, each opponent discards a card."
+    },
+    {
+      "name": "Kinetic Ooze",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Ooze",
+      "text": "This creature enters with X +1/+1 counters on it.\nWhen this creature enters, destroy up to one target artifact or enchantment with mana value X or less. If X is 5 or more, you draw a card. If X is 10 or more, double the number of +1/+1 counters on any number of other target creatures."
+    },
+    {
+      "name": "Drivnod, Carnage Dominus",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Horror Phyrexian",
+      "text": "If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\n{B/P}{B/P}, Exile three creature cards from your graveyard: Put an indestructible counter on Drivnod. ({B/P} can be paid with either {B} or 2 life.)"
+    },
+    {
+      "name": "Reanimate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value."
+    },
+    {
+      "name": "Consuming Blob",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Ooze",
+      "text": "Consuming Blob's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.\nAt the beginning of your end step, create a green Ooze creature token with \"This token's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.\""
+    },
+    {
+      "name": "Uugguu, the Omniplasm",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Ooze",
+      "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
+    },
+    {
+      "name": "Diabolic Intent",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a card, put that card into your hand, then shuffle."
     }
   ]
 }
