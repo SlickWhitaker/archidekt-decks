@@ -586,6 +586,33 @@
       "fullBytes": 276896,
       "analysisBytes": 27834,
       "reductionPercent": 89.9
+    },
+    {
+      "id": 27023310,
+      "name": "Multiverse Reforged - Reality Fracture",
+      "format": 3,
+      "commander": [
+        "Jace, Multiverse Architect"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Blue",
+        "Red",
+        "White"
+      ],
+      "counts": {
+        "main": 99,
+        "commander": 1,
+        "maybeboard": 0,
+        "sideboard": 0,
+        "total": 100
+      },
+      "namesFile": "27023310.names.txt",
+      "cardsFile": "27023310.cards.jsonl",
+      "metaFile": "27023310.meta.json",
+      "fullBytes": 285941,
+      "analysisBytes": 30179,
+      "reductionPercent": 89.4
     }
   ]
 }

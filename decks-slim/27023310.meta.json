@@ -1,0 +1,21 @@
+{
+  "id": 27023310,
+  "name": "Multiverse Reforged - Reality Fracture",
+  "format": 3,
+  "commander": [
+    "Jace, Multiverse Architect"
+  ],
+  "colorIdentity": [
+    "Black",
+    "Blue",
+    "Red",
+    "White"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}
