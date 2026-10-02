@@ -146,20 +146,6 @@
       "text": "Exile all creatures. Incubate X, where X is the number of creatures exiled this way. (Create an Incubator token with X +1/+1 counters on it and \"{2}: Transform this token.\" It transforms into a 0/0 Phyrexian artifact creature.)"
     },
     {
-      "name": "White Sun's Twilight",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "You gain X life. Create X 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This token can't block.\" If X is 5 or more, destroy all other creatures. (Players dealt combat damage by a creature with toxic 1 also get a poison counter.)"
-    },
-    {
       "name": "Mass Polymorph",
       "quantity": 1,
       "board": "main",
@@ -910,26 +896,6 @@
       "text": "Flash\nWhen Venser enters, choose one —\n• Copy target instant or sorcery spell an opponent controls twice. You may choose new targets for the copies.\n• Create two tokens that are copies of target permanent an opponent controls. They gain haste. At the beginning of the next end step, sacrifice them."
     },
     {
-      "name": "Jace, Multiverse Architect",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "White",
-        "Red",
-        "Black",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue",
-        "Black",
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Planeswalker — Jace",
-      "text": "At the beginning of combat on each opponent's turn, they may pay {2}. If they don't, creatures they control can't attack Jaces you control this turn.\n+1: Draw two cards, then put a card from your hand on the bottom of your library.\n−3: Exile another target planeswalker or creature you control. Reveal cards from the top of your library until you reveal a creature or planeswalker card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.\nJace, Multiverse Architect can be your commander."
-    },
-    {
       "name": "Niv-Mizzet, Ghost Counsel",
       "quantity": 1,
       "board": "main",
@@ -1255,6 +1221,40 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add one mana of any type that a land you control could produce."
+    },
+    {
+      "name": "Jace, Multiverse Architect",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Red",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Planeswalker — Jace",
+      "text": "At the beginning of combat on each opponent's turn, they may pay {2}. If they don't, creatures they control can't attack Jaces you control this turn.\n+1: Draw two cards, then put a card from your hand on the bottom of your library.\n−3: Exile another target planeswalker or creature you control. Reveal cards from the top of your library until you reveal a creature or planeswalker card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.\nJace, Multiverse Architect can be your commander."
+    },
+    {
+      "name": "Call the Coppercoats",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Strive — This spell costs {1}{W} more to cast for each target beyond the first.\nChoose any number of target opponents. Create X 1/1 white Human Soldier creature tokens, where X is the number of creatures those opponents control."
     }
   ]
 }

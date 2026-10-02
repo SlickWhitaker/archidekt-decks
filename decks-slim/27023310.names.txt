@@ -7,7 +7,6 @@ Serra's Emissary
 Skrelv's Hive
 Staff of the Storyteller
 Sunfall
-White Sun's Twilight
 Mass Polymorph
 Occult Epiphany
 Shark Typhoon
@@ -64,7 +63,6 @@ Avacyn, Angel of Horror
 Jhoira, Weatherlight Corsair
 Ob Nixilis, the Ascended
 Venser, Fervent Forger
-Jace, Multiverse Architect
 Niv-Mizzet, Ghost Counsel
 Tamiyo, Upriser Crowned
 The Ur-Sphinx
@@ -91,3 +89,5 @@ Turbulent Crater
 Turbulent Wetlands
 Akroma, Angel of Fury
 Reflecting Pool
+Jace, Multiverse Architect
+Call the Coppercoats
