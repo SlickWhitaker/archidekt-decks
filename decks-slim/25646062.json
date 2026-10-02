@@ -18,6 +18,64 @@
   },
   "cards": [
     {
+      "name": "Intruder Alarm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Creatures don't untap during their controllers' untap steps.\nWhenever a creature enters, untap all creatures."
+    },
+    {
+      "name": "Drowner of Secrets",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Wizard Merfolk",
+      "text": "Tap an untapped Merfolk you control: Target player mills a card."
+    },
+    {
+      "name": "Forensic Researcher",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Merfolk Detective",
+      "text": "{T}: Untap another target permanent you control.\n{T}, Collect evidence 3: Tap target creature you don't control. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)"
+    },
+    {
+      "name": "Hakbal of the Surging Soul",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Scout Merfolk",
+      "text": "At the beginning of combat on your turn, each Merfolk creature you control explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the exploring creature, then put the card back or put it into your graveyard.)\nWhenever Hakbal attacks, you may put a land card from your hand onto the battlefield. If you don't, draw a card."
+    },
+    {
       "name": "Abjure",
       "quantity": 1,
       "board": "main",
@@ -149,20 +207,6 @@
       "text": "Whenever another Merfolk you control enters, put a +1/+1 counter on target Merfolk you control."
     },
     {
-      "name": "Deeproot Historian",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Druid Merfolk",
-      "text": "Merfolk and Druid cards in your graveyard have retrace. (You may cast cards with retrace from your graveyard by discarding a land card in addition to paying their other costs.)"
-    },
-    {
       "name": "Deeproot Pilgrimage",
       "quantity": 1,
       "board": "main",
@@ -189,20 +233,6 @@
       "manaValue": 3,
       "type": "Enchantment",
       "text": "Whenever you cast a Merfolk spell, create a 1/1 blue Merfolk creature token with hexproof. (A creature with hexproof can't be the target of spells or abilities your opponents control.)"
-    },
-    {
-      "name": "Disdainful Stroke",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Counter target spell with mana value 4 or greater."
     },
     {
       "name": "Emperor Mihail II",
@@ -323,20 +353,6 @@
       "manaValue": 1,
       "type": "Enchantment",
       "text": "If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead."
-    },
-    {
-      "name": "Harmonized Crescendo",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 6,
-      "type": "Instant",
-      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nChoose a creature type. Draw a card for each permanent you control of that type."
     },
     {
       "name": "Herald of Secret Streams",
@@ -1074,22 +1090,6 @@
       "manaValue": 0,
       "type": "Legendary Land",
       "text": "{T}: Add {G}.\nChannel — {1}{G}, Discard this card: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control."
-    },
-    {
-      "name": "Hakbal of the Surging Soul",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Scout Merfolk",
-      "text": "At the beginning of combat on your turn, each Merfolk creature you control explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the exploring creature, then put the card back or put it into your graveyard.)\nWhenever Hakbal attacks, you may put a land card from your hand onto the battlefield. If you don't, draw a card."
     },
     {
       "name": "Fierce Guardianship",

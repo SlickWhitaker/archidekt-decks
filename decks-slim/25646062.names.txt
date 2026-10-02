@@ -1,3 +1,7 @@
+Intruder Alarm
+Drowner of Secrets
+Forensic Researcher
+Hakbal of the Surging Soul
 Abjure
 Aquitect's Will
 Arcane Signet
@@ -8,10 +12,8 @@ Command Tower
 Counterspell
 Cyclonic Rift
 Deeproot Elite
-Deeproot Historian
 Deeproot Pilgrimage
 Deeproot Waters
-Disdainful Stroke
 Emperor Mihail II
 Farseek
 Finale of Devastation
@@ -21,7 +23,6 @@ Force of Negation
 Forest
 Frantic Search
 Hardened Scales
-Harmonized Crescendo
 Herald of Secret Streams
 Hinterland Harbor
 Inspiring Call
@@ -79,7 +80,6 @@ Aether Vial
 Otawara, Soaring City
 Silvergill Adept
 Boseiju, Who Endures
-Hakbal of the Surging Soul
 Fierce Guardianship
 Cryptolith Rite
 Merfolk Mistbinder

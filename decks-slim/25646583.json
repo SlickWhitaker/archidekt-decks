@@ -19,6 +19,20 @@
   },
   "cards": [
     {
+      "name": "Fierce Guardianship",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
+    },
+    {
       "name": "Adrix and Nev, Twincasters",
       "quantity": 1,
       "board": "main",
@@ -1057,20 +1071,6 @@
       "manaValue": 1,
       "type": "Artifact — Equipment",
       "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
-    },
-    {
-      "name": "Swan Song",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
     },
     {
       "name": "Necrotic Ooze",

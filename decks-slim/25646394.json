@@ -17,6 +17,20 @@
   },
   "cards": [
     {
+      "name": "Marauding Mako",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Pirate Shark",
+      "text": "Whenever you discard one or more cards, put that many +1/+1 counters on this creature.\nCycling {2} ({2}, Discard this card: Draw a card.)"
+    },
+    {
       "name": "Abrade",
       "quantity": 1,
       "board": "main",
@@ -947,16 +961,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}{C}. This land deals 2 damage to you."
-    },
-    {
-      "name": "Animation Module",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "Whenever one or more +1/+1 counters are put on a permanent you control, you may pay {1}. If you do, create a 1/1 colorless Servo artifact creature token.\n{3}, {T}: Choose a counter on target permanent or player. Give that permanent or player another counter of that kind."
     },
     {
       "name": "Grinding Station",
