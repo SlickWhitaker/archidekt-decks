@@ -1,882 +1,812 @@
-#!/usr/bin/env python3
-"""
-Magic: The Gathering Commander Deck Retrieval
------------------------------------------------
-
-Retrieves the CURRENT deck directly from the synchronized
-Archidekt -> GitHub mirror.
-
-Primary source:
-    SlickWhitaker/archidekt-decks/decks-slim/<DECK_ID>.cards.jsonl
-
-Metadata:
-    SlickWhitaker/archidekt-decks/decks-slim/<DECK_ID>.meta.json
-
-Fallback:
-    SlickWhitaker/archidekt-decks/decks-slim/<DECK_ID>.json
-
-IMPORTANT:
-    Do NOT search GitHub for the deck name.
-    The Archidekt deck ID is the stable key.
+name: Update Archidekt Decks
 
-Example:
-
-    url = "https://archidekt.com/decks/25645732/cloud_equipment_buster"
-    deck = get_current_deck(url)
-
-    print(deck["name"])
-    print(deck["commander"])
-    print(deck["counts"])
-"""
-
-from __future__ import annotations
-
-import json
-import re
-import urllib.error
-import urllib.request
-from dataclasses import dataclass
-from typing import Any, Optional
+on:
+  workflow_dispatch:
 
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-decks.yml"
+      - "scripts/build_slim_decks.py"
 
-# ============================================================
-# CONFIGURATION
-# ============================================================
+  schedule:
+    - cron: "*/15 * * * *"
 
-GITHUB_OWNER = "SlickWhitaker"
-GITHUB_REPO = "archidekt-decks"
-GITHUB_BRANCH = "main"
-
-DECKS_PATH = "decks-slim"
+permissions:
+  contents: write
 
-REQUEST_TIMEOUT = 20
+concurrency:
+  group: update-archidekt-decks
+  cancel-in-progress: false
 
-USER_AGENT = (
-    "Magic-the-Gathering-Analyzer/1.0 "
-    "(Commander deck retrieval)"
-)
-
-
-# ============================================================
-# DATA TYPES
-# ============================================================
+jobs:
+  update:
+    runs-on: ubuntu-latest
 
-@dataclass
-class DeckCard:
-    name: str
-    quantity: int
-    board: str
-    colors: list[str]
-    color_identity: list[str]
-    mana_value: Optional[float]
-    card_type: str
-    text: str
-
-    @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "DeckCard":
-        return cls(
-            name=str(data.get("name", "")),
-            quantity=int(data.get("quantity", 1)),
-            board=str(data.get("board", "main")),
-            colors=list(data.get("colors") or []),
-            color_identity=list(data.get("colorIdentity") or []),
-            mana_value=data.get("manaValue"),
-            card_type=str(data.get("type", "")),
-            text=str(data.get("text", "")),
-        )
-
-    def to_dict(self) -> dict[str, Any]:
-        return {
-            "name": self.name,
-            "quantity": self.quantity,
-            "board": self.board,
-            "colors": self.colors,
-            "colorIdentity": self.color_identity,
-            "manaValue": self.mana_value,
-            "type": self.card_type,
-            "text": self.text,
-        }
-
-
-# ============================================================
-# URL / ID HANDLING
-# ============================================================
+    steps:
 
-def extract_archidekt_deck_id(url: str) -> str:
-    """
-    Extract the numeric Archidekt deck ID.
+      # ============================================================
+      # CHECKOUT
+      # ============================================================
 
-    Accepts URLs such as:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          ref: main
 
-        https://archidekt.com/decks/25645732/cloud_equipment_buster
 
-        https://archidekt.com/decks/25645732
+      # ============================================================
+      # GIT CONFIGURATION
+      # ============================================================
 
-        https://www.archidekt.com/decks/25645732/foo
-    """
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-    if not isinstance(url, str):
-        raise TypeError("Archidekt URL must be a string.")
 
-    match = re.search(
-        r"archidekt\.com/decks/(\d+)",
-        url,
-        flags=re.IGNORECASE,
-    )
+      # ============================================================
+      # SYNCHRONIZE WITH LATEST MAIN
+      # ============================================================
 
-    if not match:
-        raise ValueError(
-            f"Could not extract an Archidekt deck ID from URL:\n{url}"
-        )
+      - name: Synchronize with latest main
+        run: |
+          set -e
 
-    return match.group(1)
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
 
 
-# ============================================================
-# GITHUB ACCESS
-# ============================================================
+      # ============================================================
+      # CREATE DIRECTORIES
+      # ============================================================
 
-def github_api_url(path: str) -> str:
-    """
-    Build a GitHub Contents/API URL.
-    """
+      - name: Create deck directories
+        run: |
+          set -e
 
-    return (
-        f"https://api.github.com/repos/"
-        f"{GITHUB_OWNER}/{GITHUB_REPO}/contents/"
-        f"{path}?ref={GITHUB_BRANCH}"
-    )
+          mkdir -p decks
+          mkdir -p decks-slim
 
 
-def github_raw_url(path: str) -> str:
-    """
-    Build a GitHub raw URL.
-    """
+      # ============================================================
+      # DISCOVER ALL ARCHIDEKT DECKS
+      #
+      # Uses the Archidekt v3 deck listing endpoint.
+      #
+      # IMPORTANT:
+      # Discovery failure stops the workflow instead of treating
+      # an empty/invalid response as "the user has no decks".
+      #
+      # This prevents a temporary Archidekt outage from deleting
+      # the entire GitHub mirror.
+      # ============================================================
 
-    return (
-        f"https://raw.githubusercontent.com/"
-        f"{GITHUB_OWNER}/{GITHUB_REPO}/"
-        f"{GITHUB_BRANCH}/{path}"
-    )
+      - name: Discover Archidekt decks
+        env:
+          ARCHIDEKT_USERNAME: matthyzer
+        run: |
+          set -euo pipefail
 
+          echo "========================================"
+          echo "DISCOVERING ARCHIDEKT DECKS"
+          echo "========================================"
 
-def http_get(
-    url: str,
-    *,
-    accept: str = "application/vnd.github+json",
-) -> str:
-    """
-    Perform a GET request.
+          rm -f /tmp/deck-ids.txt
+          rm -f /tmp/deck-ids-clean.txt
 
-    No GitHub search is performed.
-    """
+          page=1
+          page_size=100
+          discovery_success=0
 
-    request = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept": accept,
-        },
-        method="GET",
-    )
+          while true; do
 
-    try:
-        with urllib.request.urlopen(
-            request,
-            timeout=REQUEST_TIMEOUT,
-        ) as response:
-            raw = response.read()
+            echo ""
+            echo "Fetching Archidekt deck page ${page}..."
 
-        return raw.decode("utf-8")
+            response_file="/tmp/archidekt-page-${page}.json"
 
-    except urllib.error.HTTPError as exc:
-        raise RuntimeError(
-            f"HTTP {exc.code} while retrieving:\n{url}"
-        ) from exc
+            rm -f "$response_file"
 
-    except urllib.error.URLError as exc:
-        raise RuntimeError(
-            f"Network error while retrieving:\n{url}\n"
-            f"{exc}"
-        ) from exc
+            http_code=""
 
+            for attempt in 1 2 3 4 5; do
 
-def github_get_file(path: str) -> str:
-    """
-    Retrieve a text file from the synchronized repository.
+              echo "Discovery attempt ${attempt}/5"
 
-    First uses GitHub's contents API.
+              http_code=$(curl \
+                --silent \
+                --show-error \
+                --location \
+                --connect-timeout 20 \
+                --max-time 90 \
+                --retry 2 \
+                --retry-delay 3 \
+                --output "$response_file" \
+                --write-out "%{http_code}" \
+                -H "Accept: application/json" \
+                -H "User-Agent: MTG-Analyzer-Archidekt-Sync/1.0" \
+                "https://archidekt.com/api/decks/v3/?ownerUsername=${ARCHIDEKT_USERNAME}&deckFormat=3&orderBy=-createdAt&pageSize=${page_size}&page=${page}" \
+                || true)
 
-    Falls back to raw.githubusercontent.com if necessary.
-    """
+              echo "HTTP status: ${http_code}"
 
-    api_url = github_api_url(path)
+              if [ "${http_code}" = "200" ] \
+                && [ -s "$response_file" ] \
+                && jq empty "$response_file" >/dev/null 2>&1; then
 
-    try:
-        response_text = http_get(api_url)
+                break
+              fi
 
-        payload = json.loads(response_text)
+              if [ "${attempt}" -lt 5 ]; then
+                sleep 5
+              fi
 
-        # GitHub Contents API returns Base64 for normal files.
-        if isinstance(payload, dict):
-            encoded = payload.get("content")
+            done
 
-            if encoded is not None:
-                import base64
 
-                return base64.b64decode(
-                    encoded.replace("\n", "")
-                ).decode("utf-8")
+            # --------------------------------------------------------
+            # Discovery failed.
+            #
+            # DO NOT continue.
+            #
+            # An invalid discovery response must never be interpreted
+            # as an empty deck collection.
+            # --------------------------------------------------------
 
-    except Exception:
-        pass
+            if [ "${http_code}" != "200" ] \
+              || [ ! -s "$response_file" ] \
+              || ! jq empty "$response_file" >/dev/null 2>&1; then
 
-    # Raw GitHub fallback.
-    raw_url = github_raw_url(path)
+              echo ""
+              echo "ERROR: Could not successfully query Archidekt."
+              echo ""
+              echo "HTTP status: ${http_code}"
+              echo ""
+              echo "Response:"
+              cat "$response_file" 2>/dev/null || true
+              echo ""
 
-    return http_get(
-        raw_url,
-        accept="text/plain",
-    )
+              echo "Existing GitHub deck copies will NOT be deleted."
+              exit 1
+            fi
 
 
-# ============================================================
-# DECK RETRIEVAL
-# ============================================================
+            # --------------------------------------------------------
+            # Extract deck records safely.
+            #
+            # Never recursively search for every .id field because
+            # card records and unrelated objects may also contain IDs.
+            # --------------------------------------------------------
 
-def load_meta(deck_id: str) -> dict[str, Any]:
-    """
-    Retrieve deck metadata.
+            if jq -e 'type == "array"' "$response_file" >/dev/null 2>&1; then
 
-    This is deliberately separate from the card list so that
-    commander/count validation doesn't depend on a giant response.
-    """
+              echo "API response format: array"
 
-    path = f"{DECKS_PATH}/{deck_id}.meta.json"
+              jq -r '
+                .[]
+                | .id
+                | select(type == "number" or type == "string")
+              ' "$response_file" >> /tmp/deck-ids.txt
 
-    content = github_get_file(path)
+              count=$(jq 'length' "$response_file")
 
-    try:
-        data = json.loads(content)
-    except json.JSONDecodeError as exc:
-        raise RuntimeError(
-            f"Invalid metadata JSON for deck {deck_id}."
-        ) from exc
 
-    if not isinstance(data, dict):
-        raise RuntimeError(
-            f"Metadata for deck {deck_id} is not an object."
-        )
+            elif jq -e '.results? | type == "array"' "$response_file" >/dev/null 2>&1; then
 
-    return data
+              echo "API response format: .results"
 
+              jq -r '
+                .results[]
+                | .id
+                | select(type == "number" or type == "string")
+              ' "$response_file" >> /tmp/deck-ids.txt
 
-def load_cards_jsonl(deck_id: str) -> list[DeckCard]:
-    """
-    Retrieve the complete compact card list.
+              count=$(jq '.results | length' "$response_file")
 
-    One card per line means we don't need the enormous full deck
-    JSON just to analyze the cards.
-    """
 
-    path = f"{DECKS_PATH}/{deck_id}.cards.jsonl"
+            elif jq -e '.data? | type == "array"' "$response_file" >/dev/null 2>&1; then
 
-    content = github_get_file(path)
+              echo "API response format: .data"
 
-    cards: list[DeckCard] = []
+              jq -r '
+                .data[]
+                | .id
+                | select(type == "number" or type == "string")
+              ' "$response_file" >> /tmp/deck-ids.txt
 
-    for line_number, line in enumerate(
-        content.splitlines(),
-        start=1,
-    ):
-        line = line.strip()
+              count=$(jq '.data | length' "$response_file")
 
-        if not line:
-            continue
 
-        try:
-            data = json.loads(line)
-        except json.JSONDecodeError as exc:
-            raise RuntimeError(
-                f"Invalid JSON on line {line_number} "
-                f"of deck {deck_id}."
-            ) from exc
+            elif jq -e '.results.data? | type == "array"' "$response_file" >/dev/null 2>&1; then
 
-        card = DeckCard.from_dict(data)
+              echo "API response format: .results.data"
 
-        if not card.name:
-            raise RuntimeError(
-                f"Deck {deck_id} contains a card with "
-                f"no name on line {line_number}."
-            )
+              jq -r '
+                .results.data[]
+                | .id
+                | select(type == "number" or type == "string")
+              ' "$response_file" >> /tmp/deck-ids.txt
 
-        cards.append(card)
+              count=$(jq '.results.data | length' "$response_file")
 
-    if not cards:
-        raise RuntimeError(
-            f"Deck {deck_id} returned zero cards."
-        )
 
-    return cards
+            else
 
+              echo ""
+              echo "ERROR: Unknown Archidekt response format."
+              echo ""
 
-def load_full_json_fallback(
-    deck_id: str,
-) -> tuple[dict[str, Any], list[DeckCard]]:
-    """
-    Fallback for older/incomplete compact mirrors.
-    """
+              jq '{
+                type: type,
+                keys: (
+                  if type == "object"
+                  then keys
+                  else []
+                  end
+                )
+              }' "$response_file"
 
-    path = f"{DECKS_PATH}/{deck_id}.json"
+              echo ""
+              echo "Existing GitHub deck copies will NOT be deleted."
+              exit 1
 
-    content = github_get_file(path)
+            fi
 
-    try:
-        data = json.loads(content)
-    except json.JSONDecodeError as exc:
-        raise RuntimeError(
-            f"Invalid full deck JSON for {deck_id}."
-        ) from exc
 
-    if not isinstance(data, dict):
-        raise RuntimeError(
-            f"Full deck JSON for {deck_id} is not an object."
-        )
+            echo "Deck records returned: ${count}"
 
-    raw_cards = data.get("cards")
 
-    if not isinstance(raw_cards, list):
-        raise RuntimeError(
-            f"Full deck JSON for {deck_id} contains no "
-            f"usable cards list."
-        )
+            # --------------------------------------------------------
+            # Pagination.
+            # --------------------------------------------------------
 
-    cards = [
-        DeckCard.from_dict(card)
-        for card in raw_cards
-        if isinstance(card, dict)
-    ]
+            if [ "${count}" -lt "${page_size}" ]; then
+              break
+            fi
 
-    if not cards:
-        raise RuntimeError(
-            f"Full deck JSON for {deck_id} returned zero cards."
-        )
+            page=$((page + 1))
 
-    return data, cards
+            if [ "${page}" -gt 100 ]; then
 
+              echo ""
+              echo "ERROR: Pagination safety limit reached."
+              exit 1
 
-# ============================================================
-# VALIDATION
-# ============================================================
+            fi
 
-def calculate_counts(
-    cards: list[DeckCard],
-) -> dict[str, int]:
-    """
-    Calculate board counts from the actual card records.
+          done
 
-    This is more trustworthy than assuming the metadata is correct.
-    """
 
-    counts = {
-        "main": 0,
-        "commander": 0,
-        "maybeboard": 0,
-        "sideboard": 0,
-        "total": 0,
-    }
+          # ==========================================================
+          # CLEAN AND DEDUPLICATE IDS
+          # ==========================================================
 
-    for card in cards:
-        quantity = card.quantity
+          if [ ! -s /tmp/deck-ids.txt ]; then
 
-        if quantity < 1:
-            raise RuntimeError(
-                f"Invalid quantity for {card.name}: "
-                f"{quantity}"
-            )
+            echo ""
+            echo "ERROR: Archidekt returned zero deck IDs."
+            echo ""
+            echo "This is treated as a discovery failure."
+            echo "Existing GitHub copies will NOT be deleted."
 
-        board = card.board
+            exit 1
 
-        if board not in counts:
-            counts[board] = 0
+          fi
 
-        counts[board] += quantity
-        counts["total"] += quantity
 
-    return counts
+          grep -E '^[0-9]+$' /tmp/deck-ids.txt \
+            | sort -n \
+            | uniq \
+            > /tmp/deck-ids-clean.txt
 
 
-def get_commanders(
-    cards: list[DeckCard],
-) -> list[DeckCard]:
-    return [
-        card
-        for card in cards
-        if card.board == "commander"
-    ]
+          deck_count=$(wc -l < /tmp/deck-ids-clean.txt)
 
 
-def get_main_deck(
-    cards: list[DeckCard],
-) -> list[DeckCard]:
-    return [
-        card
-        for card in cards
-        if card.board == "main"
-    ]
+          echo ""
+          echo "========================================"
+          echo "DISCOVERED DECK IDS"
+          echo "========================================"
 
+          cat /tmp/deck-ids-clean.txt
 
-def validate_deck(
-    deck_id: str,
-    metadata: dict[str, Any],
-    cards: list[DeckCard],
-) -> None:
-    """
-    Perform the minimum retrieval integrity checks before
-    handing the deck to the analyzer.
+          echo ""
+          echo "Total discovered decks: ${deck_count}"
 
-    IMPORTANT:
-        A deck being over/under 100 cards does NOT automatically
-        make retrieval invalid. Archidekt can contain unfinished
-        Commander decks.
 
-    What matters here is that we retrieved the complete current
-    representation rather than a truncated response.
-    """
+          if [ "${deck_count}" -eq 0 ]; then
 
-    if not cards:
-        raise RuntimeError(
-            f"Deck {deck_id}: no cards retrieved."
-        )
+            echo ""
+            echo "ERROR: No valid deck IDs were discovered."
+            echo "Existing GitHub copies will NOT be deleted."
 
-    commanders = get_commanders(cards)
-    main = get_main_deck(cards)
+            exit 1
 
-    if not commanders:
-        raise RuntimeError(
-            f"Deck {deck_id}: commander could not be identified."
-        )
+          fi
 
-    calculated = calculate_counts(cards)
 
-    metadata_counts = metadata.get("counts")
+      # ============================================================
+      # FETCH EVERY DISCOVERED DECK
+      #
+      # Each deck gets several attempts.
+      #
+      # If a refresh fails:
+      #
+      #   - Existing valid GitHub copy is preserved.
+      #   - The workflow continues to refresh other decks.
+      #
+      # This is important because one broken Archidekt request should
+      # never prevent all of the other decks from being synchronized.
+      # ============================================================
 
-    if isinstance(metadata_counts, dict):
-        expected_total = metadata_counts.get("total")
+      - name: Fetch Archidekt decks
+        run: |
+          set -euo pipefail
 
-        if (
-            expected_total is not None
-            and int(expected_total) != calculated["total"]
-        ):
-            raise RuntimeError(
-                "Deck retrieval integrity check failed.\n"
-                f"Metadata total: {expected_total}\n"
-                f"Retrieved total: {calculated['total']}\n"
-                f"Deck ID: {deck_id}"
-            )
+          failed=0
+          refreshed=0
+          preserved=0
 
-    metadata_commanders = metadata.get("commander")
+          while IFS= read -r deck_id; do
 
-    if isinstance(metadata_commanders, list):
-        actual_names = [
-            card.name
-            for card in commanders
-        ]
+            echo ""
+            echo "========================================"
+            echo "FETCHING DECK ${deck_id}"
+            echo "========================================"
 
-        if metadata_commanders != actual_names:
-            raise RuntimeError(
-                "Commander verification failed.\n"
-                f"Metadata: {metadata_commanders}\n"
-                f"Retrieved: {actual_names}\n"
-                f"Deck ID: {deck_id}"
-            )
+            final_file="decks/${deck_id}.json"
+            tmp_file="decks/.${deck_id}.json.tmp"
 
-    # Check for duplicate non-basic cards.
-    # We don't reject them because this can be useful when the
-    # deck is unfinished, but the information is preserved.
-    #
-    # Commander legality is a separate analysis step.
+            rm -f "$tmp_file"
 
+            success=0
 
-# ============================================================
-# PUBLIC API
-# ============================================================
 
-def get_current_deck(
-    archidekt_url: str,
-) -> dict[str, Any]:
-    """
-    Retrieve the current deck associated with an Archidekt URL.
+            # --------------------------------------------------------
+            # Primary endpoint.
+            # --------------------------------------------------------
 
-    This is the MAIN FUNCTION the analyzer should call.
+            for attempt in 1 2 3 4 5; do
 
-    Example:
+              echo ""
+              echo "Attempt ${attempt}/5 for deck ${deck_id}"
 
-        deck = get_current_deck(
-            "https://archidekt.com/decks/25645732/cloud_equipment_buster"
-        )
+              rm -f "$tmp_file"
 
-    Returns:
+              http_code=$(curl \
+                --silent \
+                --show-error \
+                --location \
+                --connect-timeout 20 \
+                --max-time 90 \
+                --retry 2 \
+                --retry-delay 3 \
+                --output "$tmp_file" \
+                --write-out "%{http_code}" \
+                -H "Accept: application/json" \
+                -H "User-Agent: MTG-Analyzer-Archidekt-Sync/1.0" \
+                "https://archidekt.com/api/decks/${deck_id}/" \
+                || true)
 
-        {
-            "id": "25645732",
-            "name": "...",
-            "commander": [...],
-            "cards": [...],
-            "main": [...],
-            "counts": {...},
-            "colorIdentity": [...]
-        }
-    """
+              response_size=$(wc -c < "$tmp_file" 2>/dev/null || echo 0)
 
-    deck_id = extract_archidekt_deck_id(
-        archidekt_url
-    )
+              echo "HTTP status: ${http_code}"
+              echo "Response size: ${response_size} bytes"
 
-    # --------------------------------------------------------
-    # 1. Retrieve metadata
-    # --------------------------------------------------------
 
-    metadata = load_meta(deck_id)
+              if [ "${http_code}" = "200" ] \
+                && [ -s "$tmp_file" ] \
+                && jq empty "$tmp_file" >/dev/null 2>&1; then
 
-    # --------------------------------------------------------
-    # 2. Retrieve compact complete card list
-    # --------------------------------------------------------
+                # ----------------------------------------------------
+                # Verify this really is the requested deck.
+                # ----------------------------------------------------
 
-    try:
-        cards = load_cards_jsonl(deck_id)
+                returned_id=$(jq -r '.id // empty' "$tmp_file")
 
-    except Exception as compact_error:
+                if [ "${returned_id}" = "${deck_id}" ]; then
 
-        # ----------------------------------------------------
-        # 3. Fallback to complete JSON
-        # ----------------------------------------------------
+                  mv "$tmp_file" "$final_file"
 
-        try:
-            full_data, cards = load_full_json_fallback(
-                deck_id
-            )
+                  echo ""
+                  echo "SUCCESS: Deck ${deck_id} refreshed."
 
-            # Prefer metadata from the full file if available.
-            if not metadata:
-                metadata = full_data
+                  success=1
+                  refreshed=$((refreshed + 1))
 
-        except Exception as full_error:
+                  break
 
-            raise RuntimeError(
-                "CURRENT DECK COULD NOT BE RETRIEVED.\n\n"
-                f"Deck URL:\n{archidekt_url}\n\n"
-                f"Deck ID:\n{deck_id}\n\n"
-                f"Compact source error:\n{compact_error}\n\n"
-                f"Full JSON fallback error:\n{full_error}"
-            ) from full_error
+                else
 
-    # --------------------------------------------------------
-    # 4. Validate that retrieval is complete
-    # --------------------------------------------------------
+                  echo ""
+                  echo "WARNING: JSON was valid, but deck ID did not match."
+                  echo "Expected: ${deck_id}"
+                  echo "Received: ${returned_id}"
 
-    validate_deck(
-        deck_id,
-        metadata,
-        cards,
-    )
+                fi
 
-    commanders = get_commanders(cards)
-    main = get_main_deck(cards)
-    counts = calculate_counts(cards)
+              fi
 
-    # --------------------------------------------------------
-    # 5. Build analyzer-friendly representation
-    # --------------------------------------------------------
 
-    return {
-        "id": deck_id,
+              if [ "${attempt}" -lt 5 ]; then
+                sleep 5
+              fi
 
-        "url": archidekt_url,
+            done
 
-        "name": metadata.get(
-            "name",
-            f"Archidekt Deck {deck_id}",
-        ),
 
-        "format": metadata.get(
-            "format"
-        ),
+            rm -f "$tmp_file"
 
-        "commander": [
-            card.to_dict()
-            for card in commanders
-        ],
 
-        "main": [
-            card.to_dict()
-            for card in main
-        ],
+            # --------------------------------------------------------
+            # If refresh failed, preserve existing valid copy.
+            # --------------------------------------------------------
 
-        "cards": [
-            card.to_dict()
-            for card in cards
-        ],
+            if [ "${success}" -ne 1 ]; then
 
-        "counts": counts,
+              echo ""
+              echo "WARNING: Could not refresh deck ${deck_id}."
 
-        "colorIdentity": metadata.get(
-            "colorIdentity",
-            sorted({
-                color
-                for card in commanders
-                for color in card.color_identity
-            }),
-        ),
+              if [ -f "$final_file" ] \
+                && jq empty "$final_file" >/dev/null 2>&1; then
 
-        "metadata": metadata,
-    }
+                echo "Existing valid GitHub copy will be preserved."
 
+                preserved=$((preserved + 1))
 
-# ============================================================
-# CARD LOOKUP HELPERS
-# ============================================================
+              else
 
-def deck_contains(
-    deck: dict[str, Any],
-    card_name: str,
-) -> bool:
-    """
-    Check whether a card is already in the current deck.
-    """
+                echo "No valid existing copy is available."
 
-    target = card_name.strip().casefold()
+                failed=1
 
-    return any(
-        card["name"].strip().casefold() == target
-        for card in deck["cards"]
-    )
+              fi
 
+            fi
 
-def get_card(
-    deck: dict[str, Any],
-    card_name: str,
-) -> Optional[dict[str, Any]]:
-    """
-    Retrieve one card from the current deck.
-    """
+          done < /tmp/deck-ids-clean.txt
 
-    target = card_name.strip().casefold()
 
-    for card in deck["cards"]:
-        if card["name"].strip().casefold() == target:
-            return card
+          echo ""
+          echo "========================================"
+          echo "FETCH SUMMARY"
+          echo "========================================"
 
-    return None
+          echo "Successfully refreshed: ${refreshed}"
+          echo "Existing copies preserved: ${preserved}"
+          echo "Unrecoverable failures: ${failed}"
 
 
-def deck_card_names(
-    deck: dict[str, Any],
-) -> set[str]:
-    """
-    Return normalized names for fast membership checks.
-    """
+          # If at least one discovered deck has no valid local copy,
+          # fail the workflow. We never create a fake/incomplete deck.
+          if [ "${failed}" -ne 0 ]; then
 
-    return {
-        card["name"].strip().casefold()
-        for card in deck["cards"]
-    }
+            echo ""
+            echo "WARNING: One or more decks have no valid local copy."
+            echo "The workflow will NOT delete stale decks."
 
+          fi
 
-# ============================================================
-# SOURCE FILE SUPPORT
-# ============================================================
 
-def load_archidekt_urls(
-    source_file: str,
-) -> list[str]:
-    """
-    Read Archidekt URLs from the project's URL source file.
+      # ============================================================
+      # VERIFY THE MIRROR
+      #
+      # Make sure every discovered deck has a valid JSON file.
+      # ============================================================
 
-    Blank lines and comments are ignored.
-    """
+      - name: Verify deck mirror
+        run: |
+          set -euo pipefail
 
-    urls: list[str] = []
+          echo "========================================"
+          echo "VERIFYING DECK MIRROR"
+          echo "========================================"
 
-    with open(
-        source_file,
-        "r",
-        encoding="utf-8",
-    ) as fh:
+          verification_failed=0
 
-        for line in fh:
-            line = line.strip()
+          while IFS= read -r deck_id; do
 
-            if not line:
-                continue
+            file="decks/${deck_id}.json"
 
-            if line.startswith("#"):
-                continue
+            if [ ! -f "$file" ]; then
 
-            if "archidekt.com/decks/" in line.lower():
-                urls.append(line)
+              echo "ERROR: Missing deck file: ${file}"
+              verification_failed=1
+              continue
 
-    return urls
+            fi
 
 
-def find_deck_url(
-    source_file: str,
-    deck_id: str,
-) -> Optional[str]:
-    """
-    Find a specific Archidekt deck URL by ID.
-    """
+            if ! jq empty "$file" >/dev/null 2>&1; then
 
-    urls = load_archidekt_urls(source_file)
+              echo "ERROR: Invalid JSON: ${file}"
+              verification_failed=1
+              continue
 
-    for url in urls:
+            fi
 
-        try:
-            current_id = extract_archidekt_deck_id(
-                url
-            )
-        except ValueError:
-            continue
 
-        if current_id == str(deck_id):
-            return url
+            returned_id=$(jq -r '.id // empty' "$file")
 
-    return None
+            if [ "${returned_id}" != "${deck_id}" ]; then
 
+              echo "ERROR: Wrong deck ID in ${file}"
+              echo "Expected: ${deck_id}"
+              echo "Received: ${returned_id}"
 
-# ============================================================
-# ANALYZER ENTRY POINT
-# ============================================================
+              verification_failed=1
+              continue
 
-def retrieve_deck_for_analysis(
-    archidekt_url: str,
-) -> dict[str, Any]:
-    """
-    Final entry point for the MTG analyzer.
+            fi
 
-    DO NOT give the analyzer a partial search result.
 
-    The analyzer receives the complete retrieved deck or an
-    explicit exception.
-    """
+            echo "OK: ${deck_id}"
 
-    deck = get_current_deck(
-        archidekt_url
-    )
+          done < /tmp/deck-ids-clean.txt
 
-    # Final sanity check before analysis.
-    if not deck["commander"]:
-        raise RuntimeError(
-            "Analyzer refused deck: commander missing."
-        )
 
-    if not deck["cards"]:
-        raise RuntimeError(
-            "Analyzer refused deck: card list missing."
-        )
+          if [ "${verification_failed}" -ne 0 ]; then
 
-    if deck["counts"]["total"] <= 1:
-        raise RuntimeError(
-            "Analyzer refused deck: suspiciously incomplete "
-            "card count."
-        )
+            echo ""
+            echo "ERROR: Deck mirror verification failed."
+            echo "Stale decks will NOT be removed."
 
-    return deck
+            exit 1
 
+          fi
 
-# ============================================================
-# OPTIONAL COMMAND-LINE TEST
-# ============================================================
 
-if __name__ == "__main__":
+          echo ""
+          echo "All discovered decks have valid local copies."
 
-    # Your current Cloud deck.
-    TEST_URL = (
-        "https://archidekt.com/decks/"
-        "25645732/cloud_equipment_buster"
-    )
 
-    print()
-    print("=" * 70)
-    print("MAGIC: THE GATHERING DECK RETRIEVAL TEST")
-    print("=" * 70)
-    print()
+      # ============================================================
+      # REMOVE STALE DECK FILES
+      #
+      # ONLY happens after successful discovery AND successful
+      # verification of every discovered deck.
+      #
+      # Therefore a temporary Archidekt outage cannot wipe the mirror.
+      # ============================================================
 
-    try:
+      - name: Remove stale deck files
+        run: |
+          set -euo pipefail
 
-        deck = retrieve_deck_for_analysis(
-            TEST_URL
-        )
+          echo "========================================"
+          echo "CHECKING FOR STALE DECK FILES"
+          echo "========================================"
 
-        print(f"Deck: {deck['name']}")
-        print(f"ID: {deck['id']}")
-        print(f"Format: {deck['format']}")
-        print()
+          for file in decks/*.json; do
 
-        print("Commander:")
-        for commander in deck["commander"]:
-            print(
-                f"  {commander['name']}"
-            )
+            [ -e "$file" ] || continue
 
-        print()
+            deck_id=$(basename "$file" .json)
 
-        print("Color Identity:")
-        print(
-            "  "
-            + ", ".join(
-                deck["colorIdentity"]
-            )
-        )
+            if ! grep -qx "$deck_id" /tmp/deck-ids-clean.txt; then
 
-        print()
+              echo "Removing stale deck: ${deck_id}"
 
-        print("Counts:")
-        for key, value in deck["counts"].items():
-            print(
-                f"  {key}: {value}"
-            )
+              rm -f "$file"
 
-        print()
+            fi
 
-        print(
-            f"Retrieved {len(deck['cards'])} "
-            f"card entries successfully."
-        )
+          done
 
-        print()
 
-        print("First 10 cards:")
-        for card in deck["cards"][:10]:
-            print(
-                f"  {card['quantity']}x "
-                f"{card['name']} "
-                f"[{card['board']}]"
-            )
+      # ============================================================
+      # BUILD COMPACT ANALYSIS COPIES
+      #
+      # Produces:
+      #
+      #   decks-slim/{id}.meta.json
+      #   decks-slim/{id}.names.txt
+      #   decks-slim/{id}.cards.jsonl
+      #   decks-slim/{id}.json
+      #
+      # These are the files the MTG analyzer can read efficiently.
+      # ============================================================
 
-        print()
+      - name: Build compact analysis decks
+        run: |
+          set -euo pipefail
 
-        # Example membership test.
-        test_card = "Armory Automaton"
+          python3 scripts/build_slim_decks.py
 
-        print(
-            f"Is '{test_card}' already in the deck? "
-            f"{deck_contains(deck, test_card)}"
-        )
 
-        print()
-        print("=" * 70)
-        print("DECK RETRIEVAL SUCCESSFUL")
-        print("=" * 70)
+      # ============================================================
+      # VERIFY COMPACT ANALYSIS COPIES
+      # ============================================================
 
-    except Exception as exc:
+      - name: Verify compact analysis copies
+        run: |
+          set -euo pipefail
 
-        print()
-        print("=" * 70)
-        print("DECK RETRIEVAL FAILED")
-        print("=" * 70)
-        print()
-        print(str(exc))
-        print()
+          echo "========================================"
+          echo "VERIFYING COMPACT ANALYSIS DATA"
+          echo "========================================"
 
-        raise
+          verification_failed=0
+
+          while IFS= read -r deck_id; do
+
+            meta="decks-slim/${deck_id}.meta.json"
+            names="decks-slim/${deck_id}.names.txt"
+            cards="decks-slim/${deck_id}.cards.jsonl"
+            slim="decks-slim/${deck_id}.json"
+
+
+            if [ ! -f "$meta" ]; then
+              echo "ERROR: Missing ${meta}"
+              verification_failed=1
+            fi
+
+            if [ ! -f "$names" ]; then
+              echo "ERROR: Missing ${names}"
+              verification_failed=1
+            fi
+
+            if [ ! -f "$cards" ]; then
+              echo "ERROR: Missing ${cards}"
+              verification_failed=1
+            fi
+
+            if [ ! -f "$slim" ]; then
+              echo "ERROR: Missing ${slim}"
+              verification_failed=1
+            fi
+
+
+            if [ -f "$meta" ] \
+              && ! jq empty "$meta" >/dev/null 2>&1; then
+
+              echo "ERROR: Invalid JSON: ${meta}"
+              verification_failed=1
+
+            fi
+
+
+            if [ -f "$slim" ] \
+              && ! jq empty "$slim" >/dev/null 2>&1; then
+
+              echo "ERROR: Invalid JSON: ${slim}"
+              verification_failed=1
+
+            fi
+
+
+            if [ -f "$meta" ]; then
+
+              meta_id=$(jq -r '.id // empty' "$meta")
+
+              if [ "${meta_id}" != "${deck_id}" ]; then
+
+                echo "ERROR: Wrong ID in ${meta}"
+                verification_failed=1
+
+              fi
+
+            fi
+
+
+            echo "Verified analysis bundle: ${deck_id}"
+
+          done < /tmp/deck-ids-clean.txt
+
+
+          if [ "${verification_failed}" -ne 0 ]; then
+
+            echo ""
+            echo "ERROR: Compact analysis verification failed."
+            exit 1
+
+          fi
+
+
+          echo ""
+          echo "All compact analysis bundles verified."
+
+
+      # ============================================================
+      # COMMIT UPDATED DECKS
+      # ============================================================
+
+      - name: Commit updated decks
+        run: |
+          set -euo pipefail
+
+          git add decks/
+          git add decks-slim/
+          git add scripts/build_slim_decks.py
+          git add .github/workflows/update-decks.yml
+
+
+          if git diff --cached --quiet; then
+
+            echo "No deck changes detected."
+            exit 0
+
+          fi
+
+
+          git commit \
+            -m "Update Archidekt decks and analysis copies"
+
+
+      # ============================================================
+      # PUSH CHANGES
+      # ============================================================
+
+      - name: Push changes
+        run: |
+          set -euo pipefail
+
+          for attempt in 1 2 3; do
+
+            echo ""
+            echo "========================================"
+            echo "PUSH ATTEMPT ${attempt}/3"
+            echo "========================================"
+
+
+            if git push origin main; then
+
+              echo ""
+              echo "Push successful."
+              exit 0
+
+            fi
+
+
+            echo ""
+            echo "Push was rejected."
+            echo "Synchronizing with origin/main..."
+
+
+            git fetch origin main
+
+
+            if git rebase origin/main; then
+
+              continue
+
+            fi
+
+
+            echo ""
+            echo "Rebase failed."
+            echo "Resetting to origin/main..."
+
+
+            git rebase --abort || true
+
+            git reset --hard origin/main
+
+
+            # Rebuild the generated analysis files after reset.
+            python3 scripts/build_slim_decks.py
+
+
+            git add decks/
+            git add decks-slim/
+            git add scripts/build_slim_decks.py
+            git add .github/workflows/update-decks.yml
+
+
+            if ! git diff --cached --quiet; then
+
+              git commit \
+                -m "Update Archidekt decks and analysis copies"
+
+            fi
+
+          done
+
+
+          echo ""
+          echo "ERROR: Could not push after 3 attempts."
+          exit 1
