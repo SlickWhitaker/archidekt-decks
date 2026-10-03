@@ -313,7 +313,7 @@
     },
     {
       "name": "Forest",
-      "quantity": 6,
+      "quantity": 7,
       "board": "main",
       "colors": [],
       "colorIdentity": [
@@ -665,7 +665,7 @@
     },
     {
       "name": "Swamp",
-      "quantity": 5,
+      "quantity": 4,
       "board": "main",
       "colors": [],
       "colorIdentity": [

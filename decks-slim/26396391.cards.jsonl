@@ -21,7 +21,7 @@
 {"name":"Fabled Passage","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."}
 {"name":"Farseek","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":2,"type":"Sorcery","text":"Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle."}
 {"name":"Flooded Strand","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle."}
-{"name":"Forest","quantity":6,"board":"main","colors":[],"colorIdentity":["Green"],"manaValue":0,"type":"Basic Land — Forest","text":"({T}: Add {G}.)"}
+{"name":"Forest","quantity":7,"board":"main","colors":[],"colorIdentity":["Green"],"manaValue":0,"type":"Basic Land — Forest","text":"({T}: Add {G}.)"}
 {"name":"Golgari Rot Farm","quantity":1,"board":"main","colors":[],"colorIdentity":["Black","Green"],"manaValue":0,"type":"Land","text":"This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {B}{G}."}
 {"name":"Growth Spiral","quantity":1,"board":"main","colors":["Green","Blue"],"colorIdentity":["Blue","Green"],"manaValue":2,"type":"Instant","text":"Draw a card. You may put a land card from your hand onto the battlefield."}
 {"name":"Harrow","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":3,"type":"Instant","text":"As an additional cost to cast this spell, sacrifice a land.\nSearch your library for up to two basic land cards, put them onto the battlefield, then shuffle."}
@@ -48,7 +48,7 @@
 {"name":"Simic Growth Chamber","quantity":1,"board":"main","colors":[],"colorIdentity":["Blue","Green"],"manaValue":0,"type":"Land","text":"This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {G}{U}."}
 {"name":"Sol Ring","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":1,"type":"Artifact","text":"{T}: Add {C}{C}."}
 {"name":"Splendid Reclamation","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":4,"type":"Sorcery","text":"Return all land cards from your graveyard to the battlefield tapped."}
-{"name":"Swamp","quantity":5,"board":"main","colors":[],"colorIdentity":["Black"],"manaValue":0,"type":"Basic Land — Swamp","text":"({T}: Add {B}.)"}
+{"name":"Swamp","quantity":4,"board":"main","colors":[],"colorIdentity":["Black"],"manaValue":0,"type":"Basic Land — Swamp","text":"({T}: Add {B}.)"}
 {"name":"Swan Song","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":1,"type":"Instant","text":"Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."}
 {"name":"Sylvan Scrying","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":2,"type":"Sorcery","text":"Search your library for a land card, reveal it, put it into your hand, then shuffle."}
 {"name":"Tatyova, Benthic Druid","quantity":1,"board":"main","colors":["Green","Blue"],"colorIdentity":["Blue","Green"],"manaValue":5,"type":"Legendary Creature — Druid Merfolk","text":"Landfall — Whenever a land you control enters, you gain 1 life and draw a card."}
