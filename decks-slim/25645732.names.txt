@@ -9,10 +9,8 @@ Steelshaper's Gift
 Aerith, Last Ancient
 Arcane Signet
 Austere Command
-Avalanche of Sector 7
 Barret, Avalanche Leader
 Battlefield Forge
-Bilbo's Gambit
 Blasphemous Act
 Bloom Tender
 Bronze Guardian
@@ -64,7 +62,6 @@ Rootbound Crag
 Rugged Prairie
 Sacred Peaks
 Scavenger Grounds
-Sephiroth, Fallen Hero
 Sheltered Thicket
 Sigarda's Aid
 Skullclamp
@@ -88,6 +85,9 @@ Wood Elves
 Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
+Conformer Shuriken
+Wrecking Ball Arm
+Conqueror's Flail
 Cloud, Ex-SOLDIER
 Enlightened Tutor
 The Reaver Cleaver

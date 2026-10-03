@@ -19,6 +19,26 @@
   },
   "cards": [
     {
+      "name": "Scalding Tarn",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Bloodstained Mire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle."
+    },
+    {
       "name": "Aesi, Tyrant of Gyre Strait",
       "quantity": 1,
       "board": "main",
@@ -407,20 +427,6 @@
       "manaValue": 4,
       "type": "Creature — Scout Insect",
       "text": "You may play an additional land on each of your turns.\nYou may play lands from your graveyard.\nLandfall — Whenever a land you control enters, mill a card."
-    },
-    {
-      "name": "Imperial Seal",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Search your library for a card, then shuffle and put that card on top. You lose 2 life."
     },
     {
       "name": "Island",
@@ -976,20 +982,6 @@
       "manaValue": 4,
       "type": "Legendary Artifact",
       "text": "Blue spells you cast cost {1} less to cast.\nIf an opponent would mill one or more cards, they mill that many cards plus four instead.\n{4}{U}{U}, {T}: Each opponent mills cards equal to the number of cards in your hand."
-    },
-    {
-      "name": "Elven Raft-Steerer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Elf Pilot",
-      "text": "Landfall — Whenever a land you control enters, choose one —\n• Tap target creature an opponent controls.\n• Untap target creature you control."
     },
     {
       "name": "Polluted Delta",

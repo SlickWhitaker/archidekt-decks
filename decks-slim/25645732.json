@@ -164,20 +164,6 @@
       "text": "Choose two —\n• Destroy all artifacts.\n• Destroy all enchantments.\n• Destroy all creatures with mana value 3 or less.\n• Destroy all creatures with mana value 4 or greater."
     },
     {
-      "name": "Avalanche of Sector 7",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Human Rebel",
-      "text": "Menace\nAvalanche of Sector 7's power is equal to the number of artifacts your opponents control.\nWhenever an opponent activates an ability of an artifact they control, Avalanche of Sector 7 deals 1 damage to that player."
-    },
-    {
       "name": "Barret, Avalanche Leader",
       "quantity": 1,
       "board": "main",
@@ -205,20 +191,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}.\n{T}: Add {R} or {W}. This land deals 1 damage to you."
-    },
-    {
-      "name": "Bilbo's Gambit",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Gift a Treasure (You may promise an opponent a gift as you cast this spell. If you do, they create a Treasure token before its other effects. It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nReturn target spell to its owner's hand. If the gift was promised, players can't cast spells this turn."
     },
     {
       "name": "Blasphemous Act",
@@ -867,22 +839,6 @@
       "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards."
     },
     {
-      "name": "Sephiroth, Fallen Hero",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Red"
-      ],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Soldier Avatar",
-      "text": "Jenova Cells — Whenever Sephiroth attacks, you may put a cell counter on target creature. Until end of turn, each modified creature you control has base power and toughness 7/5. (Equipment, Auras you control, and counters are modifications.)\nThe Reunion — {3}, Sacrifice a modified creature: Return this card from your graveyard to the battlefield tapped."
-    },
-    {
       "name": "Sheltered Thicket",
       "quantity": 1,
       "board": "main",
@@ -1178,6 +1134,36 @@
       "manaValue": 3,
       "type": "Artifact — Equipment",
       "text": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}"
+    },
+    {
+      "name": "Conformer Shuriken",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Equipped creature has \"Whenever this creature attacks, tap target creature defending player controls. If that creature has greater power than this creature, put a number of +1/+1 counters on this creature equal to the difference.\"\nEquip {2}"
+    },
+    {
+      "name": "Wrecking Ball Arm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Equipped creature has base power and toughness 7/7 and can't be blocked by creatures with power 2 or less.\nEquip legendary creature {3}\nEquip {7}"
+    },
+    {
+      "name": "Conqueror's Flail",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +1/+1 for each color among permanents you control.\nAs long as this Equipment is attached to a creature, your opponents can't cast spells during your turn.\nEquip {2}"
     },
     {
       "name": "Cloud, Ex-SOLDIER",

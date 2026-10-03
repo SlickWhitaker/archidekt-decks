@@ -1,3 +1,5 @@
+Scalding Tarn
+Bloodstained Mire
 Aesi, Tyrant of Gyre Strait
 Altar of Dementia
 Altar of the Brood
@@ -28,7 +30,6 @@ Harrow
 Hedron Crab
 Heroic Intervention
 Icetill Explorer
-Imperial Seal
 Island
 Kodama of the East Tree
 Lightning Greaves
@@ -71,7 +72,6 @@ Sakura-Tribe Scout
 Misty Rainforest
 Prismatic Vista
 The Water Crystal
-Elven Raft-Steerer
 Polluted Delta
 Homer, the Hermit
 Verdant Catacombs
