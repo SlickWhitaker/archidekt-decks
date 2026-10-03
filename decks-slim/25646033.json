@@ -305,20 +305,6 @@
       "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
     },
     {
-      "name": "Fanatic of Rhonas",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Druid Snake",
-      "text": "{T}: Add {G}.\nFerocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature with power 4 or greater.\nEternalize {2}{G}{G} ({2}{G}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Snake Druid with no mana cost. Eternalize only as a sorcery.)"
-    },
-    {
       "name": "Fauna Shaman",
       "quantity": 1,
       "board": "main",
@@ -1106,6 +1092,16 @@
       "manaValue": 0,
       "type": "Artifact",
       "text": "Sacrifice a land: You gain 2 life."
+    },
+    {
+      "name": "Lightning Greaves",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
     },
     {
       "name": "Grolnok, the Omnivore",

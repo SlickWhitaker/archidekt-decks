@@ -20,7 +20,6 @@ Eternal Witness
 Exotic Orchard
 Exploration
 Fabled Passage
-Fanatic of Rhonas
 Fauna Shaman
 Field of the Dead
 Fierce Guardianship
@@ -83,6 +82,7 @@ Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
 Zuran Orb
+Lightning Greaves
 Grolnok, the Omnivore
 Maskwood Nexus
 Spore Frog
