@@ -29,7 +29,6 @@ Damn
 Delney, Streetwise Lookout
 Demonic Tutor
 Dragonskull Summit
-Drana and Linvala
 Elenda, the Dusk Rose
 Esper Sentinel
 Exquisite Blood
@@ -88,4 +87,5 @@ Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
 Edgar Markov
+Edgar, Ancient Bloodlord
 Carmen, Cruel Skymarcher
