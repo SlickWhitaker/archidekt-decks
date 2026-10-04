@@ -82,7 +82,6 @@ Ultimate Magic: Holy
 Unfinished Business
 Vandalblast
 Wood Elves
-Yuffie, Materia Hunter
 Zack Fair
 Sword of Forge and Frontier
 Conformer Shuriken
@@ -97,4 +96,5 @@ Armored Skyhunter
 Sram, Senior Edificer
 Danitha Capashen, Paragon
 Bloodforged Battle-Axe
+Professor Hojo
 Mjölnir, Hammer of Thor
