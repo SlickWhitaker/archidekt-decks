@@ -1,7 +1,6 @@
 Cankerbloom
 Cavern of Souls
 Chain Reaction
-Atarka, World Render
 Arcane Signet
 Balefire Dragon
 Beast Within
@@ -67,10 +66,11 @@ The Misty Mountains Cold
 Thrakkus the Butcher
 Three Visits
 Thunderbreak Regent
-Thundermaw Hellkite
 Tyrant's Familiar
 Unleash Fury
 Urza's Incubator
 Vandalblast
 Verix Bladewing
 Wrathful Red Dragon
+Atarka, World Render
+Hellkite Tyrant

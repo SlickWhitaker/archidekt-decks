@@ -56,22 +56,6 @@
       "text": "Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield."
     },
     {
-      "name": "Atarka, World Render",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 7,
-      "type": "Legendary Creature — Dragon",
-      "text": "Flying, trample\nWhenever a Dragon you control attacks, it gains double strike until end of turn."
-    },
-    {
       "name": "Arcane Signet",
       "quantity": 1,
       "board": "main",
@@ -937,20 +921,6 @@
       "text": "Flying\nWhenever a Dragon you control becomes the target of a spell or ability an opponent controls, this creature deals 3 damage to that player."
     },
     {
-      "name": "Thundermaw Hellkite",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Dragon",
-      "text": "Flying\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nWhen this creature enters, it deals 1 damage to each creature with flying your opponents control. Tap those creatures."
-    },
-    {
       "name": "Tyrant's Familiar",
       "quantity": 1,
       "board": "main",
@@ -1029,6 +999,36 @@
       "manaValue": 5,
       "type": "Creature — Dragon",
       "text": "Flying\nWhenever a Dragon you control is dealt damage, it deals that much damage to any target that isn't a Dragon."
+    },
+    {
+      "name": "Atarka, World Render",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green",
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 7,
+      "type": "Legendary Creature — Dragon",
+      "text": "Flying, trample\nWhenever a Dragon you control attacks, it gains double strike until end of turn."
+    },
+    {
+      "name": "Hellkite Tyrant",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Dragon",
+      "text": "Flying, trample\nWhenever this creature deals combat damage to a player, gain control of all artifacts that player controls.\nAt the beginning of your upkeep, if you control twenty or more artifacts, you win the game."
     }
   ]
 }
