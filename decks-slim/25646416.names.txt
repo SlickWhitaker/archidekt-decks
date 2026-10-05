@@ -78,7 +78,6 @@ Zealous Conscripts
 Beast Within
 Uktabi Orangutan
 Liquimetal Torque
-Gearbane Orangutan
 Kogla, the Titan Ape
 Scrounging Bandar
 Viridian Revel
@@ -90,5 +89,6 @@ Silverback Elder
 Yavimaya Steelcrusher
 Branching Evolution
 Combat Celebrant
-Kibo, Uktabi Prince
 Ragavan, Nimble Pilferer
+Triumph of the Hordes
+Kibo, Uktabi Prince

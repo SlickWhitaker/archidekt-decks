@@ -82,12 +82,12 @@ Perilous Landscape
 Island
 Mountain
 Swamp
-Path of Ancestry
 Plains
 Memnarch, the Warden
 Turbulent Crater
 Turbulent Wetlands
 Akroma, Angel of Fury
 Reflecting Pool
-Jace, Multiverse Architect
 Call the Coppercoats
+Jace, Multiverse Architect
+Karn's Bastion

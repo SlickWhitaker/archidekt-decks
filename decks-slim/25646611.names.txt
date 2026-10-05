@@ -75,13 +75,13 @@ Underworld Dreams
 Urborg, Tomb of Yawgmoth
 Vial Smasher the Fierce
 Wheel of Misfortune
-Witch's Clinic
 Wound Reflection
 Zo-Zu the Punisher
 Scrawling Crawler
-Valgavoth, Harrower of Souls
 All Will Be One
 Fate Unraveler
 Blood Seeker
 Sanguine Bond
 Vampiric Tutor
+Mana Vault
+Valgavoth, Harrower of Souls

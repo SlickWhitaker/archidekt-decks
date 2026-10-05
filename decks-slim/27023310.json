@@ -1141,16 +1141,6 @@
       "text": "({T}: Add {B}.)"
     },
     {
-      "name": "Path of Ancestry",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
-    },
-    {
       "name": "Plains",
       "quantity": 4,
       "board": "main",
@@ -1223,6 +1213,20 @@
       "text": "{T}: Add one mana of any type that a land you control could produce."
     },
     {
+      "name": "Call the Coppercoats",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Strive — This spell costs {1}{W} more to cast for each target beyond the first.\nChoose any number of target opponents. Create X 1/1 white Human Soldier creature tokens, where X is the number of creatures those opponents control."
+    },
+    {
       "name": "Jace, Multiverse Architect",
       "quantity": 1,
       "board": "commander",
@@ -1243,18 +1247,14 @@
       "text": "At the beginning of combat on each opponent's turn, they may pay {2}. If they don't, creatures they control can't attack Jaces you control this turn.\n+1: Draw two cards, then put a card from your hand on the bottom of your library.\n−3: Exile another target planeswalker or creature you control. Reveal cards from the top of your library until you reveal a creature or planeswalker card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.\nJace, Multiverse Architect can be your commander."
     },
     {
-      "name": "Call the Coppercoats",
+      "name": "Karn's Bastion",
       "quantity": 1,
       "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Strive — This spell costs {1}{W} more to cast for each target beyond the first.\nChoose any number of target opponents. Create X 1/1 white Human Soldier creature tokens, where X is the number of creatures those opponents control."
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
     }
   ]
 }
