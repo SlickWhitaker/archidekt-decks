@@ -14,9 +14,6 @@ Butcher of Malakir
 Canyon Slough
 Chaos Warp
 Chittering Witch
-Chromatic Lantern
-Cinder Barrens
-Akul the Unrepentant
 Command Tower
 Deadly Dispute
 Descent into Avernus
@@ -84,3 +81,6 @@ Vilis, Broker of Blood
 Wayfarer's Bauble
 Bloodghast
 Zulaport Cutthroat
+Skullclamp
+Luxury Suite
+Akul the Unrepentant

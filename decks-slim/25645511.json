@@ -236,45 +236,6 @@
       "text": "When this creature enters, create a number of 1/1 black Rat creature tokens equal to the number of opponents you have.\n{1}{B}, Sacrifice a creature: Target creature gets -2/-2 until end of turn."
     },
     {
-      "name": "Chromatic Lantern",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color."
-    },
-    {
-      "name": "Cinder Barrens",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {B} or {R}."
-    },
-    {
-      "name": "Akul the Unrepentant",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Dragon Rogue Scorpion",
-      "text": "Flying, trample\nSacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn."
-    },
-    {
       "name": "Command Tower",
       "quantity": 1,
       "board": "main",
@@ -1159,6 +1120,45 @@
       "manaValue": 2,
       "type": "Creature — Human Rogue Ally",
       "text": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
+    },
+    {
+      "name": "Skullclamp",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
+    },
+    {
+      "name": "Luxury Suite",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {B} or {R}."
+    },
+    {
+      "name": "Akul the Unrepentant",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Dragon Rogue Scorpion",
+      "text": "Flying, trample\nSacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn."
     }
   ]
 }
