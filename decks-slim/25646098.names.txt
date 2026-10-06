@@ -10,12 +10,10 @@ Aura Shards
 Baxter, Fly in the Ointment
 Beast Whisperer
 Beastmaster Ascension
-Big Apple, 3 a.m.
 Blood Crypt
 Bloom Tender
 Branching Evolution
 Cathars' Crusade
-Chromatic Lantern
 Cinder Glade
 City of Brass
 Command Tower
@@ -86,8 +84,10 @@ Vernal Fen
 Vibrant Cityscape
 Vigor
 Arcade Cabinet
-Michelangelo, the Heart
 Bristly Bill, Spine Sower
 Kodama of the West Tree
-Leonardo, the Balance
 Rishkar, Peema Renegade
+Hardened Scales
+Leonardo, the Balance
+Michelangelo, the Heart
+The Ozolith

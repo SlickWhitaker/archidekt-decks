@@ -79,7 +79,6 @@ Beast Within
 Uktabi Orangutan
 Liquimetal Torque
 Kogla, the Titan Ape
-Scrounging Bandar
 Viridian Revel
 Gorilla Shaman
 Taurean Mauler
@@ -92,3 +91,4 @@ Combat Celebrant
 Ragavan, Nimble Pilferer
 Triumph of the Hordes
 Kibo, Uktabi Prince
+Mycosynth Lattice

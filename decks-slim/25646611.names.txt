@@ -1,6 +1,5 @@
 Jeska's Will
 Arcane Signet
-Archfiend of Despair
 Baleful Mastery
 Black Market Connections
 Blackcleave Cliffs
@@ -44,7 +43,6 @@ Ob Nixilis, Captive Kingpin
 Obosh, the Preypiercer
 Opposition Agent
 Orcish Bowmasters
-Painful Quandary
 Prismatic Vista
 Rakdos Charm
 Rampaging Ferocidon
@@ -85,3 +83,5 @@ Sanguine Bond
 Vampiric Tutor
 Mana Vault
 Valgavoth, Harrower of Souls
+Vito, Thorn of the Dusk Rose
+Mindcrank

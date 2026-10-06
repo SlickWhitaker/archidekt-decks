@@ -65,20 +65,6 @@
       "text": "Flying\nWhenever you cycle or discard another card, put a -1/-1 counter on each creature your opponents control.\nCycling {2} ({2}, Discard this card: Draw a card.)"
     },
     {
-      "name": "Arterial Flow",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Each opponent discards two cards. If you control a Vampire, each opponent loses 2 life and you gain 2 life."
-    },
-    {
       "name": "Asylum Visitor",
       "quantity": 1,
       "board": "main",
@@ -583,20 +569,6 @@
       "text": "Whenever a player casts a spell, that player discards a card."
     },
     {
-      "name": "Painful Quandary",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever an opponent casts a spell, that player loses 5 life unless they discard a card."
-    },
-    {
       "name": "Phyrexian Reclamation",
       "quantity": 1,
       "board": "main",
@@ -755,16 +727,6 @@
       "manaValue": 1,
       "type": "Artifact",
       "text": "{T}: Add {C}{C}."
-    },
-    {
-      "name": "Springleaf Drum",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{T}, Tap an untapped creature you control: Add one mana of any color."
     },
     {
       "name": "Swamp",
@@ -981,6 +943,44 @@
       "manaValue": 1,
       "type": "Sorcery",
       "text": "Vicious Rumors deals 1 damage to each opponent. Each opponent discards a card, then mills a card. You gain 1 life."
+    },
+    {
+      "name": "Jet Medallion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "Black spells you cast cost {1} less to cast."
+    },
+    {
+      "name": "Tergrid, God of Fright // Tergrid's Lantern",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — God",
+      "text": "Tergrid, God of Fright: Menace\nWhenever an opponent sacrifices a nontoken permanent or discards a permanent card, you may put that card from a graveyard onto the battlefield under your control. | Tergrid's Lantern: {T}: Target player loses 3 life unless they sacrifice a nonland permanent of their choice or discard a card.\n{3}{B}: Untap Tergrid's Lantern."
+    },
+    {
+      "name": "Dark Deal",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Each player discards all the cards in their hand, then draws that many cards minus one."
     }
   ]
 }

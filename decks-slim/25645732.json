@@ -124,22 +124,6 @@
       "text": "Search your library for an Equipment card, reveal that card, put it into your hand, then shuffle."
     },
     {
-      "name": "Aerith, Last Ancient",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Green"
-      ],
-      "colorIdentity": [
-        "White",
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human Cleric Druid",
-      "text": "Lifelink\nRaise — At the beginning of your end step, if you gained life this turn, return target creature card from your graveyard to your hand. If you gained 7 or more life this turn, return that card to the battlefield instead."
-    },
-    {
       "name": "Arcane Signet",
       "quantity": 1,
       "board": "main",
@@ -1042,20 +1026,6 @@
       "text": "Tiered (Choose one additional cost.)\n• Somersault — {0} — Target creature gets +2/+2 until end of turn.\n• Meteor Strikes — {2} — Double target creature's power and toughness until end of turn.\n• Final Heaven — {6}{G} — Triple target creature's power and toughness until end of turn."
     },
     {
-      "name": "Ultimate Magic: Holy",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Permanents you control gain indestructible until end of turn. If this spell was cast from exile, prevent all damage that would be dealt to you this turn.\nForetell {2}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)"
-    },
-    {
       "name": "Unfinished Business",
       "quantity": 1,
       "board": "main",
@@ -1152,24 +1122,6 @@
       "text": "Equipped creature gets +1/+1 for each color among permanents you control.\nAs long as this Equipment is attached to a creature, your opponents can't cast spells during your turn.\nEquip {2}"
     },
     {
-      "name": "Cloud, Ex-SOLDIER",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "White",
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "White",
-        "Red",
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Soldier Mercenary",
-      "text": "Haste\nWhen Cloud enters, attach up to one target Equipment you control to it.\nWhenever Cloud attacks, draw a card for each equipped attacking creature you control. Then if Cloud has power 7 or greater, create two Treasure tokens."
-    },
-    {
       "name": "Enlightened Tutor",
       "quantity": 1,
       "board": "main",
@@ -1216,20 +1168,6 @@
       "manaValue": 7,
       "type": "Legendary Artifact — Equipment",
       "text": "Living weapon\nIndestructible\nEquipped creature gets +5/+5 and has first strike, trample, indestructible, haste, and \"Whenever this creature deals combat damage to a creature, exile that creature.\"\nEquip {7}"
-    },
-    {
-      "name": "Armored Skyhunter",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Knight Cat",
-      "text": "Flying\nWhenever this creature attacks, look at the top six cards of your library. You may put an Aura or Equipment card from among them onto the battlefield. If an Equipment is put onto the battlefield this way, you may attach it to a creature you control. Put the rest of those cards on the bottom of your library in a random order."
     },
     {
       "name": "Sram, Senior Edificer",
@@ -1296,6 +1234,68 @@
       "manaValue": 4,
       "type": "Legendary Artifact — Equipment",
       "text": "When Mjölnir enters, it deals 4 damage to up to one target creature.\nDouble all damage equipped creature would deal.\nEquip worthy {1} (A creature is worthy if it's a legendary non-Villain that's red and/or white.)\n{2}{R}, Discard this card: It deals 2 damage to each creature."
+    },
+    {
+      "name": "Akiri, Fearless Voyager",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Warrior Kor",
+      "text": "Whenever you attack a player with one or more equipped creatures, draw a card.\n{W}: You may unattach an Equipment from a creature you control. If you do, tap that creature and it gains indestructible until end of turn."
+    },
+    {
+      "name": "Teferi's Protection",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. (While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)\nExile Teferi's Protection."
+    },
+    {
+      "name": "Cloud, Midgar Mercenary",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Human Soldier Mercenary",
+      "text": "When Cloud enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\nAs long as Cloud is equipped, if a triggered ability of Cloud or an Equipment attached to it triggers, that ability triggers an additional time."
+    },
+    {
+      "name": "Cloud, Ex-SOLDIER",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Green",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Soldier Mercenary",
+      "text": "Haste\nWhen Cloud enters, attach up to one target Equipment you control to it.\nWhenever Cloud attacks, draw a card for each equipped attacking creature you control. Then if Cloud has power 7 or greater, create two Treasure tokens."
     }
   ]
 }

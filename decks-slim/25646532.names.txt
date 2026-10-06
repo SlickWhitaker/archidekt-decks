@@ -2,7 +2,6 @@ Accursed Duneyard
 Aclazotz, Deepest Betrayal // Temple of the Dead
 Arcane Signet
 Archfiend of Ifnir
-Arterial Flow
 Asylum Visitor
 Bandit's Talent
 Boggart Trawler // Boggart Bog
@@ -40,7 +39,6 @@ Necrogoyf
 Nezumi Informant
 Nezumi Shortfang // Stabwhisker the Odious
 Oppression
-Painful Quandary
 Phyrexian Reclamation
 Psychosis Crawler
 Quest for the Nihil Stone
@@ -53,7 +51,6 @@ Shrieking Affliction
 Sign in Blood
 Smallpox
 Sol Ring
-Springleaf Drum
 Swamp
 Syphon Mind
 The Raven Man
@@ -71,3 +68,6 @@ Lightning Greaves
 Scavenger Grounds
 Tinybones, Trinket Thief
 Vicious Rumors
+Jet Medallion
+Tergrid, God of Fright // Tergrid's Lantern
+Dark Deal

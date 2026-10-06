@@ -35,7 +35,6 @@ Jacked Rabbit
 Jubilant Skybonder
 Kindred Discovery
 Ledger Shredder
-Mabel, Heir to Cragflame
 Martial Coup
 Migratory Route
 Mind Stone
@@ -66,7 +65,6 @@ Skullclamp
 Skyclave Apparition
 Skycloud Expanse
 Sol Ring
-Soulcatchers' Aerie
 Steam Vents
 Storm of Souls
 Sulfur Falls
@@ -89,4 +87,6 @@ Zinnia, Valley's Voice
 Fiend Hunter
 Academy Manufactor
 Cathars' Crusade
-Helm of the Host
+Purphoros, God of the Forge
+Panharmonicon
+Delney, Streetwise Lookout

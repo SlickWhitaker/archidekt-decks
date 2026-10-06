@@ -1,6 +1,5 @@
 Chrome Mox
 Devilish Valet
-Krenko, Mob Boss
 Ashnod's Altar
 Goblin Bombardment
 Aggravated Assault
@@ -34,7 +33,6 @@ Goblin Warchief
 Heat Shimmer
 Goro-Goro, Disciple of Ryusei
 Grenzo, Havoc Raiser
-Hazoret's Monument
 Hobgoblin Bandit Lord
 Illusionist's Bracers
 Impact Tremors
@@ -76,3 +74,6 @@ War Room
 Arena of Glory
 Sokenzan, Crucible of Defiance
 Goblin Piledriver
+Three Tree City
+Krenko, Mob Boss
+The Fire Crystal

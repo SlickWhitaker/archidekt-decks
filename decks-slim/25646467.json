@@ -41,20 +41,6 @@
       "text": "Trample, haste\nAlliance — Whenever another creature you control enters, double this creature's power until end of turn."
     },
     {
-      "name": "Krenko, Mob Boss",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Goblin Warrior",
-      "text": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control."
-    },
-    {
       "name": "Ashnod's Altar",
       "quantity": 1,
       "board": "main",
@@ -497,16 +483,6 @@
       "text": "Whenever a creature you control deals combat damage to a player, choose one —\n• Goad target creature that player controls.\n• Exile the top card of that player's library. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell."
     },
     {
-      "name": "Hazoret's Monument",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Legendary Artifact",
-      "text": "Red creature spells you cast cost {1} less to cast.\nWhenever you cast a creature spell, you may discard a card. If you do, draw a card."
-    },
-    {
       "name": "Hobgoblin Bandit Lord",
       "quantity": 1,
       "board": "main",
@@ -688,7 +664,7 @@
     },
     {
       "name": "Mountain",
-      "quantity": 23,
+      "quantity": 22,
       "board": "main",
       "colors": [],
       "colorIdentity": [
@@ -1021,6 +997,44 @@
       "manaValue": 2,
       "type": "Creature — Goblin Warrior",
       "text": "Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)\nWhenever this creature attacks, it gets +2/+0 until end of turn for each other attacking Goblin."
+    },
+    {
+      "name": "Three Tree City",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "As Three Tree City enters, choose a creature type.\n{T}: Add {C}.\n{2}, {T}: Choose a color. Add an amount of mana of that color equal to the number of creatures you control of the chosen type."
+    },
+    {
+      "name": "Krenko, Mob Boss",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Goblin Warrior",
+      "text": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control."
+    },
+    {
+      "name": "The Fire Crystal",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Artifact",
+      "text": "Red spells you cast cost {1} less to cast.\nCreatures you control have haste.\n{4}{R}{R}, {T}: Create a token that's a copy of target creature you control. Sacrifice it at the beginning of the next end step."
     }
   ]
 }

@@ -287,22 +287,6 @@
       "text": "This land enters tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}."
     },
     {
-      "name": "Dreadbore",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Destroy target creature or planeswalker."
-    },
-    {
       "name": "Drossforge Bridge",
       "quantity": 1,
       "board": "main",
@@ -1159,6 +1143,20 @@
       "manaValue": 4,
       "type": "Legendary Creature — Dragon Rogue Scorpion",
       "text": "Flying, trample\nSacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn."
+    },
+    {
+      "name": "Ophiomancer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Shaman",
+      "text": "At the beginning of each upkeep, if you control no Snakes, create a 1/1 black Snake creature token with deathtouch."
     }
   ]
 }

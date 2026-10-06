@@ -18,7 +18,6 @@ Command Tower
 Deadly Dispute
 Descent into Avernus
 Dragonskull Summit
-Dreadbore
 Drossforge Bridge
 Endrek Sahr, Master Breeder
 Etali, Primal Storm
@@ -84,3 +83,4 @@ Zulaport Cutthroat
 Skullclamp
 Luxury Suite
 Akul the Unrepentant
+Ophiomancer

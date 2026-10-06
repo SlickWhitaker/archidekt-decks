@@ -489,20 +489,6 @@
       "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCreatures you control gain indestructible until end of turn."
     },
     {
-      "name": "Generous Gift",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Destroy target permanent. Its controller creates a 3/3 green Elephant creature token."
-    },
-    {
       "name": "Godless Shrine",
       "quantity": 1,
       "board": "main",
@@ -551,36 +537,6 @@
       "manaValue": 4,
       "type": "Legendary Creature — Vampire Warrior",
       "text": "Lifelink\nIf a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.\n{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas."
-    },
-    {
-      "name": "Legion Lieutenant",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Black"
-      ],
-      "colorIdentity": [
-        "White",
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Knight Vampire",
-      "text": "Other Vampires you control get +1/+1."
-    },
-    {
-      "name": "Legion's Landing // Adanto, the First Fort",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 1,
-      "type": "Legendary Enchantment",
-      "text": "Legion's Landing: When Legion's Landing enters, create a 1/1 white Vampire creature token with lifelink.\nWhen you attack with three or more creatures, transform Legion's Landing. | Adanto, the First Fort: (Transforms from Legion's Landing.)\n{T}: Add {W}.\n{2}{W}, {T}: Create a 1/1 white Vampire creature token with lifelink."
     },
     {
       "name": "Living Death",
@@ -1177,24 +1133,6 @@
       "text": "Protection from Humans\nPay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card.\n{B}{B}, Discard a card: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
     },
     {
-      "name": "Edgar Markov",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "White",
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "White",
-        "Black",
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Legendary Creature — Knight Vampire",
-      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
-    },
-    {
       "name": "Edgar, Ancient Bloodlord",
       "quantity": 1,
       "board": "main",
@@ -1225,6 +1163,66 @@
       "manaValue": 5,
       "type": "Legendary Creature — Vampire Soldier",
       "text": "Flying\nWhenever a player sacrifices a permanent, put a +1/+1 counter on Carmen and you gain 1 life.\nWhenever Carmen attacks, return up to one target permanent card with mana value less than or equal to Carmen's power from your graveyard to the battlefield."
+    },
+    {
+      "name": "Edgar Markov",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "manaValue": 6,
+      "type": "Legendary Creature — Knight Vampire",
+      "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
+    },
+    {
+      "name": "Master of Dark Rites",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Vampire Cleric",
+      "text": "{T}, Sacrifice another creature: Add {B}{B}{B}. Spend this mana only to cast Vampire, Cleric, and/or Demon spells."
+    },
+    {
+      "name": "Enlightened Tutor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
+    },
+    {
+      "name": "Marauding Blight-Priest",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Vampire Cleric",
+      "text": "Whenever you gain life, each opponent loses 1 life."
     }
   ]
 }

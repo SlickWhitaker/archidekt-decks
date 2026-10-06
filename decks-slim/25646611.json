@@ -42,20 +42,6 @@
       "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
-      "name": "Archfiend of Despair",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 8,
-      "type": "Creature — Demon",
-      "text": "Flying\nYour opponents can't gain life.\nAt the beginning of each end step, each opponent loses life equal to the life that player lost this turn. (Damage causes loss of life.)"
-    },
-    {
       "name": "Baleful Mastery",
       "quantity": 1,
       "board": "main",
@@ -642,20 +628,6 @@
       "text": "Flash\nWhen this creature enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, this creature deals 1 damage to any target. Then amass Orcs 1."
     },
     {
-      "name": "Painful Quandary",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "Whenever an opponent casts a spell, that player loses 5 life unless they discard a card."
-    },
-    {
       "name": "Prismatic Vista",
       "quantity": 1,
       "board": "main",
@@ -1189,6 +1161,30 @@
       "manaValue": 4,
       "type": "Legendary Creature — Elder Demon",
       "text": "Flying\nWard—Pay 2 life.\nWhenever an opponent loses life for the first time during each of their turns, put a +1/+1 counter on Valgavoth and draw a card."
+    },
+    {
+      "name": "Vito, Thorn of the Dusk Rose",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Vampire Cleric",
+      "text": "Whenever you gain life, target opponent loses that much life.\n{3}{B}{B}: Creatures you control gain lifelink until end of turn."
+    },
+    {
+      "name": "Mindcrank",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)"
     }
   ]
 }

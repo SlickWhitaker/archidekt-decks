@@ -6,7 +6,6 @@ Temple Garden
 Forge Anew
 Hammer of Nazahn
 Steelshaper's Gift
-Aerith, Last Ancient
 Arcane Signet
 Austere Command
 Barret, Avalanche Leader
@@ -78,7 +77,6 @@ Sword of the Animist
 Swords to Plowshares
 Tifa, Martial Artist
 Tifa's Limit Break
-Ultimate Magic: Holy
 Unfinished Business
 Vandalblast
 Wood Elves
@@ -87,14 +85,16 @@ Sword of Forge and Frontier
 Conformer Shuriken
 Wrecking Ball Arm
 Conqueror's Flail
-Cloud, Ex-SOLDIER
 Enlightened Tutor
 The Reaver Cleaver
 Sword of Feast and Famine
 Kaldra Compleat
-Armored Skyhunter
 Sram, Senior Edificer
 Danitha Capashen, Paragon
 Bloodforged Battle-Axe
 Professor Hojo
 Mjölnir, Hammer of Thor
+Akiri, Fearless Voyager
+Teferi's Protection
+Cloud, Midgar Mercenary
+Cloud, Ex-SOLDIER
