@@ -1,3 +1,13 @@
+Quirion Ranger
+Breeding Pool
+Sylvan Safekeeper
+Sakashima of a Thousand Faces
+Cyclonic Rift
+Nature's Claim
+Force of Vigor
+Force of Will
+Green Sun's Zenith
+Chord of Calling
 Scalding Tarn
 Bloodstained Mire
 Aesi, Tyrant of Gyre Strait
@@ -18,21 +28,16 @@ Crucible of Worlds
 Dakmor Salvage
 Demonic Tutor
 Dimir Aqueduct
-Entish Restoration
 Exploration
 Fabled Passage
-Farseek
 Flooded Strand
 Forest
 Golgari Rot Farm
-Growth Spiral
 Harrow
 Hedron Crab
 Heroic Intervention
-Icetill Explorer
 Island
 Kodama of the East Tree
-Lightning Greaves
 Llanowar Elves
 Lotus Cobra
 Mana Drain
@@ -55,10 +60,7 @@ Sylvan Scrying
 Tatyova, Benthic Druid
 The Gitrog Monster
 Tireless Provisioner
-Trade Routes
-Uchuulon
 Vampiric Tutor
-Walking Atlas
 Worldly Tutor
 Yarok, the Desecrated
 Life from the Loam
@@ -67,7 +69,6 @@ Nature's Lore
 Ramunap Excavator
 Three Visits
 Fierce Guardianship
-Aftermath Analyst
 Sakura-Tribe Scout
 Misty Rainforest
 Prismatic Vista
@@ -84,4 +85,3 @@ Nissa, Resurgent Animist
 Finale of Devastation
 Veil of Summer
 Field of the Dead
-Llanowar Scout

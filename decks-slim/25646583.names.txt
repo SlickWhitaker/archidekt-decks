@@ -1,4 +1,15 @@
 Fierce Guardianship
+The Great Henge
+Finale of Devastation
+Boseiju, Who Endures
+Vampiric Tutor
+Chord of Calling
+Eternal Witness
+Exotic Orchard
+Living Death
+Agatha's Soul Cauldron
+Uugguu, the Omniplasm
+Agadeem's Awakening // Agadeem, the Undercrypt
 Adrix and Nev, Twincasters
 Aeve, Progenitor Ooze
 Altar of Dementia
@@ -17,7 +28,6 @@ Dreamroot Cascade
 Drowned Catacomb
 Experiment Kraj
 Forest
-Gelatinous Cube
 Glasspool Mimic // Glasspool Shore
 Greater Good
 Green Slime
@@ -31,10 +41,7 @@ Mimeoplasm, Revered One
 Misty Rainforest
 Mitotic Slime
 Morphic Pool
-Mosswort Bridge
 Ochre Jelly
-Omni-Changeling
-Opulent Palace
 Oran-Rief Ooze
 Overgrown Tomb
 Parallel Lives
@@ -43,7 +50,6 @@ Phantasmal Image
 Phyrexian Altar
 Phyrexian Tower
 Polluted Delta
-Predator Ooze
 Prime Speaker Vannifar
 Rejuvenating Springs
 Roaming Throne
@@ -51,12 +57,10 @@ Shipwreck Marsh
 Slurrk, All-Ingesting
 Sol Ring
 Sunken Hollow
-Susur Secundi, Void Altar
 Swamp
 Talisman of Curiosity
 Talisman of Dominance
 Talisman of Resilience
-The Mimeoplasm
 Three Tree City
 Uchuulon
 Undergrowth Stadium
@@ -72,7 +76,6 @@ Saw in Half
 Heroic Intervention
 Chthonian Nightmare
 Phyrexian Metamorph
-Arcane Adaptation
 Demonic Tutor
 Malakir Rebirth // Malakir Mire
 Assassin's Trophy
@@ -82,16 +85,13 @@ Maskwood Nexus
 Skullclamp
 Necrotic Ooze
 Chomping Changeling
-Victimize
 Acidic Slime
 Pitiless Plunderer
 Altar of the Brood
-Slick Imitator
 Nim Deathmantle
 Hecteyes
 Kinetic Ooze
 Drivnod, Carnage Dominus
 Reanimate
 Consuming Blob
-Uugguu, the Omniplasm
 Diabolic Intent

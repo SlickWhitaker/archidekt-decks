@@ -33,6 +33,154 @@
       "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
     },
     {
+      "name": "The Great Henge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 9,
+      "type": "Legendary Artifact",
+      "text": "This spell costs {X} less to cast, where X is the greatest power among creatures you control.\n{T}: Add {G}{G}. You gain 2 life.\nWhenever a nontoken creature you control enters, put a +1/+1 counter on it and draw a card."
+    },
+    {
+      "name": "Finale of Devastation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If you search your library this way, shuffle. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn."
+    },
+    {
+      "name": "Boseiju, Who Endures",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {G}.\nChannel — {1}{G}, Discard this card: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control."
+    },
+    {
+      "name": "Vampiric Tutor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Search your library for a card, then shuffle and put that card on top. You lose 2 life."
+    },
+    {
+      "name": "Chord of Calling",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nSearch your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Eternal Witness",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Shaman",
+      "text": "When this creature enters, you may return target card from your graveyard to your hand."
+    },
+    {
+      "name": "Exotic Orchard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+      "name": "Living Death",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Sorcery",
+      "text": "Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield."
+    },
+    {
+      "name": "Agatha's Soul Cauldron",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Legendary Artifact",
+      "text": "You may spend mana as though it were mana of any color to activate abilities of creatures you control.\nCreatures you control with +1/+1 counters on them have all activated abilities of all creature cards exiled with Agatha's Soul Cauldron.\n{T}: Exile target card from a graveyard. When a creature card is exiled this way, put a +1/+1 counter on target creature you control."
+    },
+    {
+      "name": "Uugguu, the Omniplasm",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "Green",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Ooze",
+      "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
+    },
+    {
+      "name": "Agadeem's Awakening // Agadeem, the Undercrypt",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Agadeem's Awakening: Return from your graveyard to the battlefield any number of target creature cards that each have a different mana value X or less. | Agadeem, the Undercrypt: As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {B}."
+    },
+    {
       "name": "Adrix and Nev, Twincasters",
       "quantity": 1,
       "board": "main",
@@ -262,20 +410,6 @@
       "text": "({T}: Add {G}.)"
     },
     {
-      "name": "Gelatinous Cube",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Ooze",
-      "text": "Engulf — When this creature enters, exile target non-Ooze creature an opponent controls until this creature leaves the battlefield.\nDissolve — {X}{B}: Put target creature card with mana value X exiled with this creature into its owner's graveyard."
-    },
-    {
       "name": "Glasspool Mimic // Glasspool Shore",
       "quantity": 1,
       "board": "main",
@@ -445,18 +579,6 @@
       "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {U} or {B}."
     },
     {
-      "name": "Mosswort Bridge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)\nThis land enters tapped.\n{T}: Add {G}.\n{G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater."
-    },
-    {
       "name": "Ochre Jelly",
       "quantity": 1,
       "board": "main",
@@ -469,34 +591,6 @@
       "manaValue": 1,
       "type": "Creature — Ooze",
       "text": "Trample\nThis creature enters with X +1/+1 counters on it.\nSplit — When this creature dies, if it had two or more +1/+1 counters on it, create a token that's a copy of it at the beginning of the next end step. The token enters with half that many +1/+1 counters on it, rounded down."
-    },
-    {
-      "name": "Omni-Changeling",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Shapeshifter",
-      "text": "Changeling (This card is every creature type.)\nConvoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nYou may have this creature enter as a copy of any creature on the battlefield, except it has changeling."
-    },
-    {
-      "name": "Opulent Palace",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue",
-        "Black",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {B}, {G}, or {U}."
     },
     {
       "name": "Oran-Rief Ooze",
@@ -596,20 +690,6 @@
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
     },
     {
-      "name": "Predator Ooze",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Ooze",
-      "text": "Indestructible (Damage and effects that say \"destroy\" don't destroy this creature.)\nWhenever this creature attacks, put a +1/+1 counter on it.\nWhenever a creature dealt damage by this creature this turn dies, put a +1/+1 counter on this creature."
-    },
-    {
       "name": "Prime Speaker Vannifar",
       "quantity": 1,
       "board": "main",
@@ -699,18 +779,6 @@
       "text": "({T}: Add {U} or {B}.)\nThis land enters tapped unless you control two or more basic lands."
     },
     {
-      "name": "Susur Secundi, Void Altar",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Land — Planet",
-      "text": "This land enters tapped.\n{T}: Add {B}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\n12+ | {1}{B}, {T}, Pay 2 life, Sacrifice a creature: Draw cards equal to the sacrificed creature's power. Activate only as a sorcery."
-    },
-    {
       "name": "Swamp",
       "quantity": 2,
       "board": "main",
@@ -760,24 +828,6 @@
       "manaValue": 2,
       "type": "Artifact",
       "text": "{T}: Add {C}.\n{T}: Add {B} or {G}. This artifact deals 1 damage to you."
-    },
-    {
-      "name": "The Mimeoplasm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Black",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Black",
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Ooze",
-      "text": "As The Mimeoplasm enters, you may exile two creature cards from graveyards. If you do, it enters as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card."
     },
     {
       "name": "Three Tree City",
@@ -967,20 +1017,6 @@
       "text": "({U/P} can be paid with either {U} or 2 life.)\nYou may have this creature enter as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types."
     },
     {
-      "name": "Arcane Adaptation",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "As this enchantment enters, choose a creature type.\nCreatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield."
-    },
-    {
       "name": "Demonic Tutor",
       "quantity": 1,
       "board": "main",
@@ -1101,20 +1137,6 @@
       "text": "Changeling (This card is every creature type.)\nWhen this creature enters, destroy up to one target artifact or enchantment."
     },
     {
-      "name": "Victimize",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped."
-    },
-    {
       "name": "Acidic Slime",
       "quantity": 1,
       "board": "main",
@@ -1151,20 +1173,6 @@
       "manaValue": 1,
       "type": "Artifact",
       "text": "Whenever another permanent you control enters, each opponent mills a card."
-    },
-    {
-      "name": "Slick Imitator",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Ooze",
-      "text": "Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\nMax speed — {1}, Sacrifice this creature: Copy target spell you control. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)"
     },
     {
       "name": "Nim Deathmantle",
@@ -1245,24 +1253,6 @@
       "manaValue": 5,
       "type": "Creature — Ooze",
       "text": "Consuming Blob's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.\nAt the beginning of your end step, create a green Ooze creature token with \"This token's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.\""
-    },
-    {
-      "name": "Uugguu, the Omniplasm",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "Green",
-        "Black",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Black",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Ooze",
-      "text": "Whenever another nontoken Ooze creature you control dies, create two tokens that are copies of that creature, except they're 2/2 and they aren't legendary."
     },
     {
       "name": "Diabolic Intent",

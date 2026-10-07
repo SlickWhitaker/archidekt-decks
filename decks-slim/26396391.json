@@ -19,6 +19,145 @@
   },
   "cards": [
     {
+      "name": "Quirion Ranger",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Elf Ranger",
+      "text": "Return a Forest you control to its owner's hand: Untap target creature. Activate only once each turn."
+    },
+    {
+      "name": "Breeding Pool",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Forest",
+      "text": "({T}: Add {G} or {U}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Sylvan Safekeeper",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Human Wizard",
+      "text": "Sacrifice a land: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)"
+    },
+    {
+      "name": "Sakashima of a Thousand Faces",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Rogue",
+      "text": "You may have Sakashima enter as a copy of another creature you control, except it has Sakashima's other abilities.\nThe \"legend rule\" doesn't apply to permanents you control.\nPartner (You can have two commanders if both have partner.)"
+    },
+    {
+      "name": "Cyclonic Rift",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
+    },
+    {
+      "name": "Nature's Claim",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Destroy target artifact or enchantment. Its controller gains 4 life."
+    },
+    {
+      "name": "Force of Vigor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Instant",
+      "text": "If it's not your turn, you may exile a green card from your hand rather than pay this spell's mana cost.\nDestroy up to two target artifacts and/or enchantments."
+    },
+    {
+      "name": "Force of Will",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Instant",
+      "text": "You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target spell."
+    },
+    {
+      "name": "Green Sun's Zenith",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Search your library for a green creature card with mana value X or less, put it onto the battlefield, then shuffle. Shuffle Green Sun's Zenith into its owner's library."
+    },
+    {
+      "name": "Chord of Calling",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nSearch your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle."
+    },
+    {
       "name": "Scalding Tarn",
       "quantity": 1,
       "board": "main",
@@ -270,20 +409,6 @@
       "text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {U}{B}."
     },
     {
-      "name": "Entish Restoration",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. If you control a creature with power 4 or greater, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle."
-    },
-    {
       "name": "Exploration",
       "quantity": 1,
       "board": "main",
@@ -306,20 +431,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
-    },
-    {
-      "name": "Farseek",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle."
     },
     {
       "name": "Flooded Strand",
@@ -355,22 +466,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {B}{G}."
-    },
-    {
-      "name": "Growth Spiral",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Draw a card. You may put a land card from your hand onto the battlefield."
     },
     {
       "name": "Harrow",
@@ -415,20 +510,6 @@
       "text": "Permanents you control gain hexproof and indestructible until end of turn."
     },
     {
-      "name": "Icetill Explorer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Scout Insect",
-      "text": "You may play an additional land on each of your turns.\nYou may play lands from your graveyard.\nLandfall — Whenever a land you control enters, mill a card."
-    },
-    {
       "name": "Island",
       "quantity": 5,
       "board": "main",
@@ -453,16 +534,6 @@
       "manaValue": 6,
       "type": "Legendary Creature — Spirit",
       "text": "Reach\nWhenever another permanent you control enters, if it wasn't put onto the battlefield with this ability, you may put a permanent card with equal or lesser mana value from your hand onto the battlefield.\nPartner (You can have two commanders if both have partner.)"
-    },
-    {
-      "name": "Lightning Greaves",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}"
     },
     {
       "name": "Llanowar Elves",
@@ -756,34 +827,6 @@
       "text": "Landfall — Whenever a land you control enters, create a Food token or a Treasure token. (Food is an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\" Treasure is an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
     },
     {
-      "name": "Trade Routes",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "{1}: Return target land you control to its owner's hand.\n{1}, Discard a land card: Draw a card."
-    },
-    {
-      "name": "Uchuulon",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Creature — Ooze Crab Horror",
-      "text": "Uchuulon's power is equal to the number of Crabs, Oozes, and/or Horrors you control.\nHorrific Symbiosis — At the beginning of your end step, exile up to one target creature card from an opponent's graveyard. If you do, create a token that's a copy of this creature."
-    },
-    {
       "name": "Vampiric Tutor",
       "quantity": 1,
       "board": "main",
@@ -796,16 +839,6 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Search your library for a card, then shuffle and put that card on top. You lose 2 life."
-    },
-    {
-      "name": "Walking Atlas",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Creature Artifact — Construct",
-      "text": "{T}: You may put a land card from your hand onto the battlefield."
     },
     {
       "name": "Worldly Tutor",
@@ -920,20 +953,6 @@
       "manaValue": 3,
       "type": "Instant",
       "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
-    },
-    {
-      "name": "Aftermath Analyst",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Elf Detective",
-      "text": "When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)\n{3}{G}, Sacrifice this creature: Return all land cards from your graveyard to the battlefield tapped."
     },
     {
       "name": "Sakura-Tribe Scout",
@@ -1142,20 +1161,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token."
-    },
-    {
-      "name": "Llanowar Scout",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Elf Scout",
-      "text": "{T}: You may put a land card from your hand onto the battlefield."
     }
   ]
 }
