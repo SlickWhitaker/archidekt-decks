@@ -72,9 +72,9 @@
       "namesFile": "25645732.names.txt",
       "cardsFile": "25645732.cards.jsonl",
       "metaFile": "25645732.meta.json",
-      "fullBytes": 310645,
-      "analysisBytes": 31935,
-      "reductionPercent": 89.7
+      "fullBytes": 310299,
+      "analysisBytes": 31665,
+      "reductionPercent": 89.8
     },
     {
       "id": 25645835,
@@ -231,8 +231,8 @@
       "namesFile": "25646098.names.txt",
       "cardsFile": "25646098.cards.jsonl",
       "metaFile": "25646098.meta.json",
-      "fullBytes": 292187,
-      "analysisBytes": 31076,
+      "fullBytes": 291987,
+      "analysisBytes": 30999,
       "reductionPercent": 89.4
     },
     {
@@ -256,8 +256,8 @@
       "namesFile": "25646416.names.txt",
       "cardsFile": "25646416.cards.jsonl",
       "metaFile": "25646416.meta.json",
-      "fullBytes": 293152,
-      "analysisBytes": 29059,
+      "fullBytes": 293395,
+      "analysisBytes": 29176,
       "reductionPercent": 90.1
     },
     {
@@ -330,8 +330,8 @@
       "namesFile": "25646532.names.txt",
       "cardsFile": "25646532.cards.jsonl",
       "metaFile": "25646532.meta.json",
-      "fullBytes": 231602,
-      "analysisBytes": 23209,
+      "fullBytes": 231626,
+      "analysisBytes": 23154,
       "reductionPercent": 90.0
     },
     {
@@ -537,33 +537,6 @@
       "fullBytes": 276952,
       "analysisBytes": 27834,
       "reductionPercent": 89.9
-    },
-    {
-      "id": 27023310,
-      "name": "Multiverse Reforged - Reality Fracture",
-      "format": 3,
-      "commander": [
-        "Jace, Multiverse Architect"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Blue",
-        "Red",
-        "White"
-      ],
-      "counts": {
-        "main": 99,
-        "commander": 1,
-        "maybeboard": 0,
-        "sideboard": 0,
-        "total": 100
-      },
-      "namesFile": "27023310.names.txt",
-      "cardsFile": "27023310.cards.jsonl",
-      "metaFile": "27023310.meta.json",
-      "fullBytes": 285892,
-      "analysisBytes": 30021,
-      "reductionPercent": 89.5
     }
   ]
 }

@@ -19,6 +19,34 @@
   },
   "cards": [
     {
+      "name": "Armory Automaton",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Creature Artifact — Construct",
+      "text": "Whenever this creature enters or attacks, you may attach any number of target Equipment to it. (Control of the Equipment doesn't change.)"
+    },
+    {
+      "name": "Cloud, Ex-SOLDIER",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Green",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Soldier Mercenary",
+      "text": "Haste\nWhen Cloud enters, attach up to one target Equipment you control to it.\nWhenever Cloud attacks, draw a card for each equipped attacking creature you control. Then if Cloud has power 7 or greater, create two Treasure tokens."
+    },
+    {
       "name": "Aggravated Assault",
       "quantity": 1,
       "board": "main",
@@ -547,20 +575,6 @@
       "manaValue": 0,
       "type": "Land — Town",
       "text": "This land enters tapped.\n{T}: Add {R} or {G}."
-    },
-    {
-      "name": "Kíli the Resourceful",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Scout Dwarf",
-      "text": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, you may pay {0} rather than pay the equip cost of the first equip ability you activate each turn.\nWhenever another Dwarf or Equipment you control enters, draw a card. This ability triggers only once each turn."
     },
     {
       "name": "Lightning Greaves",
@@ -1278,24 +1292,6 @@
       "manaValue": 2,
       "type": "Legendary Creature — Human Soldier Mercenary",
       "text": "When Cloud enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\nAs long as Cloud is equipped, if a triggered ability of Cloud or an Equipment attached to it triggers, that ability triggers an additional time."
-    },
-    {
-      "name": "Cloud, Ex-SOLDIER",
-      "quantity": 1,
-      "board": "commander",
-      "colors": [
-        "White",
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "White",
-        "Red",
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Human Soldier Mercenary",
-      "text": "Haste\nWhen Cloud enters, attach up to one target Equipment you control to it.\nWhenever Cloud attacks, draw a card for each equipped attacking creature you control. Then if Cloud has power 7 or greater, create two Treasure tokens."
     }
   ]
 }

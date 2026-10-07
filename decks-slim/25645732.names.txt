@@ -1,3 +1,5 @@
+Armory Automaton
+Cloud, Ex-SOLDIER
 Aggravated Assault
 Ardenn, Intrepid Archaeologist
 Blackblade Reforged
@@ -39,7 +41,6 @@ Forest
 Fortified Village
 Furycalm Snarl
 Gongaga, Reactor Town
-Kíli the Resourceful
 Lightning Greaves
 Mithril Coat
 Mossfire Valley
@@ -97,4 +98,3 @@ Mjölnir, Hammer of Thor
 Akiri, Fearless Voyager
 Teferi's Protection
 Cloud, Midgar Mercenary
-Cloud, Ex-SOLDIER

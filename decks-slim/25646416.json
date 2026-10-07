@@ -18,6 +18,20 @@
   },
   "cards": [
     {
+      "name": "Gearbane Orangutan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Ape",
+      "text": "Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature."
+    },
+    {
       "name": "Return of the Wildspeaker",
       "quantity": 1,
       "board": "main",
@@ -1014,20 +1028,6 @@
       "manaValue": 3,
       "type": "Instant",
       "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
-    },
-    {
-      "name": "Uktabi Orangutan",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Ape",
-      "text": "When this creature enters, destroy target artifact."
     },
     {
       "name": "Liquimetal Torque",

@@ -22,6 +22,22 @@
   },
   "cards": [
     {
+      "name": "Corpsejack Menace",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Fungus",
+      "text": "If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on it instead."
+    },
+    {
       "name": "Academy Manufactor",
       "quantity": 1,
       "board": "main",
@@ -144,20 +160,6 @@
       "manaValue": 3,
       "type": "Enchantment",
       "text": "Whenever a creature you control enters, you may destroy target artifact or enchantment."
-    },
-    {
-      "name": "Baxter, Fly in the Ointment",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Mutant Insect Scientist",
-      "text": "Whenever Baxter enters or attacks, each creature you control with a counter on it gains flying until end of turn.\nWhenever you draw a card, put a +1/+1 counter on Baxter."
     },
     {
       "name": "Beast Whisperer",
