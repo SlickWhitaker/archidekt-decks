@@ -452,8 +452,8 @@
       "quantity": 1,
       "board": "main",
       "colors": [
-        "Black",
         "White",
+        "Black",
         "Blue"
       ],
       "colorIdentity": [
