@@ -1,0 +1,20 @@
+{
+  "id": 27360262,
+  "name": "Odds and Ends - Secret Lair Commander",
+  "format": 3,
+  "commander": [
+    "Yennett, Cryptic Sovereign"
+  ],
+  "colorIdentity": [
+    "Black",
+    "Blue",
+    "White"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}

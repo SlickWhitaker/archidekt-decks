@@ -99,7 +99,7 @@
       "namesFile": "25645835.names.txt",
       "cardsFile": "25645835.cards.jsonl",
       "metaFile": "25645835.meta.json",
-      "fullBytes": 307775,
+      "fullBytes": 307790,
       "analysisBytes": 35917,
       "reductionPercent": 88.3
     },
@@ -537,6 +537,32 @@
       "fullBytes": 276965,
       "analysisBytes": 27834,
       "reductionPercent": 90.0
+    },
+    {
+      "id": 27360262,
+      "name": "Odds and Ends - Secret Lair Commander",
+      "format": 3,
+      "commander": [
+        "Yennett, Cryptic Sovereign"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Blue",
+        "White"
+      ],
+      "counts": {
+        "main": 99,
+        "commander": 1,
+        "maybeboard": 0,
+        "sideboard": 0,
+        "total": 100
+      },
+      "namesFile": "27360262.names.txt",
+      "cardsFile": "27360262.cards.jsonl",
+      "metaFile": "27360262.meta.json",
+      "fullBytes": 282045,
+      "analysisBytes": 31008,
+      "reductionPercent": 89.0
     }
   ]
 }

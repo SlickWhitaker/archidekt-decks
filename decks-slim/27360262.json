@@ -1,0 +1,1218 @@
+{
+  "id": 27360262,
+  "name": "Odds and Ends - Secret Lair Commander",
+  "format": 3,
+  "commander": [
+    "Yennett, Cryptic Sovereign"
+  ],
+  "colorIdentity": [
+    "Black",
+    "Blue",
+    "White"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  },
+  "cards": [
+    {
+      "name": "Void Winnower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 9,
+      "type": "Creature — Eldrazi",
+      "text": "Your opponents can't cast spells with even mana values. (Zero is even.)\nYour opponents can't block with creatures with even mana values."
+    },
+    {
+      "name": "Esper Sentinel",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Creature Artifact — Human Soldier",
+      "text": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power."
+    },
+    {
+      "name": "Weathered Wayfarer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Human Cleric Nomad",
+      "text": "{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you."
+    },
+    {
+      "name": "Misleading Signpost",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "Flash\nWhen this artifact enters during the declare attackers step, you may reselect which player or permanent target attacking creature is attacking. (It can't attack its controller or their permanents.)\n{T}: Add {U}."
+    },
+    {
+      "name": "Aboleth Spawn",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Horror Fish",
+      "text": "Flash\nWard {2}\nProbing Telepathy — Whenever a creature entering under an opponent's control causes a triggered ability of that creature to trigger, you may copy that ability. You may choose new targets for the copy."
+    },
+    {
+      "name": "Aeon Engine",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 5,
+      "type": "Artifact",
+      "text": "This artifact enters tapped.\n{T}, Exile this artifact: Reverse the game's turn order. (For example, if play had proceeded clockwise around the table, it now goes counterclockwise.)"
+    },
+    {
+      "name": "Aminatou, the Fateshifter",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Planeswalker — Aminatou",
+      "text": "+1: Draw a card, then put a card from your hand on top of your library.\n−1: Exile another target permanent you own, then return it to the battlefield under your control.\n−6: Choose left or right. Each player gains control of all nonland permanents other than Aminatou controlled by the next player in the chosen direction.\nAminatou, the Fateshifter can be your commander."
+    },
+    {
+      "name": "Virtue of Persistence // Locthwain Scorn",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 7,
+      "type": "Enchantment",
+      "text": "Virtue of Persistence: At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control. | Locthwain Scorn: Target creature gets -3/-3 until end of turn. You gain 2 life."
+    },
+    {
+      "name": "Shadrix Silverquill",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Elder Dragon",
+      "text": "Flying, double strike\nAt the beginning of combat on your turn, you may choose two. Each mode must target a different player.\n• Target player creates a 2/1 white and black Inkling creature token with flying.\n• Target player draws a card and loses 1 life.\n• Target player puts a +1/+1 counter on each creature they control."
+    },
+    {
+      "name": "Breach the Multiverse",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 7,
+      "type": "Sorcery",
+      "text": "Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types."
+    },
+    {
+      "name": "Arcane Signet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Sol Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{T}: Add {C}{C}."
+    },
+    {
+      "name": "Aerial Extortionist",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Soldier Bird",
+      "text": "Flying\nWhenever this creature enters or deals combat damage to a player, exile up to one target nonland permanent. For as long as that card remains exiled, its owner may cast it.\nWhenever another player casts a spell from anywhere other than their hand, draw a card."
+    },
+    {
+      "name": "Reconnaissance",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment",
+      "text": "{0}: Remove target attacking creature you control from combat and untap it. (If you activate during end of combat, the creature will untap after it deals combat damage.)"
+    },
+    {
+      "name": "Swords to Plowshares",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Exile target creature. Its controller gains life equal to its power."
+    },
+    {
+      "name": "Adarkar Wastes",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {U}. This land deals 1 damage to you."
+    },
+    {
+      "name": "Arcane Sanctum",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {W}, {U}, or {B}."
+    },
+    {
+      "name": "Breena, the Demagogue",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Bird Warlock",
+      "text": "Flying\nWhenever a player attacks one of your opponents, if that opponent has more life than another of your opponents, that attacking player draws a card and you put two +1/+1 counters on a creature you control."
+    },
+    {
+      "name": "Brainstorm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Draw three cards, then put two cards from your hand on top of your library in any order."
+    },
+    {
+      "name": "Caves of Koilos",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. This land deals 1 damage to you."
+    },
+    {
+      "name": "Coalition Relic",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color.\n{T}: Put a charge counter on this artifact.\nAt the beginning of your first main phase, remove all charge counters from this artifact. Add one mana of any color for each charge counter removed this way."
+    },
+    {
+      "name": "Dazzling Sphinx",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Sphinx",
+      "text": "Flying\nWhenever this creature deals combat damage to a player, that player exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then that player puts the exiled cards that weren't cast this way on the bottom of their library in a random order."
+    },
+    {
+      "name": "Doom Whisperer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Demon Nightmare",
+      "text": "Flying, trample\nPay 2 life: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+    },
+    {
+      "name": "Commander's Sphere",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color in your commander's color identity.\nSacrifice this artifact: Draw a card."
+    },
+    {
+      "name": "Command Beacon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice this land: Put your commander into your hand from the command zone."
+    },
+    {
+      "name": "Command Tower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color in your commander's color identity."
+    },
+    {
+      "name": "Enigma Sphinx",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 7,
+      "type": "Creature Artifact — Sphinx",
+      "text": "Flying\nWhen this creature is put into your graveyard from the battlefield, put it into your library third from the top.\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)"
+    },
+    {
+      "name": "Ethersworn Sphinx",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 9,
+      "type": "Creature Artifact — Sphinx",
+      "text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card with lesser mana value. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)"
+    },
+    {
+      "name": "Exchange of Words",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "When this enchantment enters, choose two target creatures. For as long as this enchantment remains on the battlefield, exchange the text boxes of those creatures."
+    },
+    {
+      "name": "Exotic Orchard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+      "name": "Fabled Passage",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
+    },
+    {
+      "name": "Fatespinner",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Wizard",
+      "text": "At the beginning of each opponent's upkeep, that player chooses draw step, main phase, or combat phase. The player skips each instance of the chosen step or phase this turn."
+    },
+    {
+      "name": "Imprisoned in the Moon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment — Aura",
+      "text": "Enchant creature, land, or planeswalker\nEnchanted permanent is a colorless land with \"{T}: Add {C}\" and loses all other card types and abilities."
+    },
+    {
+      "name": "Inniaz, the Gale Force",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Djinn",
+      "text": "Flying\n{2}{W/U}: Attacking creatures with flying get +1/+1 until end of turn. ({W/U} can be paid with either {W} or {U}.)\nWhenever three or more creatures you control with flying attack, each player gains control of a nonland permanent of your choice controlled by the player to their right."
+    },
+    {
+      "name": "Fractured Identity",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Sorcery",
+      "text": "Exile target nonland permanent. Each player other than its controller creates a token that's a copy of it."
+    },
+    {
+      "name": "Leadership Vacuum",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Target player returns each commander they control from the battlefield to the command zone.\nDraw a card."
+    },
+    {
+      "name": "Loran of the Third Path",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Artificer",
+      "text": "Vigilance\nWhen Loran enters, destroy up to one target artifact or enchantment.\n{T}: You and target opponent each draw a card."
+    },
+    {
+      "name": "Smuggler's Share",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "At the beginning of each end step, draw a card for each opponent who drew two or more cards this turn, then create a Treasure token for each opponent who had two or more lands enter the battlefield under their control this turn."
+    },
+    {
+      "name": "Rapid Hybridization",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Destroy target creature. It can't be regenerated. That creature's controller creates a 3/3 green Frog Lizard creature token."
+    },
+    {
+      "name": "Path of Ancestry",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    },
+    {
+      "name": "Prairie Stream",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Island",
+      "text": "({T}: Add {W} or {U}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "Thief of Sanity",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Specter",
+      "text": "Flying\nWhenever this creature deals combat damage to a player, look at the top three cards of that player's library, exile one of them face down, then put the rest into their graveyard. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell."
+    },
+    {
+      "name": "Time Stop",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 6,
+      "type": "Instant",
+      "text": "End the turn. (Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and \"this turn\" and \"until end of turn\" effects end.)"
+    },
+    {
+      "name": "Toxrill, the Corrosive",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 7,
+      "type": "Legendary Creature — Horror Slug",
+      "text": "At the beginning of each end step, put a slime counter on each creature you don't control.\nCreatures you don't control get -1/-1 for each slime counter on them.\nWhenever a creature you don't control with a slime counter on it dies, create a 1/1 black Slug creature token.\n{U}{B}, Sacrifice a Slug: Draw a card."
+    },
+    {
+      "name": "Vega, the Watcher",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Bird Spirit",
+      "text": "Flying\nWhenever you cast a spell from anywhere other than your hand, draw a card."
+    },
+    {
+      "name": "Venser's Journal",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 5,
+      "type": "Artifact — Book",
+      "text": "You have no maximum hand size.\nAt the beginning of your upkeep, you gain 1 life for each card in your hand."
+    },
+    {
+      "name": "Yavimaya, Cradle of Growth",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "Each land is a Forest in addition to its other land types."
+    },
+    {
+      "name": "Wayfarer's Bauble",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Island",
+      "quantity": 4,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Island",
+      "text": "({T}: Add {U}.)"
+    },
+    {
+      "name": "Plains",
+      "quantity": 4,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Plains",
+      "text": "({T}: Add {W}.)"
+    },
+    {
+      "name": "Swamp",
+      "quantity": 4,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Swamp",
+      "text": "({T}: Add {B}.)"
+    },
+    {
+      "name": "Sensei's Divining Top",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put this artifact on top of its owner's library."
+    },
+    {
+      "name": "Approach of the Second Sun",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 7,
+      "type": "Sorcery",
+      "text": "If this spell was cast from your hand and you've cast another spell named Approach of the Second Sun this game, you win the game. Otherwise, put Approach of the Second Sun into its owner's library seventh from the top and you gain 7 life."
+    },
+    {
+      "name": "Extinction Event",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Choose odd or even. Exile each creature with mana value of the chosen quality. (Zero is even.)"
+    },
+    {
+      "name": "Profane Transfusion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 9,
+      "type": "Sorcery",
+      "text": "Two target players exchange life totals. You create an X/X colorless Horror artifact creature token, where X is the difference between those players' life totals."
+    },
+    {
+      "name": "Chaos Wand",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "{4}, {T}: Target opponent exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then put the exiled cards that weren't cast this way on the bottom of that library in a random order."
+    },
+    {
+      "name": "Claim Jumper",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Mercenary Rabbit",
+      "text": "Vigilance\nWhen this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card and put it onto the battlefield tapped. Then if an opponent controls more lands than you, repeat this process once. If you search your library this way, shuffle."
+    },
+    {
+      "name": "Temple of Silence",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {W} or {B}."
+    },
+    {
+      "name": "Contaminated Landscape",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice this land: Search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.\nCycling {W}{U}{B} ({W}{U}{B}, Discard this card: Draw a card.)"
+    },
+    {
+      "name": "Drowned Catacomb",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control an Island or a Swamp.\n{T}: Add {U} or {B}."
+    },
+    {
+      "name": "Evolving Wilds",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Temple of Enlightenment",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Terramorphic Expanse",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Marvo, Deep Operative",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Rogue Octopus",
+      "text": "Whenever Marvo attacks, clash with defending player. (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.)\nWhenever you win a clash, draw a card. Then you may cast a spell from your hand with mana value 8 or less without paying its mana cost."
+    },
+    {
+      "name": "Master of Predicaments",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Sphinx",
+      "text": "Flying\nWhenever this creature deals combat damage to a player, choose a card in your hand. That player guesses whether the card's mana value is greater than 4. If the player guessed wrong, you may cast the card without paying its mana cost."
+    },
+    {
+      "name": "Oubliette",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "When this enchantment enters, target creature phases out until this enchantment leaves the battlefield. Tap that creature as it phases in this way. (Auras and Equipment phase out with it. While permanents are phased out, they're treated as though they don't exist.)"
+    },
+    {
+      "name": "Mirage Mirror",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "{2}: This artifact becomes a copy of target artifact, creature, enchantment, or land until end of turn."
+    },
+    {
+      "name": "Jeskai Infiltrator",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Monk",
+      "text": "This creature can't be blocked as long as you control no other creatures.\nWhen this creature deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+    },
+    {
+      "name": "Nadir Kraken",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Kraken",
+      "text": "Whenever you draw a card, you may pay {1}. If you do, put a +1/+1 counter on this creature and create a 1/1 blue Tentacle creature token."
+    },
+    {
+      "name": "Glacial Fortress",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}."
+    },
+    {
+      "name": "Isolated Chapel",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B}."
+    },
+    {
+      "name": "Planeswalker's Mischief",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "{3}{U}: Target opponent reveals a card at random from their hand. If it's an instant or sorcery card, exile it. You may cast it without paying its mana cost for as long as it remains exiled. At the beginning of the next end step, if you haven't cast it, return it to its owner's hand. Activate only as a sorcery."
+    },
+    {
+      "name": "Psychic Battle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever a player chooses one or more targets, each player reveals the top card of their library. The player who reveals the card with the greatest mana value may change the target or targets. If two or more cards are tied for greatest, the target or targets remain unchanged. Changing targets this way doesn't trigger abilities of permanents named Psychic Battle."
+    },
+    {
+      "name": "Shared Fate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "If a player would draw a card, that player exiles the top card of one of their opponents' libraries face down instead.\nEach player may look at cards they exiled with this enchantment, and they may play lands and cast spells from among those cards."
+    },
+    {
+      "name": "Silent Clearing",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life: Add {W} or {B}.\n{1}, {T}, Sacrifice this land: Draw a card."
+    },
+    {
+      "name": "Skyclave Relic",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "Kicker {3}\nIndestructible\nWhen this artifact enters, if it was kicked, create two tapped tokens that are copies of this artifact.\n{T}: Add one mana of any color."
+    },
+    {
+      "name": "Soothsaying",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment",
+      "text": "{3}{U}{U}: Shuffle your library.\n{X}: Look at the top X cards of your library, then put them back in any order."
+    },
+    {
+      "name": "Space Beleren",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Planeswalker — Jace",
+      "text": "Space sculptor (Space Beleren divides the battlefield into alpha, beta, and gamma sectors. If a creature isn't assigned to a sector, its controller assigns it to one. Opponents assign first.)\n+1: Creatures in each sector can be blocked this turn only by creatures in the same sector.\n−1: Put a +1/+1 counter on each creature in the sector of your choice.\n−5: Destroy all creatures in the sector of your choice."
+    },
+    {
+      "name": "Swift Reconfiguration",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment — Aura",
+      "text": "Flash\nEnchant creature or Vehicle\nEnchanted permanent is a Vehicle artifact with crew 5 and it loses all other card types. (It's not a creature unless it's crewed.)"
+    },
+    {
+      "name": "Ponder",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Look at the top three cards of your library, then put them back in any order. You may shuffle.\nDraw a card."
+    },
+    {
+      "name": "Promise of Loyalty",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Sorcery",
+      "text": "Each player puts a vow counter on a creature they control and sacrifices the rest. Each of those creatures can't attack you or planeswalkers you control for as long as it has a vow counter on it."
+    },
+    {
+      "name": "Talisman of Progress",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {U}. This artifact deals 1 damage to you."
+    },
+    {
+      "name": "Skyclave Apparition",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Spirit Kor",
+      "text": "When this creature enters, exile up to one target nonland, nontoken permanent you don't control with mana value 4 or less.\nWhen this creature leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the mana value of the exiled card."
+    },
+    {
+      "name": "Vesuvan Drifter",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Shapeshifter",
+      "text": "Flying\nYou may look at the top card of your library any time.\nAt the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, this creature becomes a copy of that card until end of turn, except it has flying."
+    },
+    {
+      "name": "Myriad Landscape",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\n{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle."
+    },
+    {
+      "name": "Mystic Gate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U}."
+    },
+    {
+      "name": "Sunken Hollow",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Swamp",
+      "text": "({T}: Add {U} or {B}.)\nThis land enters tapped unless you control two or more basic lands."
+    },
+    {
+      "name": "Reliquary Tower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "You have no maximum hand size.\n{T}: Add {C}."
+    },
+    {
+      "name": "Temple of Deceit",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {U} or {B}."
+    },
+    {
+      "name": "Underground River",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}: Add {C}.\n{T}: Add {U} or {B}. This land deals 1 damage to you."
+    },
+    {
+      "name": "Yennett, Cryptic Sovereign",
+      "quantity": 1,
+      "board": "commander",
+      "colors": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Sphinx",
+      "text": "Flying, vigilance, menace\nWhenever Yennett attacks, reveal the top card of your library. You may cast it without paying its mana cost if its mana value is odd. If you don't cast it, draw a card."
+    }
+  ]
+}
