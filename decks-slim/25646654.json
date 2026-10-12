@@ -88,8 +88,8 @@
       "quantity": 1,
       "board": "main",
       "colors": [
-        "White",
         "Red",
+        "White",
         "Blue"
       ],
       "colorIdentity": [
