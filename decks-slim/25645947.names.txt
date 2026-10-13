@@ -1,3 +1,6 @@
+Malakir Bloodwitch
+Cavern of Souls
+Dusk Legion Duelist
 Impact Tremors
 Goblin Bombardment
 Molten Echoes
@@ -10,7 +13,6 @@ Arid Mesa
 Black Market Connections
 Blood Artist
 Blood Crypt
-Bloodghast
 Bloodletter of Aclazotz
 Bloodline Necromancer
 Bloodstained Mire
@@ -44,7 +46,6 @@ Minas Tirith
 Mondrak, Glory Dominus
 Mountain
 Necropotence
-Nomad Outpost
 Ocelot Pride
 Olivia, Crimson Bride
 Path of Ancestry
@@ -83,7 +84,6 @@ Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
-Edgar, Ancient Bloodlord
 Carmen, Cruel Skymarcher
 Edgar Markov
 Master of Dark Rites

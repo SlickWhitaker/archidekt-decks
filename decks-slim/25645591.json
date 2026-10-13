@@ -18,6 +18,38 @@
   },
   "cards": [
     {
+      "name": "Klauth, Unrivaled Ancient",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 7,
+      "type": "Legendary Creature — Dragon",
+      "text": "Flying, haste\nWhenever Klauth attacks, add X mana in any combination of colors, where X is the total power of attacking creatures. Spend this mana only to cast spells. Until end of turn, you don't lose this mana as steps and phases end."
+    },
+    {
+      "name": "Xenagos, God of Revels",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red",
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature Enchantment — God",
+      "text": "Indestructible\nAs long as your devotion to red and green is less than seven, Xenagos isn't a creature.\nAt the beginning of combat on your turn, another target creature you control gains haste and gets +X/+X until end of turn, where X is that creature's power."
+    },
+    {
       "name": "Cankerbloom",
       "quantity": 1,
       "board": "main",
@@ -197,22 +229,6 @@
       "text": "Enchant player\nWhenever enchanted player is attacked, create a Gold token. Each opponent attacking that player does the same. (A Gold token is an artifact with \"Sacrifice this token: Add one mana of any color.\")"
     },
     {
-      "name": "Draconic Disciple",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Shaman",
-      "text": "{T}: Add one mana of any color.\n{7}, {T}, Sacrifice this creature: Create a 5/5 red Dragon creature token with flying."
-    },
-    {
       "name": "Dragon Mage",
       "quantity": 1,
       "board": "main",
@@ -348,22 +364,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G}."
-    },
-    {
-      "name": "Fires of Yavimaya",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Creatures you control have haste.\nSacrifice this enchantment: Target creature gets +2/+2 until end of turn."
     },
     {
       "name": "Forest",

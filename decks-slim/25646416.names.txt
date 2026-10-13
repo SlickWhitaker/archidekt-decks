@@ -1,6 +1,7 @@
 Gearbane Orangutan
-Return of the Wildspeaker
 Kogla and Yidaro
+Roaming Throne
+Jeska's Will
 Aggravated Assault
 Ancient Tomb
 Arcane Signet
@@ -49,7 +50,6 @@ Nykthos, Shrine to Nyx
 Old Gnawbone
 Orcish Lumberjack
 Prismatic Vista
-Railway Brawler
 Rhythm of the Wild
 Rockfall Vale
 Rootbound Crag

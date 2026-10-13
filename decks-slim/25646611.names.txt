@@ -1,3 +1,7 @@
+Peer into the Abyss
+Underworld Breach
+Enduring Tenacity
+Sulfuric Vortex
 Jeska's Will
 Arcane Signet
 Baleful Mastery
@@ -18,7 +22,6 @@ Command Tower
 Deadly Rollick
 Deflecting Swat
 Dragonskull Summit
-Everlasting Torment
 Exquisite Blood
 Feed the Swarm
 Fellwar Stone
@@ -36,7 +39,6 @@ Kederekt Parasite
 Lightning Greaves
 Luxury Suite
 Mayhem Devil
-Mogis, God of Slaughter
 Mountain
 Necropotence
 Ob Nixilis, Captive Kingpin
@@ -45,7 +47,6 @@ Opposition Agent
 Orcish Bowmasters
 Prismatic Vista
 Rakdos Charm
-Rampaging Ferocidon
 Razorkin Needlehead
 Repercussion
 Roiling Vortex
@@ -57,7 +58,6 @@ Smoldering Marsh
 Sol Ring
 Spinerock Knoll
 Spiteful Visions
-Sulfuric Vortex
 Sulfurous Springs
 Swamp
 Syr Konrad, the Grim

@@ -1,10 +1,11 @@
 Chrome Mox
-Devilish Valet
+Dualcaster Mage
+Umbral Mantle
+Goblin Rabblemaster
 Ashnod's Altar
 Goblin Bombardment
 Aggravated Assault
 Anger
-Battle Cry Goblin
 Battlemage's Bracers
 Blasphemous Act
 Blood Moon
@@ -53,7 +54,6 @@ Pashalik Mons
 Professional Face-Breaker
 Purphoros, God of the Forge
 Ragavan, Nimble Pilferer
-Rings of Brighthearth
 Ruby Medallion
 Rundvelt Hordemaster
 Shared Animosity

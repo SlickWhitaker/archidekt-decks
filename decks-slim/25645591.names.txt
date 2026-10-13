@@ -1,3 +1,5 @@
+Klauth, Unrivaled Ancient
+Xenagos, God of Revels
 Cankerbloom
 Cavern of Souls
 Chain Reaction
@@ -12,7 +14,6 @@ Command Tower
 Crucible of Fire
 Cultivate
 Curse of Opulence
-Draconic Disciple
 Dragon Mage
 Dragon Tempest
 Dragon's Hoard
@@ -23,7 +24,6 @@ Dragonspeaker Shaman
 Drakuseth, Maw of Flames
 Elemental Bond
 Fire-Lit Thicket
-Fires of Yavimaya
 Forest
 Frontier Siege
 Game Trail

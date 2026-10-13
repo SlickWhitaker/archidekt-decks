@@ -5,6 +5,10 @@ Ardenn, Intrepid Archaeologist
 Blackblade Reforged
 Fighter Class
 Temple Garden
+Esper Sentinel
+Open the Armory
+Masterwork of Ingenuity
+Hexplate Wallbreaker
 Forge Anew
 Hammer of Nazahn
 Steelshaper's Gift
@@ -42,7 +46,6 @@ Fortified Village
 Furycalm Snarl
 Gongaga, Reactor Town
 Lightning Greaves
-Mithril Coat
 Mossfire Valley
 Mountain
 Mountain
@@ -73,7 +76,6 @@ Summoning Materia
 Sungrass Prairie
 Sunpetal Grove
 Sunscorched Divide
-Swiftfoot Boots
 Sword of the Animist
 Swords to Plowshares
 Tifa, Martial Artist
@@ -91,10 +93,8 @@ The Reaver Cleaver
 Sword of Feast and Famine
 Kaldra Compleat
 Sram, Senior Edificer
-Danitha Capashen, Paragon
 Bloodforged Battle-Axe
 Professor Hojo
-Mjölnir, Hammer of Thor
 Akiri, Fearless Voyager
 Teferi's Protection
 Cloud, Midgar Mercenary

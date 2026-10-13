@@ -27,7 +27,7 @@
       "text": "Imprint — When this artifact enters, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors."
     },
     {
-      "name": "Devilish Valet",
+      "name": "Dualcaster Mage",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -37,8 +37,32 @@
         "Red"
       ],
       "manaValue": 3,
-      "type": "Creature — Warrior Devil",
-      "text": "Trample, haste\nAlliance — Whenever another creature you control enters, double this creature's power until end of turn."
+      "type": "Creature — Human Wizard",
+      "text": "Flash\nWhen this creature enters, copy target instant or sorcery spell. You may choose new targets for the copy."
+    },
+    {
+      "name": "Umbral Mantle",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has \"{3}, {Q}: This creature gets +2/+2 until end of turn.\" ({Q} is the untap symbol.)\nEquip {0}"
+    },
+    {
+      "name": "Goblin Rabblemaster",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Goblin Warrior",
+      "text": "Other Goblin creatures you control attack each combat if able.\nAt the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste.\nWhenever this creature attacks, it gets +1/+0 until end of turn for each other attacking Goblin."
     },
     {
       "name": "Ashnod's Altar",
@@ -91,20 +115,6 @@
       "manaValue": 4,
       "type": "Creature — Incarnation",
       "text": "Haste\nAs long as this card is in your graveyard and you control a Mountain, creatures you control have haste."
-    },
-    {
-      "name": "Battle Cry Goblin",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Goblin",
-      "text": "{1}{R}: Goblins you control get +1/+0 and gain haste until end of turn.\nPack tactics — Whenever this creature attacks, if you attacked with creatures with total power 6 or greater this combat, create a 1/1 red Goblin creature token that's tapped and attacking."
     },
     {
       "name": "Battlemage's Bracers",
@@ -743,16 +753,6 @@
       "manaValue": 1,
       "type": "Legendary Creature — Pirate Monkey",
       "text": "Whenever Ragavan deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.\nDash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-    },
-    {
-      "name": "Rings of Brighthearth",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "Whenever you activate an ability, if it isn't a mana ability, you may pay {2}. If you do, copy that ability. You may choose new targets for the copy."
     },
     {
       "name": "Ruby Medallion",

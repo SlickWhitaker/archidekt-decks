@@ -18,6 +18,62 @@
   },
   "cards": [
     {
+      "name": "Peer into the Abyss",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 7,
+      "type": "Sorcery",
+      "text": "Target player draws cards equal to half the number of cards in their library and loses half their life. Round up each time."
+    },
+    {
+      "name": "Underworld Breach",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "Each nonland card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)\nAt the beginning of the end step, sacrifice this enchantment."
+    },
+    {
+      "name": "Enduring Tenacity",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature Enchantment — Snake Glimmer",
+      "text": "Whenever you gain life, target opponent loses that much life.\nWhen Enduring Tenacity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)"
+    },
+    {
+      "name": "Sulfuric Vortex",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "At the beginning of each player's upkeep, this enchantment deals 2 damage to that player.\nIf a player would gain life, that player gains no life instead."
+    },
+    {
       "name": "Jeska's Will",
       "quantity": 1,
       "board": "main",
@@ -278,22 +334,6 @@
       "text": "This land enters tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}."
     },
     {
-      "name": "Everlasting Torment",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Players can't gain life.\nDamage can't be prevented.\nAll damage is dealt as though its source had wither. (A source with wither deals damage to creatures in the form of -1/-1 counters.)"
-    },
-    {
       "name": "Exquisite Blood",
       "quantity": 1,
       "board": "main",
@@ -526,22 +566,6 @@
       "text": "Whenever a player sacrifices a permanent, this creature deals 1 damage to any target."
     },
     {
-      "name": "Mogis, God of Slaughter",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature Enchantment — God",
-      "text": "Indestructible\nAs long as your devotion to black and red is less than seven, Mogis isn't a creature.\nAt the beginning of each opponent's upkeep, Mogis deals 2 damage to that player unless they sacrifice a creature of their choice."
-    },
-    {
       "name": "Mountain",
       "quantity": 8,
       "board": "main",
@@ -652,20 +676,6 @@
       "manaValue": 2,
       "type": "Instant",
       "text": "Choose one —\n• Exile target player's graveyard.\n• Destroy target artifact.\n• Each creature deals 1 damage to its controller."
-    },
-    {
-      "name": "Rampaging Ferocidon",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Dinosaur",
-      "text": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
     },
     {
       "name": "Razorkin Needlehead",
@@ -812,20 +822,6 @@
       "manaValue": 4,
       "type": "Enchantment",
       "text": "At the beginning of each player's draw step, that player draws an additional card.\nWhenever a player draws a card, this enchantment deals 1 damage to that player."
-    },
-    {
-      "name": "Sulfuric Vortex",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "At the beginning of each player's upkeep, this enchantment deals 2 damage to that player.\nIf a player would gain life, that player gains no life instead."
     },
     {
       "name": "Sulfurous Springs",
