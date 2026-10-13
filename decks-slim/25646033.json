@@ -665,16 +665,6 @@
       "text": "Whenever a permanent becomes untapped, that permanent's controller mills a card."
     },
     {
-      "name": "Millikin",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Creature Artifact — Construct",
-      "text": "{T}, Mill a card: Add {C}. (Activate only as an instant. To mill a card, put the top card of your library into your graveyard.)"
-    },
-    {
       "name": "Mistrise Village",
       "quantity": 1,
       "board": "main",
@@ -850,20 +840,6 @@
       "manaValue": 2,
       "type": "Creature Enchantment — Monk Insect",
       "text": "Bestow {1}{G}\nEnchanted creature gets +1/+1.\nLandfall — Whenever a land you control enters, you may pay {1}{G} if this permanent is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token."
-    },
-    {
-      "name": "Summon: Titan",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Creature Enchantment — Saga Giant",
-      "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Mill five cards.\nII — Return all land cards from your graveyard to the battlefield tapped.\nIII — Until end of turn, another target creature you control gains trample and gets +X/+X, where X is the number of lands you control.\nReach, trample"
     },
     {
       "name": "Swan Song",
@@ -1084,16 +1060,6 @@
       "text": "Each land is a Forest in addition to its other land types."
     },
     {
-      "name": "Zuran Orb",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Artifact",
-      "text": "Sacrifice a land: You gain 2 life."
-    },
-    {
       "name": "Lightning Greaves",
       "quantity": 1,
       "board": "main",
@@ -1172,34 +1138,6 @@
       "text": "Reach\n{T}: Add one mana of any color.\n{2}: This creature gains deathtouch until end of turn."
     },
     {
-      "name": "Froghemoth",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Horror Frog",
-      "text": "Trample, haste\nWhenever this creature deals combat damage to a player, exile up to that many target cards from their graveyard. Put a +1/+1 counter on this creature for each creature card exiled this way. You gain 1 life for each noncreature card exiled this way."
-    },
-    {
-      "name": "Valley Mightcaller",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Warrior Frog",
-      "text": "Trample\nWhenever another Frog, Rabbit, Raccoon, or Squirrel you control enters, put a +1/+1 counter on this creature."
-    },
-    {
       "name": "Clement, the Worrywort",
       "quantity": 1,
       "board": "main",
@@ -1250,6 +1188,64 @@
       "manaValue": 0,
       "type": "Land",
       "text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
+    },
+    {
+      "name": "Basalt Monolith",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "This artifact doesn't untap during your untap step.\n{T}: Add {C}{C}{C}.\n{3}: Untap this artifact."
+    },
+    {
+      "name": "Roaming Throne",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Creature Artifact — Golem",
+      "text": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time."
+    },
+    {
+      "name": "Scute Swarm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Insect",
+      "text": "Landfall — Whenever a land you control enters, create a 1/1 green Insect creature token. If you control six or more lands, create a token that's a copy of this creature instead."
+    },
+    {
+      "name": "Perpetual Timepiece",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Mill two cards. (Put the top two cards of your library into your graveyard.)\n{2}, Exile this artifact: Shuffle any number of target cards from your graveyard into your library."
+    },
+    {
+      "name": "Cephalid Illusionist",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Wizard Octopus",
+      "text": "Whenever this creature becomes the target of a spell or ability, mill three cards.\n{2}{U}, {T}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn."
     }
   ]
 }

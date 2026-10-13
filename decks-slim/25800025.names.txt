@@ -28,7 +28,6 @@ City of Brass
 Venser, Shaper Savant
 Peregrine Drake
 Kinnan, Bonder Prodigy
-Island
 Crop Rotation
 Esper Sentinel
 Eladamri's Call
@@ -79,18 +78,20 @@ Verdant Catacombs
 Phantasmal Image
 Chakram Retriever
 Blinking Spirit
-Garruk's Uprising
 Inga and Esika
 Kiora's Follower
-Saryth, the Viper's Fang
 Foundation Breaker
 Forest
 Mystic Snake
 Temur Sabertooth
 Cloud of Faeries
 Faeburrow Elder
-Somberwald Sage
 Shrieking Drake
 Helga, Skittish Seer
+Island
+Breeding Pool
+Eternal Scourge
+Freed from the Real
+Basalt Monolith
 Survival of the Fittest
 Displacer Kitten

@@ -420,18 +420,6 @@
       "text": "Whenever you tap a nonland permanent for mana, add one mana of any type that permanent produced.\n{5}{G}{U}: Look at the top five cards of your library. You may put a non-Human creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order."
     },
     {
-      "name": "Island",
-      "quantity": 4,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Island",
-      "text": "({T}: Add {U}.)"
-    },
-    {
       "name": "Crop Rotation",
       "quantity": 1,
       "board": "main",
@@ -1082,20 +1070,6 @@
       "text": "{0}: Return this creature to its owner's hand."
     },
     {
-      "name": "Garruk's Uprising",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card."
-    },
-    {
       "name": "Inga and Esika",
       "quantity": 1,
       "board": "main",
@@ -1126,20 +1100,6 @@
       "manaValue": 2,
       "type": "Creature — Merfolk",
       "text": "{T}: Untap another target permanent."
-    },
-    {
-      "name": "Saryth, the Viper's Fang",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human Warlock",
-      "text": "Other tapped creatures you control have deathtouch.\nOther untapped creatures you control have hexproof.\n{1}, {T}: Untap another target creature or land you control."
     },
     {
       "name": "Foundation Breaker",
@@ -1228,20 +1188,6 @@
       "text": "Vigilance\nThis creature gets +1/+1 for each color among permanents you control.\n{T}: For each color among permanents you control, add one mana of that color."
     },
     {
-      "name": "Somberwald Sage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Druid",
-      "text": "{T}: Add three mana of any one color. Spend this mana only to cast creature spells."
-    },
-    {
       "name": "Shrieking Drake",
       "quantity": 1,
       "board": "main",
@@ -1272,6 +1218,65 @@
       "manaValue": 3,
       "type": "Legendary Creature — Druid Frog",
       "text": "Whenever you cast a creature spell with mana value 4 or greater, you draw a card, gain 1 life, and put a +1/+1 counter on Helga.\n{T}: Add X mana of any one color, where X is Helga's power. Spend this mana only to cast creature spells with mana value 4 or greater or creature spells with {X} in their mana costs."
+    },
+    {
+      "name": "Island",
+      "quantity": 3,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Island",
+      "text": "({T}: Add {U}.)"
+    },
+    {
+      "name": "Breeding Pool",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Forest",
+      "text": "({T}: Add {G} or {U}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Eternal Scourge",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Creature — Horror Eldrazi",
+      "text": "You may cast this card from exile.\nWhen this creature becomes the target of a spell or ability an opponent controls, exile this creature."
+    },
+    {
+      "name": "Freed from the Real",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment — Aura",
+      "text": "Enchant creature\n{U}: Tap enchanted creature.\n{U}: Untap enchanted creature."
+    },
+    {
+      "name": "Basalt Monolith",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "This artifact doesn't untap during your untap step.\n{T}: Add {C}{C}{C}.\n{3}: Untap this artifact."
     },
     {
       "name": "Survival of the Fittest",

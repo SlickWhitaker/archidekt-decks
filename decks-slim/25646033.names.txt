@@ -48,7 +48,6 @@ Lotus Cobra
 Mana Confluence
 Mana Drain
 Mesmeric Orb
-Millikin
 Mistrise Village
 Misty Rainforest
 Mystic Sanctuary
@@ -63,7 +62,6 @@ Snapcaster Mage
 Sol Ring
 Splendid Reclamation
 Springheart Nantuko
-Summon: Titan
 Swan Song
 Thassa's Oracle
 The Great Henge
@@ -81,16 +79,18 @@ Windswept Heath
 Wooded Foothills
 World Shaper
 Yavimaya, Cradle of Growth
-Zuran Orb
 Lightning Greaves
 Grolnok, the Omnivore
 Maskwood Nexus
 Spore Frog
 Clifftop Lookout
 Poison Dart Frog
-Froghemoth
-Valley Mightcaller
 Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
+Basalt Monolith
+Roaming Throne
+Scute Swarm
+Perpetual Timepiece
+Cephalid Illusionist
