@@ -1,6 +1,5 @@
 Malakir Bloodwitch
 Cavern of Souls
-Dusk Legion Duelist
 Impact Tremors
 Goblin Bombardment
 Molten Echoes
@@ -84,6 +83,7 @@ Voldaren Estate
 Welcoming Vampire
 Yahenni, Undying Partisan
 Yawgmoth, Thran Physician
+Bloodghast
 Carmen, Cruel Skymarcher
 Edgar Markov
 Master of Dark Rites

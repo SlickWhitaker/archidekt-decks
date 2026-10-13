@@ -706,20 +706,6 @@
       "text": "Whenever a creature is dealt damage, this enchantment deals that much damage to that creature's controller."
     },
     {
-      "name": "Roiling Vortex",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "At the beginning of each player's upkeep, this enchantment deals 1 damage to them.\nWhenever a player casts a spell, if no mana was spent to cast that spell, this enchantment deals 5 damage to that player.\n{R}: Your opponents can't gain life this turn."
-    },
-    {
       "name": "Shadowblood Ridge",
       "quantity": 1,
       "board": "main",
@@ -1061,6 +1047,22 @@
       "manaValue": 3,
       "type": "Creature Artifact — Construct Phyrexian",
       "text": "At the beginning of your upkeep, each player draws a card.\nWhenever an opponent draws a card, that player loses 1 life."
+    },
+    {
+      "name": "Mogis, God of Slaughter",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature Enchantment — God",
+      "text": "Indestructible\nAs long as your devotion to black and red is less than seven, Mogis isn't a creature.\nAt the beginning of each opponent's upkeep, Mogis deals 2 damage to that player unless they sacrifice a creature of their choice."
     },
     {
       "name": "All Will Be One",

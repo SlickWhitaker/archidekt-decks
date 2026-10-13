@@ -45,7 +45,6 @@ Forest
 Fortified Village
 Furycalm Snarl
 Gongaga, Reactor Town
-Lightning Greaves
 Mossfire Valley
 Mountain
 Mountain
@@ -88,6 +87,7 @@ Sword of Forge and Frontier
 Conformer Shuriken
 Wrecking Ball Arm
 Conqueror's Flail
+Swiftfoot Boots
 Enlightened Tutor
 The Reaver Cleaver
 Sword of Feast and Famine

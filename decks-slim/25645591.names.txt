@@ -1,4 +1,3 @@
-Klauth, Unrivaled Ancient
 Xenagos, God of Revels
 Cankerbloom
 Cavern of Souls
@@ -72,5 +71,6 @@ Urza's Incubator
 Vandalblast
 Verix Bladewing
 Wrathful Red Dragon
+Draconic Disciple
 Atarka, World Render
 Hellkite Tyrant

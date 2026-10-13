@@ -49,7 +49,6 @@ Prismatic Vista
 Rakdos Charm
 Razorkin Needlehead
 Repercussion
-Roiling Vortex
 Shadowblood Ridge
 Sheoldred, the Apocalypse
 Sheoldred's Edict
@@ -76,6 +75,7 @@ Wheel of Misfortune
 Wound Reflection
 Zo-Zu the Punisher
 Scrawling Crawler
+Mogis, God of Slaughter
 All Will Be One
 Fate Unraveler
 Blood Seeker
