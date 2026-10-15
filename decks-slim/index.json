@@ -72,7 +72,7 @@
       "namesFile": "25645732.names.txt",
       "cardsFile": "25645732.cards.jsonl",
       "metaFile": "25645732.meta.json",
-      "fullBytes": 310129,
+      "fullBytes": 310136,
       "analysisBytes": 31649,
       "reductionPercent": 89.8
     },
@@ -99,7 +99,7 @@
       "namesFile": "25645835.names.txt",
       "cardsFile": "25645835.cards.jsonl",
       "metaFile": "25645835.meta.json",
-      "fullBytes": 307612,
+      "fullBytes": 307619,
       "analysisBytes": 35851,
       "reductionPercent": 88.3
     },
@@ -256,7 +256,7 @@
       "namesFile": "25646416.names.txt",
       "cardsFile": "25646416.cards.jsonl",
       "metaFile": "25646416.meta.json",
-      "fullBytes": 293488,
+      "fullBytes": 293495,
       "analysisBytes": 29159,
       "reductionPercent": 90.1
     },
@@ -280,7 +280,7 @@
       "namesFile": "25646467.names.txt",
       "cardsFile": "25646467.cards.jsonl",
       "metaFile": "25646467.meta.json",
-      "fullBytes": 252122,
+      "fullBytes": 252129,
       "analysisBytes": 26744,
       "reductionPercent": 89.4
     },
@@ -356,7 +356,7 @@
       "namesFile": "25646583.names.txt",
       "cardsFile": "25646583.cards.jsonl",
       "metaFile": "25646583.meta.json",
-      "fullBytes": 303706,
+      "fullBytes": 303713,
       "analysisBytes": 31208,
       "reductionPercent": 89.7
     },
@@ -406,7 +406,7 @@
       "namesFile": "25646635.names.txt",
       "cardsFile": "25646635.cards.jsonl",
       "metaFile": "25646635.meta.json",
-      "fullBytes": 312621,
+      "fullBytes": 312635,
       "analysisBytes": 33519,
       "reductionPercent": 89.3
     },
@@ -534,7 +534,7 @@
       "namesFile": "26712117.names.txt",
       "cardsFile": "26712117.cards.jsonl",
       "metaFile": "26712117.meta.json",
-      "fullBytes": 277016,
+      "fullBytes": 277035,
       "analysisBytes": 27834,
       "reductionPercent": 90.0
     },
@@ -560,7 +560,7 @@
       "namesFile": "27360262.names.txt",
       "cardsFile": "27360262.cards.jsonl",
       "metaFile": "27360262.meta.json",
-      "fullBytes": 282007,
+      "fullBytes": 282014,
       "analysisBytes": 31008,
       "reductionPercent": 89.0
     }
