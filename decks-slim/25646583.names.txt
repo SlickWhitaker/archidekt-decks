@@ -42,7 +42,6 @@ Misty Rainforest
 Mitotic Slime
 Morphic Pool
 Ochre Jelly
-Oran-Rief Ooze
 Overgrown Tomb
 Parallel Lives
 Path of Ancestry
@@ -84,7 +83,6 @@ Yawgmoth, Thran Physician
 Maskwood Nexus
 Skullclamp
 Necrotic Ooze
-Chomping Changeling
 Acidic Slime
 Pitiless Plunderer
 Altar of the Brood
@@ -95,3 +93,5 @@ Drivnod, Carnage Dominus
 Reanimate
 Consuming Blob
 Diabolic Intent
+Swan Song
+Mana Vault

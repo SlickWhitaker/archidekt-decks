@@ -90,20 +90,6 @@
       "text": "As an additional cost to cast this spell, sacrifice a blue permanent.\nCounter target spell."
     },
     {
-      "name": "Aquitect's Will",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery Kindred — Merfolk",
-      "text": "Put a flood counter on target land. That land is an Island in addition to its other types for as long as it has a flood counter on it. If you control a Merfolk, draw a card."
-    },
-    {
       "name": "Arcane Signet",
       "quantity": 1,
       "board": "main",
@@ -1134,6 +1120,20 @@
       "manaValue": 2,
       "type": "Creature — Merfolk Shaman",
       "text": "Other Merfolk you control get +1/+1."
+    },
+    {
+      "name": "Veil of Summer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
     }
   ]
 }

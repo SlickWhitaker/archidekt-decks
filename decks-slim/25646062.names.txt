@@ -3,7 +3,6 @@ Drowner of Secrets
 Forensic Researcher
 Hakbal of the Surging Soul
 Abjure
-Aquitect's Will
 Arcane Signet
 Attuma, Atlantean Warlord
 Branching Evolution
@@ -83,3 +82,4 @@ Boseiju, Who Endures
 Fierce Guardianship
 Cryptolith Rite
 Merfolk Mistbinder
+Veil of Summer

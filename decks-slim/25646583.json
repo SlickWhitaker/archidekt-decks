@@ -593,20 +593,6 @@
       "text": "Trample\nThis creature enters with X +1/+1 counters on it.\nSplit — When this creature dies, if it had two or more +1/+1 counters on it, create a token that's a copy of it at the beginning of the next end step. The token enters with half that many +1/+1 counters on it, rounded down."
     },
     {
-      "name": "Oran-Rief Ooze",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Ooze",
-      "text": "When this creature enters, put a +1/+1 counter on target creature you control.\nWhenever this creature attacks, put a +1/+1 counter on each attacking creature with a +1/+1 counter on it."
-    },
-    {
       "name": "Overgrown Tomb",
       "quantity": 1,
       "board": "main",
@@ -1123,20 +1109,6 @@
       "text": "As long as this creature is on the battlefield, it has all activated abilities of all creature cards in all graveyards."
     },
     {
-      "name": "Chomping Changeling",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Shapeshifter",
-      "text": "Changeling (This card is every creature type.)\nWhen this creature enters, destroy up to one target artifact or enchantment."
-    },
-    {
       "name": "Acidic Slime",
       "quantity": 1,
       "board": "main",
@@ -1267,6 +1239,30 @@
       "manaValue": 2,
       "type": "Sorcery",
       "text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a card, put that card into your hand, then shuffle."
+    },
+    {
+      "name": "Swan Song",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
+    },
+    {
+      "name": "Mana Vault",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "This artifact doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap this artifact.\nAt the beginning of your draw step, if this artifact is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}."
     }
   ]
 }
