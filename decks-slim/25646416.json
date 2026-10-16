@@ -32,22 +32,6 @@
       "text": "Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature."
     },
     {
-      "name": "Kogla and Yidaro",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 6,
-      "type": "Legendary Creature — Ape Dinosaur Turtle",
-      "text": "When Kogla and Yidaro enters, choose one —\n• It gains trample and haste until end of turn.\n• It fights target creature you don't control.\n{2}{R}{G}, Discard this card: Destroy up to one target artifact or enchantment. Shuffle this card into your library from your graveyard, then draw a card."
-    },
-    {
       "name": "Roaming Throne",
       "quantity": 1,
       "board": "main",
@@ -1092,20 +1076,6 @@
       "text": "Changeling (This card is every creature type.)\nWhenever an opponent casts a spell, you may put a +1/+1 counter on this creature."
     },
     {
-      "name": "Inspiring Call",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)"
-    },
-    {
       "name": "Liquimetal Coating",
       "quantity": 1,
       "board": "main",
@@ -1223,6 +1193,34 @@
       "manaValue": 6,
       "type": "Artifact",
       "text": "All permanents are artifacts in addition to their other types.\nAll cards that aren't on the battlefield, spells, and permanents are colorless.\nPlayers may spend mana as though it were mana of any color."
+    },
+    {
+      "name": "Return of the Wildspeaker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Instant",
+      "text": "Choose one —\n• Draw cards equal to the greatest power among non-Human creatures you control.\n• Non-Human creatures you control get +3/+3 until end of turn."
+    },
+    {
+      "name": "Uktabi Orangutan",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Ape",
+      "text": "When this creature enters, destroy target artifact."
     }
   ]
 }

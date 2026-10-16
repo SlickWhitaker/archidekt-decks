@@ -1,5 +1,4 @@
 Gearbane Orangutan
-Kogla and Yidaro
 Roaming Throne
 Jeska's Will
 Aggravated Assault
@@ -82,7 +81,6 @@ Kogla, the Titan Ape
 Viridian Revel
 Gorilla Shaman
 Taurean Mauler
-Inspiring Call
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
@@ -92,3 +90,5 @@ Ragavan, Nimble Pilferer
 Triumph of the Hordes
 Kibo, Uktabi Prince
 Mycosynth Lattice
+Return of the Wildspeaker
+Uktabi Orangutan
