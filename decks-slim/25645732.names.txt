@@ -85,7 +85,6 @@ Wood Elves
 Zack Fair
 Sword of Forge and Frontier
 Conformer Shuriken
-Wrecking Ball Arm
 Conqueror's Flail
 Swiftfoot Boots
 Enlightened Tutor
@@ -98,3 +97,4 @@ Professor Hojo
 Akiri, Fearless Voyager
 Teferi's Protection
 Cloud, Midgar Mercenary
+Blacksmith's Skill

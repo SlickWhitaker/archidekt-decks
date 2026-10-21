@@ -1138,16 +1138,6 @@
       "text": "Equipped creature has \"Whenever this creature attacks, tap target creature defending player controls. If that creature has greater power than this creature, put a number of +1/+1 counters on this creature equal to the difference.\"\nEquip {2}"
     },
     {
-      "name": "Wrecking Ball Arm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Legendary Artifact — Equipment",
-      "text": "Equipped creature has base power and toughness 7/7 and can't be blocked by creatures with power 2 or less.\nEquip legendary creature {3}\nEquip {7}"
-    },
-    {
       "name": "Conqueror's Flail",
       "quantity": 1,
       "board": "main",
@@ -1296,6 +1286,20 @@
       "manaValue": 2,
       "type": "Legendary Creature — Human Soldier Mercenary",
       "text": "When Cloud enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\nAs long as Cloud is equipped, if a triggered ability of Cloud or an Equipment attached to it triggers, that ability triggers an additional time."
+    },
+    {
+      "name": "Blacksmith's Skill",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Target permanent gains hexproof and indestructible until end of turn. If it's an artifact creature, it gets +2/+2 until end of turn."
     }
   ]
 }
