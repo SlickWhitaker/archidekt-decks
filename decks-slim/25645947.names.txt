@@ -46,7 +46,6 @@ Mondrak, Glory Dominus
 Mountain
 Necropotence
 Ocelot Pride
-Olivia, Crimson Bride
 Path of Ancestry
 Path to Exile
 Patriarch's Bidding
@@ -89,3 +88,4 @@ Edgar Markov
 Master of Dark Rites
 Enlightened Tutor
 Marauding Blight-Priest
+Oathsworn Vampire

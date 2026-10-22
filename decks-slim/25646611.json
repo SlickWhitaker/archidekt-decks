@@ -60,20 +60,6 @@
       "text": "Whenever you gain life, target opponent loses that much life.\nWhen Enduring Tenacity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)"
     },
     {
-      "name": "Sulfuric Vortex",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "At the beginning of each player's upkeep, this enchantment deals 2 damage to that player.\nIf a player would gain life, that player gains no life instead."
-    },
-    {
       "name": "Jeska's Will",
       "quantity": 1,
       "board": "main",
@@ -1183,6 +1169,20 @@
       "manaValue": 2,
       "type": "Artifact",
       "text": "Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)"
+    },
+    {
+      "name": "Persistent Constrictor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Zombie Snake",
+      "text": "At the beginning of each opponent's upkeep, they lose 1 life and you put a -1/-1 counter on up to one target creature they control.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)"
     }
   ]
 }

@@ -821,16 +821,6 @@
       "text": "{T}: Add {C}.\n{3}, {T}, Pay life equal to the number of colors in your commanders' color identity: Draw a card."
     },
     {
-      "name": "Wheel of Torture",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact",
-      "text": "At the beginning of each opponent's upkeep, this artifact deals X damage to that player, where X is 3 minus the number of cards in their hand."
-    },
-    {
       "name": "Will of the Abzan",
       "quantity": 1,
       "board": "main",
@@ -981,6 +971,20 @@
       "manaValue": 3,
       "type": "Sorcery",
       "text": "Each player discards all the cards in their hand, then draws that many cards minus one."
+    },
+    {
+      "name": "Bloodchief Ascension",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment",
+      "text": "At the beginning of each end step, if an opponent lost 2 or more life this turn, you may put a quest counter on this enchantment. (Damage causes loss of life.)\nWhenever a card is put into an opponent's graveyard from anywhere, if this enchantment has three or more quest counters on it, you may have that player lose 2 life. If you do, you gain 2 life."
     }
   ]
 }

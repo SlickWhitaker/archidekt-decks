@@ -58,7 +58,6 @@ Tinybones Joins Up
 Tinybones, Bauble Burglar
 Unearth
 War Room
-Wheel of Torture
 Will of the Abzan
 Withering Torment
 Words of Waste
@@ -71,3 +70,4 @@ Vicious Rumors
 Jet Medallion
 Tergrid, God of Fright // Tergrid's Lantern
 Dark Deal
+Bloodchief Ascension

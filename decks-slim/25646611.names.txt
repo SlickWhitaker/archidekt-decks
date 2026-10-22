@@ -1,7 +1,6 @@
 Peer into the Abyss
 Underworld Breach
 Enduring Tenacity
-Sulfuric Vortex
 Jeska's Will
 Arcane Signet
 Baleful Mastery
@@ -85,3 +84,4 @@ Mana Vault
 Valgavoth, Harrower of Souls
 Vito, Thorn of the Dusk Rose
 Mindcrank
+Persistent Constrictor

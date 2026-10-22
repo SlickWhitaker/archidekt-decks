@@ -18,7 +18,6 @@ Clifftop Retreat
 Combat Celebrant
 Command Tower
 Curiosity Crafter
-Distant Melody
 Elspeth, Sun's Champion
 Empyrean Eagle
 Esior, Wardwing Familiar
@@ -48,7 +47,6 @@ Path to Exile
 Plains
 Plumecreed Escort
 Pollywog Prodigy
-Rally the Ranks
 Rapid Augmenter
 Rapid Hybridization
 Reconnaissance Mission
@@ -90,3 +88,5 @@ Cathars' Crusade
 Purphoros, God of the Forge
 Panharmonicon
 Delney, Streetwise Lookout
+Dovin's Veto
+Caretaker's Talent

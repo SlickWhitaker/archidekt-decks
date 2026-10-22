@@ -17,7 +17,6 @@ Cathars' Crusade
 Cinder Glade
 City of Brass
 Command Tower
-Cultivate
 Dimension X Pizzasaur
 Donatello, the Brains
 Doubling Season
@@ -68,7 +67,6 @@ Splinter, the Mentor
 Steelbane Hydra
 Stomping Ground
 Sunken Hollow
-Super Combo
 Swamp
 Swan Song
 Swords to Plowshares
@@ -91,3 +89,5 @@ Hardened Scales
 Leonardo, the Balance
 Michelangelo, the Heart
 The Ozolith
+Walking Ballista
+Nature's Lore

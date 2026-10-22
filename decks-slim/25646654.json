@@ -291,20 +291,6 @@
       "text": "Flying\nYou have no maximum hand size.\nWhenever a creature token you control deals combat damage to a player, draw a card."
     },
     {
-      "name": "Distant Melody",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Choose a creature type. Draw a card for each permanent you control of that type."
-    },
-    {
       "name": "Elspeth, Sun's Champion",
       "quantity": 1,
       "board": "main",
@@ -682,20 +668,6 @@
       "manaValue": 2,
       "type": "Creature — Wizard Frog",
       "text": "Evolve (Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\nWhenever an opponent casts a noncreature spell with mana value less than this creature's power, draw a card."
-    },
-    {
-      "name": "Rally the Ranks",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment",
-      "text": "As this enchantment enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1."
     },
     {
       "name": "Rapid Augmenter",
@@ -1240,6 +1212,36 @@
       "manaValue": 3,
       "type": "Legendary Creature — Human Scout",
       "text": "Creatures you control with power 2 or less can't be blocked by creatures with power 3 or greater.\nIf a triggered ability of a creature you control with power 2 or less triggers, that ability triggers an additional time."
+    },
+    {
+      "name": "Dovin's Veto",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "This spell can't be countered.\nCounter target noncreature spell."
+    },
+    {
+      "name": "Caretaker's Talent",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment — Class",
+      "text": "(Gain the next level as a sorcery to add its ability.)\nWhenever one or more tokens you control enter, draw a card. This ability triggers only once each turn.\n{W}: Level 2\nWhen this Class becomes level 2, create a token that's a copy of target token you control.\n{3}{W}: Level 3\nCreature tokens you control get +2/+2."
     }
   ]
 }
