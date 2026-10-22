@@ -75,16 +75,6 @@
       "text": "At the beginning of combat on your turn, you may attach any number of Auras and Equipment you control to target permanent or player.\nPartner (You can have two commanders if both have partner.)"
     },
     {
-      "name": "Blackblade Reforged",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Legendary Artifact — Equipment",
-      "text": "Equipped creature gets +1/+1 for each land you control.\nEquip legendary creature {3}\nEquip {7}"
-    },
-    {
       "name": "Fighter Class",
       "quantity": 1,
       "board": "main",
@@ -1300,6 +1290,16 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Target permanent gains hexproof and indestructible until end of turn. If it's an artifact creature, it gets +2/+2 until end of turn."
+    },
+    {
+      "name": "Champion's Helm",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +2/+2.\nAs long as equipped creature is legendary, it has hexproof. (It can't be the target of spells or abilities your opponents control.)\nEquip {1}"
     }
   ]
 }

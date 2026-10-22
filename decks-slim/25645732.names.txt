@@ -2,7 +2,6 @@ Armory Automaton
 Cloud, Ex-SOLDIER
 Aggravated Assault
 Ardenn, Intrepid Archaeologist
-Blackblade Reforged
 Fighter Class
 Temple Garden
 Esper Sentinel
@@ -98,3 +97,4 @@ Akiri, Fearless Voyager
 Teferi's Protection
 Cloud, Midgar Mercenary
 Blacksmith's Skill
+Champion's Helm
