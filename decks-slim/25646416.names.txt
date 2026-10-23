@@ -1,3 +1,6 @@
+Force of Vigor
+Swiftfoot Boots
+Shamanic Revelation
 Gearbane Orangutan
 Roaming Throne
 Jeska's Will
@@ -79,8 +82,6 @@ Beast Within
 Liquimetal Torque
 Kogla, the Titan Ape
 Viridian Revel
-Gorilla Shaman
-Taurean Mauler
 Liquimetal Coating
 Silverback Elder
 Yavimaya Steelcrusher
@@ -90,5 +91,4 @@ Ragavan, Nimble Pilferer
 Triumph of the Hordes
 Kibo, Uktabi Prince
 Mycosynth Lattice
-Return of the Wildspeaker
 Uktabi Orangutan

@@ -18,6 +18,44 @@
   },
   "cards": [
     {
+      "name": "Force of Vigor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Instant",
+      "text": "If it's not your turn, you may exile a green card from your hand rather than pay this spell's mana cost.\nDestroy up to two target artifacts and/or enchantments."
+    },
+    {
+      "name": "Swiftfoot Boots",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.)\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+    },
+    {
+      "name": "Shamanic Revelation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Sorcery",
+      "text": "Draw a card for each creature you control.\nFerocious — You gain 4 life for each creature you control with power 4 or greater."
+    },
+    {
       "name": "Gearbane Orangutan",
       "quantity": 1,
       "board": "main",
@@ -1048,34 +1086,6 @@
       "text": "Whenever an artifact is put into an opponent's graveyard from the battlefield, you may draw a card."
     },
     {
-      "name": "Gorilla Shaman",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Ape Shaman",
-      "text": "{X}{X}{1}: Destroy target noncreature artifact with mana value X."
-    },
-    {
-      "name": "Taurean Mauler",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Shapeshifter",
-      "text": "Changeling (This card is every creature type.)\nWhenever an opponent casts a spell, you may put a +1/+1 counter on this creature."
-    },
-    {
       "name": "Liquimetal Coating",
       "quantity": 1,
       "board": "main",
@@ -1193,20 +1203,6 @@
       "manaValue": 6,
       "type": "Artifact",
       "text": "All permanents are artifacts in addition to their other types.\nAll cards that aren't on the battlefield, spells, and permanents are colorless.\nPlayers may spend mana as though it were mana of any color."
-    },
-    {
-      "name": "Return of the Wildspeaker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Instant",
-      "text": "Choose one —\n• Draw cards equal to the greatest power among non-Human creatures you control.\n• Non-Human creatures you control get +3/+3 until end of turn."
     },
     {
       "name": "Uktabi Orangutan",
