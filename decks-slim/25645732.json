@@ -308,20 +308,6 @@
       "text": "{T}: Add {C}.\n{T}: Add {G} or {W}. This land deals 1 damage to you."
     },
     {
-      "name": "Bugenhagen, Wise Elder",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Human Shaman",
-      "text": "Reach\nAt the beginning of your upkeep, if you control a creature with power 7 or greater, draw a card.\n{T}: Add one mana of any color."
-    },
-    {
       "name": "Buster Sword",
       "quantity": 1,
       "board": "main",
@@ -1277,6 +1263,16 @@
       "manaValue": 4,
       "type": "Legendary Creature — Human Monk",
       "text": "Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)\nWhenever one or more creatures you control with power 7 or greater deal combat damage to a player, untap all creatures you control. If it's the first combat phase of your turn, there is an additional combat phase after this phase."
+    },
+    {
+      "name": "Fellwar Stone",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
     }
   ]
 }

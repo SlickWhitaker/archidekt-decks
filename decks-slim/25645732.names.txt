@@ -19,7 +19,6 @@ Bloom Tender
 Bronze Guardian
 Bruenor Battlehammer
 Brushland
-Bugenhagen, Wise Elder
 Buster Sword
 Canopy Vista
 Capital City
@@ -97,3 +96,4 @@ Windswept Heath
 Sword of Fire and Ice
 Plains
 Tifa, Martial Artist
+Fellwar Stone
