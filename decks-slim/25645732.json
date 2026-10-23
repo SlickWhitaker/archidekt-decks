@@ -595,19 +595,6 @@
       "text": "This land enters tapped.\n{T}: Add {R} or {G}."
     },
     {
-      "name": "Mossfire Valley",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{1}, {T}: Add {R}{G}."
-    },
-    {
       "name": "Mountain",
       "quantity": 1,
       "board": "main",
@@ -684,18 +671,6 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle."
-    },
-    {
-      "name": "Plains",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Plains",
-      "text": "({T}: Add {W}.)"
     },
     {
       "name": "Plains",
@@ -1128,20 +1103,6 @@
       "text": "Equipped creature gets +2/+0.\nWhenever equipped creature deals combat damage to a player, create a token that's a copy of this Equipment.\nEquip {2}"
     },
     {
-      "name": "Professor Hojo",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Human Scientist",
-      "text": "The first activated ability you activate during your turn that targets a creature you control costs {2} less to activate.\nWhenever one or more creatures you control become the target of an activated ability, draw a card. This ability triggers only once each turn."
-    },
-    {
       "name": "Akiri, Fearless Voyager",
       "quantity": 1,
       "board": "main",
@@ -1286,6 +1247,36 @@
       "manaValue": 3,
       "type": "Artifact — Equipment",
       "text": "Equipped creature gets +2/+2 and has protection from red and from blue.\nWhenever equipped creature deals combat damage to a player, this Equipment deals 2 damage to any target and you draw a card.\nEquip {2}"
+    },
+    {
+      "name": "Plains",
+      "quantity": 2,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Basic Land — Plains",
+      "text": "({T}: Add {W}.)"
+    },
+    {
+      "name": "Tifa, Martial Artist",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Green",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Monk",
+      "text": "Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)\nWhenever one or more creatures you control with power 7 or greater deal combat damage to a player, untap all creatures you control. If it's the first combat phase of your turn, there is an additional combat phase after this phase."
     }
   ]
 }

@@ -42,14 +42,12 @@ Forest
 Fortified Village
 Furycalm Snarl
 Gongaga, Reactor Town
-Mossfire Valley
 Mountain
 Mountain
 Mountain
 Nature's Lore
 Nature's Will
 Path to Exile
-Plains
 Plains
 Plains
 Professional Face-Breaker
@@ -85,7 +83,6 @@ Sword of Feast and Famine
 Kaldra Compleat
 Sram, Senior Edificer
 Bloodforged Battle-Axe
-Professor Hojo
 Akiri, Fearless Voyager
 Teferi's Protection
 Cloud, Midgar Mercenary
@@ -98,3 +95,5 @@ Shadowspear
 Akroma's Will
 Windswept Heath
 Sword of Fire and Ice
+Plains
+Tifa, Martial Artist
