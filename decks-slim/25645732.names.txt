@@ -6,6 +6,10 @@ Armored Skyhunter
 Temple Garden
 Helm of the Host
 Danitha Capashen, Paragon
+Professor Hojo
+Dispatch
+Trailblazer's Boots
+Cultivate
 Esper Sentinel
 Open the Armory
 Masterwork of Ingenuity
@@ -15,9 +19,7 @@ Hammer of Nazahn
 Steelshaper's Gift
 Arcane Signet
 Austere Command
-Barret, Avalanche Leader
 Battlefield Forge
-Blasphemous Act
 Bloom Tender
 Bronze Guardian
 Bruenor Battlehammer
@@ -32,7 +34,6 @@ Clever Concealment
 Clifftop Retreat
 Clive's Hideaway
 Cloud, Planet's Champion
-Cloud's Limit Break
 Colossus Hammer
 Command Tower
 Exotic Orchard
@@ -65,15 +66,12 @@ Slayers' Stronghold
 Sol Ring
 Spire of Industry
 Stoneforge Mystic
-Summoning Materia
 Sungrass Prairie
 Sunpetal Grove
 Sunscorched Divide
 Sword of the Animist
 Swords to Plowshares
-Unfinished Business
 Vandalblast
-Wood Elves
 Zack Fair
 Sword of Forge and Frontier
 Conqueror's Flail

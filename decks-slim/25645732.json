@@ -132,6 +132,58 @@
       "text": "First strike, vigilance, lifelink\nAura and Equipment spells you cast cost {1} less to cast."
     },
     {
+      "name": "Professor Hojo",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Human Scientist",
+      "text": "The first activated ability you activate during your turn that targets a creature you control costs {2} less to activate.\nWhenever one or more creatures you control become the target of an activated ability, draw a card. This ability triggers only once each turn."
+    },
+    {
+      "name": "Dispatch",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Tap target creature.\nMetalcraft — If you control three or more artifacts, exile that creature."
+    },
+    {
+      "name": "Trailblazer's Boots",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature has nonbasic landwalk. (It can't be blocked as long as defending player controls a nonbasic land.)\nEquip {2}"
+    },
+    {
+      "name": "Cultivate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
+    },
+    {
       "name": "Esper Sentinel",
       "quantity": 1,
       "board": "main",
@@ -246,22 +298,6 @@
       "text": "Choose two —\n• Destroy all artifacts.\n• Destroy all enchantments.\n• Destroy all creatures with mana value 3 or less.\n• Destroy all creatures with mana value 4 or greater."
     },
     {
-      "name": "Barret, Avalanche Leader",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red",
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human Rebel",
-      "text": "Reach\nAvalanche! — Whenever an Equipment you control enters, create a 2/2 red Rebel creature token.\nAt the beginning of combat on your turn, attach up to one target Equipment you control to target Rebel you control."
-    },
-    {
       "name": "Battlefield Forge",
       "quantity": 1,
       "board": "main",
@@ -273,20 +309,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}.\n{T}: Add {R} or {W}. This land deals 1 damage to you."
-    },
-    {
-      "name": "Blasphemous Act",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 9,
-      "type": "Sorcery",
-      "text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature."
     },
     {
       "name": "Bloom Tender",
@@ -473,20 +495,6 @@
       "text": "During your turn, as long as Cloud is equipped, it has double strike and indestructible. (This creature deals both first-strike and regular combat damage. Damage and effects that say \"destroy\" don't destroy this creature.)\nEquip abilities you activate that target Cloud cost {2} less to activate."
     },
     {
-      "name": "Cloud's Limit Break",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Tiered (Choose one additional cost.)\n• Cross-Slash — {0} — Destroy target tapped creature.\n• Blade Beam — {1} — Destroy any number of target tapped creatures with different controllers.\n• Omnislash — {3}{W} — Destroy all tapped creatures."
-    },
-    {
       "name": "Colossus Hammer",
       "quantity": 1,
       "board": "main",
@@ -569,7 +577,7 @@
     },
     {
       "name": "Forest",
-      "quantity": 1,
+      "quantity": 3,
       "board": "main",
       "colors": [],
       "colorIdentity": [
@@ -882,20 +890,6 @@
       "text": "When this creature enters, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\n{1}{W}, {T}: You may put an Equipment card from your hand onto the battlefield."
     },
     {
-      "name": "Summoning Materia",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Artifact — Equipment",
-      "text": "You may look at the top card of your library any time.\nAs long as this Equipment is attached to a creature, you may cast creature spells from the top of your library.\nEquipped creature gets +2/+2 and has vigilance and \"{T}: Add {G}.\"\nEquip {2}"
-    },
-    {
       "name": "Sungrass Prairie",
       "quantity": 1,
       "board": "main",
@@ -959,20 +953,6 @@
       "text": "Exile target creature. Its controller gains life equal to its power."
     },
     {
-      "name": "Unfinished Business",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 5,
-      "type": "Sorcery",
-      "text": "Return target creature card from your graveyard to the battlefield, then return up to two target Aura and/or Equipment cards from your graveyard to the battlefield attached to that creature. (If the Auras can't enchant that creature, they remain in your graveyard.)"
-    },
-    {
       "name": "Vandalblast",
       "quantity": 1,
       "board": "main",
@@ -985,20 +965,6 @@
       "manaValue": 1,
       "type": "Sorcery",
       "text": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
-    },
-    {
-      "name": "Wood Elves",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Elf Scout",
-      "text": "When this creature enters, search your library for a Forest card, put that card onto the battlefield, then shuffle."
     },
     {
       "name": "Zack Fair",
