@@ -19,6 +19,20 @@
   },
   "cards": [
     {
+      "name": "Beast Whisperer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Elf Druid",
+      "text": "Whenever you cast a creature spell, draw a card."
+    },
+    {
       "name": "Force of Negation",
       "quantity": 1,
       "board": "main",
@@ -563,16 +577,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
-    },
-    {
-      "name": "Arcane Signet",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
       "name": "Enlightened Tutor",

@@ -1,3 +1,4 @@
+Beast Whisperer
 Force of Negation
 Force of Will
 Lotus Petal
@@ -39,7 +40,6 @@ Exotic Orchard
 Sol Ring
 Elvish Spirit Guide
 Windswept Heath
-Arcane Signet
 Enlightened Tutor
 Arid Mesa
 Silence

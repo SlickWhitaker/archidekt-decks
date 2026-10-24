@@ -1,3 +1,4 @@
+{"name":"Beast Whisperer","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":4,"type":"Creature — Elf Druid","text":"Whenever you cast a creature spell, draw a card."}
 {"name":"Force of Negation","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":3,"type":"Instant","text":"If it's not your turn, you may exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target noncreature spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."}
 {"name":"Force of Will","quantity":1,"board":"main","colors":["Blue"],"colorIdentity":["Blue"],"manaValue":5,"type":"Instant","text":"You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target spell."}
 {"name":"Lotus Petal","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Artifact","text":"{T}, Sacrifice this artifact: Add one mana of any color."}
@@ -39,7 +40,6 @@
 {"name":"Sol Ring","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":1,"type":"Artifact","text":"{T}: Add {C}{C}."}
 {"name":"Elvish Spirit Guide","quantity":1,"board":"main","colors":["Green"],"colorIdentity":["Green"],"manaValue":3,"type":"Creature — Elf Spirit","text":"Exile this card from your hand: Add {G}."}
 {"name":"Windswept Heath","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."}
-{"name":"Arcane Signet","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":2,"type":"Artifact","text":"{T}: Add one mana of any color in your commander's color identity."}
 {"name":"Enlightened Tutor","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":1,"type":"Instant","text":"Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."}
 {"name":"Arid Mesa","quantity":1,"board":"main","colors":[],"colorIdentity":[],"manaValue":0,"type":"Land","text":"{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle."}
 {"name":"Silence","quantity":1,"board":"main","colors":["White"],"colorIdentity":["White"],"manaValue":1,"type":"Instant","text":"Your opponents can't cast spells this turn."}
