@@ -33,6 +33,20 @@
       "text": "Whenever you cast a creature spell, draw a card."
     },
     {
+      "name": "Great Oak Guardian",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 6,
+      "type": "Creature — Treefolk",
+      "text": "Flash (You may cast this spell any time you could cast an instant.)\nReach\nWhen this creature enters, creatures target player controls get +2/+2 until end of turn. Untap them."
+    },
+    {
       "name": "Force of Negation",
       "quantity": 1,
       "board": "main",
@@ -769,20 +783,6 @@
       "manaValue": 3,
       "type": "Instant",
       "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
-    },
-    {
-      "name": "Fyndhorn Elves",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Elf Druid",
-      "text": "{T}: Add {G}."
     },
     {
       "name": "Mystic Remora",

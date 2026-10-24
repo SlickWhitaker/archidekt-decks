@@ -1,4 +1,5 @@
 Beast Whisperer
+Great Oak Guardian
 Force of Negation
 Force of Will
 Lotus Petal
@@ -55,7 +56,6 @@ Mana Confluence
 Swan Song
 Boseiju, Who Endures
 Fierce Guardianship
-Fyndhorn Elves
 Mystic Remora
 Birds of Paradise
 Mockingbird

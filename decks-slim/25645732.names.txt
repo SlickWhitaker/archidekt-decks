@@ -1,7 +1,9 @@
 Cloud, Ex-SOLDIER
 Aggravated Assault
+Sword of Sinew and Steel
 Ardenn, Intrepid Archaeologist
 Fighter Class
+Armored Skyhunter
 Temple Garden
 Esper Sentinel
 Open the Armory
@@ -73,7 +75,6 @@ Vandalblast
 Wood Elves
 Zack Fair
 Sword of Forge and Frontier
-Conformer Shuriken
 Conqueror's Flail
 Swiftfoot Boots
 Enlightened Tutor
@@ -81,7 +82,6 @@ The Reaver Cleaver
 Sword of Feast and Famine
 Kaldra Compleat
 Sram, Senior Edificer
-Bloodforged Battle-Axe
 Akiri, Fearless Voyager
 Teferi's Protection
 Cloud, Midgar Mercenary
