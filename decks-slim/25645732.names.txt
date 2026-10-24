@@ -1,10 +1,11 @@
 Cloud, Ex-SOLDIER
 Aggravated Assault
-Sword of Sinew and Steel
 Ardenn, Intrepid Archaeologist
 Fighter Class
 Armored Skyhunter
 Temple Garden
+Helm of the Host
+Danitha Capashen, Paragon
 Esper Sentinel
 Open the Armory
 Masterwork of Ingenuity
@@ -86,7 +87,6 @@ Akiri, Fearless Voyager
 Teferi's Protection
 Cloud, Midgar Mercenary
 Blacksmith's Skill
-Champion's Helm
 Arid Mesa
 Wooded Foothills
 Deflecting Swat

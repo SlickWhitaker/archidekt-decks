@@ -51,16 +51,6 @@
       "text": "{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery."
     },
     {
-      "name": "Sword of Sinew and Steel",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +2/+2 and has protection from black and from red.\nWhenever equipped creature deals combat damage to a player, destroy up to one target planeswalker and up to one target artifact.\nEquip {2}"
-    },
-    {
       "name": "Ardenn, Intrepid Archaeologist",
       "quantity": 1,
       "board": "main",
@@ -116,6 +106,30 @@
       "manaValue": 0,
       "type": "Land — Plains Forest",
       "text": "({T}: Add {G} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Helm of the Host",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Legendary Artifact — Equipment",
+      "text": "At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary. That token gains haste.\nEquip {5}"
+    },
+    {
+      "name": "Danitha Capashen, Paragon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Knight",
+      "text": "First strike, vigilance, lifelink\nAura and Equipment spells you cast cost {1} less to cast."
     },
     {
       "name": "Esper Sentinel",
@@ -1149,16 +1163,6 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Target permanent gains hexproof and indestructible until end of turn. If it's an artifact creature, it gets +2/+2 until end of turn."
-    },
-    {
-      "name": "Champion's Helm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 3,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +2/+2.\nAs long as equipped creature is legendary, it has hexproof. (It can't be the target of spells or abilities your opponents control.)\nEquip {1}"
     },
     {
       "name": "Arid Mesa",
