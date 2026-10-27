@@ -1193,8 +1193,8 @@
       "quantity": 1,
       "board": "commander",
       "colors": [
-        "Black",
-        "White"
+        "White",
+        "Black"
       ],
       "colorIdentity": [
         "White",
