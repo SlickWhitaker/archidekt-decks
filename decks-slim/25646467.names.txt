@@ -34,7 +34,6 @@ Goblin Warchief
 Heat Shimmer
 Goro-Goro, Disciple of Ryusei
 Grenzo, Havoc Raiser
-Hobgoblin Bandit Lord
 Illusionist's Bracers
 Impact Tremors
 Imperial Recruiter
@@ -48,7 +47,6 @@ Marvin, Murderous Mimic
 Metallic Mimic
 Mogg War Marshal
 Moggcatcher
-Mountain
 Muxus, Goblin Grandee
 Pashalik Mons
 Professional Face-Breaker
@@ -73,7 +71,8 @@ Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 War Room
 Arena of Glory
 Sokenzan, Crucible of Defiance
-Goblin Piledriver
 Three Tree City
 Krenko, Mob Boss
 The Fire Crystal
+Mountain
+Vandalblast
