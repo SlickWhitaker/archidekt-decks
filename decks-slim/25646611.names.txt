@@ -31,7 +31,6 @@ Foreboding Ruins
 Furnace of Rath
 Graven Cairns
 Haunted Ridge
-Havoc Festival
 Jet Medallion
 Kaervek the Merciless
 Kederekt Parasite
@@ -85,3 +84,4 @@ Valgavoth, Harrower of Souls
 Vito, Thorn of the Dusk Rose
 Mindcrank
 Persistent Constrictor
+Roiling Vortex

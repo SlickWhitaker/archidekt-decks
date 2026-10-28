@@ -457,22 +457,6 @@
       "text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {B} or {R}."
     },
     {
-      "name": "Havoc Festival",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 6,
-      "type": "Enchantment",
-      "text": "Players can't gain life.\nAt the beginning of each player's upkeep, that player loses half their life, rounded up."
-    },
-    {
       "name": "Jet Medallion",
       "quantity": 1,
       "board": "main",
@@ -1183,6 +1167,20 @@
       "manaValue": 5,
       "type": "Creature — Zombie Snake",
       "text": "At the beginning of each opponent's upkeep, they lose 1 life and you put a -1/-1 counter on up to one target creature they control.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)"
+    },
+    {
+      "name": "Roiling Vortex",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Enchantment",
+      "text": "At the beginning of each player's upkeep, this enchantment deals 1 damage to them.\nWhenever a player casts a spell, if no mana was spent to cast that spell, this enchantment deals 5 damage to that player.\n{R}: Your opponents can't gain life this turn."
     }
   ]
 }
