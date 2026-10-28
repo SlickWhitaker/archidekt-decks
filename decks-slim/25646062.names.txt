@@ -48,7 +48,6 @@ Pongify
 Raise the Palisade
 Rapid Hybridization
 Realmwalker
-Reflections of Littjara
 Rejuvenating Springs
 Ripples of Potential
 Roaming Throne
@@ -75,7 +74,6 @@ Wanderwine Prophets
 Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
-Aether Vial
 Otawara, Soaring City
 Silvergill Adept
 Boseiju, Who Endures
@@ -83,3 +81,5 @@ Fierce Guardianship
 Cryptolith Rite
 Merfolk Mistbinder
 Veil of Summer
+Chord of Calling
+Nature's Lore

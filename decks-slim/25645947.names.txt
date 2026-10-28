@@ -1,4 +1,3 @@
-Malakir Bloodwitch
 Cavern of Souls
 Impact Tremors
 Goblin Bombardment
@@ -89,3 +88,4 @@ Master of Dark Rites
 Enlightened Tutor
 Marauding Blight-Priest
 Oathsworn Vampire
+Sanguine Bond

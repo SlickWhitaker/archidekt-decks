@@ -223,16 +223,6 @@
       "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nIf a source you control would deal damage to a permanent or player, it deals triple that damage instead."
     },
     {
-      "name": "Coat of Arms",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 5,
-      "type": "Artifact",
-      "text": "Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
-    },
-    {
       "name": "Conspicuous Snoop",
       "quantity": 1,
       "board": "main",
@@ -479,20 +469,6 @@
       "text": "{R}: Creatures you control gain haste until end of turn.\n{3}{R}{R}: Create a 5/5 red Dragon Spirit creature token with flying. Activate only if you control an attacking modified creature. (Equipment, Auras you control, and counters are modifications.)"
     },
     {
-      "name": "Grenzo, Havoc Raiser",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Goblin Rogue",
-      "text": "Whenever a creature you control deals combat damage to a player, choose one —\n• Goad target creature that player controls.\n• Exile the top card of that player's library. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell."
-    },
-    {
       "name": "Illusionist's Bracers",
       "quantity": 1,
       "board": "main",
@@ -557,20 +533,6 @@
       "manaValue": 5,
       "type": "Legendary Creature — Goblin Shaman",
       "text": "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step."
-    },
-    {
-      "name": "Krenko, Tin Street Kingpin",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Goblin",
-      "text": "Whenever Krenko attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power."
     },
     {
       "name": "Legion Loyalist",
@@ -859,20 +821,6 @@
       "text": "You may activate abilities of creatures you control as though those creatures had haste.\n{1}, {T}: Untap target creature."
     },
     {
-      "name": "Torbran, Thane of Red Fell",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Dwarf Noble",
-      "text": "If a red source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead."
-    },
-    {
       "name": "Urza's Incubator",
       "quantity": 1,
       "board": "main",
@@ -1021,6 +969,62 @@
       "manaValue": 1,
       "type": "Sorcery",
       "text": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
+    },
+    {
+      "name": "Krenko, Tin Street Kingpin",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Goblin",
+      "text": "Whenever Krenko attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power."
+    },
+    {
+      "name": "Pyroblast",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Choose one —\n• Counter target spell if it's blue.\n• Destroy target permanent if it's blue."
+    },
+    {
+      "name": "Red Elemental Blast",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Choose one —\n• Counter target blue spell.\n• Destroy target blue permanent."
+    },
+    {
+      "name": "Mana Geyser",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Sorcery",
+      "text": "Add {R} for each tapped land your opponents control."
     }
   ]
 }

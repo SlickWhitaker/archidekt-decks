@@ -43,7 +43,6 @@ Nature's Lore
 Old Gnawbone
 Path of Ancestry
 Reflecting Pool
-Return to Nature
 Rishkar's Expertise
 Roaming Throne
 Rootbound Crag
@@ -74,3 +73,4 @@ Wrathful Red Dragon
 Draconic Disciple
 Atarka, World Render
 Hellkite Tyrant
+Return of the Wildspeaker

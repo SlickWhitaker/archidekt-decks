@@ -1049,20 +1049,6 @@
       "text": "Whenever you put one or more counters on a permanent or player, this enchantment deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls."
     },
     {
-      "name": "Fate Unraveler",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 4,
-      "type": "Creature Enchantment — Hag",
-      "text": "Whenever an opponent draws a card, this creature deals 1 damage to that player."
-    },
-    {
       "name": "Blood Seeker",
       "quantity": 1,
       "board": "main",
@@ -1155,20 +1141,6 @@
       "text": "Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)"
     },
     {
-      "name": "Persistent Constrictor",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Zombie Snake",
-      "text": "At the beginning of each opponent's upkeep, they lose 1 life and you put a -1/-1 counter on up to one target creature they control.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)"
-    },
-    {
       "name": "Roiling Vortex",
       "quantity": 1,
       "board": "main",
@@ -1181,6 +1153,34 @@
       "manaValue": 2,
       "type": "Enchantment",
       "text": "At the beginning of each player's upkeep, this enchantment deals 1 damage to them.\nWhenever a player casts a spell, if no mana was spent to cast that spell, this enchantment deals 5 damage to that player.\n{R}: Your opponents can't gain life this turn."
+    },
+    {
+      "name": "Demonic Tutor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Sorcery",
+      "text": "Search your library for a card, put that card into your hand, then shuffle."
+    },
+    {
+      "name": "Dark Ritual",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Add {B}{B}{B}."
     }
   ]
 }

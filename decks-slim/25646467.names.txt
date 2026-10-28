@@ -14,7 +14,6 @@ Castle Embereth
 Cavern of Souls
 Chaos Warp
 City on Fire
-Coat of Arms
 Conspicuous Snoop
 Deflecting Swat
 Den of the Bugbear
@@ -33,13 +32,11 @@ Goblin Trashmaster
 Goblin Warchief
 Heat Shimmer
 Goro-Goro, Disciple of Ryusei
-Grenzo, Havoc Raiser
 Illusionist's Bracers
 Impact Tremors
 Imperial Recruiter
 Jeska's Will
 Kiki-Jiki, Mirror Breaker
-Krenko, Tin Street Kingpin
 Legion Loyalist
 Lightning Greaves
 Mana Echoes
@@ -63,7 +60,6 @@ Squee, Dubious Monarch
 Staff of Domination
 Thornbite Staff
 Thousand-Year Elixir
-Torbran, Thane of Red Fell
 Urza's Incubator
 Valakut Exploration
 Zealous Conscripts
@@ -76,3 +72,7 @@ Krenko, Mob Boss
 The Fire Crystal
 Mountain
 Vandalblast
+Krenko, Tin Street Kingpin
+Pyroblast
+Red Elemental Blast
+Mana Geyser

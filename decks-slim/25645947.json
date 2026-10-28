@@ -19,20 +19,6 @@
   },
   "cards": [
     {
-      "name": "Malakir Bloodwitch",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Vampire Shaman",
-      "text": "Flying, protection from white\nWhen this creature enters, each opponent loses life equal to the number of Vampires you control. You gain life equal to the life lost this way."
-    },
-    {
       "name": "Cavern of Souls",
       "quantity": 1,
       "board": "main",
@@ -1215,6 +1201,20 @@
       "manaValue": 2,
       "type": "Creature — Knight Vampire",
       "text": "This creature enters tapped.\nYou may cast this card from your graveyard if you gained life this turn."
+    },
+    {
+      "name": "Sanguine Bond",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever you gain life, target opponent loses that much life."
     }
   ]
 }

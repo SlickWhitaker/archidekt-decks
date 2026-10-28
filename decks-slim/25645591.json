@@ -613,20 +613,6 @@
       "text": "{T}: Add one mana of any type that a land you control could produce."
     },
     {
-      "name": "Return to Nature",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Exile target card from a graveyard."
-    },
-    {
       "name": "Rishkar's Expertise",
       "quantity": 1,
       "board": "main",
@@ -1029,6 +1015,20 @@
       "manaValue": 6,
       "type": "Creature — Dragon",
       "text": "Flying, trample\nWhenever this creature deals combat damage to a player, gain control of all artifacts that player controls.\nAt the beginning of your upkeep, if you control twenty or more artifacts, you win the game."
+    },
+    {
+      "name": "Return of the Wildspeaker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Instant",
+      "text": "Choose one —\n• Draw cards equal to the greatest power among non-Human creatures you control.\n• Non-Human creatures you control get +3/+3 until end of turn."
     }
   ]
 }

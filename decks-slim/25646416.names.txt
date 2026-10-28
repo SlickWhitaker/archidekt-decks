@@ -1,7 +1,5 @@
 Force of Vigor
 Swiftfoot Boots
-Shamanic Revelation
-Gearbane Orangutan
 Roaming Throne
 Jeska's Will
 Aggravated Assault
@@ -41,13 +39,11 @@ Hardened Scales
 Heroic Intervention
 Karplusan Forest
 Kiki-Jiki, Mirror Breaker
-Kodama of the West Tree
 Lightning Greaves
 Llanowar Elves
 Misty Rainforest
 Mountain
 Natural Order
-Nature's Lore
 Nykthos, Shrine to Nyx
 Old Gnawbone
 Orcish Lumberjack
@@ -84,7 +80,6 @@ Kogla, the Titan Ape
 Viridian Revel
 Liquimetal Coating
 Silverback Elder
-Yavimaya Steelcrusher
 Branching Evolution
 Combat Celebrant
 Ragavan, Nimble Pilferer
@@ -92,3 +87,8 @@ Triumph of the Hordes
 Kibo, Uktabi Prince
 Mycosynth Lattice
 Uktabi Orangutan
+Gorilla Shaman
+Professional Face-Breaker
+Nature's Claim
+Gearbane Orangutan
+Simian Simulacrum
