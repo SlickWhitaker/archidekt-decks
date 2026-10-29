@@ -146,20 +146,6 @@
       "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
-      "name": "Commandeer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 7,
-      "type": "Instant",
-      "text": "You may exile two blue cards from your hand rather than pay this spell's mana cost.\nGain control of target noncreature spell. You may choose new targets for it. (If that spell is an artifact, enchantment, or planeswalker, the permanent enters under your control.)"
-    },
-    {
       "name": "Counterspell",
       "quantity": 1,
       "board": "main",
@@ -468,7 +454,7 @@
     },
     {
       "name": "Island",
-      "quantity": 2,
+      "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [
@@ -1102,20 +1088,6 @@
       "text": "Ninjutsu {2}{U}{U} ({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nFlying\nWhen this creature enters from your hand, if it's attacking, create a token that's a copy of another target attacking creature. The token enters tapped and attacking."
     },
     {
-      "name": "Throat Slitter",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Rat Ninja",
-      "text": "Ninjutsu {2}{B} ({2}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever this creature deals combat damage to a player, destroy target nonblack creature that player controls."
-    },
-    {
       "name": "Underground River",
       "quantity": 1,
       "board": "main",
@@ -1323,6 +1295,43 @@
       "manaValue": 2,
       "type": "Artifact",
       "text": "Activated abilities of creatures can't be activated."
+    },
+    {
+      "name": "Mana Vault",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "This artifact doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap this artifact.\nAt the beginning of your draw step, if this artifact is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}."
+    },
+    {
+      "name": "Personal Tutor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Search your library for a sorcery card, reveal it, then shuffle and put that card on top."
+    },
+    {
+      "name": "Underground Sea",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land — Island Swamp",
+      "text": "({T}: Add {U} or {B}.)"
     }
   ]
 }

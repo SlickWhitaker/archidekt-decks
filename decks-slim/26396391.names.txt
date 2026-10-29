@@ -15,7 +15,6 @@ Altar of Dementia
 Altar of the Brood
 Amulet of Vigor
 Ancient Greenwarden
-Arcane Adaptation
 Ashaya, Soul of the Wild
 Assassin's Trophy
 Azusa, Lost but Seeking
@@ -38,7 +37,6 @@ Hedron Crab
 Heroic Intervention
 Island
 Kodama of the East Tree
-Llanowar Elves
 Lotus Cobra
 Mana Drain
 Maskwood Nexus
@@ -58,7 +56,6 @@ Swamp
 Swan Song
 Sylvan Scrying
 Tatyova, Benthic Druid
-The Gitrog Monster
 Tireless Provisioner
 Vampiric Tutor
 Worldly Tutor
@@ -78,10 +75,13 @@ Homer, the Hermit
 Verdant Catacombs
 Spelunking
 Spark Double
-Thassa's Oracle
 Mystic Remora
 Scuttletide
 Nissa, Resurgent Animist
 Finale of Devastation
 Veil of Summer
 Field of the Dead
+Arcane Adaptation
+Kindred Discovery
+Uchuulon
+Walking Atlas

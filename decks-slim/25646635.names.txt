@@ -8,7 +8,6 @@ Choked Estuary
 Chrome Mox
 Clearwater Pathway // Murkwater Pathway
 Command Tower
-Commandeer
 Counterspell
 Cyclonic Rift
 Darkslick Shores
@@ -79,7 +78,6 @@ Tetsuko Umezawa, Fugitive
 Thassa's Oracle
 Thieving Skydiver
 Thousand-Faced Shadow
-Throat Slitter
 Underground River
 Vampiric Tutor
 Walker of Secret Ways
@@ -96,3 +94,6 @@ Yuriko, the Tiger's Shadow
 River of Tears
 Takenuma, Abandoned Mire
 Cursed Totem
+Mana Vault
+Personal Tutor
+Underground Sea

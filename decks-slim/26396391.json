@@ -238,20 +238,6 @@
       "text": "Reach (This creature can block creatures with flying.)\nYou may play lands from your graveyard.\nIf a land entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
     },
     {
-      "name": "Arcane Adaptation",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "As this enchantment enters, choose a creature type.\nCreatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield."
-    },
-    {
       "name": "Ashaya, Soul of the Wild",
       "quantity": 1,
       "board": "main",
@@ -536,20 +522,6 @@
       "text": "Reach\nWhenever another permanent you control enters, if it wasn't put onto the battlefield with this ability, you may put a permanent card with equal or lesser mana value from your hand onto the battlefield.\nPartner (You can have two commanders if both have partner.)"
     },
     {
-      "name": "Llanowar Elves",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Elf Druid",
-      "text": "{T}: Add {G}."
-    },
-    {
       "name": "Lotus Cobra",
       "quantity": 1,
       "board": "main",
@@ -795,22 +767,6 @@
       "manaValue": 5,
       "type": "Legendary Creature — Druid Merfolk",
       "text": "Landfall — Whenever a land you control enters, you gain 1 life and draw a card."
-    },
-    {
-      "name": "The Gitrog Monster",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Horror Frog",
-      "text": "Deathtouch\nAt the beginning of your upkeep, sacrifice The Gitrog Monster unless you sacrifice a land.\nYou may play an additional land on each of your turns.\nWhenever one or more land cards are put into your graveyard from anywhere, draw a card."
     },
     {
       "name": "Tireless Provisioner",
@@ -1069,20 +1025,6 @@
       "text": "You may have this creature enter as a copy of a creature or planeswalker you control, except it enters with an additional +1/+1 counter on it if it's a creature, it enters with an additional loyalty counter on it if it's a planeswalker, and it isn't legendary."
     },
     {
-      "name": "Thassa's Oracle",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Wizard Merfolk",
-      "text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
-    },
-    {
       "name": "Mystic Remora",
       "quantity": 1,
       "board": "main",
@@ -1161,6 +1103,58 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token."
+    },
+    {
+      "name": "Arcane Adaptation",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "As this enchantment enters, choose a creature type.\nCreatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield."
+    },
+    {
+      "name": "Kindred Discovery",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "As this enchantment enters, choose a creature type.\nWhenever a creature you control of the chosen type enters or attacks, draw a card."
+    },
+    {
+      "name": "Uchuulon",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Ooze Crab Horror",
+      "text": "Uchuulon's power is equal to the number of Crabs, Oozes, and/or Horrors you control.\nHorrific Symbiosis — At the beginning of your end step, exile up to one target creature card from an opponent's graveyard. If you do, create a token that's a copy of this creature."
+    },
+    {
+      "name": "Walking Atlas",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Creature Artifact — Construct",
+      "text": "{T}: You may put a land card from your hand onto the battlefield."
     }
   ]
 }

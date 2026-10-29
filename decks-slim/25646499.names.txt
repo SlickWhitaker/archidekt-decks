@@ -5,7 +5,6 @@ Aragorn, King of Gondor
 Arcane Signet
 Arid Mesa
 Bard the Bowman
-Bastion Protector
 Battlefield Forge
 Beregond of the Guard
 Boromir, Gondor's Hope
@@ -82,3 +81,4 @@ Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
+Mithril Coat

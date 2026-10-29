@@ -305,22 +305,6 @@
       "text": "+1: Create three 1/1 white Soldier creature tokens.\n−3: Destroy all creatures with power 4 or greater.\n−7: You get an emblem with \"Creatures you control get +2/+2 and have flying.\""
     },
     {
-      "name": "Empyrean Eagle",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Bird Spirit",
-      "text": "Flying\nOther creatures you control with flying get +1/+1."
-    },
-    {
       "name": "Esior, Wardwing Familiar",
       "quantity": 1,
       "board": "main",
@@ -1242,6 +1226,20 @@
       "manaValue": 3,
       "type": "Enchantment — Class",
       "text": "(Gain the next level as a sorcery to add its ability.)\nWhenever one or more tokens you control enter, draw a card. This ability triggers only once each turn.\n{W}: Level 2\nWhen this Class becomes level 2, create a token that's a copy of target token you control.\n{3}{W}: Level 3\nCreature tokens you control get +2/+2."
+    },
+    {
+      "name": "Devilish Valet",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Warrior Devil",
+      "text": "Trample, haste\nAlliance — Whenever another creature you control enters, double this creature's power until end of turn."
     }
   ]
 }

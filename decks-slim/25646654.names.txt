@@ -19,7 +19,6 @@ Combat Celebrant
 Command Tower
 Curiosity Crafter
 Elspeth, Sun's Champion
-Empyrean Eagle
 Esior, Wardwing Familiar
 Evolving Wilds
 Exotic Orchard
@@ -90,3 +89,4 @@ Panharmonicon
 Delney, Streetwise Lookout
 Dovin's Veto
 Caretaker's Talent
+Devilish Valet

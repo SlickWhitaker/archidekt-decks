@@ -119,20 +119,6 @@
       "text": "Reach\nWhenever you draw your second card each turn, put a +1/+1 counter on target creature. It gains lifelink until end of turn."
     },
     {
-      "name": "Bastion Protector",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Soldier",
-      "text": "Commander creatures you control get +2/+2 and have indestructible."
-    },
-    {
       "name": "Battlefield Forge",
       "quantity": 1,
       "board": "main",
@@ -1127,6 +1113,16 @@
       "manaValue": 5,
       "type": "Creature — Human Warrior",
       "text": "Haste\nWhen this creature enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
+    },
+    {
+      "name": "Mithril Coat",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact — Equipment",
+      "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
     }
   ]
 }
