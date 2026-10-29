@@ -46,7 +46,7 @@
       "namesFile": "25645591.names.txt",
       "cardsFile": "25645591.cards.jsonl",
       "metaFile": "25645591.meta.json",
-      "fullBytes": 235639,
+      "fullBytes": 235660,
       "analysisBytes": 23434,
       "reductionPercent": 90.1
     },
@@ -72,7 +72,7 @@
       "namesFile": "25645732.names.txt",
       "cardsFile": "25645732.cards.jsonl",
       "metaFile": "25645732.meta.json",
-      "fullBytes": 300384,
+      "fullBytes": 300400,
       "analysisBytes": 30105,
       "reductionPercent": 90.0
     },
@@ -256,7 +256,7 @@
       "namesFile": "25646416.names.txt",
       "cardsFile": "25646416.cards.jsonl",
       "metaFile": "25646416.meta.json",
-      "fullBytes": 292607,
+      "fullBytes": 292662,
       "analysisBytes": 28919,
       "reductionPercent": 90.1
     },
@@ -280,7 +280,7 @@
       "namesFile": "25646467.names.txt",
       "cardsFile": "25646467.cards.jsonl",
       "metaFile": "25646467.meta.json",
-      "fullBytes": 248427,
+      "fullBytes": 248443,
       "analysisBytes": 25803,
       "reductionPercent": 89.6
     },
@@ -381,7 +381,7 @@
       "namesFile": "25646611.names.txt",
       "cardsFile": "25646611.cards.jsonl",
       "metaFile": "25646611.meta.json",
-      "fullBytes": 269875,
+      "fullBytes": 269893,
       "analysisBytes": 27026,
       "reductionPercent": 90.0
     },
@@ -456,7 +456,7 @@
       "namesFile": "25764763.names.txt",
       "cardsFile": "25764763.cards.jsonl",
       "metaFile": "25764763.meta.json",
-      "fullBytes": 226159,
+      "fullBytes": 226158,
       "analysisBytes": 24522,
       "reductionPercent": 89.2
     },
@@ -513,32 +513,6 @@
       "reductionPercent": 90.0
     },
     {
-      "id": 26712117,
-      "name": "The Ur-Sphinxter",
-      "format": 3,
-      "commander": [
-        "The Ur-Sphinx"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Blue",
-        "White"
-      ],
-      "counts": {
-        "main": 99,
-        "commander": 1,
-        "maybeboard": 0,
-        "sideboard": 0,
-        "total": 100
-      },
-      "namesFile": "26712117.names.txt",
-      "cardsFile": "26712117.cards.jsonl",
-      "metaFile": "26712117.meta.json",
-      "fullBytes": 276646,
-      "analysisBytes": 27834,
-      "reductionPercent": 89.9
-    },
-    {
       "id": 27360262,
       "name": "Odds and Ends - Secret Lair Commander",
       "format": 3,
@@ -563,6 +537,32 @@
       "fullBytes": 281813,
       "analysisBytes": 31008,
       "reductionPercent": 89.0
+    },
+    {
+      "id": 27887634,
+      "name": "Helga 2.0",
+      "format": 3,
+      "commander": [
+        "Helga, Skittish Seer"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green",
+        "White"
+      ],
+      "counts": {
+        "main": 99,
+        "commander": 1,
+        "maybeboard": 0,
+        "sideboard": 0,
+        "total": 100
+      },
+      "namesFile": "27887634.names.txt",
+      "cardsFile": "27887634.cards.jsonl",
+      "metaFile": "27887634.meta.json",
+      "fullBytes": 308321,
+      "analysisBytes": 30268,
+      "reductionPercent": 90.2
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "id": 26712117,
-  "name": "The Ur-Sphinxter",
+  "id": 27887634,
+  "name": "Helga 2.0",
   "format": 3,
   "commander": [
-    "The Ur-Sphinx"
+    "Helga, Skittish Seer"
   ],
   "colorIdentity": [
-    "Black",
     "Blue",
+    "Green",
     "White"
   ],
   "counts": {
