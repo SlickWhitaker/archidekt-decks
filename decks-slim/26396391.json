@@ -19,20 +19,6 @@
   },
   "cards": [
     {
-      "name": "Quirion Ranger",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Elf Ranger",
-      "text": "Return a Forest you control to its owner's hand: Untap target creature. Activate only once each turn."
-    },
-    {
       "name": "Breeding Pool",
       "quantity": 1,
       "board": "main",
@@ -86,20 +72,6 @@
       "manaValue": 2,
       "type": "Instant",
       "text": "Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
-    },
-    {
-      "name": "Nature's Claim",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Destroy target artifact or enchantment. Its controller gains 4 life."
     },
     {
       "name": "Force of Vigor",
@@ -356,18 +328,6 @@
       "text": "You may play lands from your graveyard."
     },
     {
-      "name": "Dakmor Salvage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\n{T}: Add {B}.\nDredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)"
-    },
-    {
       "name": "Demonic Tutor",
       "quantity": 1,
       "board": "main",
@@ -430,7 +390,7 @@
     },
     {
       "name": "Forest",
-      "quantity": 7,
+      "quantity": 6,
       "board": "main",
       "colors": [],
       "colorIdentity": [
@@ -452,20 +412,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {B}{G}."
-    },
-    {
-      "name": "Harrow",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Instant",
-      "text": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for up to two basic land cards, put them onto the battlefield, then shuffle."
     },
     {
       "name": "Hedron Crab",
@@ -737,20 +683,6 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
-    },
-    {
-      "name": "Sylvan Scrying",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Search your library for a land card, reveal it, put it into your hand, then shuffle."
     },
     {
       "name": "Tatyova, Benthic Druid",
@@ -1147,14 +1079,92 @@
       "text": "Uchuulon's power is equal to the number of Crabs, Oozes, and/or Horrors you control.\nHorrific Symbiosis — At the beginning of your end step, exile up to one target creature card from an opponent's graveyard. If you do, create a token that's a copy of this creature."
     },
     {
-      "name": "Walking Atlas",
+      "name": "Burgeoning",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment",
+      "text": "Whenever an opponent plays a land, you may put a land card from your hand onto the battlefield."
+    },
+    {
+      "name": "Icetill Explorer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Scout Insect",
+      "text": "You may play an additional land on each of your turns.\nYou may play lands from your graveyard.\nLandfall — Whenever a land you control enters, mill a card."
+    },
+    {
+      "name": "Springheart Nantuko",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Creature Enchantment — Monk Insect",
+      "text": "Bestow {1}{G}\nEnchanted creature gets +1/+1.\nLandfall — Whenever a land you control enters, you may pay {1}{G} if this permanent is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token."
+    },
+    {
+      "name": "Hedge Shredder",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Artifact — Vehicle",
+      "text": "Whenever this Vehicle attacks, you may mill two cards.\nWhenever one or more land cards are put into your graveyard from your library, put them onto the battlefield tapped.\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    },
+    {
+      "name": "Windswept Heath",
       "quantity": 1,
       "board": "main",
       "colors": [],
       "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Creature Artifact — Construct",
-      "text": "{T}: You may put a land card from your hand onto the battlefield."
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "Yavimaya, Cradle of Growth",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "Each land is a Forest in addition to its other land types."
+    },
+    {
+      "name": "Otawara, Soaring City",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "{T}: Add {U}.\nChannel — {3}{U}, Discard this card: Return target artifact, creature, enchantment, or planeswalker to its owner's hand. This ability costs {1} less to activate for each legendary creature you control."
     }
   ]
 }

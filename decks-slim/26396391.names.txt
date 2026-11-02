@@ -1,9 +1,7 @@
-Quirion Ranger
 Breeding Pool
 Sylvan Safekeeper
 Sakashima of a Thousand Faces
 Cyclonic Rift
-Nature's Claim
 Force of Vigor
 Force of Will
 Green Sun's Zenith
@@ -24,7 +22,6 @@ Bruvac the Grandiloquent
 Command Tower
 Crop Rotation
 Crucible of Worlds
-Dakmor Salvage
 Demonic Tutor
 Dimir Aqueduct
 Exploration
@@ -32,7 +29,6 @@ Fabled Passage
 Flooded Strand
 Forest
 Golgari Rot Farm
-Harrow
 Hedron Crab
 Heroic Intervention
 Island
@@ -54,7 +50,6 @@ Sol Ring
 Splendid Reclamation
 Swamp
 Swan Song
-Sylvan Scrying
 Tatyova, Benthic Druid
 Tireless Provisioner
 Vampiric Tutor
@@ -84,4 +79,10 @@ Field of the Dead
 Arcane Adaptation
 Kindred Discovery
 Uchuulon
-Walking Atlas
+Burgeoning
+Icetill Explorer
+Springheart Nantuko
+Hedge Shredder
+Windswept Heath
+Yavimaya, Cradle of Growth
+Otawara, Soaring City
