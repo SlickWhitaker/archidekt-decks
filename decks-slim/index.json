@@ -560,8 +560,8 @@
       "namesFile": "27887634.names.txt",
       "cardsFile": "27887634.cards.jsonl",
       "metaFile": "27887634.meta.json",
-      "fullBytes": 309060,
-      "analysisBytes": 30268,
+      "fullBytes": 306869,
+      "analysisBytes": 30171,
       "reductionPercent": 90.2
     }
   ]

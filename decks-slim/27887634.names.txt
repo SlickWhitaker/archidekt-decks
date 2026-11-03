@@ -1,6 +1,5 @@
 Helga, Skittish Seer
 Chakram Retriever
-Blinking Spirit
 Ancestral Statue
 Venser, Shaper Savant
 Palinchron
@@ -58,9 +57,6 @@ Mana Confluence
 Breeding Pool
 Hallowed Fountain
 Temple Garden
-Tropical Island
-Tundra
-Savannah
 Misty Rainforest
 Flooded Strand
 Windswept Heath
@@ -71,7 +67,6 @@ Arid Mesa
 Marsh Flats
 Verdant Catacombs
 Prismatic Vista
-Ancient Tomb
 Gemstone Caverns
 Minamo, School at Water's Edge
 Otawara, Soaring City
@@ -79,7 +74,6 @@ Boseiju, Who Endures
 Rejuvenating Springs
 Bountiful Promenade
 Sea of Clouds
-Forest
 Island
 Plains
 Mindbreak Trap
@@ -92,8 +86,13 @@ Foundation Breaker
 Mox Amber
 Selvala, Heart of the Wilds
 Carpet of Flowers
-Clever Impersonator
 Momir Vig, Simic Visionary
 Sky Hussar
 Fyndhorn Elves
 Brightglass Gearhulk
+Yavimaya Coast
+Brushland
+Adarkar Wastes
+Freed from the Real
+Forest
+Blinking Spirit
