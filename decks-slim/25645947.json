@@ -57,20 +57,6 @@
       "text": "Sacrifice a creature: This enchantment deals 1 damage to any target."
     },
     {
-      "name": "Molten Echoes",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "As this enchantment enters, choose a creature type.\nWhenever a nontoken creature you control of the chosen type enters, create a token that's a copy of that creature. That token gains haste. Exile it at the beginning of the next end step."
-    },
-    {
       "name": "Urza's Incubator",
       "quantity": 1,
       "board": "main",
@@ -1175,20 +1161,6 @@
       "text": "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top."
     },
     {
-      "name": "Marauding Blight-Priest",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Vampire Cleric",
-      "text": "Whenever you gain life, each opponent loses 1 life."
-    },
-    {
       "name": "Oathsworn Vampire",
       "quantity": 1,
       "board": "main",
@@ -1215,6 +1187,32 @@
       "manaValue": 5,
       "type": "Enchantment",
       "text": "Whenever you gain life, target opponent loses that much life."
+    },
+    {
+      "name": "Blackcleave Cliffs",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {B} or {R}."
+    },
+    {
+      "name": "Concealed Courtyard",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W} or {B}."
     }
   ]
 }

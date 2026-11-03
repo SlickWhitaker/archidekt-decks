@@ -9,7 +9,6 @@ Battlefield Forge
 Bident of Thassa
 Boros Signet
 Boss's Chauffeur
-Calamity of Cinders
 Cartographer's Hawk
 Cascade Bluffs
 Castle Ardenvale
@@ -90,3 +89,4 @@ Delney, Streetwise Lookout
 Dovin's Veto
 Caretaker's Talent
 Devilish Valet
+Into the Flood Maw

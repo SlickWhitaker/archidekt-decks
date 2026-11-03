@@ -1,7 +1,6 @@
 Cavern of Souls
 Impact Tremors
 Goblin Bombardment
-Molten Echoes
 Urza's Incubator
 Anguished Unmaking
 Anointed Procession
@@ -86,6 +85,7 @@ Carmen, Cruel Skymarcher
 Edgar Markov
 Master of Dark Rites
 Enlightened Tutor
-Marauding Blight-Priest
 Oathsworn Vampire
 Sanguine Bond
+Blackcleave Cliffs
+Concealed Courtyard

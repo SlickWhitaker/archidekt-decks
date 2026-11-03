@@ -72,9 +72,9 @@
       "namesFile": "25645732.names.txt",
       "cardsFile": "25645732.cards.jsonl",
       "metaFile": "25645732.meta.json",
-      "fullBytes": 301434,
-      "analysisBytes": 30105,
-      "reductionPercent": 90.0
+      "fullBytes": 302207,
+      "analysisBytes": 30439,
+      "reductionPercent": 89.9
     },
     {
       "id": 25645835,
@@ -125,9 +125,9 @@
       "namesFile": "25645947.names.txt",
       "cardsFile": "25645947.cards.jsonl",
       "metaFile": "25645947.meta.json",
-      "fullBytes": 284505,
-      "analysisBytes": 28069,
-      "reductionPercent": 90.1
+      "fullBytes": 284018,
+      "analysisBytes": 27935,
+      "reductionPercent": 90.2
     },
     {
       "id": 25645985,
@@ -256,8 +256,8 @@
       "namesFile": "25646416.names.txt",
       "cardsFile": "25646416.cards.jsonl",
       "metaFile": "25646416.meta.json",
-      "fullBytes": 293409,
-      "analysisBytes": 28919,
+      "fullBytes": 294001,
+      "analysisBytes": 29007,
       "reductionPercent": 90.1
     },
     {
@@ -280,9 +280,9 @@
       "namesFile": "25646467.names.txt",
       "cardsFile": "25646467.cards.jsonl",
       "metaFile": "25646467.meta.json",
-      "fullBytes": 248908,
-      "analysisBytes": 25803,
-      "reductionPercent": 89.6
+      "fullBytes": 247910,
+      "analysisBytes": 25091,
+      "reductionPercent": 89.9
     },
     {
       "id": 25646499,
@@ -381,9 +381,9 @@
       "namesFile": "25646611.names.txt",
       "cardsFile": "25646611.cards.jsonl",
       "metaFile": "25646611.meta.json",
-      "fullBytes": 270511,
-      "analysisBytes": 27026,
-      "reductionPercent": 90.0
+      "fullBytes": 270311,
+      "analysisBytes": 26861,
+      "reductionPercent": 90.1
     },
     {
       "id": 25646635,
@@ -432,9 +432,9 @@
       "namesFile": "25646654.names.txt",
       "cardsFile": "25646654.cards.jsonl",
       "metaFile": "25646654.meta.json",
-      "fullBytes": 284412,
-      "analysisBytes": 28294,
-      "reductionPercent": 90.1
+      "fullBytes": 284598,
+      "analysisBytes": 28423,
+      "reductionPercent": 90.0
     },
     {
       "id": 25764763,

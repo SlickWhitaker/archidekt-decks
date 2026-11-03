@@ -325,20 +325,6 @@
       "text": "Vivid — {T}: For each color among permanents you control, add one mana of that color."
     },
     {
-      "name": "Bronze Guardian",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 5,
-      "type": "Creature Artifact — Golem",
-      "text": "Double strike\nWard {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nOther artifacts you control have ward {2}.\nBronze Guardian's power is equal to the number of artifacts you control."
-    },
-    {
       "name": "Bruenor Battlehammer",
       "quantity": 1,
       "board": "main",
@@ -773,16 +759,6 @@
       "text": "Vigilance, trample\nOther modified creatures you control have vigilance and trample. (Equipment, Auras you control, and counters are modifications.)\nCosmo Memory — When Red XIII enters, return target Aura or Equipment card from your graveyard to your hand."
     },
     {
-      "name": "Rogue's Passage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."
-    },
-    {
       "name": "Rootbound Crag",
       "quantity": 1,
       "board": "main",
@@ -927,16 +903,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{1}, {T}: Add {R}{W}."
-    },
-    {
-      "name": "Sword of the Animist",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Legendary Artifact — Equipment",
-      "text": "Equipped creature gets +1/+1.\nWhenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\nEquip {2}"
     },
     {
       "name": "Swords to Plowshares",
@@ -1247,6 +1213,40 @@
       "manaValue": 2,
       "type": "Artifact",
       "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+      "name": "Urza's Saga",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 0,
+      "type": "Land Enchantment — Saga Urza's",
+      "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — This Saga gains \"{T}: Add {C}.\"\nII — This Saga gains \"{2}, {T}: Create a 0/0 colorless Construct artifact creature token with 'This token gets +1/+1 for each artifact you control.'\"\nIII — Search your library for an artifact card with mana cost {0} or {1}, put it onto the battlefield, then shuffle."
+    },
+    {
+      "name": "The One Ring",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Legendary Artifact",
+      "text": "Indestructible\nWhen The One Ring enters, if you cast it, you gain protection from everything until your next turn.\nAt the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.\n{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring."
+    },
+    {
+      "name": "Stonehewer Giant",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Warrior Giant",
+      "text": "Vigilance\n{1}{W}, {T}: Search your library for an Equipment card, put it onto the battlefield, attach it to a creature you control, then shuffle."
     }
   ]
 }

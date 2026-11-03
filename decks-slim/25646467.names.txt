@@ -13,7 +13,6 @@ Brash Taunter
 Castle Embereth
 Cavern of Souls
 Chaos Warp
-City on Fire
 Conspicuous Snoop
 Deflecting Swat
 Den of the Bugbear
@@ -31,7 +30,6 @@ Goblin Sharpshooter
 Goblin Trashmaster
 Goblin Warchief
 Heat Shimmer
-Goro-Goro, Disciple of Ryusei
 Illusionist's Bracers
 Impact Tremors
 Imperial Recruiter
@@ -61,7 +59,6 @@ Staff of Domination
 Thornbite Staff
 Thousand-Year Elixir
 Urza's Incubator
-Valakut Exploration
 Zealous Conscripts
 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 War Room
@@ -76,3 +73,6 @@ Krenko, Tin Street Kingpin
 Pyroblast
 Red Elemental Blast
 Mana Geyser
+Battle Hymn
+Goblin War Strike
+Brightstone Ritual

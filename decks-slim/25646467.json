@@ -209,20 +209,6 @@
       "text": "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield."
     },
     {
-      "name": "City on Fire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 8,
-      "type": "Enchantment",
-      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nIf a source you control would deal damage to a permanent or player, it deals triple that damage instead."
-    },
-    {
       "name": "Conspicuous Snoop",
       "quantity": 1,
       "board": "main",
@@ -453,20 +439,6 @@
       "manaValue": 3,
       "type": "Sorcery",
       "text": "Create a token that's a copy of target creature, except it has haste and \"At the beginning of the end step, exile this token.\""
-    },
-    {
-      "name": "Goro-Goro, Disciple of Ryusei",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Goblin Samurai",
-      "text": "{R}: Creatures you control gain haste until end of turn.\n{3}{R}{R}: Create a 5/5 red Dragon Spirit creature token with flying. Activate only if you control an attacking modified creature. (Equipment, Auras you control, and counters are modifications.)"
     },
     {
       "name": "Illusionist's Bracers",
@@ -831,20 +803,6 @@
       "text": "As this artifact enters, choose a creature type.\nCreature spells of the chosen type cost {2} less to cast."
     },
     {
-      "name": "Valakut Exploration",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Landfall — Whenever a land you control enters, exile the top card of your library. You may play that card for as long as it remains exiled.\nAt the beginning of your end step, if there are cards exiled with this enchantment, put them into their owner's graveyard, then this enchantment deals that much damage to each opponent."
-    },
-    {
       "name": "Zealous Conscripts",
       "quantity": 1,
       "board": "main",
@@ -1025,6 +983,48 @@
       "manaValue": 5,
       "type": "Sorcery",
       "text": "Add {R} for each tapped land your opponents control."
+    },
+    {
+      "name": "Battle Hymn",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Add {R} for each creature you control."
+    },
+    {
+      "name": "Goblin War Strike",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Goblin War Strike deals damage to target player or planeswalker equal to the number of Goblins you control."
+    },
+    {
+      "name": "Brightstone Ritual",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Add {R} for each Goblin on the battlefield."
     }
   ]
 }

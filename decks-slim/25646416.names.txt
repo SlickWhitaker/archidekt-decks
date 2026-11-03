@@ -26,7 +26,6 @@ Delighted Halfling
 Eldritch Evolution
 Elvish Mystic
 Eternal Witness
-Exploration
 Fauna Shaman
 Finale of Devastation
 Fire-Lit Thicket
@@ -92,3 +91,4 @@ Professional Face-Breaker
 Nature's Claim
 Gearbane Orangutan
 Simian Simulacrum
+Staff of Domination

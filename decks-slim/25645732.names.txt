@@ -21,7 +21,6 @@ Arcane Signet
 Austere Command
 Battlefield Forge
 Bloom Tender
-Bronze Guardian
 Bruenor Battlehammer
 Brushland
 Buster Sword
@@ -56,7 +55,6 @@ Plains
 Professional Face-Breaker
 Puresteel Paladin
 Red XIII, Proud Warrior
-Rogue's Passage
 Rootbound Crag
 Rugged Prairie
 Scavenger Grounds
@@ -69,7 +67,6 @@ Stoneforge Mystic
 Sungrass Prairie
 Sunpetal Grove
 Sunscorched Divide
-Sword of the Animist
 Swords to Plowshares
 Vandalblast
 Zack Fair
@@ -95,3 +92,6 @@ Sword of Fire and Ice
 Plains
 Tifa, Martial Artist
 Fellwar Stone
+Urza's Saga
+The One Ring
+Stonehewer Giant

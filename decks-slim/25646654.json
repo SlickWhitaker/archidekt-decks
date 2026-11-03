@@ -169,20 +169,6 @@
       "text": "This creature enters with a number of +1/+1 counters on it equal to one plus the number of other creatures you control.\nAlliance — Whenever another creature you control enters, put a +1/+1 counter on this creature.\nWhen this creature dies, create a 1/1 green and white Citizen creature token for each +1/+1 counter on it."
     },
     {
-      "name": "Calamity of Cinders",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 7,
-      "type": "Sorcery",
-      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCalamity of Cinders deals 6 damage to each untapped creature."
-    },
-    {
       "name": "Cartographer's Hawk",
       "quantity": 1,
       "board": "main",
@@ -1240,6 +1226,20 @@
       "manaValue": 3,
       "type": "Creature — Warrior Devil",
       "text": "Trample, haste\nAlliance — Whenever another creature you control enters, double this creature's power until end of turn."
+    },
+    {
+      "name": "Into the Flood Maw",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)\nReturn target creature an opponent controls to its owner's hand. If the gift was promised, instead return target nonland permanent an opponent controls to its owner's hand."
     }
   ]
 }
