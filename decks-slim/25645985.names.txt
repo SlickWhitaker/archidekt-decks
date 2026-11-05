@@ -34,7 +34,6 @@ Murmuring Bosk
 Nature's Lore
 Necroblossom Snarl
 Of Herbs and Stewed Rabbit
-Orchard Strider
 Overgrown Tomb
 Path of Ancestry
 Peregrin Took
@@ -75,8 +74,6 @@ Anguished Unmaking
 Aragorn and Arwen, Wed
 Arcane Signet
 Ash Barrens
-Assemble the Entmoot
-Battle at the Bridge
 Bilbo, Birthday Celebrant
 Birds of Paradise
 Bretagard Stronghold
@@ -85,6 +82,9 @@ Butterbur, Bree Innkeeper
 Canopy Vista
 Cauldron Familiar
 Chromatic Lantern
+Viscera Seer
+Eladamri's Call
+Chord of Calling
 Stardew Valley
 Frodo, Adventurous Hobbit
 Basking Broodscale

@@ -6,7 +6,6 @@ Arcane Signet
 Arthur, Marigold Knight
 Azorius Signet
 Battlefield Forge
-Bident of Thassa
 Boros Signet
 Boss's Chauffeur
 Cartographer's Hawk
@@ -29,7 +28,6 @@ Impact Tremors
 Island
 Izzet Signet
 Jacked Rabbit
-Jubilant Skybonder
 Kindred Discovery
 Ledger Shredder
 Martial Coup
@@ -76,10 +74,12 @@ Thriving Isle
 Time Wipe
 Unbreakable Formation
 Valley Floodcaller
-Warden of Evos Isle
 Warren Warleader
 Watcher of the Spheres
 Zinnia, Valley's Voice
+Welcoming Vampire
+Swan Song
+Esper Sentinel
 Fiend Hunter
 Academy Manufactor
 Cathars' Crusade

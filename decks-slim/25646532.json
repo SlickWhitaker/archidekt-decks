@@ -147,20 +147,6 @@
       "text": "At the beginning of each player's upkeep, that player discards a card at random."
     },
     {
-      "name": "Burglar Rat",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Rat",
-      "text": "When this creature enters, each opponent discards a card."
-    },
-    {
       "name": "Chthonian Nightmare",
       "quantity": 1,
       "board": "main",
@@ -597,16 +583,6 @@
       "text": "{1}{B}, Pay 2 life: Return target creature card from your graveyard to your hand."
     },
     {
-      "name": "Psychosis Crawler",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 5,
-      "type": "Creature Artifact — Horror Phyrexian",
-      "text": "Psychosis Crawler's power and toughness are each equal to the number of cards in your hand.\nWhenever you draw a card, each opponent loses 1 life."
-    },
-    {
       "name": "Quest for the Nihil Stone",
       "quantity": 1,
       "board": "main",
@@ -730,7 +706,7 @@
     },
     {
       "name": "Swamp",
-      "quantity": 28,
+      "quantity": 27,
       "board": "main",
       "colors": [],
       "colorIdentity": [
@@ -863,6 +839,60 @@
       "text": "{1}: The next time you would draw a card this turn, each opponent discards a card instead."
     },
     {
+      "name": "Cabal Coffers",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "{2}, {T}: Add {B} for each Swamp you control."
+    },
+    {
+      "name": "Tourach, Dread Cantor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Creature — Human Cleric",
+      "text": "Kicker {B}{B} (You may pay an additional {B}{B} as you cast this spell.)\nProtection from white\nWhenever an opponent discards a card, put a +1/+1 counter on Tourach.\nWhen Tourach enters, if it was kicked, target opponent discards two cards at random."
+    },
+    {
+      "name": "Exquisite Blood",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "Whenever an opponent loses life, you gain that much life."
+    },
+    {
+      "name": "Necropotence",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step."
+    },
+    {
       "name": "Geth's Grimoire",
       "quantity": 1,
       "board": "main",
@@ -919,20 +949,6 @@
       "manaValue": 2,
       "type": "Legendary Creature — Skeleton Rogue",
       "text": "At the beginning of each end step, if an opponent discarded a card this turn, you draw a card and you lose 1 life.\n{4}{B}{B}: Each opponent with no cards in hand loses 10 life."
-    },
-    {
-      "name": "Vicious Rumors",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Vicious Rumors deals 1 damage to each opponent. Each opponent discards a card, then mills a card. You gain 1 life."
     },
     {
       "name": "Jet Medallion",

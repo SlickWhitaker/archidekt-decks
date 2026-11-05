@@ -128,20 +128,6 @@
       "text": "{T}: Add {C}.\n{T}: Add {R} or {W}. This land deals 1 damage to you."
     },
     {
-      "name": "Bident of Thassa",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Artifact Enchantment",
-      "text": "Whenever a creature you control deals combat damage to a player, you may draw a card.\n{1}{U}, {T}: Creatures your opponents control attack this turn if able."
-    },
-    {
       "name": "Boros Signet",
       "quantity": 1,
       "board": "main",
@@ -426,22 +412,6 @@
       "manaValue": 2,
       "type": "Creature — Warrior Rabbit",
       "text": "Ravenous (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)\nWhenever this creature attacks, create a number of 1/1 white Rabbit creature tokens equal to this creature's power."
-    },
-    {
-      "name": "Jubilant Skybonder",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Wizard",
-      "text": "Flying\nCreatures you control with flying have \"Spells your opponents cast that target this creature cost {2} more to cast.\""
     },
     {
       "name": "Kindred Discovery",
@@ -1046,20 +1016,6 @@
       "text": "Flash\nYou may cast noncreature spells as though they had flash.\nWhenever you cast a noncreature spell, Birds, Frogs, Otters, and Rats you control get +1/+1 until end of turn. Untap them."
     },
     {
-      "name": "Warden of Evos Isle",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Wizard Bird",
-      "text": "Flying\nCreature spells with flying you cast cost {1} less to cast."
-    },
-    {
       "name": "Warren Warleader",
       "quantity": 1,
       "board": "main",
@@ -1106,6 +1062,48 @@
       "manaValue": 3,
       "type": "Legendary Creature — Bird Bard",
       "text": "Flying\nZinnia gets +X/+0, where X is the number of other creatures you control with base power 1.\nCreature spells you cast gain offspring {2} as you cast them. (You may pay an additional {2} as you cast a creature spell. If you do, when that creature enters, create a 1/1 token copy of it.)"
+    },
+    {
+      "name": "Welcoming Vampire",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Vampire",
+      "text": "Flying\nWhenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn."
+    },
+    {
+      "name": "Swan Song",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
+    },
+    {
+      "name": "Esper Sentinel",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Creature Artifact — Human Soldier",
+      "text": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power."
     },
     {
       "name": "Fiend Hunter",

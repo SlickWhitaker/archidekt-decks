@@ -505,20 +505,6 @@
       "text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Put a +1/+1 counter on up to one target creature. Create a Food token.\nII — Draw a card. Create a Food token.\nIII — Create a 1/1 white Halfling creature token for each Food you control."
     },
     {
-      "name": "Orchard Strider",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 6,
-      "type": "Creature — Treefolk",
-      "text": "When this creature enters, create two Food tokens. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nBasic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
-    },
-    {
       "name": "Overgrown Tomb",
       "quantity": 1,
       "board": "main",
@@ -1040,34 +1026,6 @@
       "text": "{T}: Add {C}.\nBasic landcycling {1} ({1}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
     },
     {
-      "name": "Assemble the Entmoot",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "Creatures you control have reach.\nSacrifice this enchantment: Create three tapped X/X green Treefolk creature tokens, where X is the amount of life you gained this turn. Put a reach counter on each of them."
-    },
-    {
-      "name": "Battle at the Bridge",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)\nTarget creature gets -X/-X until end of turn. You gain X life."
-    },
-    {
       "name": "Bilbo, Birthday Celebrant",
       "quantity": 1,
       "board": "main",
@@ -1177,6 +1135,50 @@
       "manaValue": 3,
       "type": "Artifact",
       "text": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color."
+    },
+    {
+      "name": "Viscera Seer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Wizard Vampire",
+      "text": "Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    },
+    {
+      "name": "Eladamri's Call",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Search your library for a creature card, reveal that card, put it into your hand, then shuffle."
+    },
+    {
+      "name": "Chord of Calling",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nSearch your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle."
     },
     {
       "name": "Stardew Valley",
