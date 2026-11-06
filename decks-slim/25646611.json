@@ -989,20 +989,6 @@
       "text": "Whenever you put one or more counters on a permanent or player, this enchantment deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls."
     },
     {
-      "name": "Blood Seeker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Vampire Shaman",
-      "text": "Whenever a creature an opponent controls enters, you may have that player lose 1 life."
-    },
-    {
       "name": "Gamble",
       "quantity": 1,
       "board": "main",
@@ -1093,6 +1079,20 @@
       "manaValue": 2,
       "type": "Artifact",
       "text": "Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)"
+    },
+    {
+      "name": "Fate Unraveler",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature Enchantment — Hag",
+      "text": "Whenever an opponent draws a card, this creature deals 1 damage to that player."
     },
     {
       "name": "Roiling Vortex",

@@ -71,7 +71,6 @@ Wound Reflection
 Zo-Zu the Punisher
 Scrawling Crawler
 All Will Be One
-Blood Seeker
 Gamble
 Sanguine Bond
 Vampiric Tutor
@@ -79,6 +78,7 @@ Mana Vault
 Valgavoth, Harrower of Souls
 Vito, Thorn of the Dusk Rose
 Mindcrank
+Fate Unraveler
 Roiling Vortex
 Demonic Tutor
 Dark Ritual
