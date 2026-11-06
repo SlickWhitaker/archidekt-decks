@@ -7,7 +7,6 @@ Arthur, Marigold Knight
 Azorius Signet
 Battlefield Forge
 Boros Signet
-Boss's Chauffeur
 Cartographer's Hawk
 Cascade Bluffs
 Castle Ardenvale
@@ -83,6 +82,7 @@ Esper Sentinel
 Fiend Hunter
 Academy Manufactor
 Cathars' Crusade
+Mondrak, Glory Dominus
 Purphoros, God of the Forge
 Panharmonicon
 Delney, Streetwise Lookout

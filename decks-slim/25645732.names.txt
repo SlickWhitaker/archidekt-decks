@@ -11,14 +11,12 @@ Dispatch
 Trailblazer's Boots
 Cultivate
 Esper Sentinel
-Open the Armory
 Masterwork of Ingenuity
 Hexplate Wallbreaker
 Forge Anew
 Hammer of Nazahn
 Steelshaper's Gift
 Arcane Signet
-Austere Command
 Battlefield Forge
 Bloom Tender
 Bruenor Battlehammer
@@ -52,7 +50,6 @@ Nature's Will
 Path to Exile
 Plains
 Plains
-Professional Face-Breaker
 Puresteel Paladin
 Red XIII, Proud Warrior
 Rootbound Crag
@@ -68,7 +65,6 @@ Sungrass Prairie
 Sunpetal Grove
 Sunscorched Divide
 Swords to Plowshares
-Vandalblast
 Zack Fair
 Sword of Forge and Frontier
 Conqueror's Flail
@@ -76,11 +72,15 @@ Swiftfoot Boots
 Enlightened Tutor
 The Reaver Cleaver
 Sword of Feast and Famine
-Kaldra Compleat
 Sram, Senior Edificer
+Smothering Tithe
+Jeska's Will
+Gamble
 Akiri, Fearless Voyager
 Teferi's Protection
 Cloud, Midgar Mercenary
+Flawless Maneuver
+Nature's Claim
 Blacksmith's Skill
 Arid Mesa
 Wooded Foothills

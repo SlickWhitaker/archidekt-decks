@@ -27,7 +27,6 @@ Fellwar Stone
 Fire Covenant
 Florian, Voldaren Scion
 Foreboding Ruins
-Furnace of Rath
 Graven Cairns
 Haunted Ridge
 Jet Medallion
@@ -73,6 +72,7 @@ Zo-Zu the Punisher
 Scrawling Crawler
 All Will Be One
 Blood Seeker
+Gamble
 Sanguine Bond
 Vampiric Tutor
 Mana Vault

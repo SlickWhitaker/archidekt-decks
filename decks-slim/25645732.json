@@ -198,20 +198,6 @@
       "text": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power."
     },
     {
-      "name": "Open the Armory",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle."
-    },
-    {
       "name": "Masterwork of Ingenuity",
       "quantity": 1,
       "board": "main",
@@ -282,20 +268,6 @@
       "manaValue": 2,
       "type": "Artifact",
       "text": "{T}: Add one mana of any color in your commander's color identity."
-    },
-    {
-      "name": "Austere Command",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 6,
-      "type": "Sorcery",
-      "text": "Choose two —\n• Destroy all artifacts.\n• Destroy all enchantments.\n• Destroy all creatures with mana value 3 or less.\n• Destroy all creatures with mana value 4 or greater."
     },
     {
       "name": "Battlefield Forge",
@@ -715,20 +687,6 @@
       "text": "({T}: Add {W}.)"
     },
     {
-      "name": "Professional Face-Breaker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Warrior",
-      "text": "Menace\nWhenever one or more creatures you control deal combat damage to a player, create a Treasure token.\nSacrifice a Treasure: Exile the top card of your library. You may play that card this turn."
-    },
-    {
       "name": "Puresteel Paladin",
       "quantity": 1,
       "board": "main",
@@ -919,20 +877,6 @@
       "text": "Exile target creature. Its controller gains life equal to its power."
     },
     {
-      "name": "Vandalblast",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 1,
-      "type": "Sorcery",
-      "text": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")"
-    },
-    {
       "name": "Zack Fair",
       "quantity": 1,
       "board": "main",
@@ -1015,16 +959,6 @@
       "text": "Equipped creature gets +2/+2 and has protection from black and from green.\nWhenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.\nEquip {2}"
     },
     {
-      "name": "Kaldra Compleat",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 7,
-      "type": "Legendary Artifact — Equipment",
-      "text": "Living weapon\nIndestructible\nEquipped creature gets +5/+5 and has first strike, trample, indestructible, haste, and \"Whenever this creature deals combat damage to a creature, exile that creature.\"\nEquip {7}"
-    },
-    {
       "name": "Sram, Senior Edificer",
       "quantity": 1,
       "board": "main",
@@ -1037,6 +971,48 @@
       "manaValue": 2,
       "type": "Legendary Creature — Advisor Dwarf",
       "text": "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
+    },
+    {
+      "name": "Smothering Tithe",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 4,
+      "type": "Enchantment",
+      "text": "Whenever an opponent draws a card, that player may pay {2}. If the player doesn't, you create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "Jeska's Will",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Add {R} for each card in target opponent's hand.\n• Exile the top three cards of your library. You may play them this turn."
+    },
+    {
+      "name": "Gamble",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle."
     },
     {
       "name": "Akiri, Fearless Voyager",
@@ -1081,6 +1057,34 @@
       "manaValue": 2,
       "type": "Legendary Creature — Human Soldier Mercenary",
       "text": "When Cloud enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.\nAs long as Cloud is equipped, if a triggered ability of Cloud or an Equipment attached to it triggers, that ability triggers an additional time."
+    },
+    {
+      "name": "Flawless Maneuver",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Instant",
+      "text": "If you control a commander, you may cast this spell without paying its mana cost.\nCreatures you control gain indestructible until end of turn."
+    },
+    {
+      "name": "Nature's Claim",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Destroy target artifact or enchantment. Its controller gains 4 life."
     },
     {
       "name": "Blacksmith's Skill",

@@ -403,20 +403,6 @@
       "text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}."
     },
     {
-      "name": "Furnace of Rath",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 4,
-      "type": "Enchantment",
-      "text": "If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
-    },
-    {
       "name": "Graven Cairns",
       "quantity": 1,
       "board": "main",
@@ -1015,6 +1001,20 @@
       "manaValue": 2,
       "type": "Creature — Vampire Shaman",
       "text": "Whenever a creature an opponent controls enters, you may have that player lose 1 life."
+    },
+    {
+      "name": "Gamble",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 1,
+      "type": "Sorcery",
+      "text": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle."
     },
     {
       "name": "Sanguine Bond",
