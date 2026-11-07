@@ -198,16 +198,6 @@
       "text": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power."
     },
     {
-      "name": "Masterwork of Ingenuity",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact — Equipment",
-      "text": "You may have this Equipment enter as a copy of any Equipment on the battlefield."
-    },
-    {
       "name": "Hexplate Wallbreaker",
       "quantity": 1,
       "board": "main",
@@ -1251,6 +1241,20 @@
       "manaValue": 5,
       "type": "Creature — Warrior Giant",
       "text": "Vigilance\n{1}{W}, {T}: Search your library for an Equipment card, put it onto the battlefield, attach it to a creature you control, then shuffle."
+    },
+    {
+      "name": "Austere Command",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 6,
+      "type": "Sorcery",
+      "text": "Choose two —\n• Destroy all artifacts.\n• Destroy all enchantments.\n• Destroy all creatures with mana value 3 or less.\n• Destroy all creatures with mana value 4 or greater."
     }
   ]
 }
