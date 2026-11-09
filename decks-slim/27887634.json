@@ -61,20 +61,6 @@
       "text": "When this creature enters, return a nonland permanent you control to its owner's hand."
     },
     {
-      "name": "Venser, Shaper Savant",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human Wizard",
-      "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Venser enters, return target spell or permanent to its owner's hand."
-    },
-    {
       "name": "Palinchron",
       "quantity": 1,
       "board": "main",
@@ -1028,20 +1014,6 @@
       "text": "({T}: Add {W}.)"
     },
     {
-      "name": "Mindbreak Trap",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Instant — Trap",
-      "text": "If an opponent cast three or more spells this turn, you may pay {0} rather than pay this spell's mana cost.\nExile any number of target spells."
-    },
-    {
       "name": "Crop Rotation",
       "quantity": 1,
       "board": "main",
@@ -1083,20 +1055,6 @@
       "manaValue": 6,
       "type": "Creature — Treefolk",
       "text": "Flash (You may cast this spell any time you could cast an instant.)\nReach\nWhen this creature enters, creatures target player controls get +2/+2 until end of turn. Untap them."
-    },
-    {
-      "name": "Mind Over Matter",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 6,
-      "type": "Enchantment",
-      "text": "Discard a card: You may tap or untap target artifact, creature, or land."
     },
     {
       "name": "Sowing Mycospawn",
@@ -1177,22 +1135,6 @@
       "manaValue": 5,
       "type": "Legendary Creature — Wizard Elf",
       "text": "Whenever you cast a green creature spell, you may search your library for a creature card, reveal it, then shuffle and put that card on top.\nWhenever you cast a blue creature spell, reveal the top card of your library. If it's a creature card, put that card into your hand."
-    },
-    {
-      "name": "Sky Hussar",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Human Knight",
-      "text": "Flying\nWhen this creature enters, untap all creatures you control.\nForecast — Tap two untapped white and/or blue creatures you control, Reveal this card from your hand: Draw a card. (Activate only during your upkeep and only once each turn.)"
     },
     {
       "name": "Fyndhorn Elves",
@@ -1302,6 +1244,56 @@
       "manaValue": 4,
       "type": "Creature — Spirit",
       "text": "{0}: Return this creature to its owner's hand."
+    },
+    {
+      "name": "Peregrine Drake",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Creature — Drake",
+      "text": "Flying\nWhen this creature enters, untap up to five lands."
+    },
+    {
+      "name": "Thousand-Year Elixir",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "You may activate abilities of creatures you control as though those creatures had haste.\n{1}, {T}: Untap target creature."
+    },
+    {
+      "name": "Kiora, Behemoth Beckoner",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Planeswalker — Kiora",
+      "text": "Whenever a creature you control with power 4 or greater enters, draw a card.\n−1: Untap target permanent."
+    },
+    {
+      "name": "Patriar's Seal",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color.\n{1}, {T}: Untap target legendary creature you control."
     }
   ]
 }

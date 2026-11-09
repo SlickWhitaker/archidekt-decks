@@ -243,20 +243,6 @@
       "text": "Destroy all creatures with power greater than target creature's power."
     },
     {
-      "name": "Field-Tested Frying Pan",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Artifact — Equipment",
-      "text": "When this Equipment enters, create a Food token, then create a 1/1 white Halfling creature token and attach this Equipment to it.\nEquipped creature has \"Whenever you gain life, this creature gets +X/+X until end of turn, where X is the amount of life you gained.\"\nEquip {2}"
-    },
-    {
       "name": "Forest",
       "quantity": 6,
       "board": "main",
@@ -1233,6 +1219,16 @@
       "manaValue": 3,
       "type": "Legendary Creature — Peasant Halfling",
       "text": "Partner with Frodo, Adventurous Hobbit (When this creature enters, target player may put Frodo into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nActivated abilities of Foods you control cost {1} less to activate."
+    },
+    {
+      "name": "Altar of the Brood",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact",
+      "text": "Whenever another permanent you control enters, each opponent mills a card."
     }
   ]
 }

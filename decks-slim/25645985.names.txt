@@ -15,7 +15,6 @@ Farseek
 Feasting Hobbit
 Feasting Troll King
 Fell the Mighty
-Field-Tested Frying Pan
 Forest
 Fortified Village
 Ghost Quarter
@@ -89,3 +88,4 @@ Stardew Valley
 Frodo, Adventurous Hobbit
 Basking Broodscale
 Sam, Loyal Attendant
+Altar of the Brood

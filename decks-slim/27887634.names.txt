@@ -1,7 +1,6 @@
 Helga, Skittish Seer
 Chakram Retriever
 Ancestral Statue
-Venser, Shaper Savant
 Palinchron
 Temur Sabertooth
 Deadeye Navigator
@@ -76,18 +75,15 @@ Bountiful Promenade
 Sea of Clouds
 Island
 Plains
-Mindbreak Trap
 Crop Rotation
 Emiel the Blessed
 Great Oak Guardian
-Mind Over Matter
 Sowing Mycospawn
 Foundation Breaker
 Mox Amber
 Selvala, Heart of the Wilds
 Carpet of Flowers
 Momir Vig, Simic Visionary
-Sky Hussar
 Fyndhorn Elves
 Brightglass Gearhulk
 Yavimaya Coast
@@ -96,3 +92,7 @@ Adarkar Wastes
 Freed from the Real
 Forest
 Blinking Spirit
+Peregrine Drake
+Thousand-Year Elixir
+Kiora, Behemoth Beckoner
+Patriar's Seal

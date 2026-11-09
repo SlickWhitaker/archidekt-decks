@@ -905,20 +905,6 @@
       "text": "Flying, haste\nLieutenant — As long as you control your commander, this creature gets +2/+2 and has \"Whenever this creature attacks, it deals 7 damage to target creature defending player controls.\""
     },
     {
-      "name": "Unleash Fury",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 2,
-      "type": "Instant",
-      "text": "Double the power of target creature until end of turn."
-    },
-    {
       "name": "Urza's Incubator",
       "quantity": 1,
       "board": "main",
@@ -1029,6 +1015,20 @@
       "manaValue": 5,
       "type": "Instant",
       "text": "Choose one —\n• Draw cards equal to the greatest power among non-Human creatures you control.\n• Non-Human creatures you control get +3/+3 until end of turn."
+    },
+    {
+      "name": "Aggravated Assault",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery."
     }
   ]
 }

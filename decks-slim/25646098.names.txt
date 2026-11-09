@@ -58,7 +58,6 @@ Raphael, the Muscle
 Rat King, Pale Piper
 Reflecting Pool
 Rocco, Street Chef
-Shellshock
 Skullclamp
 Sodden Verdure
 Sol Ring
@@ -91,3 +90,4 @@ Michelangelo, the Heart
 The Ozolith
 Walking Ballista
 Nature's Lore
+Eladamri's Call

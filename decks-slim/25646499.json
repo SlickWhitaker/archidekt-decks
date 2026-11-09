@@ -11,27 +11,13 @@
     "White"
   ],
   "counts": {
-    "main": 99,
+    "main": 97,
     "commander": 1,
     "maybeboard": 0,
     "sideboard": 0,
-    "total": 100
+    "total": 98
   },
   "cards": [
-    {
-      "name": "Adeline, Resplendent Cathar",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Human Knight",
-      "text": "Vigilance\nAdeline's power is equal to the number of creatures you control.\nWhenever you attack, for each opponent, create a 1/1 white Human creature token that's tapped and attacking that player or a planeswalker they control."
-    },
     {
       "name": "Teferi's Protection",
       "quantity": 1,
@@ -190,20 +176,6 @@
       "text": "Strive — This spell costs {1}{W} more to cast for each target beyond the first.\nChoose any number of target opponents. Create X 1/1 white Human Soldier creature tokens, where X is the number of creatures those opponents control."
     },
     {
-      "name": "Champions of Minas Tirith",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 6,
-      "type": "Creature — Human Soldier",
-      "text": "When this creature enters, you become the monarch.\nAt the beginning of combat on each opponent's turn, if you're the monarch, that opponent may pay {X}, where X is the number of cards in their hand. If they don't, they can't attack you this combat."
-    },
-    {
       "name": "Clifftop Retreat",
       "quantity": 1,
       "board": "main",
@@ -253,20 +225,6 @@
       "manaValue": 2,
       "type": "Creature — Human Soldier",
       "text": "Each other Human you control gets +1/+0 and has ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)"
-    },
-    {
-      "name": "Court of Ire",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment",
-      "text": "When this enchantment enters, you become the monarch.\nAt the beginning of your upkeep, this enchantment deals 2 damage to any target. If you're the monarch, it deals 7 damage instead."
     },
     {
       "name": "Crown of Gondor",
@@ -454,20 +412,6 @@
       "text": "As this land enters, you may reveal a Mountain or Plains card from your hand. If you don't, this land enters tapped.\n{T}: Add {R} or {W}."
     },
     {
-      "name": "Ghostly Prison",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you."
-    },
-    {
       "name": "Gilraen, Dúnedain Protector",
       "quantity": 1,
       "board": "main",
@@ -553,20 +497,6 @@
       "manaValue": 0,
       "type": "Basic Land — Island",
       "text": "({T}: Add {U}.)"
-    },
-    {
-      "name": "Keeper of Keys",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Human Rogue Mutant",
-      "text": "When this creature enters, you become the monarch.\nAt the beginning of your upkeep, if you're the monarch, creatures you control can't be blocked this turn."
     },
     {
       "name": "Lossarnach Captain",
@@ -745,16 +675,6 @@
       "manaValue": 5,
       "type": "Creature — Human Knight",
       "text": "When this creature enters, create two 2/2 red Human Knight creature tokens with trample and haste.\nDash {4}{R}{W} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-    },
-    {
-      "name": "Rogue's Passage",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn."
     },
     {
       "name": "Sacred Foundry",
@@ -1013,16 +933,6 @@
       "text": "Creatures you control gain indestructible until end of turn.\nAddendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn."
     },
     {
-      "name": "Vanquisher's Banner",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 5,
-      "type": "Artifact",
-      "text": "As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\nWhenever you cast a creature spell of the chosen type, draw a card."
-    },
-    {
       "name": "Verge Rangers",
       "quantity": 1,
       "board": "main",
@@ -1035,20 +945,6 @@
       "manaValue": 3,
       "type": "Creature — Human Scout Ranger",
       "text": "First strike\nYou may look at the top card of your library any time.\nAs long as an opponent controls more lands than you, you may play lands from the top of your library. (You can play a land this way only if you have an available land play remaining.)"
-    },
-    {
-      "name": "Village Bell-Ringer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Human Scout",
-      "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, untap all creatures you control."
     },
     {
       "name": "Visions of Glory",
@@ -1123,6 +1019,86 @@
       "manaValue": 3,
       "type": "Legendary Artifact — Equipment",
       "text": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
+    },
+    {
+      "name": "Ioreth of the Healing House",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Cleric",
+      "text": "{T}: Untap another target permanent.\n{T}: Untap two other target legendary creatures."
+    },
+    {
+      "name": "Éowyn, Fearless Knight",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Human Knight",
+      "text": "Haste\nWhen Éowyn enters, exile target creature an opponent controls with greater power. Legendary creatures you control gain protection from each of that creature's colors until end of turn."
+    },
+    {
+      "name": "Boromir, Warden of the Tower",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Legendary Creature — Human Soldier",
+      "text": "Vigilance\nWhenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.\nSacrifice Boromir: Creatures you control gain indestructible until end of turn. The Ring tempts you."
+    },
+    {
+      "name": "Minas Tirith",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 0,
+      "type": "Legendary Land",
+      "text": "Minas Tirith enters tapped unless you control a legendary creature.\n{T}: Add {W}.\n{1}{W}, {T}: Draw a card. Activate only if you attacked with two or more creatures this turn."
+    },
+    {
+      "name": "Gandalf the White",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Wizard Avatar",
+      "text": "Flash\nYou may cast legendary spells and artifact spells as though they had flash.\nIf a legendary permanent or an artifact entering or leaving the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
+    },
+    {
+      "name": "Palantír of Orthanc",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact",
+      "text": "At the beginning of your end step, put an influence counter on Palantír of Orthanc and scry 2. Then target opponent may have you draw a card. If that player doesn't, you mill X cards, where X is the number of influence counters on Palantír of Orthanc, and that player loses life equal to the total mana value of those cards."
     }
   ]
 }

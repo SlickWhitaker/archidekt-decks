@@ -1,4 +1,3 @@
-Adeline, Resplendent Cathar
 Teferi's Protection
 Éowyn, Shieldmaiden
 Aragorn, King of Gondor
@@ -10,12 +9,10 @@ Beregond of the Guard
 Boromir, Gondor's Hope
 Call for Aid
 Call the Coppercoats
-Champions of Minas Tirith
 Clifftop Retreat
 Combat Celebrant
 Command Tower
 Coppercoat Vanguard
-Court of Ire
 Crown of Gondor
 Door of Destinies
 Earthquake
@@ -30,7 +27,6 @@ Forth Eorlingas!
 Frontier Warmonger
 Frontline Medic
 Furycalm Snarl
-Ghostly Prison
 Gilraen, Dúnedain Protector
 Glacial Fortress
 Grasp of Fate
@@ -38,7 +34,6 @@ Grey Host Reinforcements
 Herald's Horn
 Horn of Gondor
 Island
-Keeper of Keys
 Lossarnach Captain
 Lost to Legend
 Mirror Entity
@@ -52,7 +47,6 @@ Port Town
 Prairie Stream
 Prince Imrahil the Fair
 Riders of Rohan
-Rogue's Passage
 Sacred Foundry
 Secluded Courtyard
 Shared Animosity
@@ -73,12 +67,16 @@ Thought Vessel
 Throne of the High City
 Tranquil Cove
 Unbreakable Formation
-Vanquisher's Banner
 Verge Rangers
-Village Bell-Ringer
 Visions of Glory
 Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
 Mithril Coat
+Ioreth of the Healing House
+Éowyn, Fearless Knight
+Boromir, Warden of the Tower
+Minas Tirith
+Gandalf the White
+Palantír of Orthanc
