@@ -5,7 +5,6 @@ Goblin Rabblemaster
 Ashnod's Altar
 Goblin Bombardment
 Aggravated Assault
-Anger
 Battlemage's Bracers
 Blasphemous Act
 Blood Moon
@@ -50,7 +49,6 @@ Ragavan, Nimble Pilferer
 Ruby Medallion
 Rundvelt Hordemaster
 Shared Animosity
-Skirk Fire Marshal
 Skirk Prospector
 Skullclamp
 Sol Ring
@@ -76,3 +74,5 @@ Mana Geyser
 Battle Hymn
 Goblin War Strike
 Brightstone Ritual
+Sting, the Glinting Dagger
+Hexing Squelcher
