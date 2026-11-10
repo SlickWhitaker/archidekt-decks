@@ -16,7 +16,6 @@ Deadly Rollick
 Demonic Consultation
 Dig Through Time
 Dismember
-Dokuchi Silencer
 Drowned Catacomb
 Fallen Shinobi
 Fell the Profane // Fell Mire
@@ -36,10 +35,8 @@ Lim-Dûl's Vault
 Lotus Petal
 Louisoix's Sacrifice
 Mana Drain
-Memnite
 Misdirection
 Mist-Syndicate Naga
-Mistblade Shinobi
 Moon-Circuit Hacker
 Morphic Pool
 Mothdust Changeling
@@ -54,7 +51,6 @@ Orcish Bowmasters
 Ornithopter
 Otawara, Soaring City
 Pact of Negation
-Phyrexian Walker
 Polluted Delta
 Ponder
 Prosperous Thief
@@ -80,7 +76,6 @@ Thieving Skydiver
 Thousand-Faced Shadow
 Underground River
 Vampiric Tutor
-Walker of Secret Ways
 Watery Grave
 Demonic Tutor
 Sol Ring
@@ -97,3 +92,9 @@ Cursed Totem
 Mana Vault
 Personal Tutor
 Underground Sea
+Triton Shorestalker
+Sunken Hollow
+Gitaxian Probe
+Tainted Pact
+Daze
+Mox Amber

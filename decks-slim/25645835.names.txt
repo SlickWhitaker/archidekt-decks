@@ -18,7 +18,6 @@ Evolving Wilds
 Exotic Orchard
 Farewell
 Fiery Islet
-Flesh Duplicate
 Four Knocks
 Fractured Identity
 Frostboil Snarl
@@ -30,37 +29,29 @@ Idris, Soul of the TARDIS
 Inspiring Refrain
 Irrigated Farmland
 Island
-Island
 Jenny, Generated Anomaly
-Judoon Enforcers
 Kate Stewart
 Lightning Greaves
 Martha Jones
-Mountain
-Mountain
 Mystic Monastery
 Nanogene Conversion
 Ominous Cemetery
 Out of Time
 Path of Ancestry
 Plains
-Plains
 Port Town
 Prairie Stream
 Psychic Paper
 Raugrin Triome
-Regenerations Restored
 Rhystic Study
 RMS Titanic
 Rogue's Passage
-Rory Williams
 Rotating Fireplace
 Sally Sparrow
 Sea of Clouds
 Sol Ring
 Sonic Screwdriver
 Spectator Seating
-Star Whale
 Storm-Kiln Artist
 Stormcarved Coast
 Strionic Resonator
@@ -79,7 +70,6 @@ The Face of Boe
 The Girl in the Fireplace
 The Moment
 The Ninth Doctor
-The Ozolith
 The Pandorica
 The Parting of the Ways
 The War Doctor
@@ -95,3 +85,10 @@ Swords to Plowshares
 Steam Vents
 The Tenth Doctor
 Sibylline Soothsayer
+Clara Oswald
+Rousing Refrain
+The Twelfth Doctor
+Mountain
+Rory Williams
+Paradox Haze
+Reverse the Polarity

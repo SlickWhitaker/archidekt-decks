@@ -20,7 +20,6 @@ Earthquake
 Erkenbrand, Lord of Westfold
 Exotic Orchard
 Faramir, Steward of Gondor
-Fealty to the Realm
 Field of Ruin
 Flamerush Rider
 Forth Eorlingas!
@@ -54,7 +53,6 @@ Skullclamp
 Sol Ring
 Steam Vents
 Sulfur Falls
-Sunset Revelry
 Supreme Verdict
 Swords to Plowshares
 Talisman of Conviction
@@ -69,7 +67,6 @@ Tranquil Cove
 Unbreakable Formation
 Verge Rangers
 Visions of Glory
-Wayfarer's Bauble
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
@@ -80,3 +77,8 @@ Boromir, Warden of the Tower
 Minas Tirith
 Gandalf the White
 Palantír of Orthanc
+Horn of the Mark
+Kindred Discovery
+Staff of the Storyteller
+Talisman of Creativity
+Village Bell-Ringer

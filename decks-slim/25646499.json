@@ -11,11 +11,11 @@
     "White"
   ],
   "counts": {
-    "main": 97,
+    "main": 99,
     "commander": 1,
     "maybeboard": 0,
     "sideboard": 0,
-    "total": 98
+    "total": 100
   },
   "cards": [
     {
@@ -315,20 +315,6 @@
       "manaValue": 3,
       "type": "Legendary Creature — Human Noble",
       "text": "Whenever a legendary creature you control with mana value 4 or greater enters, you become the monarch.\nAt the beginning of your end step, if you're the monarch, create two 1/1 white Human Soldier creature tokens."
-    },
-    {
-      "name": "Fealty to the Realm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 5,
-      "type": "Enchantment — Aura",
-      "text": "Enchant creature\nWhen this Aura enters, you become the monarch.\nThe monarch controls enchanted creature.\nEnchanted creature attacks each combat if able and can't attack you."
     },
     {
       "name": "Field of Ruin",
@@ -760,20 +746,6 @@
       "text": "This land enters tapped unless you control an Island or a Mountain.\n{T}: Add {U} or {R}."
     },
     {
-      "name": "Sunset Revelry",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "If an opponent has more life than you, you gain 4 life.\nIf an opponent controls more creatures than you, create two 1/1 white Human creature tokens.\nIf an opponent has more cards in hand than you, draw a card."
-    },
-    {
       "name": "Supreme Verdict",
       "quantity": 1,
       "board": "main",
@@ -961,16 +933,6 @@
       "text": "Create a 1/1 white Human creature token for each creature you control.\nFlashback {8}{W}{W}. This spell costs {X} less to cast this way, where X is the greatest mana value of a commander you own on the battlefield or in the command zone. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
     },
     {
-      "name": "Wayfarer's Bauble",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 1,
-      "type": "Artifact",
-      "text": "{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
-    },
-    {
       "name": "Weathered Wayfarer",
       "quantity": 1,
       "board": "main",
@@ -1099,6 +1061,71 @@
       "manaValue": 3,
       "type": "Legendary Artifact",
       "text": "At the beginning of your end step, put an influence counter on Palantír of Orthanc and scry 2. Then target opponent may have you draw a card. If that player doesn't, you mill X cards, where X is the number of influence counters on Palantír of Orthanc, and that player loses life equal to the total mana value of those cards."
+    },
+    {
+      "name": "Horn of the Mark",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Legendary Artifact",
+      "text": "Whenever two or more creatures you control attack a player, look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+    },
+    {
+      "name": "Kindred Discovery",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 5,
+      "type": "Enchantment",
+      "text": "As this enchantment enters, choose a creature type.\nWhenever a creature you control of the chosen type enters or attacks, draw a card."
+    },
+    {
+      "name": "Staff of the Storyteller",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "When this artifact enters, create a 1/1 white Spirit creature token with flying.\nWhenever you create one or more creature tokens, put a story counter on this artifact.\n{W}, {T}, Remove a story counter from this artifact: Draw a card."
+    },
+    {
+      "name": "Talisman of Creativity",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add {C}.\n{T}: Add {U} or {R}. This artifact deals 1 damage to you."
+    },
+    {
+      "name": "Village Bell-Ringer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 3,
+      "type": "Creature — Human Scout",
+      "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, untap all creatures you control."
     }
   ]
 }

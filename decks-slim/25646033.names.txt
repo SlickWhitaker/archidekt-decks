@@ -28,7 +28,6 @@ Flooded Strand
 Forest
 Geier Reach Sanitarium
 Glen Elendra Archmage
-Gossip's Talent
 Growth Spiral
 Harrow
 Hedge Shredder
@@ -43,7 +42,6 @@ Kishla Village
 Laboratory Maniac
 Life from the Loam
 Lilypad Village
-Long River Lurker
 Lotus Cobra
 Mana Confluence
 Mana Drain
@@ -69,7 +67,6 @@ The Mycosynth Gardens
 Tishana's Tidebinder
 Uro, Titan of Nature's Wrath
 Veil of Summer
-Venser, Shaper Savant
 Verdant Catacombs
 Visions of Beyond
 Waterlogged Grove
@@ -92,5 +89,8 @@ Cavern of Souls
 Basalt Monolith
 Roaming Throne
 Scute Swarm
-Perpetual Timepiece
 Cephalid Illusionist
+Shuko
+Oversimplify
+Fabricate
+Worldly Tutor

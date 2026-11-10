@@ -43,7 +43,6 @@ Mutavault
 Namor the Sub-Mariner
 Nicanzil, Current Conductor
 Path of Ancestry
-Ponder
 Pongify
 Raise the Palisade
 Rapid Hybridization
@@ -55,7 +54,6 @@ Secluded Courtyard
 Singer of Swift Rivers
 Sodden Verdure
 Sol Ring
-Spell Pierce
 Starting Town
 Stubborn Denial
 Summon: Leviathan
@@ -71,7 +69,6 @@ Unclaimed Territory
 Vineglimmer Snarl
 Vodalian Hexcatcher
 Wanderwine Prophets
-Wilderness Reclamation
 Wooded Foothills
 Zegana, Utopian Speaker
 Otawara, Soaring City
@@ -83,3 +80,6 @@ Merfolk Mistbinder
 Veil of Summer
 Chord of Calling
 Nature's Lore
+Worldly Tutor
+Seedborn Muse
+Drift of Phantasms

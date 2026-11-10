@@ -402,20 +402,6 @@
       "text": "Flying\n{U}, Sacrifice this creature: Counter target noncreature spell.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)"
     },
     {
-      "name": "Gossip's Talent",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Enchantment — Class",
-      "text": "(Gain the next level as a sorcery to add its ability.)\nWhenever a creature you control enters, surveil 1.\n{1}{U}: Level 2\nWhenever you attack, target attacking creature with power 3 or less can't be blocked this turn.\n{3}{U}: Level 3\nWhenever a creature you control deals combat damage to a player, you may exile it, then return it to the battlefield under its owner's control."
-    },
-    {
       "name": "Growth Spiral",
       "quantity": 1,
       "board": "main",
@@ -601,20 +587,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}.\n{T}: Add {U}. Spend this mana only to cast a creature spell.\n{U}, {T}: Surveil 2. Activate only if a Bird, Frog, Otter, or Rat entered the battlefield under your control this turn."
-    },
-    {
-      "name": "Long River Lurker",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Scout Frog",
-      "text": "Ward {1}\nOther Frogs you control have ward {1}.\nWhen this creature enters, target creature you control can't be blocked this turn. Whenever that creature deals combat damage this turn, you may exile it. If you do, return it to the battlefield under its owner's control."
     },
     {
       "name": "Lotus Cobra",
@@ -938,20 +910,6 @@
       "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
     },
     {
-      "name": "Venser, Shaper Savant",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 4,
-      "type": "Legendary Creature — Human Wizard",
-      "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Venser enters, return target spell or permanent to its owner's hand."
-    },
-    {
       "name": "Verdant Catacombs",
       "quantity": 1,
       "board": "main",
@@ -1224,16 +1182,6 @@
       "text": "Landfall — Whenever a land you control enters, create a 1/1 green Insect creature token. If you control six or more lands, create a token that's a copy of this creature instead."
     },
     {
-      "name": "Perpetual Timepiece",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact",
-      "text": "{T}: Mill two cards. (Put the top two cards of your library into your graveyard.)\n{2}, Exile this artifact: Shuffle any number of target cards from your graveyard into your library."
-    },
-    {
       "name": "Cephalid Illusionist",
       "quantity": 1,
       "board": "main",
@@ -1246,6 +1194,60 @@
       "manaValue": 2,
       "type": "Creature — Wizard Octopus",
       "text": "Whenever this creature becomes the target of a spell or ability, mill three cards.\n{2}{U}, {T}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn."
+    },
+    {
+      "name": "Shuko",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +1/+0.\nEquip {0} ({0}: Attach to target creature you control. Equip only as a sorcery.)"
+    },
+    {
+      "name": "Oversimplify",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 5,
+      "type": "Sorcery",
+      "text": "Exile all creatures. Each player creates a 0/0 green and blue Fractal creature token and puts a number of +1/+1 counters on it equal to the total power of creatures they controlled that were exiled this way."
+    },
+    {
+      "name": "Fabricate",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Sorcery",
+      "text": "Search your library for an artifact card, reveal it, put it into your hand, then shuffle."
+    },
+    {
+      "name": "Worldly Tutor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Instant",
+      "text": "Search your library for a creature card, reveal it, then shuffle and put the card on top."
     }
   ]
 }
