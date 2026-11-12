@@ -7,7 +7,6 @@ Arthur, Marigold Knight
 Azorius Signet
 Battlefield Forge
 Boros Signet
-Cartographer's Hawk
 Cascade Bluffs
 Castle Ardenvale
 Cayth, Famed Mechanist
@@ -74,7 +73,6 @@ Time Wipe
 Unbreakable Formation
 Valley Floodcaller
 Warren Warleader
-Watcher of the Spheres
 Zinnia, Valley's Voice
 Welcoming Vampire
 Swan Song
@@ -83,6 +81,8 @@ Fiend Hunter
 Academy Manufactor
 Cathars' Crusade
 Mondrak, Glory Dominus
+Gideon's Memorial
+Spirited Companion
 Purphoros, God of the Forge
 Panharmonicon
 Delney, Streetwise Lookout

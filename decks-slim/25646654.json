@@ -141,20 +141,6 @@
       "text": "{1}, {T}: Add {R}{W}."
     },
     {
-      "name": "Cartographer's Hawk",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Bird",
-      "text": "Flying\nWhen this creature deals combat damage to a player who controls more lands than you, return it to its owner's hand. If you do, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle."
-    },
-    {
       "name": "Cascade Bluffs",
       "quantity": 1,
       "board": "main",
@@ -1016,22 +1002,6 @@
       "text": "Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\nWhenever you attack, choose one —\n• Create a 1/1 white Rabbit creature token that's tapped and attacking.\n• Attacking creatures you control get +1/+1 until end of turn."
     },
     {
-      "name": "Watcher of the Spheres",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Wizard Bird",
-      "text": "Flying\nCreature spells with flying you cast cost {1} less to cast.\nWhenever another creature you control with flying enters, this creature gets +1/+1 until end of turn."
-    },
-    {
       "name": "Zinnia, Valley's Voice",
       "quantity": 1,
       "board": "commander",
@@ -1142,6 +1112,34 @@
       "manaValue": 4,
       "type": "Legendary Creature — Horror Phyrexian",
       "text": "If one or more tokens would be created under your control, twice that many of those tokens are created instead.\n{1}{W/P}{W/P}, Sacrifice two other artifacts and/or creatures: Put an indestructible counter on Mondrak. ({W/P} can be paid with either {W} or 2 life.)"
+    },
+    {
+      "name": "Gideon's Memorial",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Legendary Artifact",
+      "text": "Creature tokens you control get +1/+0 and have vigilance.\n{T}: Add one mana of any color. Spend this mana only to cast a planeswalker spell.\n{1}{W}, Discard this card: It deals 4 damage to target attacking or blocking creature."
+    },
+    {
+      "name": "Spirited Companion",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature Enchantment — Dog",
+      "text": "When this creature enters, draw a card."
     },
     {
       "name": "Purphoros, God of the Forge",
