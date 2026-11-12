@@ -815,20 +815,6 @@
       "text": "You may play lands from your graveyard."
     },
     {
-      "name": "Three Visits",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Search your library for a Forest card, put it onto the battlefield, then shuffle."
-    },
-    {
       "name": "Fierce Guardianship",
       "quantity": 1,
       "board": "main",
@@ -1037,7 +1023,7 @@
       "text": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token."
     },
     {
-      "name": "Arcane Adaptation",
+      "name": "Mirelurk Queen",
       "quantity": 1,
       "board": "main",
       "colors": [
@@ -1046,9 +1032,19 @@
       "colorIdentity": [
         "Blue"
       ],
-      "manaValue": 3,
-      "type": "Enchantment",
-      "text": "As this enchantment enters, choose a creature type.\nCreatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield."
+      "manaValue": 5,
+      "type": "Creature — Crab Mutant",
+      "text": "Vigilance\nWhen this creature enters, target player gets two rad counters.\nWhenever one or more nonland cards are milled, draw a card, then put a +1/+1 counter on this creature. This ability triggers only once each turn."
+    },
+    {
+      "name": "Skullclamp",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 1,
+      "type": "Artifact — Equipment",
+      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}"
     },
     {
       "name": "Kindred Discovery",

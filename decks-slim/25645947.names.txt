@@ -41,7 +41,6 @@ Luxury Suite
 Marsh Flats
 Minas Tirith
 Mondrak, Glory Dominus
-Mountain
 Necropotence
 Ocelot Pride
 Path of Ancestry
@@ -85,6 +84,7 @@ Carmen, Cruel Skymarcher
 Edgar Markov
 Master of Dark Rites
 Enlightened Tutor
+Smoldering Marsh
 Oathsworn Vampire
 Sanguine Bond
 Blackcleave Cliffs

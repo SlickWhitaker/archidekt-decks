@@ -20,7 +20,6 @@ Cinder Glade
 Command Tower
 Commercial District
 Copperline Gorge
-Craterhoof Behemoth
 Deflecting Swat
 Delighted Halfling
 Eldritch Evolution
@@ -82,10 +81,11 @@ Silverback Elder
 Branching Evolution
 Combat Celebrant
 Ragavan, Nimble Pilferer
-Triumph of the Hordes
 Kibo, Uktabi Prince
 Mycosynth Lattice
 Uktabi Orangutan
+Chain Reaction
+Blasphemous Act
 Gorilla Shaman
 Professional Face-Breaker
 Nature's Claim

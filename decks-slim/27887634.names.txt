@@ -1,3 +1,6 @@
+Displacer Kitten
+Hinterland Harbor
+Glacial Fortress
 Helga, Skittish Seer
 Chakram Retriever
 Ancestral Statue
@@ -41,8 +44,6 @@ Force of Will
 Force of Negation
 Pact of Negation
 Swan Song
-Flusterstorm
-Mental Misstep
 Silence
 Grand Abolisher
 Ranger-Captain of Eos
@@ -84,7 +85,6 @@ Mox Amber
 Selvala, Heart of the Wilds
 Carpet of Flowers
 Momir Vig, Simic Visionary
-Fyndhorn Elves
 Brightglass Gearhulk
 Yavimaya Coast
 Brushland

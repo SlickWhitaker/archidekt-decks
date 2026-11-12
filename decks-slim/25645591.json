@@ -863,20 +863,6 @@
       "text": "Trample\nWhenever Thrakkus attacks, double the power of each Dragon you control until end of turn."
     },
     {
-      "name": "Three Visits",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Search your library for a Forest card, put it onto the battlefield, then shuffle."
-    },
-    {
       "name": "Thunderbreak Regent",
       "quantity": 1,
       "board": "main",
@@ -1001,6 +987,20 @@
       "manaValue": 6,
       "type": "Creature — Dragon",
       "text": "Flying, trample\nWhenever this creature deals combat damage to a player, gain control of all artifacts that player controls.\nAt the beginning of your upkeep, if you control twenty or more artifacts, you win the game."
+    },
+    {
+      "name": "Harmonize",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Draw three cards."
     },
     {
       "name": "Return of the Wildspeaker",

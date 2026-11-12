@@ -19,6 +19,46 @@
   },
   "cards": [
     {
+      "name": "Displacer Kitten",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Beast Cat",
+      "text": "Avoidance — Whenever you cast a noncreature spell, exile up to one target nonland permanent you control, then return that card to the battlefield under its owner's control."
+    },
+    {
+      "name": "Hinterland Harbor",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Forest or an Island.\n{T}: Add {G} or {U}."
+    },
+    {
+      "name": "Glacial Fortress",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}."
+    },
+    {
       "name": "Helga, Skittish Seer",
       "quantity": 1,
       "board": "commander",
@@ -614,34 +654,6 @@
       "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
     },
     {
-      "name": "Flusterstorm",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "Counter target instant or sorcery spell unless its controller pays {1}.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
-    },
-    {
-      "name": "Mental Misstep",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 1,
-      "type": "Instant",
-      "text": "({U/P} can be paid with either {U} or 2 life.)\nCounter target spell with mana value 1."
-    },
-    {
       "name": "Silence",
       "quantity": 1,
       "board": "main",
@@ -1135,20 +1147,6 @@
       "manaValue": 5,
       "type": "Legendary Creature — Wizard Elf",
       "text": "Whenever you cast a green creature spell, you may search your library for a creature card, reveal it, then shuffle and put that card on top.\nWhenever you cast a blue creature spell, reveal the top card of your library. If it's a creature card, put that card into your hand."
-    },
-    {
-      "name": "Fyndhorn Elves",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Elf Druid",
-      "text": "{T}: Add {G}."
     },
     {
       "name": "Brightglass Gearhulk",

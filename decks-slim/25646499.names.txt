@@ -29,7 +29,6 @@ Furycalm Snarl
 Gilraen, Dúnedain Protector
 Glacial Fortress
 Grasp of Fate
-Grey Host Reinforcements
 Herald's Horn
 Horn of Gondor
 Island
@@ -70,6 +69,7 @@ Visions of Glory
 Weathered Wayfarer
 Windbrisk Heights
 Zealous Conscripts
+Mind Stone
 Mithril Coat
 Ioreth of the Healing House
 Éowyn, Fearless Knight

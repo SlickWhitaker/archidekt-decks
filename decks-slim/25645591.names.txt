@@ -62,7 +62,6 @@ Temple of Abandon
 Terror of the Peaks
 The Misty Mountains Cold
 Thrakkus the Butcher
-Three Visits
 Thunderbreak Regent
 Tyrant's Familiar
 Urza's Incubator
@@ -72,5 +71,6 @@ Wrathful Red Dragon
 Draconic Disciple
 Atarka, World Render
 Hellkite Tyrant
+Harmonize
 Return of the Wildspeaker
 Aggravated Assault

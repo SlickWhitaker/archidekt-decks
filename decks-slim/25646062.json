@@ -1070,6 +1070,16 @@
       "text": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)"
     },
     {
+      "name": "Fellwar Stone",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 2,
+      "type": "Artifact",
+      "text": "{T}: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
       "name": "Chord of Calling",
       "quantity": 1,
       "board": "main",
@@ -1124,20 +1134,6 @@
       "manaValue": 5,
       "type": "Creature — Spirit",
       "text": "Untap all permanents you control during each other player's untap step."
-    },
-    {
-      "name": "Drift of Phantasms",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue"
-      ],
-      "manaValue": 3,
-      "type": "Creature — Spirit",
-      "text": "Defender (This creature can't attack.)\nFlying\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
     }
   ]
 }

@@ -59,7 +59,6 @@ Life from the Loam
 Boseiju, Who Endures
 Nature's Lore
 Ramunap Excavator
-Three Visits
 Fierce Guardianship
 Sakura-Tribe Scout
 Misty Rainforest
@@ -76,7 +75,8 @@ Nissa, Resurgent Animist
 Finale of Devastation
 Veil of Summer
 Field of the Dead
-Arcane Adaptation
+Mirelurk Queen
+Skullclamp
 Kindred Discovery
 Uchuulon
 Burgeoning

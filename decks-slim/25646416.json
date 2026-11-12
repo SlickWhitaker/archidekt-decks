@@ -285,20 +285,6 @@
       "text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {R} or {G}."
     },
     {
-      "name": "Craterhoof Behemoth",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 8,
-      "type": "Creature — Beast",
-      "text": "Haste\nWhen this creature enters, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control."
-    },
-    {
       "name": "Deflecting Swat",
       "quantity": 1,
       "board": "main",
@@ -1082,20 +1068,6 @@
       "text": "Whenever Ragavan deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.\nDash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
     },
     {
-      "name": "Triumph of the Hordes",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 4,
-      "type": "Sorcery",
-      "text": "Until end of turn, creatures you control get +1/+1 and gain trample and infect. (Creatures with infect deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)"
-    },
-    {
       "name": "Kibo, Uktabi Prince",
       "quantity": 1,
       "board": "commander",
@@ -1133,6 +1105,34 @@
       "manaValue": 3,
       "type": "Creature — Ape",
       "text": "When this creature enters, destroy target artifact."
+    },
+    {
+      "name": "Chain Reaction",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Sorcery",
+      "text": "Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield."
+    },
+    {
+      "name": "Blasphemous Act",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 9,
+      "type": "Sorcery",
+      "text": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature."
     },
     {
       "name": "Gorilla Shaman",
