@@ -65,7 +65,6 @@ The One Ring
 Torment of Hailfire
 Underworld Dreams
 Urborg, Tomb of Yawgmoth
-Vial Smasher the Fierce
 Wheel of Misfortune
 Wound Reflection
 Zo-Zu the Punisher
@@ -85,3 +84,4 @@ Dark Ritual
 Toxic Deluge
 Twinflame
 Dualcaster Mage
+The Red Terror

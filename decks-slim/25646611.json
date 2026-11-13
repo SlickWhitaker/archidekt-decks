@@ -907,22 +907,6 @@
       "text": "Each land is a Swamp in addition to its other land types."
     },
     {
-      "name": "Vial Smasher the Fierce",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red",
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Red"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Goblin Berserker",
-      "text": "Whenever you cast your first spell each turn, choose an opponent at random. Vial Smasher deals damage equal to that spell's mana value to that player or a planeswalker that player controls.\nPartner (You can have two commanders if both have partner.)"
-    },
-    {
       "name": "Wheel of Misfortune",
       "quantity": 1,
       "board": "main",
@@ -1177,6 +1161,20 @@
       "manaValue": 3,
       "type": "Creature — Human Wizard",
       "text": "Flash\nWhen this creature enters, copy target instant or sorcery spell. You may choose new targets for the copy."
+    },
+    {
+      "name": "The Red Terror",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 4,
+      "type": "Legendary Creature — Tyranid",
+      "text": "Advanced Species — Whenever a red source you control deals damage to one or more permanents and/or players, put a +1/+1 counter on The Red Terror."
     }
   ]
 }

@@ -3,7 +3,6 @@ Aether Channeler
 Agate Instigator
 Anointed Procession
 Arcane Signet
-Arthur, Marigold Knight
 Azorius Signet
 Battlefield Forge
 Boros Signet
@@ -62,11 +61,8 @@ Storm of Souls
 Sulfur Falls
 Sunscorched Divide
 Swords to Plowshares
-Temple of Enlightenment
-Temple of Triumph
 Terramorphic Expanse
 Tetsuko Umezawa, Fugitive
-Thriving Bluff
 Thriving Heath
 Thriving Isle
 Time Wipe
@@ -90,3 +86,7 @@ Dovin's Veto
 Caretaker's Talent
 Devilish Valet
 Into the Flood Maw
+Training Center
+Hallowed Fountain
+Resolute Reinforcements
+Sacred Foundry

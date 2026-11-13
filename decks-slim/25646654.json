@@ -84,24 +84,6 @@
       "text": "{T}: Add one mana of any color in your commander's color identity."
     },
     {
-      "name": "Arthur, Marigold Knight",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White",
-        "Red",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "White",
-        "Blue",
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Knight Mouse",
-      "text": "Haste\nWhenever Arthur and at least one other creature attack, look at the top six cards of your library. You may put a creature card from among them onto the battlefield tapped and attacking. Put the rest on the bottom of your library in a random order. Return that creature to its owner's hand at end of combat."
-    },
-    {
       "name": "Azorius Signet",
       "quantity": 1,
       "board": "main",
@@ -858,32 +840,6 @@
       "text": "Exile target creature. Its controller gains life equal to its power."
     },
     {
-      "name": "Temple of Enlightenment",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Blue"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {W} or {U}."
-    },
-    {
-      "name": "Temple of Triumph",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "White",
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {R} or {W}."
-    },
-    {
       "name": "Terramorphic Expanse",
       "quantity": 1,
       "board": "main",
@@ -906,18 +862,6 @@
       "manaValue": 2,
       "type": "Legendary Creature — Human Rogue",
       "text": "Creatures you control with power or toughness 1 or less can't be blocked."
-    },
-    {
-      "name": "Thriving Bluff",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 0,
-      "type": "Land",
-      "text": "This land enters tapped. As it enters, choose a color other than red.\n{T}: Add {R} or one mana of the chosen color."
     },
     {
       "name": "Thriving Heath",
@@ -1236,6 +1180,59 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)\nReturn target creature an opponent controls to its owner's hand. If the gift was promised, instead return target nonland permanent an opponent controls to its owner's hand."
+    },
+    {
+      "name": "Training Center",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "Blue",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {U} or {R}."
+    },
+    {
+      "name": "Hallowed Fountain",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Blue"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Island",
+      "text": "({T}: Add {W} or {U}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    },
+    {
+      "name": "Resolute Reinforcements",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Human Soldier",
+      "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, create a 1/1 white Soldier creature token."
+    },
+    {
+      "name": "Sacred Foundry",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Red"
+      ],
+      "manaValue": 0,
+      "type": "Land — Plains Mountain",
+      "text": "({T}: Add {R} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
     }
   ]
 }

@@ -186,20 +186,6 @@
       "text": "Flying\nIf an opponent would lose life during your turn, they lose twice that much life instead. (Damage causes loss of life.)"
     },
     {
-      "name": "Bloodline Necromancer",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Wizard Vampire",
-      "text": "Lifelink\nWhen this creature enters, you may return target Vampire or Wizard creature card from your graveyard to the battlefield."
-    },
-    {
       "name": "Bloodstained Mire",
       "quantity": 1,
       "board": "main",
@@ -1121,20 +1107,6 @@
       "text": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control."
     },
     {
-      "name": "Master of Dark Rites",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Black"
-      ],
-      "colorIdentity": [
-        "Black"
-      ],
-      "manaValue": 1,
-      "type": "Creature — Vampire Cleric",
-      "text": "{T}, Sacrifice another creature: Add {B}{B}{B}. Spend this mana only to cast Vampire, Cleric, and/or Demon spells."
-    },
-    {
       "name": "Enlightened Tutor",
       "quantity": 1,
       "board": "main",
@@ -1214,6 +1186,30 @@
       "manaValue": 0,
       "type": "Land",
       "text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W} or {B}."
+    },
+    {
+      "name": "Pitiless Plunderer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Human Pirate",
+      "text": "Whenever another creature you control dies, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    },
+    {
+      "name": "Bontu's Monument",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 3,
+      "type": "Legendary Artifact",
+      "text": "Black creature spells you cast cost {1} less to cast.\nWhenever you cast a creature spell, each opponent loses 1 life and you gain 1 life."
     }
   ]
 }

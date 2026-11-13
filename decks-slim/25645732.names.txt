@@ -6,10 +6,8 @@ Armored Skyhunter
 Temple Garden
 Helm of the Host
 Danitha Capashen, Paragon
-Professor Hojo
 Dispatch
 Trailblazer's Boots
-Cultivate
 Esper Sentinel
 Hexplate Wallbreaker
 Forge Anew
@@ -66,7 +64,6 @@ Sunscorched Divide
 Swords to Plowshares
 Zack Fair
 Sword of Forge and Frontier
-Conqueror's Flail
 Swiftfoot Boots
 Enlightened Tutor
 The Reaver Cleaver
@@ -95,3 +92,6 @@ Urza's Saga
 The One Ring
 Stonehewer Giant
 Austere Command
+Grand Abolisher
+Birds of Paradise
+Giver of Runes

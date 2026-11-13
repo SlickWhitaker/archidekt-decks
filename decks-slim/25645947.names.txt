@@ -11,7 +11,6 @@ Black Market Connections
 Blood Artist
 Blood Crypt
 Bloodletter of Aclazotz
-Bloodline Necromancer
 Bloodstained Mire
 Bloodthirsty Conqueror
 Bojuka Bog
@@ -82,10 +81,11 @@ Yawgmoth, Thran Physician
 Bloodghast
 Carmen, Cruel Skymarcher
 Edgar Markov
-Master of Dark Rites
 Enlightened Tutor
 Smoldering Marsh
 Oathsworn Vampire
 Sanguine Bond
 Blackcleave Cliffs
 Concealed Courtyard
+Pitiless Plunderer
+Bontu's Monument

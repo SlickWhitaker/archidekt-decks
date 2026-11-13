@@ -62,7 +62,6 @@ The Great Henge
 The One Ring
 The Ozolith
 Three Visits
-Tooth and Nail
 Vandalblast
 Veil of Summer
 Verdant Catacombs
@@ -92,3 +91,4 @@ Nature's Claim
 Gearbane Orangutan
 Simian Simulacrum
 Staff of Domination
+Coercive Portal

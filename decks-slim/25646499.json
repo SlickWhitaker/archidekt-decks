@@ -237,16 +237,6 @@
       "text": "Equipped creature gets +1/+1 for each creature you control.\nWhen a legendary creature you control enters, if there is no monarch, you become the monarch.\nEquip {4}. This ability costs {3} less to activate if you're the monarch."
     },
     {
-      "name": "Door of Destinies",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 4,
-      "type": "Artifact",
-      "text": "As this artifact enters, choose a creature type.\nWhenever you cast a spell of the chosen type, put a charge counter on this artifact.\nCreatures you control of the chosen type get +1/+1 for each charge counter on this artifact."
-    },
-    {
       "name": "Earthquake",
       "quantity": 1,
       "board": "main",
@@ -325,20 +315,6 @@
       "manaValue": 0,
       "type": "Land",
       "text": "{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles."
-    },
-    {
-      "name": "Flamerush Rider",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Human Warrior",
-      "text": "Whenever this creature attacks, create a token that's a copy of another target attacking creature and that's tapped and attacking. Exile the token at end of combat.\nDash {2}{R}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
     },
     {
       "name": "Forth Eorlingas!",
@@ -1035,20 +1011,6 @@
       "text": "Minas Tirith enters tapped unless you control a legendary creature.\n{T}: Add {W}.\n{1}{W}, {T}: Draw a card. Activate only if you attacked with two or more creatures this turn."
     },
     {
-      "name": "Gandalf the White",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "White"
-      ],
-      "colorIdentity": [
-        "White"
-      ],
-      "manaValue": 5,
-      "type": "Legendary Creature — Wizard Avatar",
-      "text": "Flash\nYou may cast legendary spells and artifact spells as though they had flash.\nIf a legendary permanent or an artifact entering or leaving the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
-    },
-    {
       "name": "Palantír of Orthanc",
       "quantity": 1,
       "board": "main",
@@ -1122,6 +1084,44 @@
       "manaValue": 3,
       "type": "Creature — Human Scout",
       "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, untap all creatures you control."
+    },
+    {
+      "name": "Rionya, Fire Dancer",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Human Wizard",
+      "text": "At the beginning of combat on your turn, create X tokens that are copies of another target creature you control, where X is one plus the number of instant and sorcery spells you've cast this turn. They gain haste. Exile them at the beginning of the next end step."
+    },
+    {
+      "name": "Helm of the Host",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [],
+      "manaValue": 4,
+      "type": "Legendary Artifact — Equipment",
+      "text": "At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary. That token gains haste.\nEquip {5}"
+    },
+    {
+      "name": "Kiki-Jiki, Mirror Breaker",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 5,
+      "type": "Legendary Creature — Goblin Shaman",
+      "text": "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step."
     }
   ]
 }

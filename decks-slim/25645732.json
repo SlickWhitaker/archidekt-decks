@@ -132,20 +132,6 @@
       "text": "First strike, vigilance, lifelink\nAura and Equipment spells you cast cost {1} less to cast."
     },
     {
-      "name": "Professor Hojo",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Legendary Creature — Human Scientist",
-      "text": "The first activated ability you activate during your turn that targets a creature you control costs {2} less to activate.\nWhenever one or more creatures you control become the target of an activated ability, draw a card. This ability triggers only once each turn."
-    },
-    {
       "name": "Dispatch",
       "quantity": 1,
       "board": "main",
@@ -168,20 +154,6 @@
       "manaValue": 2,
       "type": "Artifact — Equipment",
       "text": "Equipped creature has nonbasic landwalk. (It can't be blocked as long as defending player controls a nonbasic land.)\nEquip {2}"
-    },
-    {
-      "name": "Cultivate",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Sorcery",
-      "text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
     },
     {
       "name": "Esper Sentinel",
@@ -891,16 +863,6 @@
       "text": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}"
     },
     {
-      "name": "Conqueror's Flail",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [],
-      "manaValue": 2,
-      "type": "Artifact — Equipment",
-      "text": "Equipped creature gets +1/+1 for each color among permanents you control.\nAs long as this Equipment is attached to a creature, your opponents can't cast spells during your turn.\nEquip {2}"
-    },
-    {
       "name": "Swiftfoot Boots",
       "quantity": 1,
       "board": "main",
@@ -1255,6 +1217,48 @@
       "manaValue": 6,
       "type": "Sorcery",
       "text": "Choose two —\n• Destroy all artifacts.\n• Destroy all enchantments.\n• Destroy all creatures with mana value 3 or less.\n• Destroy all creatures with mana value 4 or greater."
+    },
+    {
+      "name": "Grand Abolisher",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 2,
+      "type": "Creature — Human Cleric",
+      "text": "During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments."
+    },
+    {
+      "name": "Birds of Paradise",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green"
+      ],
+      "colorIdentity": [
+        "Green"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Bird",
+      "text": "Flying\n{T}: Add one mana of any color."
+    },
+    {
+      "name": "Giver of Runes",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "White"
+      ],
+      "colorIdentity": [
+        "White"
+      ],
+      "manaValue": 1,
+      "type": "Creature — Cleric Kor",
+      "text": "{T}: Another target creature you control gains protection from colorless or from the color of your choice until end of turn."
     }
   ]
 }

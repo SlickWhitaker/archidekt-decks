@@ -14,14 +14,12 @@ Combat Celebrant
 Command Tower
 Coppercoat Vanguard
 Crown of Gondor
-Door of Destinies
 Earthquake
 Éomer, King of Rohan
 Erkenbrand, Lord of Westfold
 Exotic Orchard
 Faramir, Steward of Gondor
 Field of Ruin
-Flamerush Rider
 Forth Eorlingas!
 Frontier Warmonger
 Frontline Medic
@@ -75,10 +73,12 @@ Ioreth of the Healing House
 Éowyn, Fearless Knight
 Boromir, Warden of the Tower
 Minas Tirith
-Gandalf the White
 Palantír of Orthanc
 Horn of the Mark
 Kindred Discovery
 Staff of the Storyteller
 Talisman of Creativity
 Village Bell-Ringer
+Rionya, Fire Dancer
+Helm of the Host
+Kiki-Jiki, Mirror Breaker
