@@ -41,7 +41,6 @@ Lagomos, Hand of Hatred
 Mahadi, Emporium Master
 Mind Stone
 Morbid Opportunist
-Mountain
 Myriad Landscape
 Night's Whisper
 Orca, Siege Demon
@@ -84,3 +83,5 @@ Skullclamp
 Luxury Suite
 Akul the Unrepentant
 Ophiomancer
+Mountain
+Smoldering Marsh
