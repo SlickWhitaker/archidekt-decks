@@ -450,20 +450,6 @@
       "text": "({T}: Add {G}.)\nAs this land enters, you may reveal a Treefolk card from your hand. If you don't, this land enters tapped.\n{T}: Add {W} or {B}. This land deals 1 damage to you."
     },
     {
-      "name": "Nature's Lore",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Sorcery",
-      "text": "Search your library for a Forest card, put that card onto the battlefield, then shuffle."
-    },
-    {
       "name": "Necroblossom Snarl",
       "quantity": 1,
       "board": "main",
@@ -1229,6 +1215,22 @@
       "manaValue": 1,
       "type": "Artifact",
       "text": "Whenever another permanent you control enters, each opponent mills a card."
+    },
+    {
+      "name": "Assassin's Trophy",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Green",
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black",
+        "Green"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle."
     }
   ]
 }

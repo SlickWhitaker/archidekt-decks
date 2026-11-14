@@ -30,7 +30,6 @@ Merry, Warden of Isengard
 Mirkwood Bats
 Mortality Spear
 Murmuring Bosk
-Nature's Lore
 Necroblossom Snarl
 Of Herbs and Stewed Rabbit
 Overgrown Tomb
@@ -89,3 +88,4 @@ Frodo, Adventurous Hobbit
 Basking Broodscale
 Sam, Loyal Attendant
 Altar of the Brood
+Assassin's Trophy
