@@ -177,8 +177,8 @@
       "namesFile": "25646033.names.txt",
       "cardsFile": "25646033.cards.jsonl",
       "metaFile": "25646033.meta.json",
-      "fullBytes": 297206,
-      "analysisBytes": 29758,
+      "fullBytes": 297169,
+      "analysisBytes": 29719,
       "reductionPercent": 90.0
     },
     {
@@ -485,32 +485,6 @@
       "fullBytes": 302965,
       "analysisBytes": 29433,
       "reductionPercent": 90.3
-    },
-    {
-      "id": 26396391,
-      "name": "Homer’s Crabs In All The Wrong Places",
-      "format": 3,
-      "commander": [
-        "Homer, the Hermit"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Blue",
-        "Green"
-      ],
-      "counts": {
-        "main": 99,
-        "commander": 1,
-        "maybeboard": 0,
-        "sideboard": 0,
-        "total": 100
-      },
-      "namesFile": "26396391.names.txt",
-      "cardsFile": "26396391.cards.jsonl",
-      "metaFile": "26396391.meta.json",
-      "fullBytes": 273685,
-      "analysisBytes": 27468,
-      "reductionPercent": 90.0
     },
     {
       "id": 27360262,

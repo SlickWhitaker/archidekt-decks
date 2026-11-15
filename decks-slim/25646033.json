@@ -1096,22 +1096,6 @@
       "text": "Reach\n{T}: Add one mana of any color.\n{2}: This creature gains deathtouch until end of turn."
     },
     {
-      "name": "Clement, the Worrywort",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 3,
-      "type": "Legendary Creature — Druid Frog",
-      "text": "Vigilance\nWhenever Clement or another creature you control enters, return up to one target creature you control with lesser mana value to its owner's hand.\nFrogs you control have \"{T}: Add {G} or {U}. Spend this mana only to cast a creature spell.\""
-    },
-    {
       "name": "Boseiju, Who Endures",
       "quantity": 1,
       "board": "main",
@@ -1248,6 +1232,20 @@
       "manaValue": 1,
       "type": "Instant",
       "text": "Search your library for a creature card, reveal it, then shuffle and put the card on top."
+    },
+    {
+      "name": "Mystic Remora",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 1,
+      "type": "Enchantment",
+      "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever an opponent casts a noncreature spell, you may draw a card unless that player pays {4}."
     }
   ]
 }

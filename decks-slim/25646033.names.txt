@@ -82,7 +82,6 @@ Maskwood Nexus
 Spore Frog
 Clifftop Lookout
 Poison Dart Frog
-Clement, the Worrywort
 Boseiju, Who Endures
 Beast Within
 Cavern of Souls
@@ -94,3 +93,4 @@ Shuko
 Oversimplify
 Fabricate
 Worldly Tutor
+Mystic Remora
