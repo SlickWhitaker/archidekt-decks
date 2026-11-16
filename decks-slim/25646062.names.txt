@@ -43,7 +43,6 @@ Mutavault
 Namor the Sub-Mariner
 Nicanzil, Current Conductor
 Path of Ancestry
-Pongify
 Raise the Palisade
 Rapid Hybridization
 Realmwalker
@@ -83,3 +82,4 @@ Chord of Calling
 Nature's Lore
 Worldly Tutor
 Seedborn Muse
+Birds of Paradise

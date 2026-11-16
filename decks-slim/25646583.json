@@ -1109,20 +1109,6 @@
       "text": "As long as this creature is on the battlefield, it has all activated abilities of all creature cards in all graveyards."
     },
     {
-      "name": "Acidic Slime",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green"
-      ],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Ooze",
-      "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhen this creature enters, destroy target artifact, enchantment, or land."
-    },
-    {
       "name": "Pitiless Plunderer",
       "quantity": 1,
       "board": "main",
@@ -1263,6 +1249,20 @@
       "manaValue": 1,
       "type": "Artifact",
       "text": "This artifact doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap this artifact.\nAt the beginning of your draw step, if this artifact is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}."
+    },
+    {
+      "name": "Gelatinous Cube",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Black"
+      ],
+      "colorIdentity": [
+        "Black"
+      ],
+      "manaValue": 4,
+      "type": "Creature — Ooze",
+      "text": "Engulf — When this creature enters, exile target non-Ooze creature an opponent controls until this creature leaves the battlefield.\nDissolve — {X}{B}: Put target creature card with mana value X exiled with this creature into its owner's graveyard."
     }
   ]
 }

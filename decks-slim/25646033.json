@@ -166,22 +166,6 @@
       "text": "Whenever an opponent plays a land, you may put a land card from your hand onto the battlefield."
     },
     {
-      "name": "Coiling Oracle",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Green",
-        "Blue"
-      ],
-      "colorIdentity": [
-        "Blue",
-        "Green"
-      ],
-      "manaValue": 2,
-      "type": "Creature — Elf Druid Snake",
-      "text": "When this creature enters, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand."
-    },
-    {
       "name": "Command Tower",
       "quantity": 1,
       "board": "main",
@@ -1246,6 +1230,20 @@
       "manaValue": 1,
       "type": "Enchantment",
       "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever an opponent casts a noncreature spell, you may draw a card unless that player pays {4}."
+    },
+    {
+      "name": "Rhystic Study",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Blue"
+      ],
+      "colorIdentity": [
+        "Blue"
+      ],
+      "manaValue": 3,
+      "type": "Enchantment",
+      "text": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}."
     }
   ]
 }

@@ -83,7 +83,6 @@ Yawgmoth, Thran Physician
 Maskwood Nexus
 Skullclamp
 Necrotic Ooze
-Acidic Slime
 Pitiless Plunderer
 Altar of the Brood
 Nim Deathmantle
@@ -95,3 +94,4 @@ Consuming Blob
 Diabolic Intent
 Swan Song
 Mana Vault
+Gelatinous Cube
