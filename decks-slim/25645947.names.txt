@@ -44,11 +44,8 @@ Necropotence
 Ocelot Pride
 Path of Ancestry
 Path to Exile
-Patriarch's Bidding
 Phyrexian Altar
-Plains
 Razaketh, the Foulblooded
-Reconnaissance
 Roaming Throne
 Sacred Foundry
 Sanctum Seeker
@@ -89,3 +86,8 @@ Blackcleave Cliffs
 Concealed Courtyard
 Pitiless Plunderer
 Bontu's Monument
+Deadly Rollick
+Bleachbone Verge
+Tainted Field
+Lightning Bolt
+Shattered Sanctum

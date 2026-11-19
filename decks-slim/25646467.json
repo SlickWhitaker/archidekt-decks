@@ -145,20 +145,6 @@
       "text": "Nonbasic lands are Mountains."
     },
     {
-      "name": "Brash Taunter",
-      "quantity": 1,
-      "board": "main",
-      "colors": [
-        "Red"
-      ],
-      "colorIdentity": [
-        "Red"
-      ],
-      "manaValue": 5,
-      "type": "Creature — Goblin",
-      "text": "Indestructible\nWhenever this creature is dealt damage, it deals that much damage to target opponent.\n{2}{R}, {T}: This creature fights another target creature."
-    },
-    {
       "name": "Castle Embereth",
       "quantity": 1,
       "board": "main",
@@ -1021,6 +1007,20 @@
       "manaValue": 2,
       "type": "Creature — Goblin Sorcerer",
       "text": "This spell can't be countered.\nWard—Pay 2 life.\nSpells you control can't be countered.\nOther creatures you control have \"Ward—Pay 2 life.\""
+    },
+    {
+      "name": "Thrill of Possibility",
+      "quantity": 1,
+      "board": "main",
+      "colors": [
+        "Red"
+      ],
+      "colorIdentity": [
+        "Red"
+      ],
+      "manaValue": 2,
+      "type": "Instant",
+      "text": "As an additional cost to cast this spell, discard a card.\nDraw two cards."
     }
   ]
 }

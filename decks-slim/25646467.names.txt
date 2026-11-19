@@ -8,7 +8,6 @@ Aggravated Assault
 Battlemage's Bracers
 Blasphemous Act
 Blood Moon
-Brash Taunter
 Castle Embereth
 Cavern of Souls
 Chaos Warp
@@ -76,3 +75,4 @@ Goblin War Strike
 Brightstone Ritual
 Sting, the Glinting Dagger
 Hexing Squelcher
+Thrill of Possibility

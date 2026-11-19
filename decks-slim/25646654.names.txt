@@ -30,7 +30,6 @@ Ledger Shredder
 Martial Coup
 Migratory Route
 Mind Stone
-Mountain
 Murmuration
 Mystic Monastery
 Nesting Dovehawk
@@ -90,3 +89,7 @@ Training Center
 Hallowed Fountain
 Resolute Reinforcements
 Sacred Foundry
+Sunbillow Verge
+Sundown Pass
+Mountain
+Spectator Seating

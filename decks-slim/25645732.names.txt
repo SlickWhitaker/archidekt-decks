@@ -35,7 +35,6 @@ Farseek
 Fire-Lit Thicket
 Forest
 Forest
-Forest
 Fortified Village
 Furycalm Snarl
 Gongaga, Reactor Town
@@ -95,3 +94,4 @@ Austere Command
 Grand Abolisher
 Birds of Paradise
 Giver of Runes
+Bountiful Promenade

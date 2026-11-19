@@ -485,18 +485,6 @@
     },
     {
       "name": "Forest",
-      "quantity": 1,
-      "board": "main",
-      "colors": [],
-      "colorIdentity": [
-        "Green"
-      ],
-      "manaValue": 0,
-      "type": "Basic Land — Forest",
-      "text": "({T}: Add {G}.)"
-    },
-    {
-      "name": "Forest",
       "quantity": 3,
       "board": "main",
       "colors": [],
@@ -1259,6 +1247,19 @@
       "manaValue": 1,
       "type": "Creature — Cleric Kor",
       "text": "{T}: Another target creature you control gains protection from colorless or from the color of your choice until end of turn."
+    },
+    {
+      "name": "Bountiful Promenade",
+      "quantity": 1,
+      "board": "main",
+      "colors": [],
+      "colorIdentity": [
+        "White",
+        "Green"
+      ],
+      "manaValue": 0,
+      "type": "Land",
+      "text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {W}."
     }
   ]
 }
