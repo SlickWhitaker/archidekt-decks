@@ -488,7 +488,7 @@
     },
     {
       "id": 27360262,
-      "name": "Odds and Ends - Secret Lair Commander",
+      "name": "Odds and Ends - Secret Lair",
       "format": 3,
       "commander": [
         "Yennett, Cryptic Sovereign"
@@ -508,8 +508,8 @@
       "namesFile": "27360262.names.txt",
       "cardsFile": "27360262.cards.jsonl",
       "metaFile": "27360262.meta.json",
-      "fullBytes": 282798,
-      "analysisBytes": 31008,
+      "fullBytes": 282788,
+      "analysisBytes": 30998,
       "reductionPercent": 89.0
     },
     {
