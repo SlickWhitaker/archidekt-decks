@@ -1,0 +1,20 @@
+{
+  "id": 28737775,
+  "name": "Dog my Cat",
+  "format": 3,
+  "commander": [
+    "Rin and Seri, Inseparable"
+  ],
+  "colorIdentity": [
+    "Green",
+    "Red",
+    "White"
+  ],
+  "counts": {
+    "main": 99,
+    "commander": 1,
+    "maybeboard": 0,
+    "sideboard": 0,
+    "total": 100
+  }
+}
