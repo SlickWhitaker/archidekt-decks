@@ -563,32 +563,6 @@
       "fullBytes": 289823,
       "analysisBytes": 29706,
       "reductionPercent": 89.8
-    },
-    {
-      "id": 28749993,
-      "name": "Bees!",
-      "format": 3,
-      "commander": [
-        "Xira, the Golden Sting"
-      ],
-      "colorIdentity": [
-        "Black",
-        "Green",
-        "Red"
-      ],
-      "counts": {
-        "main": 99,
-        "commander": 1,
-        "maybeboard": 0,
-        "sideboard": 0,
-        "total": 100
-      },
-      "namesFile": "28749993.names.txt",
-      "cardsFile": "28749993.cards.jsonl",
-      "metaFile": "28749993.meta.json",
-      "fullBytes": 284905,
-      "analysisBytes": 27179,
-      "reductionPercent": 90.5
     }
   ]
 }
