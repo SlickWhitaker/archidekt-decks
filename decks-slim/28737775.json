@@ -432,9 +432,9 @@
       "quantity": 1,
       "board": "commander",
       "colors": [
-        "White",
         "Green",
-        "Red"
+        "Red",
+        "White"
       ],
       "colorIdentity": [
         "White",
